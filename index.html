@@ -182,6 +182,11 @@ function onEachFeature(feature, layer) {
         mouseout: resetHighlight,
         click: zoomToFeature
     });
+	content='<b>' + feature.properties.LOCATION + '<br/>Confirmed: ' + feature.properties.COMFIRMED_ + '<br/>Newly added: ' + feature.properties.ADDED
+			+ '</b><br/><font color="#555">Population: ' + numberWithCommas(feature.properties.Pop)
+			+ '<br/>Hospital beds: '+ numberWithCommas(feature.properties.Hospital_1)+'<br/>('+ numberWithCommas(Math.round(feature.properties.Hospital_1/feature.properties.COMFIRMED_)) +' beds:1 confirmed)'+'</font>'
+			;
+	layer.bindPopup(content);
 }
 
 county =L.geoJson(county, {
@@ -201,11 +206,12 @@ info.onAdd = function (map) {
 
 // add information section
 	info.update = function (props) {
-	    this._div.innerHTML = '<h4>US COVID-19 BY COUNTY</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a>. <br/>Update: March 14 2020, 10 pm EST</p></footer>' +  (props ?
-	        '<b>' + props.LOCATION + '<br/>Confirmed: ' + props.COMFIRMED_ + '<br/>Newly added: ' + props.ADDED
-					+ '</b><br/><font color="#555">Population: ' + numberWithCommas(props.Pop)
-					+ '<br/>Hospital beds: '+ numberWithCommas(props.Hospital_1)+'<br/>('+ numberWithCommas(Math.round(props.Hospital_1/props.COMFIRMED_)) +' beds:1 confirmed)'+'</font>'
-	        : 'Hover over a county');
+		content='<h4>US COVID-19 BY COUNTY</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a>. <br/>Update: March 14 2020, 10 pm EST</p></footer>' +  (props ?
+				'<b>' + props.LOCATION + '<br/>Confirmed: ' + props.COMFIRMED_ + '<br/>Newly added: ' + props.ADDED
+				+ '</b><br/><font color="#555">Population: ' + numberWithCommas(props.Pop)
+				+ '<br/>Hospital beds: '+ numberWithCommas(props.Hospital_1)+'<br/>('+ numberWithCommas(Math.round(props.Hospital_1/props.COMFIRMED_)) +' beds:1 confirmed)'+'</font>'
+				: 'Hover over a county');
+	    this._div.innerHTML = content;
 	};
 
 	info.addTo(map);
