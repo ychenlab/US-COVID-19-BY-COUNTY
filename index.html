@@ -183,7 +183,7 @@ function onEachFeature(feature, layer) {
         click: zoomToFeature
     });
 	content='<b>' + feature.properties.LOCATION + '<br/>Confirmed: ' + feature.properties.COMFIRMED_ + '<br/>Newly added: ' + feature.properties.ADDED
-			+ '</b><br/><font color="#555">Population: ' + numberWithCommas(feature.properties.Pop)
+			+ '</b><br/><font color="#555">Population: ' + numberWithCommas(feature.properties)
 			+ '<br/>Hospital beds: '+ numberWithCommas(feature.properties.Hospital_1)+'<br/>('+ numberWithCommas(Math.round(feature.properties.Hospital_1/feature.properties.COMFIRMED_)) +' beds:1 confirmed)'+'</font>'
 			;
 	layer.bindPopup(content);
