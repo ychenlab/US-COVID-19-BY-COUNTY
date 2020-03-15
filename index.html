@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>US COVID-19 BY COUNTY</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+
+		<!-- Load Mapbox GL -->
+		<link rel="stylesheet" href="https://unpkg.com/mapbox-gl/dist/mapbox-gl.css"/>
+		<script src="https://unpkg.com/mapbox-gl/dist/mapbox-gl.js"></script>
+
+		<!-- Esri Leaflet and Esri Leaflet Vector -->
+		<script src="https://unpkg.com/esri-leaflet/dist/esri-leaflet.js"></script>
+		<script src="https://unpkg.com/esri-leaflet-vector/dist/esri-leaflet-vector.js"></script>
+
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+			font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+		}
+
+	  #map{
+		position: fixed;
+		top: 0%;
+		left:0%;
+		bottom: 0;
+		right: 0;
+
+		font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+	}
+
+.info {
+	padding: 6px 8px;
+	font: 14px/16px Arial, Helvetica, sans-serif;
+	background: white;
+	background: rgba(255,255,255,0.8);
+	box-shadow: 0 0 15px rgba(0,0,0,0.2);
+	border-radius: 5px;
+}
+.info h4 {
+	margin: 0 0 0px;
+	color: #777;
+}
+
+.info footer {
+	font-size:70%;
+	color: #777;
+}
+
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+.circlearancione .circle {
+    background-color: black;
+    border-color: black;
+    display: inline-block;
+    border-radius: 1000%;
+    border-width: 0px;
+    height: 8px;
+    width: 8px;
+    vertical-align: middle;
+		margin: 0px 14px 4px 4px;
+		opacity: 0.7;
+
+}
+
+	</style>
+
+
+</head>
+<body>
+
+
+<div id='map'>
+</div>
+
+
+</div>
+
+<script src="ncov.js" type="text/javascript"></script>
+<script src="ed.js" type="text/javascript"></script>
+<script src="hosp.js" type="text/javascript"></script>
+
+<script>
+
+// base map
+	var map = L.map('map').setView([37.8, -96], 4);
+
+/*	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 15,
+		 minZoom: 1,
+		attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+	}).addTo(map);
+*/
+
+
+//	L.esri.Vector.basemap('Newspaper',{
+//			maxZoom: 14, minZoom: 5}).addTo(map);
+
+	L.esri.basemapLayer('Gray',{
+      		maxZoom: 14, minZoom: 4}).addTo(map);
+	L.esri.basemapLayer('GrayLabels',{
+      		maxZoom: 14, minZoom: 4}).addTo(map);
+
+function getColor(d) {
+    return d > 200 ? '#800026' :
+           d > 100  ? '#BD0026' :
+           d > 50  ? '#E31A1C' :
+           d > 20  ? '#FC4E2A' :
+           d > 10   ? '#FD8D3C' :
+           d > 5   ? '#FEB24C' :
+           d > 0   ? '#FED976' :
+                      '#FFEDA0';
+}
+
+function numberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
+function titleCase(str) {
+  return str.toLowerCase().split(' ').map(function(word) {
+    return (word.charAt(0).toUpperCase() + word.slice(1));
+  }).join(' ');
+}
+
+//ncov map
+function style(feature) {
+    return {
+        fillColor: getColor(feature.properties.COMFIRMED_),
+        weight: 2,
+        opacity: 1,
+        color: 'white',
+        fillOpacity: 0.7,
+				weight:0.5,
+				opacity:0.7
+    };
+}
+
+function highlightFeature(e) {
+    var layer = e.target;
+
+    layer.setStyle({
+        weight: 5,
+        color: 'black',
+        fillOpacity: 0.7
+    });
+
+//    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+//        layer.bringToFront();    }
+
+		info.update(layer.feature.properties);
+}
+
+function resetHighlight(e) {
+    county.resetStyle(e.target);
+		info.update();
+}
+
+function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+}
+
+function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight,
+        click: zoomToFeature
+    });
+}
+
+county =L.geoJson(county, {
+    style: style,
+    onEachFeature: onEachFeature
+}).addTo(map);
+
+// add infor session
+var info = L.control();
+
+info.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+    this.update();
+    return this._div;
+};
+
+
+// add information section
+	info.update = function (props) {
+	    this._div.innerHTML = '<h4>US COVID-19 BY COUNTY</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a>. <br/>Update: March 14 2020, 10 pm EST</p></footer>' +  (props ?
+	        '<b>' + props.LOCATION + '<br/>Confirmed: ' + props.COMFIRMED_ + '<br/>Newly added: ' + props.ADDED
+					+ '</b><br/><font color="#555">Population: ' + numberWithCommas(props.Pop)
+					+ '<br/>Hospital beds: '+ numberWithCommas(props.Hospital_1)+'<br/>('+ numberWithCommas(Math.round(props.Hospital_1/props.COMFIRMED_)) +' beds:1 confirmed)'+'</font>'
+	        : 'Hover over a county');
+	};
+
+	info.addTo(map);
+
+// add legend
+var legend = L.control({position: 'bottomright'});
+
+legend.onAdd = function (map) {
+
+    var circle = "<div class=\"circlearancione\"><span class=\"circle\"></span>Hospital</div>"
+    var div = L.DomUtil.create('div', 'info legend'),
+        grades = [0, 5, 10, 20, 50, 100, 200, 1000],
+        labels = [];
+    div.innerHTML=circle;
+    // loop through our density intervals and generate a label with a colored square for each interval
+    for (var i = 0; i < grades.length; i++) {
+        div.innerHTML +=
+            '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
+            grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+    }
+
+    return div;
+};
+
+legend.addTo(map);
+
+// add point
+function highlightFeaturePoint(e) {
+    var layer = e.target;
+    layer.setStyle({
+        weight: 6,
+        color: 'black',
+        fillOpacity: 0.3
+    });
+//    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+//        layer.bringToFront();    }
+
+}
+
+function resetHighlightPoint(e) {
+    hospital.resetStyle(e.target);
+}
+
+function onEachFeaturePoint(feature, layer) {
+	layer.on({
+		mouseover: highlightFeaturePoint,
+		mouseout: resetHighlightPoint
+	});
+	var popupContent = "<p><b>" +
+			titleCase(feature.properties.NAME) +"</b>"+
+			"<br>Address: "+ titleCase(feature.properties.ADDRESS) +
+			"<br>Tel: "+ feature.properties.TELEPHONE +
+			"<br>Beds: "+ numberWithCommas(feature.properties.BEDS) +"</p>";
+	layer.bindPopup(popupContent);
+	}
+
+var hospital = L.geoJSON(hospital, {
+
+		onEachFeature: onEachFeaturePoint,
+		pointToLayer: function (feature, latlng) {
+			return L.circleMarker(latlng, {
+				radius: 4,
+				fillColor: "black",
+				color: "black",
+				weight: 0.5,
+				opacity: 0.2,
+				fillOpacity: 0.5
+			});
+		}
+	});
+
+map.on('zoomend', function() {
+var zoomlevel = map.getZoom();
+    if (zoomlevel  <8){
+        if (map.hasLayer(hospital)) {
+            map.removeLayer(hospital);
+        } else {
+            console.log("no point layer active");
+        }
+    }
+    if (zoomlevel >= 8){
+        if (map.hasLayer(hospital)){
+            console.log("layer already added");
+        } else {
+            map.addLayer(hospital);
+        }
+    }
+	})
+
+
+
+</script>
+
+
+
+</body>
+</html>
