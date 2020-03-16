@@ -208,7 +208,7 @@ info.onAdd = function (map) {
 
 // add information section
 	info.update = function (props) {
-		content='<h4>US COVID-19 BY COUNTY</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a>. <br/>Update: March 14 2020, 10 pm EST</p></footer>' +  (props ?
+		content='<h4>US COVID-19 BY COUNTY</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a> <br/>Update: March 14 2020, 10 pm EST <br/><a href="https://github.com/ychenlab/US-COVID-19-BY-COUNTY">Github</a></p></footer>' +  (props ?
 				'<b>' + props.LOCATION + '<br/>Confirmed: ' + props.COMFIRMED_ + '<br/>Newly added: ' + props.ADDED
 				+ '</b><br/><font color="#555">Population: ' + numberWithCommas(props.Pop)
 				+ '<br/>Hospital beds: '+ numberWithCommas(props.Hospital_1)+'<br/>('+ numberWithCommas(Math.round(props.Hospital_1/props.COMFIRMED_)) +' beds:1 confirmed)'+'</font>'
