@@ -2,7 +2,7 @@
 
 ## The map of COVID-19 in United States by County
 
-https://ychenlab.github.io/US-COVID-19-BY-COUNTY/
+http://datamapproject.com/
 
 The initial view of the map shows a heatmap of COVID-19 conditions in the United States by county. Clicking on the county will zoom the map to the clicked county. Information about the county will show in the information box.
 
