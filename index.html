@@ -226,7 +226,7 @@ legend.onAdd = function (map) {
 
     var circle = "<div class=\"circlearancione\"><span class=\"circle\"></span>Hospital</div>"
     var div = L.DomUtil.create('div', 'info legend'),
-        grades = [0, 5, 10, 20, 50, 100, 200, 1000],
+        grades = [0, 5, 10, 20, 50, 100, 200],
         labels = [];
     div.innerHTML=circle;
     // loop through our density intervals and generate a label with a colored square for each interval
