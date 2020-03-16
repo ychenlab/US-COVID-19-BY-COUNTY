@@ -144,7 +144,7 @@ function titleCase(str) {
 //ncov map
 function style(feature) {
     return {
-        fillColor: getColor(feature.properties.COMFIRMED_),
+        fillColor: getColor(feature.properties.COMFIRMED_COMFIRMED),
         weight: 2,
         opacity: 1,
         color: 'white',
@@ -184,9 +184,9 @@ function onEachFeature(feature, layer) {
         mouseout: resetHighlight,
         click: zoomToFeature
     });
-	content='<b>' + feature.properties.LOCATION + '<br/>Confirmed: ' + feature.properties.COMFIRMED_ + '<br/>Newly added: ' + feature.properties.ADDED
+	content='<b>' + feature.properties.LOCATION + '<br/>Confirmed: ' + feature.properties.COMFIRMED_COMFIRMED + '<br/>Newly added: ' + feature.properties.ADDED
 			+ '</b><br/><font color="#555">Population: ' + numberWithCommas(feature.properties.Pop)
-			+ '<br/>Hospital beds: '+ numberWithCommas(feature.properties.Hospital_1)+'<br/>('+ numberWithCommas(Math.round(feature.properties.Hospital_1/feature.properties.COMFIRMED_)) +' beds:1 confirmed)'+'</font>'
+			+ '<br/>Hospital beds: '+ numberWithCommas(feature.properties.HospitalBeds)+'<br/>('+ numberWithCommas(Math.round(feature.properties.HospitalBeds/feature.properties.COMFIRMED_COMFIRMED)) +' beds per confirmed)'+'</font>'
 			;
 	layer.bindPopup(content);
 }
@@ -208,10 +208,10 @@ info.onAdd = function (map) {
 
 // add information section
 	info.update = function (props) {
-		content='<h4>US COVID-19 BY COUNTY<br/>(Dots as Hospitals)</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a> <br/>Update: March 14 2020, 10 pm EST</p></footer>' +  (props ?
-				'<b>' + props.LOCATION + '<br/>Confirmed: ' + props.COMFIRMED_ + '<br/>Newly added: ' + props.ADDED
+		content='<h4>US COVID-19 BY COUNTY<br/>(Dots as Hospitals)</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a> <br/>Update: March 15 2020, 10 pm EST</p></footer>' +  (props ?
+				'<b>' + props.LOCATION + '<br/>Confirmed: ' + props.COMFIRMED_COMFIRMED + '<br/>Newly added: ' + props.ADDED
 				+ '</b><footer><br/>Population: ' + numberWithCommas(props.Pop)
-				+ '<br/>Hospital beds: '+ numberWithCommas(props.Hospital_1)+'<br/>('+ numberWithCommas(Math.round(props.Hospital_1/props.COMFIRMED_)) +' beds per confirmed,'
+				+ '<br/>Hospital beds: '+ numberWithCommas(props.HospitalBeds)+'<br/>('+ numberWithCommas(Math.round(props.HospitalBeds/props.COMFIRMED_COMFIRMED)) +' beds per confirmed,'
 				+'<br/>assuming all beds for COVID-19)</footer>'
 				: 'Hover over a county');
 	    this._div.innerHTML = content;
@@ -235,7 +235,7 @@ legend.onAdd = function (map) {
             '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +
             grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
     }
-		div.innerHTML += '<footer><p><a href="https://github.com/ychenlab/US-COVID-19-BY-COUNTY/blob/master/README.md" target="_blank">Github full source</a><br/>Visualization: Yijia Chen<br/>Contributors: Yujia Wang, Qi Ou<br/><a href="mailto:info@datamapproject.com">Contact: info@datamapproject.com</a></p></footer>'
+		div.innerHTML += '<footer><p><a href="https://github.com/ychenlab/US-COVID-19-BY-COUNTY/blob/master/README.md" target="_blank">Github full source</a><br/>Visualization: Yijia Chen<br/>Contributors: Yujia Wang<br/><a href="mailto:info@datamapproject.com">Contact: info@datamapproject.com</a></p></footer>'
 
     return div;
 };
