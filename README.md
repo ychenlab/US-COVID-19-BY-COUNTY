@@ -18,10 +18,6 @@ COVID-19:
 
 https://coronavirus.1point3acres.com
 
-Colleges and universities:
-
-https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities
-
 Hospitals:
 
 https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals
