@@ -12,6 +12,10 @@ When zoomed to a certain level, **hospitals** are shown as grey circles. Clickin
 
 *(New York City is considered the combination of five counties: New York County/Manhattan, Kings County/Brooklyn, Bronx County/The Bronx, Richmond County/Staten Island, and Queens County/Queens. It is shown as one shape on the map. One new code 360000 was created to replace code 36005, 36047, 36061, 36081 and 36085 as a whole.)*
 
+## Data format
+
+csv and geojson data files can be found in the folders.
+
 ## Data source
 
 COVID-19: 
