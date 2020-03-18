@@ -1,0 +1,615 @@
+LOCATION,IF_INCLUDE,STATE,COMFIRMED_COMFIRMED,ADDED,DEATH,DEATH_ADDED,CONCA,GEOID,Pop,HospitalBeds
+New York state,1,New York,1707,738,13,3,New York state New York,#N/A,#N/A,#N/A
+New York,0,New York,814,351,7,,New York New York,360000,8175133,24245
+Westchester,0,New York,380,160,0,,Westchester New York,36119,949113,3235
+Nassau,0,New York,140,31,1,1,Nassau New York,36059,1339532,4181
+Unassigned,2,New York,128,128,0,,Unassigned New York,#N/A,#N/A,#N/A
+Suffolk,0,New York,97,23,3,1,Suffolk New York,36103,1493350,3583
+Albany,0,New York,25,10,0,,Albany New York,36001,304204,1381
+Rockland,0,New York,22,6,1,,Rockland New York,36087,311687,791
+Dutchess,0,New York,16,6,0,,Dutchess New York,36027,297488,676
+Orange,0,New York,15,4,0,,Orange New York,36071,372813,902
+Monroe,0,New York,14,3,1,1,Monroe New York,36055,744344,2009
+Erie,0,New York,11,4,0,,Erie New York,36029,919040,2788
+Saratoga,0,New York,9,4,0,,Saratoga New York,36091,219607,259
+Ulster,0,New York,8,1,0,,Ulster New York,36111,182493,325
+Schenectady,0,New York,5,1,0,,Schenectady New York,36093,154727,538
+Tompkins,0,New York,3,1,0,,Tompkins New York,36109,101564,212
+Putnam,0,New York,2,,0,,Putnam New York,36079,99710,164
+Greene,0,New York,2,,0,,Greene New York,36039,49221,0
+Allegany,0,New York,2,,0,,Allegany New York,36003,48946,76
+Onondaga,0,New York,2,,0,,Onondaga New York,36067,467026,1672
+Ontario,0,New York,1,,0,,Ontario New York,36069,107931,399
+Montgomery,0,New York,1,,0,,Montgomery New York,36057,50219,130
+Broome,0,New York,1,,0,,Broome New York,36007,200600,742
+Herkimer,0,New York,1,,0,,Herkimer New York,36043,64519,25
+Tioga,0,New York,1,,0,,Tioga New York,36107,51125,0
+Clinton,0,New York,1,,0,,Clinton New York,36019,82128,300
+Delaware,0,New York,1,,0,,Delaware New York,36025,47980,67
+Essex,0,New York,1,1,0,,Essex New York,36031,39370,40
+Oneida,0,New York,1,1,0,,Oneida New York,36065,234878,725
+Sullivan,0,New York,1,1,0,,Sullivan New York,36105,77547,169
+Rensselaer,0,New York,1,1,0,,Rensselaer New York,36083,159429,423
+Wyoming,0,New York,1,1,0,,Wyoming New York,36121,42155,62
+Washington state,1,Washington,1012,108,55,5,Washington state Washington,#N/A,#N/A,#N/A
+King,0,Washington,569,50,46,3,King Washington,53033,1931249,5433
+Snohomish,0,Washington,266,33,6,2,Snohomish Washington,53061,713335,786
+Unassigned,2,Washington,57,,0,,Unassigned Washington,#N/A,#N/A,#N/A
+Pierce,0,Washington,45,7,0,,Pierce Washington,53053,795225,2408
+Island,0,Washington,14,7,0,,Island Washington,53029,78506,76
+Skagit,0,Washington,9,2,0,,Skagit Washington,53057,116901,205
+Grant,0,Washington,7,,1,,Grant Washington,53025,89120,186
+Kitsap,0,Washington,7,,0,,Kitsap Washington,53035,251133,381
+Whatcom,0,Washington,6,3,0,,Whatcom Washington,53073,201140,253
+Yakima,0,Washington,5,1,0,,Yakima Washington,53077,243231,528
+Thurston,0,Washington,5,1,0,,Thurston Washington,53067,252264,474
+Clark,0,Washington,4,,2,,Clark Washington,53011,425363,580
+Spokane,0,Washington,4,1,0,,Spokane Washington,53063,471221,1847
+Kittitas,0,Washington,3,,0,,Kittitas Washington,53037,40915,25
+Jefferson,0,Washington,3,,0,,Jefferson Washington,53031,29872,25
+Chelan,0,Washington,2,2,0,,Chelan Washington,53007,72453,251
+Grays Harbor,0,Washington,1,,0,,Grays Harbor Washington,53027,72797,130
+Cowlitz,0,Washington,1,,0,,Cowlitz Washington,53015,102410,202
+Klickitat,0,Washington,1,1,0,,Klickitat Washington,53039,20318,42
+Lewis,0,Washington,1,,0,,Lewis Washington,53041,75455,125
+Columbia,0,Washington,1,,0,,Columbia Washington,53013,4078,25
+Lincoln,0,Washington,1,,0,,Lincoln Washington,53043,10570,85
+California state,1,California,700,129,12,1,California state California,#N/A,#N/A,#N/A
+Santa Clara,0,California,155,17,4,,Santa Clara California,06085,1781642,3831
+Los Angeles,0,California,144,50,1,,Los Angeles California,06037,9818605,28383
+San Mateo,0,California,64,23,1,,San Mateo California,06081,718451,1781
+San Diego,0,California,55,,0,,San Diego California,06073,3095313,7623
+San Francisco,0,California,43,3,0,,San Francisco California,06075,805235,4733
+Sacramento,0,California,40,7,2,,Sacramento California,06067,1418788,3500
+Contra Costa,0,California,39,5,0,,Contra Costa California,06013,1049025,1804
+Alameda,0,California,27,9,0,,Alameda California,06001,1510271,3833
+Orange,0,California,22,,0,,Orange California,06059,3010232,7902
+Riverside,0,California,15,,3,1,Riverside California,06065,2189641,3945
+San Joaquin,0,California,13,,0,,San Joaquin California,06077,685306,1256
+Santa Cruz,0,California,13,4,0,,Santa Cruz California,06087,262382,375
+Marin,0,California,11,,0,,Marin California,06041,252409,458
+Ventura,0,California,10,6,0,,Ventura California,06111,823318,1660
+Solano,0,California,7,,0,,Solano California,06095,413344,749
+Placer,0,California,5,,1,,Placer California,06061,348432,748
+Yolo,0,California,4,2,0,,Yolo California,06113,200849,156
+Sonoma,0,California,4,,0,,Sonoma California,06097,483878,1956
+San Benito,0,California,3,,0,,San Benito California,06069,55269,181
+Stanislaus,0,California,3,,0,,Stanislaus California,06099,514453,1584
+Tulare,0,California,3,,0,,Tulare California,06107,442179,2086
+San Luis Obispo,0,California,3,,0,,San Luis Obispo California,06079,269637,1747
+Calaveras,0,California,2,,0,,Calaveras California,06009,45578,48
+Monterey,0,California,2,2,0,,Monterey California,06053,415057,793
+San Bernardino,0,California,2,,0,,San Bernardino California,06071,2035210,5906
+Imperial,0,California,2,,0,,Imperial California,06025,174528,268
+Santa Barbara,0,California,2,,0,,Santa Barbara California,06083,423895,1054
+Fresno,0,California,2,,0,,Fresno California,06019,930450,3551
+Shasta,0,California,1,,0,,Shasta California,06089,177223,748
+Madera,0,California,1,,0,,Madera California,06039,150865,462
+Humboldt,0,California,1,,0,,Humboldt California,06023,134623,299
+Nevada,0,California,1,,0,,Nevada California,06057,98764,176
+Kern,0,California,1,1,0,,Kern California,06029,839631,1833
+New Jersey state,1,New Jersey,267,88,3,,New Jersey state New Jersey,#N/A,#N/A,#N/A
+Bergen,0,New Jersey,84,23,2,,Bergen New Jersey,34003,905116,3019
+Essex,0,New Jersey,32,12,0,,Essex New Jersey,34013,783969,4007
+Hudson,0,New Jersey,24,4,0,,Hudson New Jersey,34017,634266,1878
+Middlesex,0,New Jersey,22,5,0,,Middlesex New Jersey,34023,809858,2657
+Monmouth,0,New Jersey,22,8,1,,Monmouth New Jersey,34025,630380,2176
+Unassigned,2,New Jersey,17,17,0,,Unassigned New Jersey,#N/A,#N/A,#N/A
+Union,0,New Jersey,15,7,0,,Union New Jersey,34039,536499,1521
+Passaic,0,New Jersey,10,2,0,,Passaic New Jersey,34031,501226,1187
+Mercer,0,New Jersey,9,3,0,,Mercer New Jersey,34021,366513,1690
+Somerset,0,New Jersey,7,2,0,,Somerset New Jersey,34035,323444,759
+Morris,0,New Jersey,7,1,0,,Morris New Jersey,34027,492276,2005
+Burlington,0,New Jersey,5,,0,,Burlington New Jersey,34005,448734,1112
+Ocean,0,New Jersey,4,1,0,,Ocean New Jersey,34029,576567,1522
+Hunterdon,0,New Jersey,4,3,0,,Hunterdon New Jersey,34019,128349,184
+Camden,0,New Jersey,3,,0,,Camden New Jersey,34007,513657,2518
+Gloucester,0,New Jersey,2,,0,,Gloucester New Jersey,34015,288288,609
+Massachusetts state,1,Massachusetts,218,21,0,,Massachusetts state Massachusetts,#N/A,#N/A,#N/A
+Middlesex,0,Massachusetts,89,6,0,,Middlesex Massachusetts,25017,1503085,4150
+Norfolk,0,Massachusetts,43,7,0,,Norfolk Massachusetts,25021,670850,1670
+Suffolk,0,Massachusetts,42,,0,,Suffolk Massachusetts,25025,722023,6162
+Berkshire,0,Massachusetts,14,3,0,,Berkshire Massachusetts,25003,131219,323
+Worcester,0,Massachusetts,8,2,0,,Worcester Massachusetts,25027,798552,2233
+Essex,0,Massachusetts,8,,0,,Essex Massachusetts,25009,743159,1443
+Bristol,0,Massachusetts,5,,0,,Bristol Massachusetts,25005,548285,1399
+Plymouth,0,Massachusetts,5,2,0,,Plymouth Massachusetts,25023,494919,872
+Barnstable,0,Massachusetts,2,1,0,,Barnstable Massachusetts,25001,215888,407
+Hampden,0,Massachusetts,1,,0,,Hampden Massachusetts,25013,463490,1773
+Unknown,2,Massachusetts,1,,0,,Unknown Massachusetts,#N/A,#N/A,#N/A
+Florida state,1,Florida,217,56,6,1,Florida state Florida,#N/A,#N/A,#N/A
+Broward,0,Florida,48,9,1,1,Broward Florida,12011,1748066,6715
+Miami-Dade,0,Florida,40,17,0,,Miami-Dade Florida,12086,2496435,9965
+Non-Florida-Resident,2,Florida,21,3,0,,Non-Florida-Resident Florida,#N/A,#N/A,#N/A
+Palm Beach,0,Florida,13,5,0,,Palm Beach Florida,12099,1320134,4993
+Duval,0,Florida,10,5,0,,Duval Florida,12031,864263,4071
+Volusia,0,Florida,9,2,0,,Volusia Florida,12127,494593,2042
+Hillsborough,0,Florida,7,2,0,,Hillsborough Florida,12057,1229226,4857
+Manatee,0,Florida,7,2,0,,Manatee Florida,12081,322833,806
+Collier,0,Florida,6,,0,,Collier Florida,12021,321520,1051
+Outside-Florida,2,Florida,6,,1,,Outside-Florida Florida,#N/A,#N/A,#N/A
+Orange,0,Florida,6,3,1,,Orange Florida,12095,1145956,4751
+Osceola,0,Florida,6,2,0,,Osceola Florida,12097,268685,997
+Lee,0,Florida,5,1,2,,Lee Florida,12071,618754,2240
+Clay,0,Florida,4,1,0,,Clay Florida,12019,190865,416
+Pinellas,0,Florida,4,,0,,Pinellas Florida,12103,916542,4119
+Seminole,0,Florida,4,,0,,Seminole Florida,12117,422718,965
+Alachua,0,Florida,4,2,0,,Alachua Florida,12001,247336,1765
+Okaloosa,0,Florida,2,1,0,,Okaloosa Florida,12091,180822,673
+Citrus,0,Florida,2,1,0,,Citrus Florida,12017,141236,332
+Sarasota,0,Florida,2,,0,,Sarasota Florida,12115,379448,1618
+St. Johns,0,Florida,2,,0,,St. Johns Florida,12109,190039,335
+Pasco,0,Florida,2,,0,,Pasco Florida,12101,464697,1440
+Santa Rosa,0,Florida,1,,1,,Santa Rosa Florida,12113,151372,385
+Charlotte,0,Florida,1,,0,,Charlotte Florida,12015,159978,823
+Nassau,0,Florida,1,,0,,Nassau Florida,12089,73314,54
+Escambia,0,Florida,1,,0,,Escambia Florida,12033,297619,1276
+Lake,0,Florida,1,,0,,Lake Florida,12069,297052,897
+Brevard,0,Florida,1,,0,,Brevard Florida,12009,543376,1768
+Polk,0,Florida,1,,0,,Polk Florida,12105,602095,1793
+Louisiana state,1,Louisiana,196,60,4,1,Louisiana state Louisiana,#N/A,#N/A,#N/A
+Orleans,0,Louisiana,136,42,4,1,Orleans Louisiana,22071,343829,1647
+Jefferson,0,Louisiana,35,14,0,,Jefferson Louisiana,22051,432552,1628
+St. Tammany,0,Louisiana,6,,0,,St. Tammany Louisiana,22103,233740,946
+Caddo,0,Louisiana,4,1,0,,Caddo Louisiana,22017,254969,2026
+Terrebonne,0,Louisiana,3,1,0,,Terrebonne Louisiana,22109,111860,367
+St. Charles,0,Louisiana,3,,0,,St. Charles Louisiana,22089,52780,59
+Lafourche,0,Louisiana,2,,0,,Lafourche Louisiana,22057,96318,203
+St. Bernard,0,Louisiana,2,,0,,St. Bernard Louisiana,22087,35897,0
+Bossier,0,Louisiana,1,,0,,Bossier Louisiana,22015,116979,404
+St. John the Baptist,0,Louisiana,1,,0,,St. John the Baptist Louisiana,22095,45924,0
+Ascension,0,Louisiana,1,,0,,Ascension Louisiana,22005,107215,83
+Washington,0,Louisiana,1,1,0,,Washington Louisiana,22117,47168,25
+East Baton Rouge,0,Louisiana,1,1,0,,East Baton Rouge Louisiana,22033,440171,2055
+Colorado state,1,Colorado,183,47,2,1,Colorado state Colorado,#N/A,#N/A,#N/A
+Denver,0,Colorado,38,13,0,,Denver Colorado,08031,600158,2361
+Eagle,0,Colorado,34,10,0,,Eagle Colorado,08037,52197,58
+Unassigned,2,Colorado,16,13,0,,Unassigned Colorado,#N/A,#N/A,#N/A
+Arapahoe,0,Colorado,15,,0,,Arapahoe Colorado,08005,572003,1010
+Jefferson,0,Colorado,13,1,0,,Jefferson Colorado,08059,534543,780
+Pitkin,0,Colorado,11,,0,,Pitkin Colorado,08097,17148,25
+Boulder,0,Colorado,11,4,0,,Boulder Colorado,08013,294567,522
+Douglas,0,Colorado,8,,0,,Douglas Colorado,08035,285465,286
+Gunnison,0,Colorado,8,,0,,Gunnison Colorado,08051,15324,24
+Weld,0,Colorado,6,1,1,1,Weld Colorado,08123,252825,300
+Adams,0,Colorado,6,,0,,Adams Colorado,08001,441603,800
+Summit,0,Colorado,5,3,0,,Summit Colorado,08117,27994,34
+El Paso,0,Colorado,4,,1,,El Paso Colorado,08041,622263,836
+Larimer,0,Colorado,3,2,0,,Larimer Colorado,08069,299630,725
+Pueblo,0,Colorado,1,,0,,Pueblo Colorado,08101,159063,1292
+Routt,0,Colorado,1,,0,,Routt Colorado,08107,23509,98
+Mesa,0,Colorado,1,,0,,Mesa Colorado,08077,146723,460
+Garfield,0,Colorado,1,,0,,Garfield Colorado,08045,56389,119
+Clear Creek,0,Colorado,1,,0,,Clear Creek Colorado,08019,9088,0
+Illinois state,1,Illinois,161,55,1,1,Illinois state Illinois,#N/A,#N/A,#N/A
+Cook,0,Illinois,107,31,1,1,Cook Illinois,17031,5194675,17992
+DuPage,0,Illinois,26,21,0,,DuPage Illinois,17043,916924,1880
+Lake,0,Illinois,7,1,0,,Lake Illinois,17097,703462,968
+Sangamon,0,Illinois,4,,0,,Sangamon Illinois,17167,197465,1045
+Kane,0,Illinois,3,,0,,Kane Illinois,17089,515269,1101
+Will,0,Illinois,2,1,0,,Will Illinois,17197,677560,917
+Clinton,0,Illinois,2,1,0,,Clinton Illinois,17027,37762,0
+St. Clair,0,Illinois,2,,0,,St. Clair Illinois,17163,270056,818
+McHenry,0,Illinois,2,,0,,McHenry Illinois,17111,308760,343
+Champaign,0,Illinois,1,,0,,Champaign Illinois,17019,201081,549
+Winnebago,0,Illinois,1,,0,,Winnebago Illinois,17201,295266,907
+Whiteside,0,Illinois,1,,0,,Whiteside Illinois,17195,58498,135
+Cumberland,0,Illinois,1,,0,,Cumberland Illinois,17035,11048,0
+Woodford,0,Illinois,1,,0,,Woodford Illinois,17203,38664,18
+Peoria,0,Illinois,1,,0,,Peoria Illinois,17143,186494,1122
+Georgia state,1,Georgia,146,23,1,,Georgia state Georgia,#N/A,#N/A,#N/A
+Fulton,0,Georgia,33,6,0,,Fulton Georgia,13121,920581,4353
+Cobb,0,Georgia,25,3,1,,Cobb Georgia,13067,688078,1099
+DeKalb,0,Georgia,15,5,0,,DeKalb Georgia,13089,691893,2436
+Bartow,0,Georgia,10,1,0,,Bartow Georgia,13015,100157,80
+Gwinnett,0,Georgia,7,2,0,,Gwinnett Georgia,13135,805321,847
+Cherokee,0,Georgia,7,,0,,Cherokee Georgia,13057,214346,79
+Dougherty,0,Georgia,6,,0,,Dougherty Georgia,13095,94565,939
+Floyd,0,Georgia,6,2,0,,Floyd Georgia,13115,96317,559
+Clayton,0,Georgia,5,,0,,Clayton Georgia,13063,259424,558
+Fayette,0,Georgia,5,,0,,Fayette Georgia,13113,106567,157
+Lowndes,0,Georgia,4,1,0,,Lowndes Georgia,13185,109233,430
+Coweta,0,Georgia,3,1,0,,Coweta Georgia,13077,127317,211
+Richmond,0,Georgia,3,1,0,,Richmond Georgia,13245,200549,2470
+Clarke,0,Georgia,3,,0,,Clarke Georgia,13059,116714,574
+Henry,0,Georgia,2,,0,,Henry Georgia,13151,203922,265
+Lee,0,Georgia,2,,0,,Lee Georgia,13177,28298,0
+Gordon,0,Georgia,2,,0,,Gordon Georgia,13129,55186,80
+Charlton,0,Georgia,1,,0,,Charlton Georgia,13049,12171,0
+Newton,0,Georgia,1,,0,,Newton Georgia,13217,99958,97
+Troup,0,Georgia,1,,0,,Troup Georgia,13285,67044,276
+Forsyth,0,Georgia,1,,0,,Forsyth Georgia,13117,175511,187
+Hall,0,Georgia,1,,0,,Hall Georgia,13139,179684,557
+Paulding,0,Georgia,1,,0,,Paulding Georgia,13223,142324,83
+Polk,0,Georgia,1,,0,,Polk Georgia,13233,41475,53
+Spalding,0,Georgia,1,1,0,,Spalding Georgia,13255,64073,160
+Texas state,1,Texas,121,23,1,,Texas state Texas,#N/A,#N/A,#N/A
+Dallas,0,Texas,28,9,0,,Dallas Texas,48113,2368139,8721
+Travis,0,Texas,17,7,0,,Travis Texas,48453,1024266,3821
+Harris,0,Texas,16,,0,,Harris Texas,48201,4092459,15865
+Fort Bend,0,Texas,10,1,0,,Fort Bend Texas,48157,585375,1105
+Collin,0,Texas,8,,0,,Collin Texas,48085,782341,2649
+Tarrant,0,Texas,6,1,0,,Tarrant Texas,48439,1809034,6810
+Smith,0,Texas,5,1,0,,Smith Texas,48423,209714,1337
+Montgomery,0,Texas,4,,0,,Montgomery Texas,48339,455746,1908
+Bexar,0,Texas,4,,0,,Bexar Texas,48029,1714773,8084
+Hays,0,Texas,3,,0,,Hays Texas,48209,157107,354
+El Paso,0,Texas,3,,0,,El Paso Texas,48141,800647,2813
+Lubbock,0,Texas,2,2,0,,Lubbock Texas,48303,278831,1563
+Galveston,0,Texas,2,1,0,,Galveston Texas,48167,291309,711
+Brazoria,0,Texas,2,,0,,Brazoria Texas,48039,313166,357
+Matagorda,0,Texas,2,,1,,Matagorda Texas,48321,36702,75
+Bell,0,Texas,2,,0,,Bell Texas,48027,310235,1091
+Lavaca,0,Texas,1,,0,,Lavaca Texas,48285,19263,50
+Gregg,0,Texas,1,,0,,Gregg Texas,48183,121730,846
+Bowie,0,Texas,1,,0,,Bowie Texas,48037,92565,841
+Webb,0,Texas,1,,0,,Webb Texas,48479,250304,578
+Rusk,0,Texas,1,,0,,Rusk Texas,48401,53330,96
+Brazos,0,Texas,1,1,0,,Brazos Texas,48041,194851,658
+Denton,0,Texas,1,,0,,Denton Texas,48121,662614,1516
+Pennsylvania state,1,Pennsylvania,112,30,0,,Pennsylvania state Pennsylvania,#N/A,#N/A,#N/A
+Montgomery,0,Pennsylvania,34,4,0,,Montgomery Pennsylvania,42091,799874,3403
+Philadelphia,0,Pennsylvania,19,9,0,,Philadelphia Pennsylvania,42101,1526006,8160
+Cumberland,0,Pennsylvania,10,5,0,,Cumberland Pennsylvania,42041,235406,590
+Allegheny,0,Pennsylvania,10,4,0,,Allegheny Pennsylvania,42003,1223348,7616
+Delaware,0,Pennsylvania,9,2,0,,Delaware Pennsylvania,42045,558979,1123
+Monroe,0,Pennsylvania,8,,0,,Monroe Pennsylvania,42089,169842,235
+Bucks,0,Pennsylvania,8,1,0,,Bucks Pennsylvania,42017,625249,1299
+Chester,0,Pennsylvania,6,4,0,,Chester Pennsylvania,42029,498886,1286
+Washington,0,Pennsylvania,2,1,0,,Washington Pennsylvania,42125,207820,602
+Northampton,0,Pennsylvania,1,,0,,Northampton Pennsylvania,42095,297735,362
+Wayne,0,Pennsylvania,1,,0,,Wayne Pennsylvania,42127,52822,112
+Beaver,0,Pennsylvania,1,,0,,Beaver Pennsylvania,42007,170539,396
+Lehigh,0,Pennsylvania,1,,0,,Lehigh Pennsylvania,42077,349497,1912
+Luzerne,0,Pennsylvania,1,,0,,Luzerne Pennsylvania,42079,320918,1180
+Pike,0,Pennsylvania,1,,0,,Pike Pennsylvania,42103,57369,0
+Wisconsin state,1,Wisconsin,90,42,0,,Wisconsin state Wisconsin,#N/A,#N/A,#N/A
+Milwaukee,0,Wisconsin,40,27,0,,Milwaukee Wisconsin,55079,947735,4743
+Dane,0,Wisconsin,19,9,0,,Dane Wisconsin,55025,488073,2073
+Fond du Lac,0,Wisconsin,12,1,0,,Fond du Lac Wisconsin,55039,101633,189
+Waukesha,0,Wisconsin,4,1,0,,Waukesha Wisconsin,55133,389891,1305
+Kenosha,0,Wisconsin,4,3,0,,Kenosha Wisconsin,55059,166426,517
+Sheboygan,0,Wisconsin,3,,0,,Sheboygan Wisconsin,55117,115507,370
+Winnebago,0,Wisconsin,3,,0,,Winnebago Wisconsin,55139,166994,795
+Pierce,0,Wisconsin,1,,0,,Pierce Wisconsin,55093,41019,0
+Wood,0,Wisconsin,1,,0,,Wood Wisconsin,55141,74749,619
+Outagamie,0,Wisconsin,1,,0,,Outagamie Wisconsin,55087,176695,517
+Racine,0,Wisconsin,1,,0,,Racine Wisconsin,55101,195408,715
+Washington,0,Wisconsin,1,1,0,,Washington Wisconsin,55131,131887,141
+Tennessee state,1,Tennessee,74,22,0,,Tennessee state Tennessee,#N/A,#N/A,#N/A
+Davidson,0,Tennessee,42,17,0,,Davidson Tennessee,47037,626681,4489
+Williamson,0,Tennessee,21,3,0,,Williamson Tennessee,47187,183182,225
+Shelby,0,Tennessee,3,1,0,,Shelby Tennessee,47157,927644,4876
+Knox,0,Tennessee,2,1,0,,Knox Tennessee,47093,432226,2122
+Sullivan,0,Tennessee,1,,0,,Sullivan Tennessee,47163,156823,1175
+Hamilton,0,Tennessee,1,,0,,Hamilton Tennessee,47065,336463,1825
+Jefferson,0,Tennessee,1,,0,,Jefferson Tennessee,47089,51407,54
+Rutherford,0,Tennessee,1,,0,,Rutherford Tennessee,47149,262604,488
+Campbell,0,Tennessee,1,,0,,Campbell Tennessee,47013,40716,120
+Sevier,0,Tennessee,1,,0,,Sevier Tennessee,47155,89889,79
+Connecticut state,1,Connecticut,68,27,0,,Connecticut state Connecticut,#N/A,#N/A,#N/A
+Fairfield,0,Connecticut,48,19,0,,Fairfield Connecticut,09001,916829,2066
+New Haven,0,Connecticut,8,4,0,,New Haven Connecticut,09009,862477,3045
+Hartford,0,Connecticut,7,3,0,,Hartford Connecticut,09003,894014,2980
+Litchfield,0,Connecticut,5,1,0,,Litchfield Connecticut,09005,189927,272
+Ohio state,1,Ohio,67,17,0,,Ohio state Ohio,#N/A,#N/A,#N/A
+Cuyahoga,0,Ohio,31,7,0,,Cuyahoga Ohio,39035,1280122,8105
+Butler,0,Ohio,6,,0,,Butler Ohio,39017,368130,879
+Summit,0,Ohio,4,2,0,,Summit Ohio,39153,541781,2819
+Franklin,0,Ohio,4,1,0,,Franklin Ohio,39049,1163414,6376
+Lorain,0,Ohio,4,1,0,,Lorain Ohio,39093,301356,840
+Stark,0,Ohio,3,,0,,Stark Ohio,39151,375586,1740
+Medina,0,Ohio,3,1,0,,Medina Ohio,39103,172332,191
+Trumbull,0,Ohio,2,,0,,Trumbull Ohio,39155,210312,1137
+Belmont,0,Ohio,2,,0,,Belmont Ohio,39013,70400,300
+Coshocton,0,Ohio,2,2,0,,Coshocton Ohio,39031,36901,56
+Darke,0,Ohio,1,1,0,,Darke Ohio,39037,52959,104
+Geauga,0,Ohio,1,,0,,Geauga Ohio,39055,93389,281
+Lake,0,Ohio,1,1,0,,Lake Ohio,39085,230041,561
+Tuscarawas,0,Ohio,1,,0,,Tuscarawas Ohio,39157,92582,198
+Mahoning,0,Ohio,1,1,0,,Mahoning Ohio,39099,238823,1051
+Lucas,0,Ohio,1,,0,,Lucas Ohio,39095,441815,3357
+Oregon state,1,Oregon,67,16,1,,Oregon state Oregon,#N/A,#N/A,#N/A
+Washington,0,Oregon,21,7,0,,Washington Oregon,41067,529710,869
+Linn,0,Oregon,15,1,0,,Linn Oregon,41043,116672,98
+Clackamas,0,Oregon,6,4,0,,Clackamas Oregon,41005,375992,551
+Deschutes,0,Oregon,6,,0,,Deschutes Oregon,41017,157733,308
+Marion,0,Oregon,4,1,0,,Marion Oregon,41047,315335,496
+Multnomah,0,Oregon,3,1,1,,Multnomah Oregon,41051,735334,1978
+Umatilla,0,Oregon,2,,0,,Umatilla Oregon,41059,75889,455
+Jackson,0,Oregon,2,,0,,Jackson Oregon,41029,203206,545
+Polk,0,Oregon,2,1,0,,Polk Oregon,41053,75403,15
+​Benton,0,Oregon,2,,0,,​Benton Oregon,41003,85579,164
+Douglas,0,Oregon,1,,0,,Douglas Oregon,41019,107667,141
+Yamhill,0,Oregon,1,,0,,Yamhill Oregon,41071,99193,128
+Klamath,0,Oregon,1,,0,,Klamath Oregon,41035,66380,98
+Lane,0,Oregon,1,1,0,,Lane Oregon,41039,351715,531
+Virginia state,1,Virginia,67,14,2,,Virginia state Virginia,#N/A,#N/A,#N/A
+Arlington,0,Virginia,13,4,0,,Arlington Virginia,51013,207627,334
+Fairfax,0,Virginia,12,2,0,,Fairfax Virginia,51059,1081726,1662
+James City,0,Virginia,12,2,1,,James City Virginia,51095,67009,357
+Loudoun,0,Virginia,5,,0,,Loudoun Virginia,51107,312311,462
+Virginia Beach,0,Virginia,4,,0,,Virginia Beach Virginia,51810,437994,542
+Prince William,0,Virginia,4,1,0,,Prince William Virginia,51153,402002,243
+Chesterfield,0,Virginia,4,2,0,,Chesterfield Virginia,51041,316236,466
+Alexandria,0,Virginia,2,,0,,Alexandria Virginia,51510,139966,318
+Henrico,0,Virginia,2,1,0,,Henrico Virginia,51087,306935,1031
+Hanover,0,Virginia,1,,0,,Hanover Virginia,51085,99863,265
+Prince Edward,0,Virginia,1,,0,,Prince Edward Virginia,51147,23368,116
+Goochland,0,Virginia,1,1,0,,Goochland Virginia,51075,21717,0
+Charlottesville,0,Virginia,1,,0,,Charlottesville Virginia,51540,43475,614
+Stafford,0,Virginia,1,,0,,Stafford Virginia,51179,128961,100
+York,0,Virginia,1,,1,,York Virginia,51199,65464,145
+Spotsylvania,0,Virginia,1,,0,,Spotsylvania Virginia,51177,122397,100
+Williamsburg,0,Virginia,1,1,0,,Williamsburg Virginia,51830,14068,40
+Harrisonburg,0,Virginia,1,,0,,Harrisonburg Virginia,51660,48914,0
+North Carolina state,1,North Carolina,66,26,0,,North Carolina state North Carolina,#N/A,#N/A,#N/A
+Wake,0,North Carolina,17,2,0,,Wake North Carolina,37183,900993,1781
+Durham,0,North Carolina,16,15,0,,Durham North Carolina,37063,267587,1360
+Mecklenburg,0,North Carolina,11,4,0,,Mecklenburg North Carolina,37119,919628,2949
+Chatham,0,North Carolina,3,2,0,,Chatham North Carolina,37037,63505,25
+Harnett,0,North Carolina,3,,0,,Harnett North Carolina,37085,114678,167
+Johnston,0,North Carolina,2,,0,,Johnston North Carolina,37101,168878,199
+Forsyth,0,North Carolina,2,,0,,Forsyth North Carolina,37067,350670,1855
+Onslow,0,North Carolina,1,,0,,Onslow North Carolina,37133,177772,162
+Wayne,0,North Carolina,1,,0,,Wayne North Carolina,37191,122623,316
+Lincoln,0,North Carolina,1,1,0,,Lincoln North Carolina,37109,78265,101
+Brunswick,0,North Carolina,1,,0,,Brunswick North Carolina,37019,107431,212
+Craven,0,North Carolina,1,,0,,Craven North Carolina,37049,103505,350
+Cabarrus,0,North Carolina,1,,0,,Cabarrus North Carolina,37025,178011,497
+Wilson,0,North Carolina,1,,0,,Wilson North Carolina,37195,81234,317
+Iredell,0,North Carolina,1,,0,,Iredell North Carolina,37097,159437,501
+Sampson,0,North Carolina,1,,0,,Sampson North Carolina,37163,63431,146
+Guilford,0,North Carolina,1,1,0,,Guilford North Carolina,37081,488406,1833
+Orange,0,North Carolina,1,1,0,,Orange North Carolina,37135,133801,896
+Watauga,0,North Carolina,1,,0,,Watauga North Carolina,37189,51079,217
+Michigan state,1,Michigan,65,7,0,,Michigan state Michigan,#N/A,#N/A,#N/A
+Oakland,0,Michigan,16,2,0,,Oakland Michigan,26125,1202362,4435
+Wayne,0,Michigan,16,2,0,,Wayne Michigan,26163,1820584,6009
+Macomb,0,Michigan,8,2,0,,Macomb Michigan,26099,840978,1119
+Washtenaw,0,Michigan,7,,0,,Washtenaw Michigan,26161,344791,1719
+Kent,0,Michigan,5,,0,,Kent Michigan,26081,602622,1840
+Ingham,0,Michigan,3,,0,,Ingham Michigan,26065,280895,1093
+St. Clair,0,Michigan,2,,0,,St. Clair Michigan,26147,163040,398
+Jackson,0,Michigan,1,1,0,,Jackson Michigan,26075,160248,389
+Charlevoix,0,Michigan,1,,0,,Charlevoix Michigan,26029,25949,25
+Montcalm,0,Michigan,1,,0,,Montcalm Michigan,26117,63342,148
+Monroe,0,Michigan,1,,0,,Monroe Michigan,26115,152021,217
+Ottawa,0,Michigan,1,,0,,Ottawa Michigan,26139,263801,311
+Leelanau,0,Michigan,1,,0,,Leelanau Michigan,26089,21708,0
+Otsego,0,Michigan,1,,0,,Otsego Michigan,26137,24164,46
+Bay,0,Michigan,1,,0,,Bay Michigan,26017,107771,389
+Maryland state,1,Maryland,60,18,0,,Maryland state Maryland,#N/A,#N/A,#N/A
+Montgomery,0,Maryland,24,9,0,,Montgomery Maryland,24031,971777,1492
+Prince George's,0,Maryland,14,4,0,,Prince George's Maryland,24033,863420,836
+Baltimore,0,Maryland,6,2,0,,Baltimore Maryland,24005,805029,1899
+Howard,0,Maryland,4,,0,,Howard Maryland,24027,287085,581
+Anne Arundel,0,Maryland,3,2,0,,Anne Arundel Maryland,24003,537656,673
+Harford,0,Maryland,2,,0,,Harford Maryland,24025,244826,255
+Carroll,0,Maryland,2,1,0,,Carroll Maryland,24013,167134,409
+Baltimore,0,Maryland,2,,0,,Baltimore Maryland,24005,805029,1899
+Charles,0,Maryland,1,,0,,Charles Maryland,24017,146551,89
+Talbot,0,Maryland,1,,0,,Talbot Maryland,24041,37782,132
+Frederick,0,Maryland,1,,0,,Frederick Maryland,24021,233385,308
+Minnesota state,1,Minnesota,60,6,0,,Minnesota state Minnesota,#N/A,#N/A,#N/A
+Hennepin,0,Minnesota,24,2,0,,Hennepin Minnesota,27053,1152425,4668
+Ramsey,0,Minnesota,11,1,0,,Ramsey Minnesota,27123,508640,1907
+Dakota,0,Minnesota,6,1,0,,Dakota Minnesota,27037,398552,259
+Olmsted,0,Minnesota,5,2,0,,Olmsted Minnesota,27109,144248,2120
+Anoka,0,Minnesota,3,,0,,Anoka Minnesota,27003,330844,546
+Stearns,0,Minnesota,3,,0,,Stearns Minnesota,27145,150642,571
+Washington,0,Minnesota,2,,0,,Washington Minnesota,27163,238136,183
+Benton,0,Minnesota,1,,0,,Benton Minnesota,27009,38451,0
+Renville,0,Minnesota,1,,0,,Renville Minnesota,27129,15730,16
+Carver,0,Minnesota,1,,0,,Carver Minnesota,27019,91042,109
+Waseca,0,Minnesota,1,,0,,Waseca Minnesota,27161,19136,35
+Blue earth,0,Minnesota,1,,0,,Blue earth Minnesota,27013,64013,272
+Wright,0,Minnesota,1,,0,,Wright Minnesota,27171,124700,104
+Nevada state,1,Nevada,56,11,1,,Nevada state Nevada,#N/A,#N/A,#N/A
+Clark,0,Nevada,42,7,1,,Clark Nevada,32003,1951269,5467
+Washoe,0,Nevada,12,3,0,,Washoe Nevada,32031,421407,1690
+Carson City,0,Nevada,2,1,0,,Carson City Nevada,32510,55274,229
+Utah state,1,Utah,51,10,0,,Utah state Utah,#N/A,#N/A,#N/A
+Salt Lake,0,Utah,20,4,0,,Salt Lake Utah,49035,1029655,2932
+Non-Utah resident,2,Utah,10,,0,,Non-Utah resident Utah,#N/A,#N/A,#N/A
+Summit,0,Utah,8,2,0,,Summit Utah,49043,36324,26
+Davis,0,Utah,4,,0,,Davis Utah,49011,306479,579
+Weber,0,Utah,4,2,0,,Weber Utah,49057,231236,477
+Wasatch,0,Utah,2,1,0,,Wasatch Utah,49051,23530,19
+Southwest Utah,2,Utah,1,,0,,Southwest Utah Utah,#N/A,#N/A,#N/A
+Tooele,0,Utah,1,,0,,Tooele Utah,49045,58218,31
+Box Elder,0,Utah,1,1,0,,Box Elder Utah,49003,49975,53
+South Carolina state,1,South Carolina,47,13,1,,South Carolina state South Carolina,#N/A,#N/A,#N/A
+Kershaw,0,South Carolina,22,4,0,,Kershaw South Carolina,45055,61697,121
+Horry,0,South Carolina,4,1,0,,Horry South Carolina,45051,269291,753
+Beaufort,0,South Carolina,4,1,0,,Beaufort South Carolina,45013,162233,290
+Lexington,0,South Carolina,3,1,1,,Lexington South Carolina,45063,262391,556
+Charleston,0,South Carolina,3,2,0,,Charleston South Carolina,45019,350209,2166
+Lancaster,0,South Carolina,2,,0,,Lancaster South Carolina,45057,76652,253
+Anderson,0,South Carolina,2,,0,,Anderson South Carolina,45007,187126,755
+Greenville,0,South Carolina,2,1,0,,Greenville South Carolina,45045,451225,1681
+Spartanburg,0,South Carolina,1,,0,,Spartanburg South Carolina,45083,284307,943
+Fairfield,0,South Carolina,1,,0,,Fairfield South Carolina,45039,23956,25
+Calhoun,0,South Carolina,1,1,0,,Calhoun South Carolina,45017,15175,0
+Richland,0,South Carolina,1,1,0,,Richland South Carolina,45079,384504,2585
+York,0,South Carolina,1,1,0,,York South Carolina,45091,226073,334
+Diamond Princess state,1,Diamond Princess,47,,0,,Diamond Princess state Diamond Princess,#N/A,#N/A,#N/A
+Unassigned,2,Diamond Princess,46,,0,,Unassigned Diamond Princess,#N/A,#N/A,#N/A
+San Diego,2,Diamond Princess,1,,0,,San Diego Diamond Princess,#N/A,#N/A,#N/A
+Alabama state,1,Alabama,39,10,0,,Alabama state Alabama,#N/A,#N/A,#N/A
+Jefferson,0,Alabama,21,4,0,,Jefferson Alabama,01073,658466,4392
+Shelby,0,Alabama,4,1,0,,Shelby Alabama,01117,195085,349
+Tuscaloosa,0,Alabama,3,,0,,Tuscaloosa Alabama,01125,194656,933
+Lee,0,Alabama,3,2,0,,Lee Alabama,01081,140247,314
+Montgomery,0,Alabama,2,,0,,Montgomery Alabama,01101,229363,1143
+Elmore,0,Alabama,2,1,0,,Elmore Alabama,01051,79303,138
+Limestone,0,Alabama,1,,0,,Limestone Alabama,01083,82782,102
+Baldwin,0,Alabama,1,,0,,Baldwin Alabama,01003,182265,398
+St. Clair,0,Alabama,1,1,0,,St. Clair Alabama,01115,83593,40
+Madison,0,Alabama,1,1,0,,Madison Alabama,01089,334811,1178
+Maine state,1,Maine,32,15,0,,Maine state Maine,#N/A,#N/A,#N/A
+Cumberland,0,Maine,18,5,0,,Cumberland Maine,23005,281674,1184
+Unassigned,2,Maine,6,6,0,,Unassigned Maine,#N/A,#N/A,#N/A
+Androscoggin,0,Maine,2,1,0,,Androscoggin Maine,23001,107702,483
+Lincoln,0,Maine,2,,0,,Lincoln Maine,23015,34457,32
+Knox,0,Maine,1,,0,,Knox Maine,23013,39736,109
+Oxford,0,Maine,1,1,0,,Oxford Maine,23017,57833,75
+York,0,Maine,1,1,0,,York Maine,23031,197131,245
+Kennebec,0,Maine,1,1,0,,Kennebec Maine,23011,122151,425
+Indiana state,1,Indiana,30,4,2,1,Indiana state Indiana,#N/A,#N/A,#N/A
+Marion,0,Indiana,9,,1,,Marion Indiana,18097,903393,3595
+Hendricks,0,Indiana,3,,0,,Hendricks Indiana,18063,145448,287
+Johnson,0,Indiana,3,,1,1,Johnson Indiana,18081,139654,275
+Lake,0,Indiana,2,2,0,,Lake Indiana,18089,496005,2597
+Howard,0,Indiana,2,,0,,Howard Indiana,18067,82752,254
+Franklin,0,Indiana,2,2,0,,Franklin Indiana,18047,23087,0
+Boone,0,Indiana,1,,0,,Boone Indiana,18011,56640,52
+Adams,0,Indiana,1,,0,,Adams Indiana,18001,34387,35
+Wells,0,Indiana,1,,0,,Wells Indiana,18179,27636,79
+LaPorte,0,Indiana,1,,0,,LaPorte Indiana,18091,111467,377
+Hamilton,0,Indiana,1,,0,,Hamilton Indiana,18057,274569,577
+Floyd,0,Indiana,1,,0,,Floyd Indiana,18043,74578,297
+Bartholomew,0,Indiana,1,,0,,Bartholomew Indiana,18005,76794,198
+Noble,0,Indiana,1,,0,,Noble Indiana,18113,47536,31
+St. Joseph,0,Indiana,1,,0,,St. Joseph Indiana,18141,266931,811
+"Washington, D.C. state",1,"Washington, D.C.",30,8,0,,"Washington, D.C. state Washington, D.C.",#N/A,#N/A,#N/A
+District of Columbia,0,District of Columbia,30,8,0,,District of Columbia District of Columbia,11001,601723,4304
+Iowa state,1,Iowa,29,6,0,,Iowa state Iowa,#N/A,#N/A,#N/A
+Johnson,0,Iowa,18,3,0,,Johnson Iowa,19103,130882,1383
+Dallas,0,Iowa,3,1,0,,Dallas Iowa,19049,66135,120
+Allamakee,0,Iowa,2,,0,,Allamakee Iowa,19005,14330,25
+Pottawattamie,0,Iowa,1,,0,,Pottawattamie Iowa,19155,93158,514
+Carroll,0,Iowa,1,,0,,Carroll Iowa,19027,20816,116
+Harrison,0,Iowa,1,,0,,Harrison Iowa,19085,14928,25
+Polk,0,Iowa,1,,0,,Polk Iowa,19153,430640,1725
+Adair,0,Iowa,1,1,0,,Adair Iowa,19001,7682,25
+Black Hawk,0,Iowa,1,1,0,,Black Hawk Iowa,19013,131090,459
+Kentucky state,1,Kentucky,27,2,1,,Kentucky state Kentucky,#N/A,#N/A,#N/A
+Jefferson,0,Kentucky,8,1,0,,Jefferson Kentucky,21111,741096,4795
+Fayette,0,Kentucky,7,,0,,Fayette Kentucky,21067,295803,2379
+Harrison,0,Kentucky,6,,0,,Harrison Kentucky,21097,18846,61
+Montgomery,0,Kentucky,2,,0,,Montgomery Kentucky,21173,26499,42
+Nelson,0,Kentucky,1,,0,,Nelson Kentucky,21179,43437,40
+Clark,0,Kentucky,1,,0,,Clark Kentucky,21049,35613,54
+Bourbon,0,Kentucky,1,,1,,Bourbon Kentucky,21017,19985,58
+Lyon,0,Kentucky,1,1,0,,Lyon Kentucky,21143,8314,0
+New Hampshire state,1,New Hampshire,26,9,0,,New Hampshire state New Hampshire,#N/A,#N/A,#N/A
+Rockingham,0,New Hampshire,14,4,0,,Rockingham New Hampshire,33015,295223,606
+Grafton,0,New Hampshire,7,2,0,,Grafton New Hampshire,33009,89118,496
+Hillsborough,0,New Hampshire,4,3,0,,Hillsborough New Hampshire,33011,400721,1144
+Carroll,0,New Hampshire,1,,0,,Carroll New Hampshire,33003,47818,50
+Nebraska state,1,Nebraska,23,5,0,,Nebraska state Nebraska,#N/A,#N/A,#N/A
+Douglas,0,Nebraska,19,3,0,,Douglas Nebraska,31055,517110,3068
+Knox,0,Nebraska,2,1,0,,Knox Nebraska,31107,8701,23
+Cass,0,Nebraska,1,,0,,Cass Nebraska,31025,25241,0
+Sarpy,0,Nebraska,1,1,0,,Sarpy Nebraska,31153,158840,176
+New Mexico state,1,New Mexico,23,2,0,,New Mexico state New Mexico,#N/A,#N/A,#N/A
+Bernalillo,0,New Mexico,14,,0,,Bernalillo New Mexico,35001,662564,2020
+Santa Fe,0,New Mexico,4,1,0,,Santa Fe New Mexico,35049,144170,258
+Socorro,0,New Mexico,2,,0,,Socorro New Mexico,35053,17866,24
+Sandoval,0,New Mexico,2,,0,,Sandoval New Mexico,35043,131561,271
+Taos,0,New Mexico,1,1,0,,Taos New Mexico,35055,32937,29
+Rhode Island state,1,Rhode Island,23,2,0,,Rhode Island state Rhode Island,#N/A,#N/A,#N/A
+Providence,0,Rhode Island,23,2,0,,Providence Rhode Island,44007,626667,3272
+Arkansas state,1,Arkansas,22,,0,,Arkansas state Arkansas,#N/A,#N/A,#N/A
+Unassigned,2,Arkansas,19,,0,,Unassigned Arkansas,#N/A,#N/A,#N/A
+Jefferson,0,Arkansas,3,,0,,Jefferson Arkansas,05069,77435,498
+Mississippi state,1,Mississippi,21,9,0,,Mississippi state Mississippi,#N/A,#N/A,#N/A
+Hinds,0,Mississippi,6,4,0,,Hinds Mississippi,28049,245285,2427
+Leflore,0,Mississippi,4,3,0,,Leflore Mississippi,28083,32317,208
+Forrest,0,Mississippi,3,,0,,Forrest Mississippi,28035,74934,545
+Pearl River,0,Mississippi,2,,0,,Pearl River Mississippi,28109,55834,84
+Copiah,0,Mississippi,2,,0,,Copiah Mississippi,28029,29449,25
+Hancock,0,Mississippi,1,,0,,Hancock Mississippi,28045,43929,102
+Monroe,0,Mississippi,1,,0,,Monroe Mississippi,28095,36989,130
+Harrison,0,Mississippi,1,1,0,,Harrison Mississippi,28047,187105,867
+Jackson,0,Mississippi,1,1,0,,Jackson Mississippi,28059,139668,571
+Grand Princess state,1,Grand Princess,21,,0,,Grand Princess state Grand Princess,#N/A,#N/A,#N/A
+Unassigned,2,Grand Princess,19,,0,,Unassigned Grand Princess,#N/A,#N/A,#N/A
+Sonoma,2,Grand Princess,1,,0,,Sonoma Grand Princess,#N/A,#N/A,#N/A
+San Diego,2,Grand Princess,1,,0,,San Diego Grand Princess,#N/A,#N/A,#N/A
+Arizona state,1,Arizona,20,3,0,,Arizona state Arizona,#N/A,#N/A,#N/A
+Maricopa,0,Arizona,9,2,0,,Maricopa Arizona,04013,3817117,9705
+Pinal,0,Arizona,5,,0,,Pinal Arizona,04021,375770,388
+Pima,0,Arizona,4,,0,,Pima Arizona,04019,980263,3018
+Graham,0,Arizona,1,,0,,Graham Arizona,04009,37220,49
+Navajo,0,Arizona,1,1,0,,Navajo Arizona,04017,107449,130
+Oklahoma state,1,Oklahoma,19,9,0,,Oklahoma state Oklahoma,#N/A,#N/A,#N/A
+Oklahoma,0,Oklahoma,6,5,0,,Oklahoma Oklahoma,40109,718633,4624
+Tulsa,0,Oklahoma,3,,0,,Tulsa Oklahoma,40143,603403,3732
+Cleveland,0,Oklahoma,2,,0,,Cleveland Oklahoma,40027,255755,807
+Kay,0,Oklahoma,2,1,0,,Kay Oklahoma,40071,46562,193
+Out-of-State,2,Oklahoma,2,2,0,,Out-of-State Oklahoma,#N/A,#N/A,#N/A
+Jackson,0,Oklahoma,1,,0,,Jackson Oklahoma,40065,26446,49
+Payne,0,Oklahoma,1,,0,,Payne Oklahoma,40119,77350,216
+Canadian,0,Oklahoma,1,,0,,Canadian Oklahoma,40017,115541,123
+Pawnee,0,Oklahoma,1,1,0,,Pawnee Oklahoma,40117,16577,14
+Kansas state,1,Kansas,18,7,1,,Kansas state Kansas,#N/A,#N/A,#N/A
+Johnson,0,Kansas,10,2,0,,Johnson Kansas,20091,544179,1563
+Wyandotte,0,Kansas,4,3,1,,Wyandotte Kansas,20209,157505,1196
+Butler,0,Kansas,1,,0,,Butler Kansas,20015,65880,126
+Franklin,0,Kansas,1,,0,,Franklin Kansas,20059,25992,44
+Ford,0,Kansas,1,1,0,,Ford Kansas,20057,33848,99
+Douglas,0,Kansas,1,1,0,,Douglas Kansas,20045,110826,152
+Delaware state,1,Delaware,16,8,0,,Delaware state Delaware,#N/A,#N/A,#N/A
+New Castle,0,Delaware,15,7,0,,New Castle Delaware,10003,538479,2016
+Sussex,0,Delaware,1,1,0,,Sussex Delaware,10005,197145,476
+Missouri state,1,Missouri,14,5,0,,Missouri state Missouri,#N/A,#N/A,#N/A
+St. Louis,0,Missouri,4,1,0,,St. Louis Missouri,29189,998954,4820
+Greene,0,Missouri,4,1,0,,Greene Missouri,29077,275174,1402
+Henry,0,Missouri,1,,0,,Henry Missouri,29083,22272,97
+St. Louis,0,Missouri,1,,0,,St. Louis Missouri,29189,998954,4820
+Cass,0,Missouri,1,,0,,Cass Missouri,29037,99478,106
+Jackson,0,Missouri,1,1,0,,Jackson Missouri,29095,674158,3934
+Cole,0,Missouri,1,1,0,,Cole Missouri,29051,75990,268
+Boone,0,Missouri,1,1,0,,Boone Missouri,29019,162642,620
+Vermont state,1,Vermont,12,,0,,Vermont state Vermont,#N/A,#N/A,#N/A
+Chittenden,0,Vermont,4,,0,,Chittenden Vermont,50007,156545,562
+Bennington,0,Vermont,3,,0,,Bennington Vermont,50003,37125,99
+Windsor,0,Vermont,3,,0,,Windsor Vermont,50027,56670,60
+Washington,0,Vermont,1,,0,,Washington Vermont,50023,59534,147
+Orange,0,Vermont,1,,0,,Orange Vermont,50017,28936,25
+South Dakota state,1,South Dakota,11,1,1,,South Dakota state South Dakota,#N/A,#N/A,#N/A
+Minnehaha,0,South Dakota,5,1,0,,Minnehaha South Dakota,46099,169468,1150
+Pennington,0,South Dakota,1,,1,,Pennington South Dakota,46103,100948,509
+Beadle,0,South Dakota,1,,0,,Beadle South Dakota,46005,17398,25
+Charles Mix,0,South Dakota,1,,0,,Charles Mix South Dakota,46023,9129,37
+Davison,0,South Dakota,1,,0,,Davison South Dakota,46035,19504,67
+Bon Homme,0,South Dakota,1,,0,,Bon Homme South Dakota,46009,7070,50
+McCook,0,South Dakota,1,,0,,McCook South Dakota,46087,5618,0
+Wyoming state,1,Wyoming,11,1,0,,Wyoming state Wyoming,#N/A,#N/A,#N/A
+Fremont,0,Wyoming,8,,0,,Fremont Wyoming,56013,40123,248
+Sheridan,0,Wyoming,2,,0,,Sheridan Wyoming,56033,29116,88
+Laramie,0,Wyoming,1,1,0,,Laramie Wyoming,56021,91738,206
+Hawaii state,1,Hawaii,10,,0,,Hawaii state Hawaii,#N/A,#N/A,#N/A
+Honolulu,0,Hawaii,6,,0,,Honolulu Hawaii,15003,953207,2219
+Kauai,0,Hawaii,2,,0,,Kauai Hawaii,15007,67091,144
+Maui,0,Hawaii,2,,0,,Maui Hawaii,15009,154834,258
+Montana state,1,Montana,9,,0,,Montana state Montana,#N/A,#N/A,#N/A
+Missoula,0,Montana,3,,0,,Missoula Montana,30063,109299,404
+Yellowstone,0,Montana,2,,0,,Yellowstone Montana,30111,147972,630
+Unassigned,2,Montana,1,,0,,Unassigned Montana,#N/A,#N/A,#N/A
+Gallatin,0,Montana,1,,0,,Gallatin Montana,30031,89513,90
+Silver Bow,0,Montana,1,,0,,Silver Bow Montana,30093,34200,206
+Broadwater,0,Montana,1,,0,,Broadwater Montana,30007,5612,44
+Idaho state,1,Idaho,8,3,0,,Idaho state Idaho,#N/A,#N/A,#N/A
+Ada,0,Idaho,3,1,0,,Ada Idaho,16001,392365,1354
+Blaine,0,Idaho,3,1,0,,Blaine Idaho,16013,21376,25
+Teton,0,Idaho,1,,0,,Teton Idaho,16081,10170,13
+Madison,0,Idaho,1,1,0,,Madison Idaho,16065,37536,69
+Puerto Rico state,1,Puerto Rico,5,,0,,Puerto Rico state Puerto Rico,#N/A,#N/A,#N/A
+Puerto Rico,2,Puerto Rico,5,,0,,Puerto Rico Puerto Rico,#N/A,#N/A,#N/A
+North Dakota state,1,North Dakota,3,2,0,,North Dakota state North Dakota,#N/A,#N/A,#N/A
+Ward,0,North Dakota,2,1,0,,Ward North Dakota,38101,61675,527
+Cass,0,North Dakota,1,1,0,,Cass North Dakota,38017,149778,1262
+Alaska state,1,Alaska,3,,0,,Alaska state Alaska,#N/A,#N/A,#N/A
+Fairbanks North Star,0,Alaska,2,,0,,Fairbanks North Star Alaska,02090,97581,217
+Anchorage,0,Alaska,1,,0,,Anchorage Alaska,02020,291826,988
+Wuhan Evacuee state,1,Wuhan Evacuee,3,,0,,Wuhan Evacuee state Wuhan Evacuee,#N/A,#N/A,#N/A
+Unassigned,2,Wuhan Evacuee,3,,0,,Unassigned Wuhan Evacuee,#N/A,#N/A,#N/A
+Guam state,1,Guam,3,,0,,Guam state Guam,#N/A,#N/A,#N/A
+Unassigned,2,Guam,3,,0,,Unassigned Guam,#N/A,#N/A,#N/A
+US Virgin Islands state,1,US Virgin Islands,2,1,0,,US Virgin Islands state US Virgin Islands,#N/A,#N/A,#N/A
+Unassigned,2,US Virgin Islands,2,1,0,,Unassigned US Virgin Islands,#N/A,#N/A,#N/A
+West Virginia state,1,West Virginia,1,1,0,,West Virginia state West Virginia,#N/A,#N/A,#N/A
+Unassigned,2,West Virginia,1,1,0,,Unassigned West Virginia,#N/A,#N/A,#N/A
