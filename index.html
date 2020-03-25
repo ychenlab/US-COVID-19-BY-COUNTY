@@ -185,7 +185,7 @@ function onEachFeature(feature, layer) {
         mouseout: resetHighlight,
         click: zoomToFeature
     });
-	content='<b>' + feature.properties.LOCATION + '<br/>Confirmed: ' + feature.properties.COMFIRMED_COMFIRMED + '<br/>Newly added: ' + feature.properties.ADDED
+	content='<b>' + feature.properties.LOCATION + '<br/>Confirmed: ' + numberWithCommas(feature.properties.COMFIRMED_COMFIRMED) + '<br/>Newly added: ' + feature.properties.ADDED
 			+ '</b><br/><font color="#555">Population: ' + numberWithCommas(feature.properties.Pop)
 			+ '<br/>Hospital beds: '+ numberWithCommas(feature.properties.HospitalBeds)+'<br/>('+ numberWithCommas(Math.round(feature.properties.HospitalBeds/feature.properties.COMFIRMED_COMFIRMED)) +' beds per confirmed)'+'</font>'
 			;
@@ -209,8 +209,8 @@ info.onAdd = function (map) {
 
 // add information section
 	info.update = function (props) {
-		content='<h4>US COVID-19 BY COUNTY<br/>43,945 confirmed, 8,727 added<br/>Dots as Hospitals</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a> <br/>Update: March 23 2020, 10 pm EST</p></footer>' +  (props ?
-				'<b>' + props.LOCATION + '<br/>Confirmed: ' + props.COMFIRMED_COMFIRMED + '<br/>Newly added: ' + props.ADDED
+		content='<h4>US COVID-19 BY COUNTY<br/>54,904 confirmed, 10,031 added<br/>Dots as Hospitals</h4>'+ 	'<footer><p>Source:<a href="https://coronavirus.1point3acres.com/">coronavirus.1point3acres.com</a> <br/>Update: March 24 2020, 10 pm EST</p></footer>' +  (props ?
+				'<b>' + props.LOCATION + '<br/>Confirmed: ' + numberWithCommas(props.COMFIRMED_COMFIRMED) + '<br/>Newly added: ' + numberWithCommas(props.ADDED)
 				+ '</b><footer><br/>Population: ' + numberWithCommas(props.Pop)
 				+ '<br/>Hospital beds: '+ numberWithCommas(props.HospitalBeds)+'<br/>('+ numberWithCommas(Math.round(props.HospitalBeds/props.COMFIRMED_COMFIRMED)) +' beds per confirmed,'
 				+'<br/>assuming all beds for COVID-19)</footer>'
