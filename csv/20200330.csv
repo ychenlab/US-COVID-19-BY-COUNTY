@@ -1,0 +1,2059 @@
+date,LOCATION,STATE,fips,COMFIRMED_COMFIRMED,DEATH,ADDED,geoid_nu,CONCA,Pop,HospitalBeds
+3/30/2020,Autauga,Alabama,1001,7,0,1,1001,Autauga Alabama,54571,85
+3/30/2020,Baldwin,Alabama,1003,18,0,3,1003,Baldwin Alabama,182265,398
+3/30/2020,Bibb,Alabama,1007,2,0,2,1007,Bibb Alabama,22915,35
+3/30/2020,Blount,Alabama,1009,5,0,0,1009,Blount Alabama,57322,40
+3/30/2020,Bullock,Alabama,1011,3,0,0,1011,Bullock Alabama,10914,61
+3/30/2020,Butler,Alabama,1013,1,0,0,1013,Butler Alabama,20947,94
+3/30/2020,Calhoun,Alabama,1015,9,0,6,1015,Calhoun Alabama,118572,590
+3/30/2020,Chambers,Alabama,1017,36,4,9,1017,Chambers Alabama,34215,115
+3/30/2020,Cherokee,Alabama,1019,2,0,0,1019,Cherokee Alabama,25989,60
+3/30/2020,Chilton,Alabama,1021,10,0,2,1021,Chilton Alabama,43643,26
+3/30/2020,Choctaw,Alabama,1023,2,0,1,1023,Choctaw Alabama,13859,25
+3/30/2020,Clay,Alabama,1027,2,0,0,1027,Clay Alabama,13932,45
+3/30/2020,Cleburne,Alabama,1029,5,0,0,1029,Cleburne Alabama,14972,0
+3/30/2020,Colbert,Alabama,1033,4,0,2,1033,Colbert Alabama,54428,363
+3/30/2020,Coosa,Alabama,1037,4,0,1,1037,Coosa Alabama,11539,0
+3/30/2020,Covington,Alabama,1039,2,0,0,1039,Covington Alabama,37765,187
+3/30/2020,Crenshaw,Alabama,1041,1,0,0,1041,Crenshaw Alabama,13906,93
+3/30/2020,Cullman,Alabama,1043,8,0,1,1043,Cullman Alabama,80406,185
+3/30/2020,Dallas,Alabama,1047,2,0,0,1047,Dallas Alabama,43820,175
+3/30/2020,DeKalb,Alabama,1049,4,0,0,1049,DeKalb Alabama,71109,134
+3/30/2020,Elmore,Alabama,1051,13,0,0,1051,Elmore Alabama,79303,138
+3/30/2020,Escambia,Alabama,1053,1,0,0,1053,Escambia Alabama,38319,142
+3/30/2020,Etowah,Alabama,1055,6,0,0,1055,Etowah Alabama,104430,739
+3/30/2020,Fayette,Alabama,1057,1,0,1,1057,Fayette Alabama,17241,61
+3/30/2020,Franklin,Alabama,1059,3,0,0,1059,Franklin Alabama,31704,125
+3/30/2020,Greene,Alabama,1063,3,0,0,1063,Greene Alabama,9045,20
+3/30/2020,Hale,Alabama,1065,1,0,1,1065,Hale Alabama,15760,39
+3/30/2020,Houston,Alabama,1069,9,0,1,1069,Houston Alabama,101547,782
+3/30/2020,Jackson,Alabama,1071,7,1,2,1071,Jackson Alabama,53227,170
+3/30/2020,Jefferson,Alabama,1073,257,0,11,1073,Jefferson Alabama,658466,4392
+3/30/2020,Lamar,Alabama,1075,1,0,0,1075,Lamar Alabama,14564,0
+3/30/2020,Lauderdale,Alabama,1077,12,1,0,1077,Lauderdale Alabama,92709,358
+3/30/2020,Lawrence,Alabama,1079,3,0,0,1079,Lawrence Alabama,34339,98
+3/30/2020,Lee,Alabama,1081,74,2,17,1081,Lee Alabama,140247,314
+3/30/2020,Limestone,Alabama,1083,20,0,4,1083,Limestone Alabama,82782,102
+3/30/2020,Lowndes,Alabama,1085,1,0,0,1085,Lowndes Alabama,11299,0
+3/30/2020,Macon,Alabama,1087,1,0,0,1087,Macon Alabama,21452,0
+3/30/2020,Madison,Alabama,1089,96,1,16,1089,Madison Alabama,334811,1178
+3/30/2020,Marengo,Alabama,1091,4,0,-1,1091,Marengo Alabama,21027,99
+3/30/2020,Marion,Alabama,1093,9,0,-1,1093,Marion Alabama,30776,120
+3/30/2020,Marshall,Alabama,1095,7,0,2,1095,Marshall Alabama,93019,240
+3/30/2020,Mobile,Alabama,1097,45,1,4,1097,Mobile Alabama,412992,1929
+3/30/2020,Monroe,Alabama,1099,1,0,0,1099,Monroe Alabama,23068,94
+3/30/2020,Montgomery,Alabama,1101,29,0,7,1101,Montgomery Alabama,229363,1143
+3/30/2020,Morgan,Alabama,1103,19,0,2,1103,Morgan Alabama,119490,402
+3/30/2020,Pickens,Alabama,1107,3,0,1,1107,Pickens Alabama,19746,56
+3/30/2020,Pike,Alabama,1109,4,0,0,1109,Pike Alabama,32899,97
+3/30/2020,Randolph,Alabama,1111,2,0,0,1111,Randolph Alabama,22913,34
+3/30/2020,Russell,Alabama,1113,1,0,0,1113,Russell Alabama,52947,118
+3/30/2020,Shelby,Alabama,1117,88,0,9,1117,Shelby Alabama,195085,349
+3/30/2020,St. Clair,Alabama,1115,14,0,1,1115,St. Clair Alabama,83593,40
+3/30/2020,Sumter,Alabama,1119,1,0,1,1119,Sumter Alabama,13763,33
+3/30/2020,Talladega,Alabama,1121,6,0,2,1121,Talladega Alabama,82291,285
+3/30/2020,Tallapoosa,Alabama,1123,12,1,4,1123,Tallapoosa Alabama,41616,127
+3/30/2020,Tuscaloosa,Alabama,1125,28,0,5,1125,Tuscaloosa Alabama,194656,933
+3/30/2020,Walker,Alabama,1127,31,0,1,1127,Walker Alabama,67023,267
+3/30/2020,Washington,Alabama,1129,3,0,-1,1129,Washington Alabama,17581,25
+3/30/2020,Wilcox,Alabama,1131,2,0,0,1131,Wilcox Alabama,11670,30
+3/30/2020,Winston,Alabama,1133,2,0,0,1133,Winston Alabama,24484,59
+3/30/2020,Anchorage,Alaska,2020,61,2,2,2020,Anchorage Alaska,291826,988
+3/30/2020,Fairbanks North Star Borough,Alaska,2090,31,0,3,2090,Fairbanks North Star Borough Alaska,97581,217
+3/30/2020,Juneau City and Borough,Alaska,2110,5,0,0,2110,Juneau City and Borough Alaska,31275,0
+3/30/2020,Kenai Peninsula Borough,Alaska,2122,7,0,0,2122,Kenai Peninsula Borough Alaska,55400,204
+3/30/2020,Ketchikan Gateway Borough,Alaska,2130,13,0,0,2130,Ketchikan Gateway Borough Alaska,13477,54
+3/30/2020,Matanuska-Susitna Borough,Alaska,2170,3,0,1,2170,Matanuska-Susitna Borough Alaska,88995,74
+3/30/2020,Apache,Arizona,4001,17,0,4,4001,Apache Arizona,71518,45
+3/30/2020,Cochise,Arizona,4003,4,0,1,4003,Cochise Arizona,131346,184
+3/30/2020,Coconino,Arizona,4005,73,3,5,4005,Coconino Arizona,134421,308
+3/30/2020,Gila,Arizona,4007,1,0,0,4007,Gila Arizona,53597,69
+3/30/2020,Graham,Arizona,4009,2,0,0,4009,Graham Arizona,37220,49
+3/30/2020,Greenlee,Arizona,4011,1,0,1,4011,Greenlee Arizona,8437,0
+3/30/2020,La Paz,Arizona,4012,2,0,0,4012,La Paz Arizona,20489,25
+3/30/2020,Maricopa,Arizona,4013,690,5,144,4013,Maricopa Arizona,3817117,9705
+3/30/2020,Mohave,Arizona,4015,7,0,1,4015,Mohave Arizona,200186,588
+3/30/2020,Navajo,Arizona,4017,88,0,26,4017,Navajo Arizona,107449,130
+3/30/2020,Pima,Arizona,4019,187,6,34,4019,Pima Arizona,980263,3018
+3/30/2020,Pinal,Arizona,4021,64,0,13,4021,Pinal Arizona,375770,388
+3/30/2020,Santa Cruz,Arizona,4023,2,0,0,4023,Santa Cruz Arizona,47420,56
+3/30/2020,Yavapai,Arizona,4025,19,0,7,4025,Yavapai Arizona,211033,332
+3/30/2020,Yuma,Arizona,4027,12,0,3,4027,Yuma Arizona,195751,410
+3/30/2020,Arkansas,Arkansas,5001,2,0,1,5001,Arkansas Arkansas,19019,25
+3/30/2020,Ashley,Arkansas,5003,1,0,0,5003,Ashley Arkansas,21853,33
+3/30/2020,Baxter,Arkansas,5005,2,0,1,5005,Baxter Arkansas,41513,268
+3/30/2020,Benton,Arkansas,5007,38,0,5,5007,Benton Arkansas,221339,170
+3/30/2020,Boone,Arkansas,5009,1,0,0,5009,Boone Arkansas,36903,174
+3/30/2020,Bradley,Arkansas,5011,4,0,0,5011,Bradley Arkansas,11508,35
+3/30/2020,Chicot,Arkansas,5017,2,0,0,5017,Chicot Arkansas,11800,40
+3/30/2020,Clark,Arkansas,5019,24,0,6,5019,Clark Arkansas,22995,25
+3/30/2020,Cleburne,Arkansas,5023,58,2,2,5023,Cleburne Arkansas,25970,25
+3/30/2020,Cleveland,Arkansas,5025,5,0,0,5025,Cleveland Arkansas,8689,0
+3/30/2020,Columbia,Arkansas,5027,2,0,0,5027,Columbia Arkansas,24552,70
+3/30/2020,Conway,Arkansas,5029,2,1,0,5029,Conway Arkansas,21273,35
+3/30/2020,Craighead,Arkansas,5031,8,0,2,5031,Craighead Arkansas,96443,619
+3/30/2020,Crawford,Arkansas,5033,2,0,0,5033,Crawford Arkansas,61948,103
+3/30/2020,Crittenden,Arkansas,5035,17,0,0,5035,Crittenden Arkansas,50902,54
+3/30/2020,Cross,Arkansas,5037,2,0,0,5037,Cross Arkansas,17870,25
+3/30/2020,Desha,Arkansas,5041,2,0,0,5041,Desha Arkansas,13008,50
+3/30/2020,Drew,Arkansas,5043,2,0,0,5043,Drew Arkansas,18509,49
+3/30/2020,Faulkner,Arkansas,5045,36,0,6,5045,Faulkner Arkansas,113237,172
+3/30/2020,Garland,Arkansas,5051,31,0,5,5051,Garland Arkansas,96024,611
+3/30/2020,Grant,Arkansas,5053,3,0,0,5053,Grant Arkansas,17853,0
+3/30/2020,Greene,Arkansas,5055,4,0,1,5055,Greene Arkansas,42090,129
+3/30/2020,Hempstead,Arkansas,5057,1,0,0,5057,Hempstead Arkansas,22609,79
+3/30/2020,Hot Spring,Arkansas,5059,4,0,1,5059,Hot Spring Arkansas,32923,100
+3/30/2020,Howard,Arkansas,5061,3,0,0,5061,Howard Arkansas,13789,0
+3/30/2020,Independence,Arkansas,5063,3,0,0,5063,Independence Arkansas,36647,199
+3/30/2020,Jefferson,Arkansas,5069,33,0,7,5069,Jefferson Arkansas,77435,498
+3/30/2020,Johnson,Arkansas,5071,3,0,2,5071,Johnson Arkansas,25540,80
+3/30/2020,Lawrence,Arkansas,5075,1,0,0,5075,Lawrence Arkansas,17415,25
+3/30/2020,Lincoln,Arkansas,5079,6,0,0,5079,Lincoln Arkansas,14134,0
+3/30/2020,Lonoke,Arkansas,5085,4,0,0,5085,Lonoke Arkansas,68356,0
+3/30/2020,Nevada,Arkansas,5099,1,0,0,5099,Nevada Arkansas,8997,0
+3/30/2020,Newton,Arkansas,5101,1,0,1,5101,Newton Arkansas,8330,0
+3/30/2020,Perry,Arkansas,5105,1,0,0,5105,Perry Arkansas,10445,0
+3/30/2020,Pike,Arkansas,5109,2,0,-1,5109,Pike Arkansas,11291,0
+3/30/2020,Poinsett,Arkansas,5111,5,0,2,5111,Poinsett Arkansas,24583,0
+3/30/2020,Polk,Arkansas,5113,2,0,0,5113,Polk Arkansas,20662,65
+3/30/2020,Pope,Arkansas,5115,5,0,1,5115,Pope Arkansas,61754,170
+3/30/2020,Pulaski,Arkansas,5119,99,3,5,5119,Pulaski Arkansas,382748,3071
+3/30/2020,Randolph,Arkansas,5121,2,0,0,5121,Randolph Arkansas,17969,50
+3/30/2020,Saline,Arkansas,5125,8,0,2,5125,Saline Arkansas,107118,244
+3/30/2020,Searcy,Arkansas,5129,4,0,0,5129,Searcy Arkansas,8195,0
+3/30/2020,Sebastian,Arkansas,5131,6,0,1,5131,Sebastian Arkansas,125744,1050
+3/30/2020,Sevier,Arkansas,5133,2,0,0,5133,Sevier Arkansas,17058,35
+3/30/2020,St. Francis,Arkansas,5123,1,0,1,5123,St. Francis Arkansas,28258,118
+3/30/2020,Stone,Arkansas,5137,5,0,1,5137,Stone Arkansas,12394,25
+3/30/2020,Union,Arkansas,5139,8,0,2,5139,Union Arkansas,41639,166
+3/30/2020,Van Buren,Arkansas,5141,20,1,2,5141,Van Buren Arkansas,17295,25
+3/30/2020,Washington,Arkansas,5143,18,0,3,5143,Washington Arkansas,203065,851
+3/30/2020,White,Arkansas,5145,9,0,3,5145,White Arkansas,77076,506
+3/30/2020,Woodruff,Arkansas,5147,1,0,0,5147,Woodruff Arkansas,7260,0
+3/30/2020,Alameda,California,6001,304,7,13,6001,Alameda California,1510271,3833
+3/30/2020,Alpine,California,6003,1,0,1,6003,Alpine California,1175,0
+3/30/2020,Amador,California,6005,2,0,0,6005,Amador California,38091,52
+3/30/2020,Butte,California,6007,8,0,3,6007,Butte California,220000,592
+3/30/2020,Calaveras,California,6009,3,0,0,6009,Calaveras California,45578,48
+3/30/2020,Colusa,California,6011,1,0,0,6011,Colusa California,21419,48
+3/30/2020,Contra Costa,California,6013,187,3,12,6013,Contra Costa California,1049025,1804
+3/30/2020,El Dorado,California,6017,15,0,3,6017,El Dorado California,181058,240
+3/30/2020,Fresno,California,6019,53,0,10,6019,Fresno California,930450,3551
+3/30/2020,Glenn,California,6021,2,0,1,6021,Glenn California,28122,47
+3/30/2020,Humboldt,California,6023,21,0,3,6023,Humboldt California,134623,299
+3/30/2020,Imperial,California,6025,33,0,8,6025,Imperial California,174528,268
+3/30/2020,Inyo,California,6027,8,0,0,6027,Inyo California,18546,62
+3/30/2020,Kern,California,6029,76,1,25,6029,Kern California,839631,1833
+3/30/2020,Kings,California,6031,3,0,1,6031,Kings California,152982,142
+3/30/2020,Los Angeles,California,6037,2474,44,338,6037,Los Angeles California,9818605,28383
+3/30/2020,Madera,California,6039,21,1,3,6039,Madera California,150865,462
+3/30/2020,Marin,California,6041,99,1,6,6041,Marin California,252409,458
+3/30/2020,Mendocino,California,6045,4,0,1,6045,Mendocino California,87841,141
+3/30/2020,Merced,California,6047,9,0,1,6047,Merced California,255793,246
+3/30/2020,Mono,California,6051,13,0,2,6051,Mono California,14202,17
+3/30/2020,Monterey,California,6053,36,1,4,6053,Monterey California,415057,793
+3/30/2020,Napa,California,6055,15,0,4,6055,Napa California,136484,1780
+3/30/2020,Nevada,California,6057,18,0,6,6057,Nevada California,98764,176
+3/30/2020,Orange,California,6059,464,4,33,6059,Orange California,3010232,7902
+3/30/2020,Placer,California,6061,57,2,4,6061,Placer California,348432,748
+3/30/2020,Riverside,California,6065,291,9,96,6065,Riverside California,2189641,3945
+3/30/2020,Sacramento,California,6067,224,7,60,6067,Sacramento California,1418788,3500
+3/30/2020,San Benito,California,6069,17,1,3,6069,San Benito California,55269,181
+3/30/2020,San Bernardino,California,6071,111,3,0,6071,San Bernardino California,2035210,5906
+3/30/2020,San Diego,California,6073,603,7,84,6073,San Diego California,3095313,7623
+3/30/2020,San Francisco,California,6075,374,6,31,6075,San Francisco California,805235,4733
+3/30/2020,San Joaquin,California,6077,136,6,15,6077,San Joaquin California,685306,1256
+3/30/2020,San Luis Obispo,California,6079,77,0,6,6079,San Luis Obispo California,269637,1747
+3/30/2020,San Mateo,California,6081,309,6,32,6081,San Mateo California,718451,1781
+3/30/2020,Santa Barbara,California,6083,88,0,20,6083,Santa Barbara California,423895,1054
+3/30/2020,Santa Clara,California,6085,848,29,202,6085,Santa Clara California,1781642,3831
+3/30/2020,Santa Cruz,California,6087,45,1,1,6087,Santa Cruz California,262382,375
+3/30/2020,Shasta,California,6089,6,1,2,6089,Shasta California,177223,748
+3/30/2020,Siskiyou,California,6093,3,0,0,6093,Siskiyou California,44900,61
+3/30/2020,Solano,California,6095,48,0,9,6095,Solano California,413344,749
+3/30/2020,Sonoma,California,6097,73,1,16,6097,Sonoma California,483878,1956
+3/30/2020,Stanislaus,California,6099,33,0,2,6099,Stanislaus California,514453,1584
+3/30/2020,Sutter,California,6101,9,0,3,6101,Sutter California,94737,92
+3/30/2020,Tulare,California,6107,43,1,8,6107,Tulare California,442179,2086
+3/30/2020,Tuolumne,California,6109,1,0,0,6109,Tuolumne California,55365,152
+3/30/2020,Ventura,California,6111,126,4,17,6111,Ventura California,823318,1660
+3/30/2020,Yolo,California,6113,24,1,8,6113,Yolo California,200849,156
+3/30/2020,Yuba,California,6115,6,0,3,6115,Yuba California,72155,173
+3/30/2020,Adams,Colorado,8001,153,0,43,8001,Adams Colorado,441603,800
+3/30/2020,Alamosa,Colorado,8003,1,0,0,8003,Alamosa Colorado,15445,44
+3/30/2020,Arapahoe,Colorado,8005,308,0,67,8005,Arapahoe Colorado,572003,1010
+3/30/2020,Archuleta,Colorado,8007,1,0,1,8007,Archuleta Colorado,12084,11
+3/30/2020,Baca,Colorado,8009,1,0,0,8009,Baca Colorado,3788,79
+3/30/2020,Boulder,Colorado,8013,100,1,10,8013,Boulder Colorado,294567,522
+3/30/2020,Broomfield,Colorado,8014,18,0,1,8014,Broomfield Colorado,55889,0
+3/30/2020,Chaffee,Colorado,8015,15,1,0,8015,Chaffee Colorado,17809,25
+3/30/2020,Clear Creek,Colorado,8019,3,0,0,8019,Clear Creek Colorado,9088,0
+3/30/2020,Costilla,Colorado,8023,3,0,2,8023,Costilla Colorado,3524,0
+3/30/2020,Crowley,Colorado,8025,1,1,0,8025,Crowley Colorado,5823,0
+3/30/2020,Delta,Colorado,8029,1,0,0,8029,Delta Colorado,30952,49
+3/30/2020,Denver,Colorado,8031,465,6,57,8031,Denver Colorado,600158,2361
+3/30/2020,Douglas,Colorado,8035,121,0,19,8035,Douglas Colorado,285465,286
+3/30/2020,Eagle,Colorado,8037,213,4,26,8037,Eagle Colorado,52197,58
+3/30/2020,El Paso,Colorado,8041,245,11,31,8041,El Paso Colorado,622263,836
+3/30/2020,Elbert,Colorado,8039,4,0,1,8039,Elbert Colorado,23086,0
+3/30/2020,Fremont,Colorado,8043,2,0,1,8043,Fremont Colorado,46824,25
+3/30/2020,Garfield,Colorado,8045,31,1,6,8045,Garfield Colorado,56389,119
+3/30/2020,Grand,Colorado,8049,4,0,2,8049,Grand Colorado,14843,44
+3/30/2020,Gunnison,Colorado,8051,80,1,1,8051,Gunnison Colorado,15324,24
+3/30/2020,Hinsdale,Colorado,8053,1,0,0,8053,Hinsdale Colorado,843,0
+3/30/2020,Huerfano,Colorado,8055,1,0,0,8055,Huerfano Colorado,6711,20
+3/30/2020,Jefferson,Colorado,8059,253,5,40,8059,Jefferson Colorado,534543,780
+3/30/2020,Kit Carson,Colorado,8063,1,0,0,8063,Kit Carson Colorado,8270,19
+3/30/2020,La Plata,Colorado,8067,21,0,0,8067,La Plata Colorado,51334,94
+3/30/2020,Larimer,Colorado,8069,92,4,8,8069,Larimer Colorado,299630,725
+3/30/2020,Lincoln,Colorado,8073,1,0,0,8073,Lincoln Colorado,5467,50
+3/30/2020,Logan,Colorado,8075,5,0,0,8075,Logan Colorado,22709,25
+3/30/2020,Mesa,Colorado,8077,12,0,1,8077,Mesa Colorado,146723,460
+3/30/2020,Mineral,Colorado,8079,1,0,0,8079,Mineral Colorado,712,0
+3/30/2020,Moffat,Colorado,8081,4,0,2,8081,Moffat Colorado,13795,0
+3/30/2020,Montezuma,Colorado,8083,1,0,0,8083,Montezuma Colorado,25535,25
+3/30/2020,Montrose,Colorado,8085,10,0,2,8085,Montrose Colorado,41276,69
+3/30/2020,Morgan,Colorado,8087,4,0,-1,8087,Morgan Colorado,28159,69
+3/30/2020,Otero,Colorado,8089,3,0,0,8089,Otero Colorado,18831,78
+3/30/2020,Park,Colorado,8093,4,0,1,8093,Park Colorado,16206,0
+3/30/2020,Phillips,Colorado,8095,1,0,1,8095,Phillips Colorado,4442,40
+3/30/2020,Pitkin,Colorado,8097,29,2,2,8097,Pitkin Colorado,17148,25
+3/30/2020,Pueblo,Colorado,8101,21,2,3,8101,Pueblo Colorado,159063,1292
+3/30/2020,Rio Grande,Colorado,8105,4,0,1,8105,Rio Grande Colorado,11982,17
+3/30/2020,Routt,Colorado,8107,16,0,0,8107,Routt Colorado,23509,98
+3/30/2020,San Miguel,Colorado,8113,1,0,0,8113,San Miguel Colorado,7359,0
+3/30/2020,Summit,Colorado,8117,14,0,3,8117,Summit Colorado,27994,34
+3/30/2020,Teller,Colorado,8119,8,1,1,8119,Teller Colorado,23350,15
+3/30/2020,Washington,Colorado,8121,1,0,0,8121,Washington Colorado,4814,0
+3/30/2020,Weld,Colorado,8123,215,10,35,8123,Weld Colorado,252825,300
+3/30/2020,Yuma,Colorado,8125,2,0,0,8125,Yuma Colorado,10043,28
+3/30/2020,Fairfield,Connecticut,9001,1445,21,200,9001,Fairfield Connecticut,916829,2066
+3/30/2020,Hartford,Connecticut,9003,330,3,54,9003,Hartford Connecticut,894014,2980
+3/30/2020,Litchfield,Connecticut,9005,113,1,26,9005,Litchfield Connecticut,189927,272
+3/30/2020,Middlesex,Connecticut,9007,50,1,12,9007,Middlesex Connecticut,165676,215
+3/30/2020,New Haven,Connecticut,9009,373,6,93,9009,New Haven Connecticut,862477,3045
+3/30/2020,New London,Connecticut,9011,24,0,4,9011,New London Connecticut,274055,465
+3/30/2020,Tolland,Connecticut,9013,50,4,10,9013,Tolland Connecticut,152691,174
+3/30/2020,Windham,Connecticut,9015,10,0,3,9015,Windham Connecticut,118428,234
+3/30/2020,Kent,Delaware,10001,27,2,2,10001,Kent Delaware,162310,288
+3/30/2020,New Castle,Delaware,10003,156,3,15,10003,New Castle Delaware,538479,2016
+3/30/2020,Sussex,Delaware,10005,81,2,15,10005,Sussex Delaware,197145,476
+3/30/2020,District of Columbia,District of Columbia,11001,495,9,153,11001,District of Columbia District of Columbia,601723,4304
+3/30/2020,Alachua,Florida,12001,80,0,8,12001,Alachua Florida,247336,1765
+3/30/2020,Baker,Florida,12003,8,0,0,12003,Baker Florida,27115,1163
+3/30/2020,Bay,Florida,12005,6,0,0,12005,Bay Florida,168852,752
+3/30/2020,Bradford,Florida,12007,2,0,0,12007,Bradford Florida,28520,25
+3/30/2020,Brevard,Florida,12009,32,0,2,12009,Brevard Florida,543376,1768
+3/30/2020,Broward,Florida,12011,1137,12,125,12011,Broward Florida,1748066,6715
+3/30/2020,Charlotte,Florida,12015,20,0,4,12015,Charlotte Florida,159978,823
+3/30/2020,Citrus,Florida,12017,17,2,1,12017,Citrus Florida,141236,332
+3/30/2020,Clay,Florida,12019,34,5,-1,12019,Clay Florida,190865,416
+3/30/2020,Collier,Florida,12021,127,1,16,12021,Collier Florida,321520,1051
+3/30/2020,Columbia,Florida,12023,3,0,0,12023,Columbia Florida,67531,346
+3/30/2020,DeSoto,Florida,12027,7,2,0,12027,DeSoto Florida,34862,49
+3/30/2020,Duval,Florida,12031,163,4,21,12031,Duval Florida,864263,4071
+3/30/2020,Escambia,Florida,12033,81,0,44,12033,Escambia Florida,297619,1276
+3/30/2020,Flagler,Florida,12035,15,0,2,12035,Flagler Florida,95696,99
+3/30/2020,Gadsden,Florida,12039,1,0,0,12039,Gadsden Florida,46389,1253
+3/30/2020,Glades,Florida,12043,3,0,2,12043,Glades Florida,12884,0
+3/30/2020,Hendry,Florida,12051,3,0,1,12051,Hendry Florida,39140,25
+3/30/2020,Hernando,Florida,12053,21,0,1,12053,Hernando Florida,172778,620
+3/30/2020,Highlands,Florida,12055,14,1,2,12055,Highlands Florida,98786,323
+3/30/2020,Hillsborough,Florida,12057,272,2,47,12057,Hillsborough Florida,1229226,4857
+3/30/2020,Holmes,Florida,12059,1,0,1,12059,Holmes Florida,19927,20
+3/30/2020,Indian River,Florida,12061,25,0,5,12061,Indian River Florida,138028,612
+3/30/2020,Jackson,Florida,12063,2,0,0,12063,Jackson Florida,49746,87
+3/30/2020,Lake,Florida,12069,50,0,6,12069,Lake Florida,297052,897
+3/30/2020,Lee,Florida,12071,170,6,19,12071,Lee Florida,618754,2240
+3/30/2020,Leon,Florida,12073,21,0,5,12073,Leon Florida,275487,1208
+3/30/2020,Levy,Florida,12075,2,0,0,12075,Levy Florida,40801,40
+3/30/2020,Manatee,Florida,12081,42,1,4,12081,Manatee Florida,322833,806
+3/30/2020,Marion,Florida,12083,23,0,1,12083,Marion Florida,331298,919
+3/30/2020,Martin,Florida,12085,27,0,0,12085,Martin Florida,146318,558
+3/30/2020,Miami-Dade,Florida,12086,1700,4,229,12086,Miami-Dade Florida,2496435,9965
+3/30/2020,Monroe,Florida,12087,26,0,3,12087,Monroe Florida,73090,148
+3/30/2020,Nassau,Florida,12089,7,0,-1,12089,Nassau Florida,73314,54
+3/30/2020,Okaloosa,Florida,12091,35,1,4,12091,Okaloosa Florida,180822,673
+3/30/2020,Orange,Florida,12095,299,4,32,12095,Orange Florida,1145956,4751
+3/30/2020,Osceola,Florida,12097,94,1,5,12097,Osceola Florida,268685,997
+3/30/2020,Palm Beach,Florida,12099,462,10,80,12099,Palm Beach Florida,1320134,4993
+3/30/2020,Pasco,Florida,12101,38,2,3,12101,Pasco Florida,464697,1440
+3/30/2020,Pinellas,Florida,12103,129,5,13,12103,Pinellas Florida,916542,4119
+3/30/2020,Polk,Florida,12105,63,0,17,12105,Polk Florida,602095,1793
+3/30/2020,Putnam,Florida,12107,13,0,1,12107,Putnam Florida,74364,99
+3/30/2020,Santa Rosa,Florida,12113,36,2,15,12113,Santa Rosa Florida,151372,385
+3/30/2020,Sarasota,Florida,12115,67,2,6,12115,Sarasota Florida,379448,1618
+3/30/2020,Seminole,Florida,12117,88,0,7,12117,Seminole Florida,422718,965
+3/30/2020,St. Johns,Florida,12109,61,2,2,12109,St. Johns Florida,190039,335
+3/30/2020,St. Lucie,Florida,12111,31,2,7,12111,St. Lucie Florida,277789,836
+3/30/2020,Sumter,Florida,12119,47,0,2,12119,Sumter Florida,93420,339
+3/30/2020,Suwannee,Florida,12121,3,0,1,12121,Suwannee Florida,41551,15
+3/30/2020,Volusia,Florida,12127,69,1,9,12127,Volusia Florida,494593,2042
+3/30/2020,Wakulla,Florida,12129,1,0,0,12129,Wakulla Florida,30776,0
+3/30/2020,Walton,Florida,12131,16,0,1,12131,Walton Florida,55043,108
+3/30/2020,Washington,Florida,12133,1,0,0,12133,Washington Florida,24896,59
+3/30/2020,Appling,Georgia,13001,2,0,2,13001,Appling Georgia,18236,49
+3/30/2020,Bacon,Georgia,13005,1,0,0,13005,Bacon Georgia,11096,47
+3/30/2020,Baker,Georgia,13007,1,1,0,13007,Baker Georgia,3451,0
+3/30/2020,Baldwin,Georgia,13009,3,1,1,13009,Baldwin Georgia,45720,340
+3/30/2020,Banks,Georgia,13011,1,0,1,13011,Banks Georgia,18395,0
+3/30/2020,Barrow,Georgia,13013,9,2,3,13013,Barrow Georgia,69367,56
+3/30/2020,Bartow,Georgia,13015,125,1,6,13015,Bartow Georgia,100157,80
+3/30/2020,Ben Hill,Georgia,13017,3,0,1,13017,Ben Hill Georgia,17634,75
+3/30/2020,Berrien,Georgia,13019,1,0,1,13019,Berrien Georgia,19286,63
+3/30/2020,Bibb,Georgia,13021,16,0,2,13021,Bibb Georgia,155547,1182
+3/30/2020,Bleckley,Georgia,13023,1,0,1,13023,Bleckley Georgia,13063,25
+3/30/2020,Brooks,Georgia,13027,1,0,0,13027,Brooks Georgia,16243,25
+3/30/2020,Bryan,Georgia,13029,7,0,0,13029,Bryan Georgia,30233,0
+3/30/2020,Bulloch,Georgia,13031,1,0,0,13031,Bulloch Georgia,70217,190
+3/30/2020,Burke,Georgia,13033,4,0,0,13033,Burke Georgia,23316,40
+3/30/2020,Butts,Georgia,13035,6,0,1,13035,Butts Georgia,23655,25
+3/30/2020,Calhoun,Georgia,13037,6,0,3,13037,Calhoun Georgia,6694,0
+3/30/2020,Camden,Georgia,13039,4,0,2,13039,Camden Georgia,50513,40
+3/30/2020,Candler,Georgia,13043,1,0,0,13043,Candler Georgia,10998,25
+3/30/2020,Carroll,Georgia,13045,97,1,27,13045,Carroll Georgia,110527,303
+3/30/2020,Catoosa,Georgia,13047,3,0,0,13047,Catoosa Georgia,63942,185
+3/30/2020,Charlton,Georgia,13049,1,0,0,13049,Charlton Georgia,12171,0
+3/30/2020,Chatham,Georgia,13051,19,2,3,13051,Chatham Georgia,265128,1717
+3/30/2020,Chattahoochee,Georgia,13053,1,0,0,13053,Chattahoochee Georgia,11267,57
+3/30/2020,Chattooga,Georgia,13055,3,0,2,13055,Chattooga Georgia,26015,0
+3/30/2020,Cherokee,Georgia,13057,69,1,9,13057,Cherokee Georgia,214346,79
+3/30/2020,Clarke,Georgia,13059,47,5,12,13059,Clarke Georgia,116714,574
+3/30/2020,Clay,Georgia,13061,1,0,1,13061,Clay Georgia,3183,0
+3/30/2020,Clayton,Georgia,13063,62,2,3,13063,Clayton Georgia,259424,558
+3/30/2020,Clinch,Georgia,13065,1,0,0,13065,Clinch Georgia,6798,25
+3/30/2020,Cobb,Georgia,13067,250,11,22,13067,Cobb Georgia,688078,1099
+3/30/2020,Coffee,Georgia,13069,10,0,0,13069,Coffee Georgia,42356,88
+3/30/2020,Colquitt,Georgia,13071,7,0,1,13071,Colquitt Georgia,45498,158
+3/30/2020,Columbia,Georgia,13073,14,0,2,13073,Columbia Georgia,124053,0
+3/30/2020,Cook,Georgia,13075,1,0,1,13075,Cook Georgia,17212,60
+3/30/2020,Coweta,Georgia,13077,37,2,14,13077,Coweta Georgia,127317,211
+3/30/2020,Crisp,Georgia,13081,8,0,2,13081,Crisp Georgia,23439,73
+3/30/2020,Dade,Georgia,13083,1,0,1,13083,Dade Georgia,16633,13
+3/30/2020,Dawson,Georgia,13085,7,0,3,13085,Dawson Georgia,22330,0
+3/30/2020,DeKalb,Georgia,13089,294,3,21,13089,DeKalb Georgia,691893,2436
+3/30/2020,Decatur,Georgia,13087,6,0,2,13087,Decatur Georgia,27842,80
+3/30/2020,Dodge,Georgia,13091,2,0,1,13091,Dodge Georgia,21796,94
+3/30/2020,Dooly,Georgia,13093,3,0,3,13093,Dooly Georgia,14918,0
+3/30/2020,Dougherty,Georgia,13095,278,18,31,13095,Dougherty Georgia,94565,939
+3/30/2020,Douglas,Georgia,13097,43,1,5,13097,Douglas Georgia,132403,192
+3/30/2020,Early,Georgia,13099,20,2,4,13099,Early Georgia,11008,25
+3/30/2020,Effingham,Georgia,13103,4,0,0,13103,Effingham Georgia,52250,25
+3/30/2020,Fannin,Georgia,13111,3,0,0,13111,Fannin Georgia,23682,50
+3/30/2020,Fayette,Georgia,13113,42,3,15,13113,Fayette Georgia,106567,157
+3/30/2020,Floyd,Georgia,13115,31,2,3,13115,Floyd Georgia,96317,559
+3/30/2020,Forsyth,Georgia,13117,36,1,8,13117,Forsyth Georgia,175511,187
+3/30/2020,Franklin,Georgia,13119,4,0,2,13119,Franklin Georgia,22084,56
+3/30/2020,Fulton,Georgia,13121,503,16,78,13121,Fulton Georgia,920581,4353
+3/30/2020,Gilmer,Georgia,13123,1,0,1,13123,Gilmer Georgia,28292,0
+3/30/2020,Glynn,Georgia,13127,17,0,9,13127,Glynn Georgia,79626,401
+3/30/2020,Gordon,Georgia,13129,15,1,1,13129,Gordon Georgia,55186,80
+3/30/2020,Greene,Georgia,13133,3,0,2,13133,Greene Georgia,15994,49
+3/30/2020,Gwinnett,Georgia,13135,178,2,33,13135,Gwinnett Georgia,805321,847
+3/30/2020,Hall,Georgia,13139,34,0,1,13139,Hall Georgia,179684,557
+3/30/2020,Haralson,Georgia,13143,4,0,2,13143,Haralson Georgia,28780,25
+3/30/2020,Harris,Georgia,13145,4,0,1,13145,Harris Georgia,32024,0
+3/30/2020,Hart,Georgia,13147,2,0,1,13147,Hart Georgia,25213,0
+3/30/2020,Heard,Georgia,13149,1,1,0,13149,Heard Georgia,11834,0
+3/30/2020,Henry,Georgia,13151,68,2,12,13151,Henry Georgia,203922,265
+3/30/2020,Houston,Georgia,13153,26,2,11,13153,Houston Georgia,139900,276
+3/30/2020,Irwin,Georgia,13155,3,0,0,13155,Irwin Georgia,9538,34
+3/30/2020,Jackson,Georgia,13157,2,0,0,13157,Jackson Georgia,60485,257
+3/30/2020,Jasper,Georgia,13159,2,0,0,13159,Jasper Georgia,13900,17
+3/30/2020,Jeff Davis,Georgia,13161,1,0,1,13161,Jeff Davis Georgia,15068,25
+3/30/2020,Jefferson,Georgia,13163,1,0,1,13163,Jefferson Georgia,16930,37
+3/30/2020,Jenkins,Georgia,13165,1,0,0,13165,Jenkins Georgia,8340,25
+3/30/2020,Johnson,Georgia,13167,1,0,1,13167,Johnson Georgia,9980,0
+3/30/2020,Jones,Georgia,13169,2,0,0,13169,Jones Georgia,28669,0
+3/30/2020,Lamar,Georgia,13171,3,0,0,13171,Lamar Georgia,18317,0
+3/30/2020,Laurens,Georgia,13175,13,0,1,13175,Laurens Georgia,48434,368
+3/30/2020,Lee,Georgia,13177,44,6,1,13177,Lee Georgia,28298,0
+3/30/2020,Liberty,Georgia,13179,4,0,1,13179,Liberty Georgia,63453,25
+3/30/2020,Lincoln,Georgia,13181,4,0,1,13181,Lincoln Georgia,7996,0
+3/30/2020,Long,Georgia,13183,1,0,0,13183,Long Georgia,14464,0
+3/30/2020,Lowndes,Georgia,13185,21,1,1,13185,Lowndes Georgia,109233,430
+3/30/2020,Lumpkin,Georgia,13187,4,0,0,13187,Lumpkin Georgia,29966,49
+3/30/2020,Macon,Georgia,13193,1,0,0,13193,Macon Georgia,14740,49
+3/30/2020,Madison,Georgia,13195,3,1,0,13195,Madison Georgia,28120,0
+3/30/2020,McDuffie,Georgia,13189,2,0,1,13189,McDuffie Georgia,21875,47
+3/30/2020,McIntosh,Georgia,13191,1,0,1,13191,McIntosh Georgia,14333,0
+3/30/2020,Meriwether,Georgia,13199,6,0,1,13199,Meriwether Georgia,21992,188
+3/30/2020,Miller,Georgia,13201,5,0,1,13201,Miller Georgia,6125,25
+3/30/2020,Mitchell,Georgia,13205,16,1,1,13205,Mitchell Georgia,23498,23
+3/30/2020,Monroe,Georgia,13207,3,0,0,13207,Monroe Georgia,26424,25
+3/30/2020,Morgan,Georgia,13211,1,0,0,13211,Morgan Georgia,17868,41
+3/30/2020,Murray,Georgia,13213,4,0,1,13213,Murray Georgia,39628,42
+3/30/2020,Muscogee,Georgia,13215,14,0,5,13215,Muscogee Georgia,189885,1374
+3/30/2020,Newton,Georgia,13217,22,0,4,13217,Newton Georgia,99958,97
+3/30/2020,Oconee,Georgia,13219,12,0,1,13219,Oconee Georgia,32808,0
+3/30/2020,Paulding,Georgia,13223,26,0,3,13223,Paulding Georgia,142324,83
+3/30/2020,Peach,Georgia,13225,7,1,1,13225,Peach Georgia,27695,25
+3/30/2020,Pickens,Georgia,13227,6,1,1,13227,Pickens Georgia,29431,48
+3/30/2020,Pierce,Georgia,13229,2,0,0,13229,Pierce Georgia,18758,0
+3/30/2020,Pike,Georgia,13231,2,0,0,13231,Pike Georgia,17869,0
+3/30/2020,Polk,Georgia,13233,14,0,4,13233,Polk Georgia,41475,53
+3/30/2020,Pulaski,Georgia,13235,3,0,0,13235,Pulaski Georgia,12010,49
+3/30/2020,Randolph,Georgia,13243,3,0,0,13243,Randolph Georgia,7719,25
+3/30/2020,Richmond,Georgia,13245,17,0,5,13245,Richmond Georgia,200549,2470
+3/30/2020,Rockdale,Georgia,13247,29,2,11,13247,Rockdale Georgia,85215,146
+3/30/2020,Schley,Georgia,13249,1,0,1,13249,Schley Georgia,5010,0
+3/30/2020,Seminole,Georgia,13253,7,0,2,13253,Seminole Georgia,8729,65
+3/30/2020,Spalding,Georgia,13255,14,0,2,13255,Spalding Georgia,64073,160
+3/30/2020,Stephens,Georgia,13257,3,0,0,13257,Stephens Georgia,26175,96
+3/30/2020,Sumter,Georgia,13261,17,2,2,13261,Sumter Georgia,32819,76
+3/30/2020,Talbot,Georgia,13263,1,0,1,13263,Talbot Georgia,6865,0
+3/30/2020,Tattnall,Georgia,13267,2,0,0,13267,Tattnall Georgia,25520,25
+3/30/2020,Taylor,Georgia,13269,2,0,1,13269,Taylor Georgia,8906,0
+3/30/2020,Terrell,Georgia,13273,20,2,10,13273,Terrell Georgia,9315,0
+3/30/2020,Thomas,Georgia,13275,7,0,0,13275,Thomas Georgia,44720,264
+3/30/2020,Tift,Georgia,13277,19,0,6,13277,Tift Georgia,40118,191
+3/30/2020,Toombs,Georgia,13279,2,0,0,13279,Toombs Georgia,27223,57
+3/30/2020,Troup,Georgia,13285,15,1,5,13285,Troup Georgia,67044,276
+3/30/2020,Turner,Georgia,13287,3,0,1,13287,Turner Georgia,8930,0
+3/30/2020,Twiggs,Georgia,13289,2,0,0,13289,Twiggs Georgia,9023,0
+3/30/2020,Upson,Georgia,13293,5,0,0,13293,Upson Georgia,27153,115
+3/30/2020,Walton,Georgia,13297,5,0,1,13297,Walton Georgia,83768,77
+3/30/2020,Ware,Georgia,13299,5,0,0,13299,Ware Georgia,36312,231
+3/30/2020,Warren,Georgia,13301,2,0,2,13301,Warren Georgia,5834,0
+3/30/2020,Washington,Georgia,13303,2,0,0,13303,Washington Georgia,21187,116
+3/30/2020,Wheeler,Georgia,13309,1,0,0,13309,Wheeler Georgia,7421,25
+3/30/2020,White,Georgia,13311,1,0,0,13311,White Georgia,27144,0
+3/30/2020,Whitfield,Georgia,13313,8,1,0,13313,Whitfield Georgia,102599,282
+3/30/2020,Wilkes,Georgia,13317,2,0,1,13317,Wilkes Georgia,10593,25
+3/30/2020,Worth,Georgia,13321,12,1,2,13321,Worth Georgia,21679,25
+3/30/2020,Hawaii,Hawaii,15001,15,0,3,15001,Hawaii Hawaii,185079,504
+3/30/2020,Honolulu,Hawaii,15003,139,0,20,15003,Honolulu Hawaii,953207,2219
+3/30/2020,Kauai,Hawaii,15007,12,0,0,15007,Kauai Hawaii,67091,144
+3/30/2020,Maui,Hawaii,15009,25,0,5,15009,Maui Hawaii,154834,258
+3/30/2020,Ada,Idaho,16001,151,3,38,16001,Ada Idaho,392365,1354
+3/30/2020,Bannock,Idaho,16005,3,0,0,16005,Bannock Idaho,82839,219
+3/30/2020,Bingham,Idaho,16011,1,0,0,16011,Bingham Idaho,45607,153
+3/30/2020,Blaine,Idaho,16013,148,2,33,16013,Blaine Idaho,21376,25
+3/30/2020,Bonner,Idaho,16017,1,0,1,16017,Bonner Idaho,40877,25
+3/30/2020,Bonneville,Idaho,16019,2,0,1,16019,Bonneville Idaho,104234,332
+3/30/2020,Canyon,Idaho,16027,48,1,8,16027,Canyon Idaho,188923,302
+3/30/2020,Cassia,Idaho,16031,1,0,0,16031,Cassia Idaho,22952,25
+3/30/2020,Custer,Idaho,16037,1,0,0,16037,Custer Idaho,4368,0
+3/30/2020,Elmore,Idaho,16039,1,0,1,16039,Elmore Idaho,27038,25
+3/30/2020,Fremont,Idaho,16043,1,0,0,16043,Fremont Idaho,13242,0
+3/30/2020,Gem,Idaho,16045,3,0,0,16045,Gem Idaho,16719,16
+3/30/2020,Idaho,Idaho,16049,1,0,0,16049,Idaho Idaho,16267,41
+3/30/2020,Jefferson,Idaho,16051,2,0,0,16051,Jefferson Idaho,26140,0
+3/30/2020,Jerome,Idaho,16053,1,0,1,16053,Jerome Idaho,22374,25
+3/30/2020,Kootenai,Idaho,16055,28,0,15,16055,Kootenai Idaho,138494,396
+3/30/2020,Lincoln,Idaho,16063,1,0,0,16063,Lincoln Idaho,5208,0
+3/30/2020,Madison,Idaho,16065,2,0,0,16065,Madison Idaho,37536,69
+3/30/2020,Minidoka,Idaho,16067,1,0,1,16067,Minidoka Idaho,20069,25
+3/30/2020,Nez Perce,Idaho,16069,7,1,3,16069,Nez Perce Idaho,39265,145
+3/30/2020,Owyhee,Idaho,16073,1,0,0,16073,Owyhee Idaho,11526,0
+3/30/2020,Payette,Idaho,16075,1,0,0,16075,Payette Idaho,22623,0
+3/30/2020,Teton,Idaho,16081,2,0,0,16081,Teton Idaho,10170,13
+3/30/2020,Twin Falls,Idaho,16083,5,0,2,16083,Twin Falls Idaho,77230,253
+3/30/2020,Valley,Idaho,16085,2,0,1,16085,Valley Idaho,9862,25
+3/30/2020,Adams,Illinois,17001,2,0,0,17001,Adams Illinois,67103,335
+3/30/2020,Bond,Illinois,17005,2,0,1,17005,Bond Illinois,17768,150
+3/30/2020,Bureau,Illinois,17011,1,0,0,17011,Bureau Illinois,34978,25
+3/30/2020,Carroll,Illinois,17015,1,1,0,17015,Carroll Illinois,15387,0
+3/30/2020,Champaign,Illinois,17019,23,0,2,17019,Champaign Illinois,201081,549
+3/30/2020,Christian,Illinois,17021,19,0,0,17021,Christian Illinois,34800,67
+3/30/2020,Clark,Illinois,17023,1,0,1,17023,Clark Illinois,16335,0
+3/30/2020,Clinton,Illinois,17027,6,0,0,17027,Clinton Illinois,37762,0
+3/30/2020,Cook,Illinois,17031,3727,44,282,17031,Cook Illinois,5194675,17992
+3/30/2020,Crawford,Illinois,17033,1,0,1,17033,Crawford Illinois,19817,63
+3/30/2020,Cumberland,Illinois,17035,1,0,0,17035,Cumberland Illinois,11048,0
+3/30/2020,DeKalb,Illinois,17037,8,0,0,17037,DeKalb Illinois,105160,191
+3/30/2020,Douglas,Illinois,17041,1,0,0,17041,Douglas Illinois,19980,0
+3/30/2020,DuPage,Illinois,17043,320,8,46,17043,DuPage Illinois,916924,1880
+3/30/2020,Fayette,Illinois,17051,1,0,0,17051,Fayette Illinois,22140,110
+3/30/2020,Franklin,Illinois,17055,1,0,-1,17055,Franklin Illinois,39561,25
+3/30/2020,Grundy,Illinois,17063,3,0,0,17063,Grundy Illinois,50063,89
+3/30/2020,Henry,Illinois,17073,2,0,0,17073,Henry Illinois,50486,86
+3/30/2020,Iroquois,Illinois,17075,2,0,0,17075,Iroquois Illinois,29718,84
+3/30/2020,Jackson,Illinois,17077,4,0,1,17077,Jackson Illinois,60218,184
+3/30/2020,Jo Daviess,Illinois,17085,1,0,0,17085,Jo Daviess Illinois,22678,25
+3/30/2020,Kane,Illinois,17089,113,7,13,17089,Kane Illinois,515269,1101
+3/30/2020,Kankakee,Illinois,17091,38,0,0,17091,Kankakee Illinois,113449,468
+3/30/2020,Kendall,Illinois,17093,18,2,3,17093,Kendall Illinois,114736,0
+3/30/2020,Knox,Illinois,17095,1,0,0,17095,Knox Illinois,52919,209
+3/30/2020,LaSalle,Illinois,17099,5,2,1,17099,LaSalle Illinois,113924,244
+3/30/2020,Lake,Illinois,17097,343,5,43,17097,Lake Illinois,703462,968
+3/30/2020,Livingston,Illinois,17105,2,0,0,17105,Livingston Illinois,38950,42
+3/30/2020,Macon,Illinois,17115,2,0,0,17115,Macon Illinois,110768,188
+3/30/2020,Madison,Illinois,17119,13,0,1,17119,Madison Illinois,269282,943
+3/30/2020,Marion,Illinois,17121,2,0,2,17121,Marion Illinois,39437,135
+3/30/2020,Marshall,Illinois,17123,1,0,0,17123,Marshall Illinois,12640,0
+3/30/2020,McHenry,Illinois,17111,52,2,0,17111,McHenry Illinois,308760,343
+3/30/2020,McLean,Illinois,17113,17,1,3,17113,McLean Illinois,169572,200
+3/30/2020,Menard,Illinois,17129,1,0,0,17129,Menard Illinois,12705,0
+3/30/2020,Monroe,Illinois,17133,3,0,0,17133,Monroe Illinois,32957,0
+3/30/2020,Montgomery,Illinois,17135,1,0,0,17135,Montgomery Illinois,30104,50
+3/30/2020,Morgan,Illinois,17137,4,1,1,17137,Morgan Illinois,35547,108
+3/30/2020,Peoria,Illinois,17143,8,0,0,17143,Peoria Illinois,186494,1122
+3/30/2020,Randolph,Illinois,17157,2,0,2,17157,Randolph Illinois,33476,165
+3/30/2020,Rock Island,Illinois,17161,8,0,3,17161,Rock Island Illinois,147546,444
+3/30/2020,Saline,Illinois,17165,1,0,1,17165,Saline Illinois,24913,98
+3/30/2020,Sangamon,Illinois,17167,16,2,7,17167,Sangamon Illinois,197465,1045
+3/30/2020,St. Clair,Illinois,17163,36,3,5,17163,St. Clair Illinois,270056,818
+3/30/2020,Stephenson,Illinois,17177,3,0,0,17177,Stephenson Illinois,47711,100
+3/30/2020,Tazewell,Illinois,17179,4,0,0,17179,Tazewell Illinois,135394,150
+3/30/2020,Washington,Illinois,17189,1,0,0,17189,Washington Illinois,14716,0
+3/30/2020,Whiteside,Illinois,17195,4,0,1,17195,Whiteside Illinois,58498,135
+3/30/2020,Will,Illinois,17197,224,6,32,17197,Will Illinois,677560,917
+3/30/2020,Williamson,Illinois,17199,1,0,0,17199,Williamson Illinois,66357,431
+3/30/2020,Winnebago,Illinois,17201,13,0,1,17201,Winnebago Illinois,295266,907
+3/30/2020,Woodford,Illinois,17203,3,0,0,17203,Woodford Illinois,38664,18
+3/30/2020,Adams,Indiana,18001,1,0,0,18001,Adams Indiana,34387,35
+3/30/2020,Allen,Indiana,18003,30,1,4,18003,Allen Indiana,355329,1502
+3/30/2020,Bartholomew,Indiana,18005,10,0,0,18005,Bartholomew Indiana,76794,198
+3/30/2020,Boone,Indiana,18011,20,0,7,18011,Boone Indiana,56640,52
+3/30/2020,Brown,Indiana,18013,3,0,0,18013,Brown Indiana,15242,0
+3/30/2020,Carroll,Indiana,18015,2,0,1,18015,Carroll Indiana,20155,0
+3/30/2020,Clark,Indiana,18019,27,0,7,18019,Clark Indiana,110232,378
+3/30/2020,Clay,Indiana,18021,1,0,0,18021,Clay Indiana,26890,25
+3/30/2020,Clinton,Indiana,18023,1,0,0,18023,Clinton Indiana,33224,25
+3/30/2020,Crawford,Indiana,18025,1,0,0,18025,Crawford Indiana,10713,0
+3/30/2020,DeKalb,Indiana,18033,1,0,0,18033,DeKalb Indiana,42223,72
+3/30/2020,Dearborn,Indiana,18029,10,1,0,18029,Dearborn Indiana,50047,104
+3/30/2020,Decatur,Indiana,18031,42,0,2,18031,Decatur Indiana,25740,25
+3/30/2020,Delaware,Indiana,18035,15,1,1,18035,Delaware Indiana,117671,411
+3/30/2020,Dubois,Indiana,18037,2,0,0,18037,Dubois Indiana,41889,123
+3/30/2020,Elkhart,Indiana,18039,12,0,0,18039,Elkhart Indiana,197559,406
+3/30/2020,Fayette,Indiana,18041,8,1,3,18041,Fayette Indiana,24277,99
+3/30/2020,Floyd,Indiana,18043,20,0,6,18043,Floyd Indiana,74578,297
+3/30/2020,Fountain,Indiana,18045,1,0,0,18045,Fountain Indiana,17240,0
+3/30/2020,Franklin,Indiana,18047,28,4,2,18047,Franklin Indiana,23087,0
+3/30/2020,Fulton,Indiana,18049,1,0,0,18049,Fulton Indiana,20836,25
+3/30/2020,Gibson,Indiana,18051,4,0,0,18051,Gibson Indiana,33503,25
+3/30/2020,Grant,Indiana,18053,7,0,0,18053,Grant Indiana,70061,113
+3/30/2020,Greene,Indiana,18055,1,0,0,18055,Greene Indiana,33165,25
+3/30/2020,Hamilton,Indiana,18057,106,0,23,18057,Hamilton Indiana,274569,577
+3/30/2020,Hancock,Indiana,18059,28,1,6,18059,Hancock Indiana,70002,68
+3/30/2020,Harrison,Indiana,18061,15,0,1,18061,Harrison Indiana,39364,25
+3/30/2020,Hendricks,Indiana,18063,58,1,10,18063,Hendricks Indiana,145448,287
+3/30/2020,Henry,Indiana,18065,2,0,0,18065,Henry Indiana,49462,90
+3/30/2020,Howard,Indiana,18067,14,1,2,18067,Howard Indiana,82752,254
+3/30/2020,Huntington,Indiana,18069,2,0,1,18069,Huntington Indiana,37124,36
+3/30/2020,Jackson,Indiana,18071,8,0,1,18071,Jackson Indiana,42376,93
+3/30/2020,Jasper,Indiana,18073,6,1,0,18073,Jasper Indiana,33478,46
+3/30/2020,Jennings,Indiana,18079,14,0,1,18079,Jennings Indiana,28525,17
+3/30/2020,Johnson,Indiana,18081,81,3,10,18081,Johnson Indiana,139654,275
+3/30/2020,Knox,Indiana,18083,2,0,0,18083,Knox Indiana,38440,175
+3/30/2020,Kosciusko,Indiana,18085,4,0,1,18085,Kosciusko Indiana,77358,88
+3/30/2020,LaGrange,Indiana,18087,2,0,0,18087,LaGrange Indiana,37128,25
+3/30/2020,LaPorte,Indiana,18091,6,0,0,18091,LaPorte Indiana,111467,377
+3/30/2020,Lake,Indiana,18089,97,1,12,18089,Lake Indiana,496005,2597
+3/30/2020,Lawrence,Indiana,18093,9,0,1,18093,Lawrence Indiana,46134,50
+3/30/2020,Madison,Indiana,18095,29,1,11,18095,Madison Indiana,131636,379
+3/30/2020,Marion,Indiana,18097,804,12,128,18097,Marion Indiana,903393,3595
+3/30/2020,Marshall,Indiana,18099,3,0,0,18099,Marshall Indiana,47051,160
+3/30/2020,Miami,Indiana,18103,3,0,2,18103,Miami Indiana,36903,25
+3/30/2020,Monroe,Indiana,18105,26,0,4,18105,Monroe Indiana,137974,368
+3/30/2020,Montgomery,Indiana,18107,6,0,1,18107,Montgomery Indiana,38124,103
+3/30/2020,Morgan,Indiana,18109,23,1,3,18109,Morgan Indiana,68894,207
+3/30/2020,Newton,Indiana,18111,1,0,0,18111,Newton Indiana,14244,0
+3/30/2020,Noble,Indiana,18113,2,0,0,18113,Noble Indiana,47536,31
+3/30/2020,Ohio,Indiana,18115,1,0,0,18115,Ohio Indiana,6128,0
+3/30/2020,Orange,Indiana,18117,2,0,1,18117,Orange Indiana,19840,24
+3/30/2020,Owen,Indiana,18119,10,0,1,18119,Owen Indiana,21575,0
+3/30/2020,Porter,Indiana,18127,15,0,1,18127,Porter Indiana,164343,317
+3/30/2020,Posey,Indiana,18129,3,0,0,18129,Posey Indiana,25910,0
+3/30/2020,Putnam,Indiana,18133,7,1,2,18133,Putnam Indiana,37963,25
+3/30/2020,Randolph,Indiana,18135,1,0,0,18135,Randolph Indiana,26171,25
+3/30/2020,Ripley,Indiana,18137,25,0,6,18137,Ripley Indiana,28818,25
+3/30/2020,Rush,Indiana,18139,4,0,2,18139,Rush Indiana,17392,25
+3/30/2020,Scott,Indiana,18143,1,1,0,18143,Scott Indiana,24181,25
+3/30/2020,Shelby,Indiana,18145,13,0,1,18145,Shelby Indiana,44436,0
+3/30/2020,St. Joseph,Indiana,18141,36,1,4,18141,St. Joseph Indiana,266931,811
+3/30/2020,Starke,Indiana,18149,1,0,0,18149,Starke Indiana,23363,53
+3/30/2020,Steuben,Indiana,18151,1,0,0,18151,Steuben Indiana,34185,25
+3/30/2020,Sullivan,Indiana,18153,1,0,0,18153,Sullivan Indiana,21475,25
+3/30/2020,Switzerland,Indiana,18155,3,0,0,18155,Switzerland Indiana,10613,0
+3/30/2020,Tippecanoe,Indiana,18157,14,1,3,18157,Tippecanoe Indiana,172780,783
+3/30/2020,Tipton,Indiana,18159,4,0,0,18159,Tipton Indiana,15936,25
+3/30/2020,Vanderburgh,Indiana,18163,17,0,0,18163,Vanderburgh Indiana,179703,1266
+3/30/2020,Vermillion,Indiana,18165,1,0,0,18165,Vermillion Indiana,16212,25
+3/30/2020,Vigo,Indiana,18167,7,1,0,18167,Vigo Indiana,107848,541
+3/30/2020,Wabash,Indiana,18169,1,0,0,18169,Wabash Indiana,32888,25
+3/30/2020,Warren,Indiana,18171,2,0,0,18171,Warren Indiana,8508,16
+3/30/2020,Warrick,Indiana,18173,8,0,0,18173,Warrick Indiana,59689,181
+3/30/2020,Washington,Indiana,18175,6,0,1,18175,Washington Indiana,28262,25
+3/30/2020,Wayne,Indiana,18177,1,0,0,18177,Wayne Indiana,68917,251
+3/30/2020,Wells,Indiana,18179,1,0,0,18179,Wells Indiana,27636,79
+3/30/2020,White,Indiana,18181,2,0,1,18181,White Indiana,24643,25
+3/30/2020,Whitley,Indiana,18183,1,0,0,18183,Whitley Indiana,33292,30
+3/30/2020,Adair,Iowa,19001,1,0,0,19001,Adair Iowa,7682,25
+3/30/2020,Allamakee,Iowa,19005,7,1,0,19005,Allamakee Iowa,14330,25
+3/30/2020,Appanoose,Iowa,19007,1,0,0,19007,Appanoose Iowa,12887,45
+3/30/2020,Audubon,Iowa,19009,1,0,1,19009,Audubon Iowa,6119,25
+3/30/2020,Benton,Iowa,19011,7,0,3,19011,Benton Iowa,26076,25
+3/30/2020,Black Hawk,Iowa,19013,6,0,0,19013,Black Hawk Iowa,131090,459
+3/30/2020,Boone,Iowa,19015,1,0,0,19015,Boone Iowa,26306,42
+3/30/2020,Buchanan,Iowa,19019,2,0,0,19019,Buchanan Iowa,20958,120
+3/30/2020,Butler,Iowa,19023,1,0,0,19023,Butler Iowa,14867,0
+3/30/2020,Carroll,Iowa,19027,1,0,0,19027,Carroll Iowa,20816,116
+3/30/2020,Cedar,Iowa,19031,8,0,1,19031,Cedar Iowa,18499,0
+3/30/2020,Cerro Gordo,Iowa,19033,7,0,1,19033,Cerro Gordo Iowa,44151,586
+3/30/2020,Clayton,Iowa,19043,1,0,0,19043,Clayton Iowa,18129,50
+3/30/2020,Clinton,Iowa,19045,2,0,1,19045,Clinton Iowa,49116,265
+3/30/2020,Crawford,Iowa,19047,1,0,1,19047,Crawford Iowa,17096,25
+3/30/2020,Dallas,Iowa,19049,21,0,4,19049,Dallas Iowa,66135,120
+3/30/2020,Des Moines,Iowa,19057,1,0,0,19057,Des Moines Iowa,40325,213
+3/30/2020,Dickinson,Iowa,19059,1,0,0,19059,Dickinson Iowa,16667,49
+3/30/2020,Dubuque,Iowa,19061,21,1,5,19061,Dubuque Iowa,93653,470
+3/30/2020,Fayette,Iowa,19065,2,0,0,19065,Fayette Iowa,20880,50
+3/30/2020,Guthrie,Iowa,19077,1,0,1,19077,Guthrie Iowa,10954,25
+3/30/2020,Hancock,Iowa,19081,3,0,0,19081,Hancock Iowa,11341,25
+3/30/2020,Hardin,Iowa,19083,1,0,0,19083,Hardin Iowa,17534,35
+3/30/2020,Harrison,Iowa,19085,8,0,0,19085,Harrison Iowa,14928,25
+3/30/2020,Henry,Iowa,19087,3,0,0,19087,Henry Iowa,20145,152
+3/30/2020,Iowa,Iowa,19095,3,0,1,19095,Iowa Iowa,16355,25
+3/30/2020,Jackson,Iowa,19097,1,0,1,19097,Jackson Iowa,19848,25
+3/30/2020,Jasper,Iowa,19099,5,0,1,19099,Jasper Iowa,36842,68
+3/30/2020,Johnson,Iowa,19103,70,0,5,19103,Johnson Iowa,130882,1383
+3/30/2020,Jones,Iowa,19105,1,0,1,19105,Jones Iowa,20638,22
+3/30/2020,Keokuk,Iowa,19107,1,0,0,19107,Keokuk Iowa,10511,25
+3/30/2020,Kossuth,Iowa,19109,1,0,0,19109,Kossuth Iowa,15543,25
+3/30/2020,Linn,Iowa,19113,71,2,29,19113,Linn Iowa,211226,1018
+3/30/2020,Mahaska,Iowa,19123,2,0,0,19123,Mahaska Iowa,22381,33
+3/30/2020,Marshall,Iowa,19127,6,0,0,19127,Marshall Iowa,40648,125
+3/30/2020,Monona,Iowa,19133,5,0,3,19133,Monona Iowa,9243,25
+3/30/2020,Montgomery,Iowa,19137,1,0,0,19137,Montgomery Iowa,10740,25
+3/30/2020,Muscatine,Iowa,19139,13,0,3,19139,Muscatine Iowa,42745,48
+3/30/2020,Page,Iowa,19145,2,0,0,19145,Page Iowa,15932,50
+3/30/2020,Polk,Iowa,19153,61,0,11,19153,Polk Iowa,430640,1725
+3/30/2020,Pottawattamie,Iowa,19155,3,0,0,19155,Pottawattamie Iowa,93158,514
+3/30/2020,Poweshiek,Iowa,19157,5,1,0,19157,Poweshiek Iowa,18914,49
+3/30/2020,Scott,Iowa,19163,16,0,6,19163,Scott Iowa,165224,1193
+3/30/2020,Shelby,Iowa,19165,3,0,2,19165,Shelby Iowa,12167,25
+3/30/2020,Sioux,Iowa,19167,2,0,0,19167,Sioux Iowa,33704,96
+3/30/2020,Story,Iowa,19169,2,0,0,19169,Story Iowa,89542,254
+3/30/2020,Tama,Iowa,19171,10,0,1,19171,Tama Iowa,17767,0
+3/30/2020,Taylor,Iowa,19173,1,0,0,19173,Taylor Iowa,6317,0
+3/30/2020,Van Buren,Iowa,19177,1,0,1,19177,Van Buren Iowa,7570,25
+3/30/2020,Wapello,Iowa,19179,1,0,0,19179,Wapello Iowa,35625,217
+3/30/2020,Warren,Iowa,19181,1,0,0,19181,Warren Iowa,46225,0
+3/30/2020,Washington,Iowa,19183,18,1,5,19183,Washington Iowa,21704,25
+3/30/2020,Webster,Iowa,19187,1,0,0,19187,Webster Iowa,38013,200
+3/30/2020,Winneshiek,Iowa,19191,3,0,0,19191,Winneshiek Iowa,21056,25
+3/30/2020,Woodbury,Iowa,19193,4,0,0,19193,Woodbury Iowa,102172,830
+3/30/2020,Wright,Iowa,19197,1,0,0,19197,Wright Iowa,13229,47
+3/30/2020,Atchison,Kansas,20005,1,0,1,20005,Atchison Kansas,16924,25
+3/30/2020,Bourbon,Kansas,20011,3,0,0,20011,Bourbon Kansas,15173,61
+3/30/2020,Butler,Kansas,20015,3,0,0,20015,Butler Kansas,65880,126
+3/30/2020,Cherokee,Kansas,20021,2,0,0,20021,Cherokee Kansas,21603,54
+3/30/2020,Clay,Kansas,20027,1,0,0,20027,Clay Kansas,8535,25
+3/30/2020,Coffey,Kansas,20031,10,0,2,20031,Coffey Kansas,8601,78
+3/30/2020,Crawford,Kansas,20037,5,1,1,20037,Crawford Kansas,39134,146
+3/30/2020,Doniphan,Kansas,20043,1,0,0,20043,Doniphan Kansas,7945,0
+3/30/2020,Douglas,Kansas,20045,23,0,0,20045,Douglas Kansas,110826,152
+3/30/2020,Finney,Kansas,20055,1,0,0,20055,Finney Kansas,36776,132
+3/30/2020,Ford,Kansas,20057,1,0,0,20057,Ford Kansas,33848,99
+3/30/2020,Franklin,Kansas,20059,6,0,0,20059,Franklin Kansas,25992,44
+3/30/2020,Gove,Kansas,20063,1,0,0,20063,Gove Kansas,2695,70
+3/30/2020,Harvey,Kansas,20079,1,0,0,20079,Harvey Kansas,34684,141
+3/30/2020,Jackson,Kansas,20085,1,0,0,20085,Jackson Kansas,13462,12
+3/30/2020,Jefferson,Kansas,20087,1,0,0,20087,Jefferson Kansas,19126,74
+3/30/2020,Johnson,Kansas,20091,116,2,8,20091,Johnson Kansas,544179,1563
+3/30/2020,Leavenworth,Kansas,20103,20,0,3,20103,Leavenworth Kansas,76227,130
+3/30/2020,Linn,Kansas,20107,5,0,0,20107,Linn Kansas,9656,0
+3/30/2020,Lyon,Kansas,20111,9,0,2,20111,Lyon Kansas,33690,59
+3/30/2020,McPherson,Kansas,20113,3,0,0,20113,McPherson Kansas,29180,87
+3/30/2020,Miami,Kansas,20121,1,0,0,20121,Miami Kansas,32787,194
+3/30/2020,Mitchell,Kansas,20123,3,0,0,20123,Mitchell Kansas,6373,75
+3/30/2020,Montgomery,Kansas,20125,4,0,1,20125,Montgomery Kansas,35471,88
+3/30/2020,Morris,Kansas,20127,2,0,0,20127,Morris Kansas,5923,25
+3/30/2020,Neosho,Kansas,20133,1,0,0,20133,Neosho Kansas,16512,25
+3/30/2020,Osage,Kansas,20139,2,0,1,20139,Osage Kansas,16295,0
+3/30/2020,Ottawa,Kansas,20143,1,0,0,20143,Ottawa Kansas,6091,42
+3/30/2020,Pottawatomie,Kansas,20149,1,0,0,20149,Pottawatomie Kansas,21604,177
+3/30/2020,Reno,Kansas,20155,7,0,0,20155,Reno Kansas,64511,223
+3/30/2020,Riley,Kansas,20161,2,0,0,20161,Riley Kansas,71115,109
+3/30/2020,Saline,Kansas,20169,1,0,1,20169,Saline Kansas,55606,214
+3/30/2020,Sedgwick,Kansas,20173,49,1,7,20173,Sedgwick Kansas,498365,1140
+3/30/2020,Shawnee,Kansas,20177,14,1,1,20177,Shawnee Kansas,177934,768
+3/30/2020,Stafford,Kansas,20185,1,0,0,20185,Stafford Kansas,4437,25
+3/30/2020,Stevens,Kansas,20189,2,0,1,20189,Stevens Kansas,5724,100
+3/30/2020,Sumner,Kansas,20191,1,0,0,20191,Sumner Kansas,24132,76
+3/30/2020,Woodson,Kansas,20207,1,0,0,20207,Woodson Kansas,3309,0
+3/30/2020,Wyandotte,Kansas,20209,67,4,12,20209,Wyandotte Kansas,157505,1196
+3/30/2020,Allen,Kentucky,21003,1,0,0,21003,Allen Kentucky,19956,25
+3/30/2020,Anderson,Kentucky,21005,2,1,0,21005,Anderson Kentucky,21421,0
+3/30/2020,Boone,Kentucky,21015,5,0,1,21015,Boone Kentucky,118811,201
+3/30/2020,Bourbon,Kentucky,21017,2,1,0,21017,Bourbon Kentucky,19985,58
+3/30/2020,Boyd,Kentucky,21019,4,0,0,21019,Boyd Kentucky,49542,455
+3/30/2020,Boyle,Kentucky,21021,1,0,0,21021,Boyle Kentucky,28432,222
+3/30/2020,Bracken,Kentucky,21023,1,0,0,21023,Bracken Kentucky,8488,0
+3/30/2020,Breathitt,Kentucky,21025,2,0,0,21025,Breathitt Kentucky,13878,55
+3/30/2020,Breckinridge,Kentucky,21027,2,0,0,21027,Breckinridge Kentucky,20059,25
+3/30/2020,Bullitt,Kentucky,21029,5,0,3,21029,Bullitt Kentucky,74319,0
+3/30/2020,Butler,Kentucky,21031,1,0,0,21031,Butler Kentucky,12690,0
+3/30/2020,Calloway,Kentucky,21035,3,0,0,21035,Calloway Kentucky,37191,152
+3/30/2020,Campbell,Kentucky,21037,5,0,1,21037,Campbell Kentucky,90336,284
+3/30/2020,Carroll,Kentucky,21041,1,0,0,21041,Carroll Kentucky,10811,25
+3/30/2020,Christian,Kentucky,21047,7,0,1,21047,Christian Kentucky,73955,786
+3/30/2020,Clark,Kentucky,21049,7,0,1,21049,Clark Kentucky,35613,54
+3/30/2020,Daviess,Kentucky,21059,20,0,0,21059,Daviess Kentucky,96656,527
+3/30/2020,Fayette,Kentucky,21067,83,1,8,21067,Fayette Kentucky,295803,2379
+3/30/2020,Floyd,Kentucky,21071,1,0,0,21071,Floyd Kentucky,39451,251
+3/30/2020,Franklin,Kentucky,21073,3,0,0,21073,Franklin Kentucky,49285,173
+3/30/2020,Grant,Kentucky,21081,1,0,0,21081,Grant Kentucky,24662,25
+3/30/2020,Grayson,Kentucky,21085,2,0,0,21085,Grayson Kentucky,25746,75
+3/30/2020,Hardin,Kentucky,21093,5,0,0,21093,Hardin Kentucky,105543,465
+3/30/2020,Harrison,Kentucky,21097,11,0,0,21097,Harrison Kentucky,18846,61
+3/30/2020,Henderson,Kentucky,21101,5,0,0,21101,Henderson Kentucky,46250,192
+3/30/2020,Hopkins,Kentucky,21107,11,1,4,21107,Hopkins Kentucky,46920,390
+3/30/2020,Jefferson,Kentucky,21111,125,4,17,21111,Jefferson Kentucky,741096,4795
+3/30/2020,Jessamine,Kentucky,21113,11,0,1,21113,Jessamine Kentucky,48586,0
+3/30/2020,Kenton,Kentucky,21117,20,2,1,21117,Kenton Kentucky,159720,728
+3/30/2020,Larue,Kentucky,21123,1,0,0,21123,Larue Kentucky,14193,0
+3/30/2020,Laurel,Kentucky,21125,1,0,0,21125,Laurel Kentucky,58849,150
+3/30/2020,Lewis,Kentucky,21135,1,0,0,21135,Lewis Kentucky,13870,0
+3/30/2020,Logan,Kentucky,21141,2,0,0,21141,Logan Kentucky,26835,75
+3/30/2020,Lyon,Kentucky,21143,1,0,0,21143,Lyon Kentucky,8314,0
+3/30/2020,Madison,Kentucky,21151,7,0,0,21151,Madison Kentucky,82916,130
+3/30/2020,Marion,Kentucky,21155,1,0,1,21155,Marion Kentucky,19820,75
+3/30/2020,Marshall,Kentucky,21157,1,0,1,21157,Marshall Kentucky,31448,25
+3/30/2020,Martin,Kentucky,21159,1,0,0,21159,Martin Kentucky,12929,0
+3/30/2020,Mason,Kentucky,21161,1,0,0,21161,Mason Kentucky,17490,100
+3/30/2020,McCracken,Kentucky,21145,5,0,0,21145,McCracken Kentucky,65565,708
+3/30/2020,McCreary,Kentucky,21147,1,0,0,21147,McCreary Kentucky,18306,0
+3/30/2020,Menifee,Kentucky,21165,2,0,0,21165,Menifee Kentucky,6306,0
+3/30/2020,Mercer,Kentucky,21167,2,0,0,21167,Mercer Kentucky,21331,25
+3/30/2020,Montgomery,Kentucky,21173,2,0,0,21173,Montgomery Kentucky,26499,42
+3/30/2020,Muhlenberg,Kentucky,21177,2,0,0,21177,Muhlenberg Kentucky,31499,90
+3/30/2020,Nelson,Kentucky,21179,3,0,0,21179,Nelson Kentucky,43437,40
+3/30/2020,Nicholas,Kentucky,21181,1,0,0,21181,Nicholas Kentucky,7135,0
+3/30/2020,Oldham,Kentucky,21185,3,0,0,21185,Oldham Kentucky,60316,187
+3/30/2020,Pulaski,Kentucky,21199,7,0,0,21199,Pulaski Kentucky,63063,295
+3/30/2020,Scott,Kentucky,21209,6,0,0,21209,Scott Kentucky,47173,75
+3/30/2020,Shelby,Kentucky,21211,1,0,0,21211,Shelby Kentucky,42074,70
+3/30/2020,Simpson,Kentucky,21213,2,1,0,21213,Simpson Kentucky,17327,25
+3/30/2020,Spencer,Kentucky,21215,1,0,0,21215,Spencer Kentucky,17061,0
+3/30/2020,Taylor,Kentucky,21217,2,0,0,21217,Taylor Kentucky,24512,90
+3/30/2020,Union,Kentucky,21225,1,0,0,21225,Union Kentucky,15007,25
+3/30/2020,Warren,Kentucky,21227,11,0,1,21227,Warren Kentucky,113792,733
+3/30/2020,Washington,Kentucky,21229,2,0,0,21229,Washington Kentucky,11717,0
+3/30/2020,Wayne,Kentucky,21231,1,0,0,21231,Wayne Kentucky,20813,25
+3/30/2020,Webster,Kentucky,21233,1,0,0,21233,Webster Kentucky,13621,0
+3/30/2020,Woodford,Kentucky,21239,5,0,2,21239,Woodford Kentucky,24939,25
+3/30/2020,Acadia,Louisiana,22001,11,1,2,22001,Acadia Louisiana,61773,41
+3/30/2020,Allen,Louisiana,22003,11,1,2,22003,Allen Louisiana,25764,76
+3/30/2020,Ascension,Louisiana,22005,153,5,14,22005,Ascension Louisiana,107215,83
+3/30/2020,Assumption,Louisiana,22007,17,0,3,22007,Assumption Louisiana,23421,6
+3/30/2020,Avoyelles,Louisiana,22009,14,0,1,22009,Avoyelles Louisiana,42073,55
+3/30/2020,Beauregard,Louisiana,22011,5,0,1,22011,Beauregard Louisiana,35654,80
+3/30/2020,Bienville,Louisiana,22013,5,1,2,22013,Bienville Louisiana,14353,21
+3/30/2020,Bossier,Louisiana,22015,57,0,1,22015,Bossier Louisiana,116979,404
+3/30/2020,Caddo,Louisiana,22017,222,5,3,22017,Caddo Louisiana,254969,2026
+3/30/2020,Calcasieu,Louisiana,22019,42,1,7,22019,Calcasieu Louisiana,192768,690
+3/30/2020,Caldwell,Louisiana,22021,1,0,0,22021,Caldwell Louisiana,10132,65
+3/30/2020,Catahoula,Louisiana,22025,3,1,2,22025,Catahoula Louisiana,10407,0
+3/30/2020,Claiborne,Louisiana,22027,4,0,0,22027,Claiborne Louisiana,17195,0
+3/30/2020,De Soto,Louisiana,22031,28,1,3,22031,De Soto Louisiana,26656,0
+3/30/2020,East Baton Rouge,Louisiana,22033,188,9,24,22033,East Baton Rouge Louisiana,440171,2055
+3/30/2020,East Carroll,Louisiana,22035,1,0,0,22035,East Carroll Louisiana,7759,11
+3/30/2020,East Feliciana,Louisiana,22037,8,0,0,22037,East Feliciana Louisiana,20267,506
+3/30/2020,Evangeline,Louisiana,22039,8,0,4,22039,Evangeline Louisiana,33984,250
+3/30/2020,Franklin,Louisiana,22041,5,0,1,22041,Franklin Louisiana,20767,43
+3/30/2020,Grant,Louisiana,22043,2,0,0,22043,Grant Louisiana,22309,0
+3/30/2020,Iberia,Louisiana,22045,18,0,7,22045,Iberia Louisiana,73240,211
+3/30/2020,Iberville,Louisiana,22047,28,2,6,22047,Iberville Louisiana,33387,0
+3/30/2020,Jackson,Louisiana,22049,2,0,0,22049,Jackson Louisiana,16274,25
+3/30/2020,Jefferson,Louisiana,22051,838,37,77,22051,Jefferson Louisiana,432552,1628
+3/30/2020,Jefferson Davis,Louisiana,22053,3,0,1,22053,Jefferson Davis Louisiana,31594,96
+3/30/2020,LaSalle,Louisiana,22059,2,0,0,22059,LaSalle Louisiana,14890,84
+3/30/2020,Lafayette,Louisiana,22055,82,1,32,22055,Lafayette Louisiana,221578,1110
+3/30/2020,Lafourche,Louisiana,22057,51,2,15,22057,Lafourche Louisiana,96318,203
+3/30/2020,Lincoln,Louisiana,22061,8,0,1,22061,Lincoln Louisiana,46735,146
+3/30/2020,Livingston,Louisiana,22063,16,0,1,22063,Livingston Louisiana,128026,59
+3/30/2020,Madison,Louisiana,22065,1,0,0,22065,Madison Louisiana,12093,25
+3/30/2020,Morehouse,Louisiana,22067,2,0,0,22067,Morehouse Louisiana,27979,82
+3/30/2020,Natchitoches,Louisiana,22069,2,0,0,22069,Natchitoches Louisiana,39566,208
+3/30/2020,Orleans,Louisiana,22071,1480,86,130,22071,Orleans Louisiana,343829,1647
+3/30/2020,Ouachita,Louisiana,22073,44,1,3,22073,Ouachita Louisiana,153720,679
+3/30/2020,Plaquemines,Louisiana,22075,22,2,2,22075,Plaquemines Louisiana,23042,0
+3/30/2020,Pointe Coupee,Louisiana,22077,2,0,0,22077,Pointe Coupee Louisiana,22802,25
+3/30/2020,Rapides,Louisiana,22079,44,1,3,22079,Rapides Louisiana,131613,906
+3/30/2020,Red River,Louisiana,22081,1,0,0,22081,Red River Louisiana,9091,37
+3/30/2020,Richland,Louisiana,22083,2,0,0,22083,Richland Louisiana,20725,56
+3/30/2020,Sabine,Louisiana,22085,1,0,0,22085,Sabine Louisiana,24233,44
+3/30/2020,St. Bernard,Louisiana,22087,53,2,8,22087,St. Bernard Louisiana,35897,0
+3/30/2020,St. Charles,Louisiana,22089,36,3,5,22089,St. Charles Louisiana,52780,59
+3/30/2020,St. James,Louisiana,22093,65,3,10,22093,St. James Louisiana,22102,20
+3/30/2020,St. John the Baptist,Louisiana,22095,75,8,18,22095,St. John the Baptist Louisiana,45924,0
+3/30/2020,St. Landry,Louisiana,22097,15,1,5,22097,St. Landry Louisiana,83384,360
+3/30/2020,St. Martin,Louisiana,22099,20,3,7,22099,St. Martin Louisiana,52160,25
+3/30/2020,St. Mary,Louisiana,22101,10,0,3,22101,St. Mary Louisiana,54650,187
+3/30/2020,St. Tammany,Louisiana,22103,186,4,48,22103,St. Tammany Louisiana,233740,946
+3/30/2020,Tangipahoa,Louisiana,22105,18,0,8,22105,Tangipahoa Louisiana,121097,404
+3/30/2020,Terrebonne,Louisiana,22109,34,1,5,22109,Terrebonne Louisiana,111860,367
+3/30/2020,Union,Louisiana,22111,9,0,0,22111,Union Louisiana,22721,54
+3/30/2020,Vermilion,Louisiana,22113,3,1,1,22113,Vermilion Louisiana,57999,95
+3/30/2020,Vernon,Louisiana,22115,3,0,1,22115,Vernon Louisiana,52334,119
+3/30/2020,Washington,Louisiana,22117,22,1,10,22117,Washington Louisiana,47168,25
+3/30/2020,Webster,Louisiana,22119,11,1,2,22119,Webster Louisiana,41207,196
+3/30/2020,West Baton Rouge,Louisiana,22121,12,1,0,22121,West Baton Rouge Louisiana,23788,0
+3/30/2020,West Feliciana,Louisiana,22125,4,0,0,22125,West Feliciana Louisiana,15625,22
+3/30/2020,Winn,Louisiana,22127,1,0,0,22127,Winn Louisiana,15313,80
+3/30/2020,Androscoggin,Maine,23001,8,0,0,23001,Androscoggin Maine,107702,483
+3/30/2020,Cumberland,Maine,23005,154,3,12,23005,Cumberland Maine,281674,1184
+3/30/2020,Franklin,Maine,23007,2,0,0,23007,Franklin Maine,30768,65
+3/30/2020,Kennebec,Maine,23011,10,0,0,23011,Kennebec Maine,122151,425
+3/30/2020,Knox,Maine,23013,4,0,0,23013,Knox Maine,39736,109
+3/30/2020,Lincoln,Maine,23015,8,0,3,23015,Lincoln Maine,34457,32
+3/30/2020,Oxford,Maine,23017,9,0,0,23017,Oxford Maine,57833,75
+3/30/2020,Penobscot,Maine,23019,12,0,1,23019,Penobscot Maine,153923,773
+3/30/2020,Sagadahoc,Maine,23023,7,0,0,23023,Sagadahoc Maine,35293,0
+3/30/2020,Somerset,Maine,23025,1,0,0,23025,Somerset Maine,52228,50
+3/30/2020,Waldo,Maine,23027,2,0,0,23027,Waldo Maine,38786,25
+3/30/2020,York,Maine,23031,53,0,6,23031,York Maine,197131,245
+3/30/2020,Anne Arundel,Maryland,24003,110,1,11,24003,Anne Arundel Maryland,537656,673
+3/30/2020,Baltimore,Maryland,24005,186,1,24,24005,Baltimore Maryland,805029,1899
+3/30/2020,Baltimore city,Maryland,24510,152,2,23,24510,Baltimore city Maryland,620961,4589
+3/30/2020,Calvert,Maryland,24009,12,0,-2,24009,Calvert Maryland,88737,76
+3/30/2020,Caroline,Maryland,24011,4,0,1,24011,Caroline Maryland,33066,0
+3/30/2020,Carroll,Maryland,24013,83,1,0,24013,Carroll Maryland,167134,409
+3/30/2020,Cecil,Maryland,24015,13,0,0,24015,Cecil Maryland,101108,122
+3/30/2020,Charles,Maryland,24017,33,1,5,24017,Charles Maryland,146551,89
+3/30/2020,Frederick,Maryland,24021,26,0,2,24021,Frederick Maryland,233385,308
+3/30/2020,Garrett,Maryland,24023,3,0,0,24023,Garrett Maryland,30097,55
+3/30/2020,Harford,Maryland,24025,24,0,1,24025,Harford Maryland,244826,255
+3/30/2020,Howard,Maryland,24027,96,1,15,24027,Howard Maryland,287085,581
+3/30/2020,Kent,Maryland,24029,3,0,0,24029,Kent Maryland,20197,26
+3/30/2020,Montgomery,Maryland,24031,341,1,40,24031,Montgomery Maryland,971777,1492
+3/30/2020,Prince George's,Maryland,24033,294,6,47,24033,Prince George's Maryland,863420,836
+3/30/2020,Queen Anne's,Maryland,24035,4,0,0,24035,Queen Anne's Maryland,47798,0
+3/30/2020,Somerset,Maryland,24039,1,0,0,24039,Somerset Maryland,26470,89
+3/30/2020,St. Mary's,Maryland,24037,9,0,0,24037,St. Mary's Maryland,105151,95
+3/30/2020,Talbot,Maryland,24041,4,0,1,24041,Talbot Maryland,37782,132
+3/30/2020,Washington,Maryland,24043,7,0,1,24043,Washington Maryland,147430,372
+3/30/2020,Wicomico,Maryland,24045,7,1,1,24045,Wicomico Maryland,98733,416
+3/30/2020,Worcester,Maryland,24047,3,0,1,24047,Worcester Maryland,51454,45
+3/30/2020,Barnstable,Massachusetts,25001,173,2,25,25001,Barnstable Massachusetts,215888,407
+3/30/2020,Berkshire,Massachusetts,25003,162,5,11,25003,Berkshire Massachusetts,131219,323
+3/30/2020,Bristol,Massachusetts,25005,263,2,55,25005,Bristol Massachusetts,548285,1399
+3/30/2020,Dukes,Massachusetts,25007,1,0,0,25007,Dukes Massachusetts,16535,25
+3/30/2020,Essex,Massachusetts,25009,653,6,83,25009,Essex Massachusetts,743159,1443
+3/30/2020,Franklin,Massachusetts,25011,49,2,8,25011,Franklin Massachusetts,71372,89
+3/30/2020,Hampden,Massachusetts,25013,255,10,54,25013,Hampden Massachusetts,463490,1773
+3/30/2020,Hampshire,Massachusetts,25015,46,0,9,25015,Hampshire Massachusetts,158080,165
+3/30/2020,Middlesex,Massachusetts,25017,1141,9,160,25017,Middlesex Massachusetts,1503085,4150
+3/30/2020,Nantucket,Massachusetts,25019,5,0,0,25019,Nantucket Massachusetts,10172,19
+3/30/2020,Norfolk,Massachusetts,25021,628,10,80,25021,Norfolk Massachusetts,670850,1670
+3/30/2020,Plymouth,Massachusetts,25023,380,0,55,25023,Plymouth Massachusetts,494919,872
+3/30/2020,Suffolk,Massachusetts,25025,1115,6,175,25025,Suffolk Massachusetts,722023,6162
+3/30/2020,Worcester,Massachusetts,25027,390,5,53,25027,Worcester Massachusetts,798552,2233
+3/30/2020,Allegan,Michigan,26005,2,0,0,26005,Allegan Michigan,111408,68
+3/30/2020,Antrim,Michigan,26009,2,0,2,26009,Antrim Michigan,23580,0
+3/30/2020,Barry,Michigan,26015,1,0,0,26015,Barry Michigan,59173,49
+3/30/2020,Bay,Michigan,26017,9,0,4,26017,Bay Michigan,107771,389
+3/30/2020,Berrien,Michigan,26021,32,1,3,26021,Berrien Michigan,156813,512
+3/30/2020,Calhoun,Michigan,26025,17,0,2,26025,Calhoun Michigan,136146,291
+3/30/2020,Cass,Michigan,26027,4,0,0,26027,Cass Michigan,52293,25
+3/30/2020,Charlevoix,Michigan,26029,4,0,0,26029,Charlevoix Michigan,25949,25
+3/30/2020,Cheboygan,Michigan,26031,1,0,0,26031,Cheboygan Michigan,26152,0
+3/30/2020,Chippewa,Michigan,26033,1,0,0,26033,Chippewa Michigan,38520,82
+3/30/2020,Clare,Michigan,26035,1,0,0,26035,Clare Michigan,30926,49
+3/30/2020,Clinton,Michigan,26037,19,0,5,26037,Clinton Michigan,75382,25
+3/30/2020,Crawford,Michigan,26039,1,0,0,26039,Crawford Michigan,14074,71
+3/30/2020,Delta,Michigan,26041,1,0,1,26041,Delta Michigan,37069,25
+3/30/2020,Eaton,Michigan,26045,15,0,7,26045,Eaton Michigan,107759,45
+3/30/2020,Emmet,Michigan,26047,4,0,0,26047,Emmet Michigan,32694,178
+3/30/2020,Genesee,Michigan,26049,150,7,23,26049,Genesee Michigan,425790,1169
+3/30/2020,Gladwin,Michigan,26051,3,0,0,26051,Gladwin Michigan,25692,25
+3/30/2020,Gogebic,Michigan,26053,1,1,0,26053,Gogebic Michigan,16427,25
+3/30/2020,Grand Traverse,Michigan,26055,7,0,1,26055,Grand Traverse Michigan,86986,377
+3/30/2020,Gratiot,Michigan,26057,3,0,0,26057,Gratiot Michigan,42476,67
+3/30/2020,Hillsdale,Michigan,26059,12,1,2,26059,Hillsdale Michigan,46688,65
+3/30/2020,Houghton,Michigan,26061,1,0,1,26061,Houghton Michigan,36628,61
+3/30/2020,Huron,Michigan,26063,3,0,0,26063,Huron Michigan,33118,88
+3/30/2020,Ingham,Michigan,26065,73,0,30,26065,Ingham Michigan,280895,1093
+3/30/2020,Ionia,Michigan,26067,4,0,2,26067,Ionia Michigan,63905,22
+3/30/2020,Iosco,Michigan,26069,1,0,0,26069,Iosco Michigan,25887,49
+3/30/2020,Isabella,Michigan,26073,5,1,1,26073,Isabella Michigan,70311,118
+3/30/2020,Jackson,Michigan,26075,37,1,9,26075,Jackson Michigan,160248,389
+3/30/2020,Kalamazoo,Michigan,26077,24,1,5,26077,Kalamazoo Michigan,250331,821
+3/30/2020,Kalkaska,Michigan,26079,5,1,1,26079,Kalkaska Michigan,17153,8
+3/30/2020,Kent,Michigan,26081,96,1,24,26081,Kent Michigan,602622,1840
+3/30/2020,Lapeer,Michigan,26087,6,0,2,26087,Lapeer Michigan,88319,183
+3/30/2020,Leelanau,Michigan,26089,1,0,0,26089,Leelanau Michigan,21708,0
+3/30/2020,Lenawee,Michigan,26091,15,0,0,26091,Lenawee Michigan,99892,113
+3/30/2020,Livingston,Michigan,26093,64,2,5,26093,Livingston Michigan,180967,177
+3/30/2020,Macomb,Michigan,26099,728,27,108,26099,Macomb Michigan,840978,1119
+3/30/2020,Manistee,Michigan,26101,1,0,0,26101,Manistee Michigan,24733,45
+3/30/2020,Marquette,Michigan,26103,3,0,1,26103,Marquette Michigan,67077,289
+3/30/2020,Mecosta,Michigan,26107,2,1,1,26107,Mecosta Michigan,42798,69
+3/30/2020,Midland,Michigan,26111,9,0,1,26111,Midland Michigan,83629,308
+3/30/2020,Missaukee,Michigan,26113,1,1,0,26113,Missaukee Michigan,14849,0
+3/30/2020,Monroe,Michigan,26115,45,0,7,26115,Monroe Michigan,152021,217
+3/30/2020,Montcalm,Michigan,26117,4,0,1,26117,Montcalm Michigan,63342,148
+3/30/2020,Muskegon,Michigan,26121,18,2,5,26121,Muskegon Michigan,172188,413
+3/30/2020,Newaygo,Michigan,26123,1,0,0,26123,Newaygo Michigan,48460,25
+3/30/2020,Oakland,Michigan,26125,1391,59,221,26125,Oakland Michigan,1202362,4435
+3/30/2020,Oceana,Michigan,26127,2,0,0,26127,Oceana Michigan,26570,24
+3/30/2020,Ogemaw,Michigan,26129,4,0,3,26129,Ogemaw Michigan,21699,88
+3/30/2020,Osceola,Michigan,26133,2,0,0,26133,Osceola Michigan,23528,25
+3/30/2020,Otsego,Michigan,26137,17,0,0,26137,Otsego Michigan,24164,46
+3/30/2020,Ottawa,Michigan,26139,28,0,3,26139,Ottawa Michigan,263801,311
+3/30/2020,Roscommon,Michigan,26143,1,0,0,26143,Roscommon Michigan,24449,0
+3/30/2020,Saginaw,Michigan,26145,36,0,12,26145,Saginaw Michigan,200169,968
+3/30/2020,Sanilac,Michigan,26151,5,0,3,26151,Sanilac Michigan,43114,65
+3/30/2020,Shiawassee,Michigan,26155,8,0,3,26155,Shiawassee Michigan,70648,107
+3/30/2020,St. Clair,Michigan,26147,25,0,5,26147,St. Clair Michigan,163040,398
+3/30/2020,St. Joseph,Michigan,26149,3,0,3,26149,St. Joseph Michigan,61295,144
+3/30/2020,Tuscola,Michigan,26157,5,1,1,26157,Tuscola Michigan,55729,50
+3/30/2020,Van Buren,Michigan,26159,4,0,0,26159,Van Buren Michigan,76258,84
+3/30/2020,Washtenaw,Michigan,26161,266,6,35,26161,Washtenaw Michigan,344791,1719
+3/30/2020,Wayne,Michigan,26163,3195,83,491,26163,Wayne Michigan,1820584,6009
+3/30/2020,Wexford,Michigan,26165,2,0,1,26165,Wexford Michigan,32735,49
+3/30/2020,Anoka,Minnesota,27003,22,0,5,27003,Anoka Minnesota,330844,546
+3/30/2020,Beltrami,Minnesota,27007,3,0,1,27007,Beltrami Minnesota,44442,118
+3/30/2020,Benton,Minnesota,27009,1,0,0,27009,Benton Minnesota,38451,0
+3/30/2020,Big Stone,Minnesota,27011,1,0,0,27011,Big Stone Minnesota,5269,40
+3/30/2020,Blue Earth,Minnesota,27013,9,0,1,27013,Blue Earth Minnesota,64013,272
+3/30/2020,Carver,Minnesota,27019,10,0,1,27019,Carver Minnesota,91042,109
+3/30/2020,Cass,Minnesota,27021,1,0,0,27021,Cass Minnesota,28567,0
+3/30/2020,Chisago,Minnesota,27025,3,0,1,27025,Chisago Minnesota,53887,61
+3/30/2020,Clay,Minnesota,27027,4,0,0,27027,Clay Minnesota,58999,0
+3/30/2020,Clearwater,Minnesota,27029,2,0,1,27029,Clearwater Minnesota,8695,25
+3/30/2020,Cottonwood,Minnesota,27033,1,0,0,27033,Cottonwood Minnesota,11687,26
+3/30/2020,Dakota,Minnesota,27037,46,0,7,27037,Dakota Minnesota,398552,259
+3/30/2020,Dodge,Minnesota,27039,8,0,1,27039,Dodge Minnesota,20087,0
+3/30/2020,Douglas,Minnesota,27041,1,0,0,27041,Douglas Minnesota,36009,127
+3/30/2020,Faribault,Minnesota,27043,1,0,0,27043,Faribault Minnesota,14553,43
+3/30/2020,Fillmore,Minnesota,27045,7,0,1,27045,Fillmore Minnesota,20866,0
+3/30/2020,Goodhue,Minnesota,27049,3,0,1,27049,Goodhue Minnesota,46183,83
+3/30/2020,Hennepin,Minnesota,27053,190,6,19,27053,Hennepin Minnesota,1152425,4668
+3/30/2020,Isanti,Minnesota,27059,2,0,1,27059,Isanti Minnesota,37816,86
+3/30/2020,Itasca,Minnesota,27061,1,0,1,27061,Itasca Minnesota,45058,106
+3/30/2020,Jackson,Minnesota,27063,1,0,0,27063,Jackson Minnesota,10266,20
+3/30/2020,Kandiyohi,Minnesota,27067,1,0,0,27067,Kandiyohi Minnesota,42239,136
+3/30/2020,Lac qui Parle,Minnesota,27073,1,0,0,27073,Lac qui Parle Minnesota,7259,32
+3/30/2020,Le Sueur,Minnesota,27079,13,0,2,27079,Le Sueur Minnesota,27703,15
+3/30/2020,Lincoln,Minnesota,27081,1,0,0,27081,Lincoln Minnesota,5896,44
+3/30/2020,Mahnomen,Minnesota,27087,1,0,0,27087,Mahnomen Minnesota,5413,18
+3/30/2020,Martin,Minnesota,27091,23,2,2,27091,Martin Minnesota,20840,57
+3/30/2020,Meeker,Minnesota,27093,1,0,1,27093,Meeker Minnesota,23300,35
+3/30/2020,Mower,Minnesota,27099,12,0,1,27099,Mower Minnesota,39163,82
+3/30/2020,Nicollet,Minnesota,27103,3,0,0,27103,Nicollet Minnesota,32727,17
+3/30/2020,Olmsted,Minnesota,27109,51,0,4,27109,Olmsted Minnesota,144248,2120
+3/30/2020,Otter Tail,Minnesota,27111,1,0,0,27111,Otter Tail Minnesota,57303,133
+3/30/2020,Ramsey,Minnesota,27123,50,2,4,27123,Ramsey Minnesota,508640,1907
+3/30/2020,Renville,Minnesota,27129,1,0,0,27129,Renville Minnesota,15730,16
+3/30/2020,Rice,Minnesota,27131,3,0,0,27131,Rice Minnesota,64142,49
+3/30/2020,Scott,Minnesota,27139,10,0,1,27139,Scott Minnesota,129928,142
+3/30/2020,Sherburne,Minnesota,27141,7,0,2,27141,Sherburne Minnesota,88499,54
+3/30/2020,Sibley,Minnesota,27143,1,0,0,27143,Sibley Minnesota,15226,20
+3/30/2020,St. Louis,Minnesota,27137,12,0,2,27137,St. Louis Minnesota,200226,1125
+3/30/2020,Stearns,Minnesota,27145,5,0,0,27145,Stearns Minnesota,150642,571
+3/30/2020,Steele,Minnesota,27147,6,0,1,27147,Steele Minnesota,36576,43
+3/30/2020,Wabasha,Minnesota,27157,6,0,2,27157,Wabasha Minnesota,21676,25
+3/30/2020,Waseca,Minnesota,27161,3,0,0,27161,Waseca Minnesota,19136,35
+3/30/2020,Washington,Minnesota,27163,34,0,7,27163,Washington Minnesota,238136,183
+3/30/2020,Watonwan,Minnesota,27165,1,0,1,27165,Watonwan Minnesota,11211,50
+3/30/2020,Wilkin,Minnesota,27167,1,0,0,27167,Wilkin Minnesota,6576,25
+3/30/2020,Winona,Minnesota,27169,5,0,1,27169,Winona Minnesota,51461,99
+3/30/2020,Wright,Minnesota,27171,6,0,0,27171,Wright Minnesota,124700,104
+3/30/2020,Adams,Mississippi,28001,8,0,1,28001,Adams Mississippi,32297,179
+3/30/2020,Alcorn,Mississippi,28003,1,0,1,28003,Alcorn Mississippi,37057,200
+3/30/2020,Amite,Mississippi,28005,4,1,0,28005,Amite Mississippi,13131,25
+3/30/2020,Attala,Mississippi,28007,10,0,1,28007,Attala Mississippi,19564,25
+3/30/2020,Benton,Mississippi,28009,4,0,0,28009,Benton Mississippi,8729,0
+3/30/2020,Bolivar,Mississippi,28011,16,0,5,28011,Bolivar Mississippi,34145,165
+3/30/2020,Calhoun,Mississippi,28013,3,0,0,28013,Calhoun Mississippi,14962,25
+3/30/2020,Carroll,Mississippi,28015,1,0,0,28015,Carroll Mississippi,10597,0
+3/30/2020,Chickasaw,Mississippi,28017,12,0,2,28017,Chickasaw Mississippi,17392,84
+3/30/2020,Choctaw,Mississippi,28019,6,0,1,28019,Choctaw Mississippi,8547,25
+3/30/2020,Claiborne,Mississippi,28021,1,0,0,28021,Claiborne Mississippi,9604,32
+3/30/2020,Clarke,Mississippi,28023,1,0,0,28023,Clarke Mississippi,16732,25
+3/30/2020,Clay,Mississippi,28025,4,0,2,28025,Clay Mississippi,20634,60
+3/30/2020,Coahoma,Mississippi,28027,20,0,2,28027,Coahoma Mississippi,26151,181
+3/30/2020,Copiah,Mississippi,28029,8,0,0,28029,Copiah Mississippi,29449,25
+3/30/2020,Covington,Mississippi,28031,2,0,1,28031,Covington Mississippi,19568,35
+3/30/2020,DeSoto,Mississippi,28033,77,1,6,28033,DeSoto Mississippi,161252,514
+3/30/2020,Forrest,Mississippi,28035,21,0,2,28035,Forrest Mississippi,74934,545
+3/30/2020,Franklin,Mississippi,28037,3,0,0,28037,Franklin Mississippi,8118,25
+3/30/2020,George,Mississippi,28039,3,0,0,28039,George Mississippi,22578,48
+3/30/2020,Grenada,Mississippi,28043,3,0,0,28043,Grenada Mississippi,21906,156
+3/30/2020,Hancock,Mississippi,28045,15,1,0,28045,Hancock Mississippi,43929,102
+3/30/2020,Harrison,Mississippi,28047,44,1,1,28047,Harrison Mississippi,187105,867
+3/30/2020,Hinds,Mississippi,28049,74,0,8,28049,Hinds Mississippi,245285,2427
+3/30/2020,Holmes,Mississippi,28051,14,1,1,28051,Holmes Mississippi,19198,25
+3/30/2020,Humphreys,Mississippi,28053,2,0,0,28053,Humphreys Mississippi,9375,0
+3/30/2020,Itawamba,Mississippi,28057,3,0,0,28057,Itawamba Mississippi,23401,0
+3/30/2020,Jackson,Mississippi,28059,39,0,5,28059,Jackson Mississippi,139668,571
+3/30/2020,Jefferson,Mississippi,28063,1,0,0,28063,Jefferson Mississippi,7726,30
+3/30/2020,Jones,Mississippi,28067,6,0,1,28067,Jones Mississippi,67761,285
+3/30/2020,Kemper,Mississippi,28069,1,0,0,28069,Kemper Mississippi,10456,25
+3/30/2020,Lafayette,Mississippi,28071,14,0,1,28071,Lafayette Mississippi,47351,217
+3/30/2020,Lamar,Mississippi,28073,4,0,0,28073,Lamar Mississippi,55658,261
+3/30/2020,Lauderdale,Mississippi,28075,23,0,8,28075,Lauderdale Mississippi,80261,988
+3/30/2020,Lawrence,Mississippi,28077,5,0,0,28077,Lawrence Mississippi,12929,25
+3/30/2020,Leake,Mississippi,28079,5,0,0,28079,Leake Mississippi,23805,25
+3/30/2020,Lee,Mississippi,28081,23,1,2,28081,Lee Mississippi,82910,700
+3/30/2020,Leflore,Mississippi,28083,18,1,3,28083,Leflore Mississippi,32317,208
+3/30/2020,Lincoln,Mississippi,28085,11,0,2,28085,Lincoln Mississippi,34869,99
+3/30/2020,Lowndes,Mississippi,28087,10,0,0,28087,Lowndes Mississippi,59779,315
+3/30/2020,Madison,Mississippi,28089,38,0,1,28089,Madison Mississippi,95203,67
+3/30/2020,Marion,Mississippi,28091,4,0,0,28091,Marion Mississippi,27088,49
+3/30/2020,Marshall,Mississippi,28093,13,0,0,28093,Marshall Mississippi,37144,40
+3/30/2020,Monroe,Mississippi,28095,5,0,0,28095,Monroe Mississippi,36989,130
+3/30/2020,Montgomery,Mississippi,28097,7,0,1,28097,Montgomery Mississippi,10925,25
+3/30/2020,Neshoba,Mississippi,28099,4,0,0,28099,Neshoba Mississippi,29676,48
+3/30/2020,Newton,Mississippi,28101,2,0,1,28101,Newton Mississippi,21720,25
+3/30/2020,Noxubee,Mississippi,28103,3,0,1,28103,Noxubee Mississippi,11545,25
+3/30/2020,Oktibbeha,Mississippi,28105,15,0,0,28105,Oktibbeha Mississippi,47671,96
+3/30/2020,Panola,Mississippi,28107,6,0,1,28107,Panola Mississippi,34707,112
+3/30/2020,Pearl River,Mississippi,28109,27,0,0,28109,Pearl River Mississippi,55834,84
+3/30/2020,Perry,Mississippi,28111,3,1,1,28111,Perry Mississippi,12250,22
+3/30/2020,Pike,Mississippi,28113,16,0,2,28113,Pike Mississippi,40404,197
+3/30/2020,Pontotoc,Mississippi,28115,5,0,1,28115,Pontotoc Mississippi,29957,25
+3/30/2020,Prentiss,Mississippi,28117,4,0,0,28117,Prentiss Mississippi,25276,114
+3/30/2020,Quitman,Mississippi,28119,4,0,0,28119,Quitman Mississippi,8223,0
+3/30/2020,Rankin,Mississippi,28121,37,1,2,28121,Rankin Mississippi,141617,2081
+3/30/2020,Scott,Mississippi,28123,9,0,2,28123,Scott Mississippi,28264,60
+3/30/2020,Sharkey,Mississippi,28125,1,0,0,28125,Sharkey Mississippi,4916,29
+3/30/2020,Simpson,Mississippi,28127,2,0,0,28127,Simpson Mississippi,27503,99
+3/30/2020,Smith,Mississippi,28129,1,0,0,28129,Smith Mississippi,16491,29
+3/30/2020,Sunflower,Mississippi,28133,11,1,1,28133,Sunflower Mississippi,29450,140
+3/30/2020,Tallahatchie,Mississippi,28135,2,0,0,28135,Tallahatchie Mississippi,15378,18
+3/30/2020,Tate,Mississippi,28137,11,0,2,28137,Tate Mississippi,28886,76
+3/30/2020,Tippah,Mississippi,28139,23,2,0,28139,Tippah Mississippi,22232,25
+3/30/2020,Tunica,Mississippi,28143,12,1,6,28143,Tunica Mississippi,10778,0
+3/30/2020,Union,Mississippi,28145,3,0,0,28145,Union Mississippi,27134,153
+3/30/2020,Walthall,Mississippi,28147,5,0,0,28147,Walthall Mississippi,15443,25
+3/30/2020,Warren,Mississippi,28149,1,0,0,28149,Warren Mississippi,48773,396
+3/30/2020,Washington,Mississippi,28151,18,0,2,28151,Washington Mississippi,51137,363
+3/30/2020,Webster,Mississippi,28155,5,1,2,28155,Webster Mississippi,10253,38
+3/30/2020,Wilkinson,Mississippi,28157,13,2,1,28157,Wilkinson Mississippi,9878,0
+3/30/2020,Winston,Mississippi,28159,6,0,2,28159,Winston Mississippi,19198,66
+3/30/2020,Yalobusha,Mississippi,28161,5,0,2,28161,Yalobusha Mississippi,12678,26
+3/30/2020,Yazoo,Mississippi,28163,7,0,2,28163,Yazoo Mississippi,28065,25
+3/30/2020,Adair,Missouri,29001,2,0,0,29001,Adair Missouri,25607,93
+3/30/2020,Atchison,Missouri,29005,1,0,0,29005,Atchison Missouri,5685,18
+3/30/2020,Barry,Missouri,29009,1,0,0,29009,Barry Missouri,35597,43
+3/30/2020,Bates,Missouri,29013,1,0,-1,29013,Bates Missouri,17049,60
+3/30/2020,Benton,Missouri,29015,1,0,0,29015,Benton Missouri,19056,0
+3/30/2020,Bollinger,Missouri,29017,1,0,0,29017,Bollinger Missouri,12363,0
+3/30/2020,Boone,Missouri,29019,59,1,9,29019,Boone Missouri,162642,620
+3/30/2020,Buchanan,Missouri,29021,3,0,0,29021,Buchanan Missouri,89201,393
+3/30/2020,Callaway,Missouri,29027,13,0,5,29027,Callaway Missouri,44332,37
+3/30/2020,Camden,Missouri,29029,11,1,4,29029,Camden Missouri,44002,130
+3/30/2020,Cape Girardeau,Missouri,29031,13,0,7,29031,Cape Girardeau Missouri,75674,601
+3/30/2020,Carter,Missouri,29035,2,0,0,29035,Carter Missouri,6265,0
+3/30/2020,Cass,Missouri,29037,9,0,1,29037,Cass Missouri,99478,106
+3/30/2020,Cedar,Missouri,29039,5,0,5,29039,Cedar Missouri,13982,25
+3/30/2020,Chariton,Missouri,29041,3,0,2,29041,Chariton Missouri,7831,0
+3/30/2020,Christian,Missouri,29043,12,0,5,29043,Christian Missouri,77422,0
+3/30/2020,Clay,Missouri,29047,13,0,2,29047,Clay Missouri,221939,905
+3/30/2020,Clinton,Missouri,29049,4,0,3,29049,Clinton Missouri,20743,58
+3/30/2020,Cole,Missouri,29051,25,0,8,29051,Cole Missouri,75990,268
+3/30/2020,Cooper,Missouri,29053,1,0,0,29053,Cooper Missouri,17601,70
+3/30/2020,Crawford,Missouri,29055,1,0,1,29055,Crawford Missouri,24696,35
+3/30/2020,Dunklin,Missouri,29069,6,0,3,29069,Dunklin Missouri,31953,116
+3/30/2020,Franklin,Missouri,29071,7,0,0,29071,Franklin Missouri,101492,148
+3/30/2020,Greene,Missouri,29077,38,3,-3,29077,Greene Missouri,275174,1402
+3/30/2020,Henry,Missouri,29083,1,1,0,29083,Henry Missouri,22272,97
+3/30/2020,Jackson,Missouri,29095,156,1,6,29095,Jackson Missouri,674158,3934
+3/30/2020,Jasper,Missouri,29097,4,0,2,29097,Jasper Missouri,117404,25
+3/30/2020,Jefferson,Missouri,29099,18,0,1,29099,Jefferson Missouri,218733,251
+3/30/2020,Johnson,Missouri,29101,9,0,0,29101,Johnson Missouri,52595,75
+3/30/2020,Lafayette,Missouri,29107,17,1,13,29107,Lafayette Missouri,33381,32
+3/30/2020,Lincoln,Missouri,29113,5,0,3,29113,Lincoln Missouri,52566,25
+3/30/2020,Livingston,Missouri,29117,1,0,1,29117,Livingston Missouri,15195,25
+3/30/2020,Macon,Missouri,29121,1,0,1,29121,Macon Missouri,15566,25
+3/30/2020,Maries,Missouri,29125,1,0,1,29125,Maries Missouri,9176,0
+3/30/2020,McDonald,Missouri,29119,2,0,1,29119,McDonald Missouri,23083,0
+3/30/2020,Moniteau,Missouri,29135,2,0,-2,29135,Moniteau Missouri,15607,0
+3/30/2020,Montgomery,Missouri,29139,2,0,-1,29139,Montgomery Missouri,12236,0
+3/30/2020,Morgan,Missouri,29141,1,0,1,29141,Morgan Missouri,20565,0
+3/30/2020,Newton,Missouri,29145,4,0,0,29145,Newton Missouri,58114,463
+3/30/2020,Osage,Missouri,29151,1,0,1,29151,Osage Missouri,13878,0
+3/30/2020,Pemiscot,Missouri,29155,2,0,1,29155,Pemiscot Missouri,18296,167
+3/30/2020,Perry,Missouri,29157,12,0,5,29157,Perry Missouri,18971,25
+3/30/2020,Pettis,Missouri,29159,1,0,0,29159,Pettis Missouri,42201,145
+3/30/2020,Pike,Missouri,29163,1,0,1,29163,Pike Missouri,18516,25
+3/30/2020,Platte,Missouri,29165,7,0,1,29165,Platte Missouri,89322,97
+3/30/2020,Pulaski,Missouri,29169,6,0,1,29169,Pulaski Missouri,52274,0
+3/30/2020,Ralls,Missouri,29173,1,0,0,29173,Ralls Missouri,10167,0
+3/30/2020,Randolph,Missouri,29175,1,0,0,29175,Randolph Missouri,25414,100
+3/30/2020,Ray,Missouri,29177,1,0,0,29177,Ray Missouri,23494,34
+3/30/2020,Reynolds,Missouri,29179,2,0,2,29179,Reynolds Missouri,6696,0
+3/30/2020,Ripley,Missouri,29181,2,0,0,29181,Ripley Missouri,14100,21
+3/30/2020,Scott,Missouri,29201,5,0,2,29201,Scott Missouri,39191,144
+3/30/2020,Shelby,Missouri,29205,1,0,0,29205,Shelby Missouri,6373,0
+3/30/2020,St. Charles,Missouri,29183,56,2,13,29183,St. Charles Missouri,360485,852
+3/30/2020,St. Francois,Missouri,29187,3,0,-1,29187,St. Francois Missouri,65359,133
+3/30/2020,St. Louis,Missouri,29189,366,2,30,29189,St. Louis Missouri,998954,4820
+3/30/2020,St. Louis city,Missouri,29510,102,1,5,29510,St. Louis city Missouri,319294,3809
+3/30/2020,Stoddard,Missouri,29207,2,0,0,29207,Stoddard Missouri,29968,48
+3/30/2020,Stone,Missouri,29209,1,0,1,29209,Stone Missouri,32202,0
+3/30/2020,Taney,Missouri,29213,2,0,0,29213,Taney Missouri,51675,157
+3/30/2020,Texas,Missouri,29215,1,0,0,29215,Texas Missouri,26008,66
+3/30/2020,Warren,Missouri,29219,2,0,0,29219,Warren Missouri,32513,0
+3/30/2020,Webster,Missouri,29225,1,0,1,29225,Webster Missouri,36202,0
+3/30/2020,Wright,Missouri,29229,4,0,1,29229,Wright Missouri,18815,0
+3/30/2020,Broadwater,Montana,30007,3,0,0,30007,Broadwater Montana,5612,44
+3/30/2020,Cascade,Montana,30013,7,0,0,30013,Cascade Montana,81327,436
+3/30/2020,Deer Lodge,Montana,30023,3,0,2,30023,Deer Lodge Montana,9298,261
+3/30/2020,Flathead,Montana,30029,9,0,1,30029,Flathead Montana,90928,231
+3/30/2020,Gallatin,Montana,30031,69,0,7,30031,Gallatin Montana,89513,90
+3/30/2020,Hill,Montana,30041,1,0,0,30041,Hill Montana,16096,49
+3/30/2020,Jefferson,Montana,30043,2,0,0,30043,Jefferson Montana,11406,0
+3/30/2020,Lake,Montana,30047,3,0,0,30047,Lake Montana,28746,105
+3/30/2020,Lewis and Clark,Montana,30049,11,0,1,30049,Lewis and Clark Montana,63395,143
+3/30/2020,Lincoln,Montana,30053,4,1,0,30053,Lincoln Montana,19687,25
+3/30/2020,Madison,Montana,30057,4,1,0,30057,Madison Montana,7691,20
+3/30/2020,Meagher,Montana,30059,1,0,0,30059,Meagher Montana,1891,25
+3/30/2020,Missoula,Montana,30063,12,0,1,30063,Missoula Montana,109299,404
+3/30/2020,Park,Montana,30067,3,0,1,30067,Park Montana,15636,25
+3/30/2020,Ravalli,Montana,30081,1,0,0,30081,Ravalli Montana,40212,37
+3/30/2020,Roosevelt,Montana,30085,1,0,0,30085,Roosevelt Montana,10425,45
+3/30/2020,Silver Bow,Montana,30093,9,0,0,30093,Silver Bow Montana,34200,206
+3/30/2020,Toole,Montana,30101,6,2,1,30101,Toole Montana,5324,25
+3/30/2020,Yellowstone,Montana,30111,28,0,2,30111,Yellowstone Montana,147972,630
+3/30/2020,Adams,Nebraska,31001,3,0,1,31001,Adams Nebraska,31364,161
+3/30/2020,Antelope,Nebraska,31003,1,0,1,31003,Antelope Nebraska,6685,25
+3/30/2020,Buffalo,Nebraska,31019,6,0,1,31019,Buffalo Nebraska,46102,322
+3/30/2020,Cass,Nebraska,31025,2,0,0,31025,Cass Nebraska,25241,0
+3/30/2020,Dawson,Nebraska,31047,1,0,0,31047,Dawson Nebraska,24326,58
+3/30/2020,Dodge,Nebraska,31053,3,0,0,31053,Dodge Nebraska,36691,81
+3/30/2020,Douglas,Nebraska,31055,104,1,25,31055,Douglas Nebraska,517110,3068
+3/30/2020,Gosper,Nebraska,31073,1,0,0,31073,Gosper Nebraska,2044,0
+3/30/2020,Hall,Nebraska,31079,6,1,0,31079,Hall Nebraska,58607,159
+3/30/2020,Kearney,Nebraska,31099,1,0,0,31099,Kearney Nebraska,6489,10
+3/30/2020,Knox,Nebraska,31107,2,0,0,31107,Knox Nebraska,8701,23
+3/30/2020,Lancaster,Nebraska,31109,8,0,2,31109,Lancaster Nebraska,285407,1354
+3/30/2020,Lincoln,Nebraska,31111,5,1,2,31111,Lincoln Nebraska,36288,116
+3/30/2020,Madison,Nebraska,31119,2,0,0,31119,Madison Nebraska,34876,281
+3/30/2020,Nemaha,Nebraska,31127,1,0,0,31127,Nemaha Nebraska,7248,16
+3/30/2020,Platte,Nebraska,31141,1,0,0,31141,Platte Nebraska,32237,51
+3/30/2020,Sarpy,Nebraska,31153,13,0,2,31153,Sarpy Nebraska,158840,176
+3/30/2020,Saunders,Nebraska,31155,2,0,0,31155,Saunders Nebraska,20780,16
+3/30/2020,Scotts Bluff,Nebraska,31157,1,0,0,31157,Scotts Bluff Nebraska,36970,166
+3/30/2020,Washington,Nebraska,31177,19,0,10,31177,Washington Nebraska,20234,25
+3/30/2020,York,Nebraska,31185,1,0,1,31185,York Nebraska,13665,38
+3/30/2020,Carson City,Nevada,32510,5,0,0,32510,Carson City Nevada,55274,229
+3/30/2020,Clark,Nevada,32003,753,15,225,32003,Clark Nevada,1951269,5467
+3/30/2020,Douglas,Nevada,32005,5,0,0,32005,Douglas Nevada,46997,23
+3/30/2020,Elko,Nevada,32007,5,0,2,32007,Elko Nevada,48818,50
+3/30/2020,Humboldt,Nevada,32013,3,0,2,32013,Humboldt Nevada,16528,52
+3/30/2020,Lyon,Nevada,32019,1,0,0,32019,Lyon Nevada,51980,63
+3/30/2020,Nye,Nevada,32023,1,0,0,32023,Nye Nevada,43946,25
+3/30/2020,Washoe,Nevada,32031,121,3,14,32031,Washoe Nevada,421407,1690
+3/30/2020,Belknap,New Hampshire,33001,12,0,3,33001,Belknap New Hampshire,60088,137
+3/30/2020,Carroll,New Hampshire,33003,10,0,0,33003,Carroll New Hampshire,47818,50
+3/30/2020,Cheshire,New Hampshire,33005,3,0,0,33005,Cheshire New Hampshire,77117,169
+3/30/2020,Grafton,New Hampshire,33009,35,0,5,33009,Grafton New Hampshire,89118,496
+3/30/2020,Hillsborough,New Hampshire,33011,91,2,23,33011,Hillsborough New Hampshire,400721,1144
+3/30/2020,Merrimack,New Hampshire,33013,22,0,4,33013,Merrimack New Hampshire,146445,395
+3/30/2020,Rockingham,New Hampshire,33015,116,1,16,33015,Rockingham New Hampshire,295223,606
+3/30/2020,Strafford,New Hampshire,33017,22,0,5,33017,Strafford New Hampshire,123143,290
+3/30/2020,Sullivan,New Hampshire,33019,3,0,0,33019,Sullivan New Hampshire,43742,25
+3/30/2020,Atlantic,New Jersey,34001,30,0,6,34001,Atlantic New Jersey,274549,1414
+3/30/2020,Bergen,New Jersey,34003,2482,41,313,34003,Bergen New Jersey,905116,3019
+3/30/2020,Burlington,New Jersey,34005,178,5,36,34005,Burlington New Jersey,448734,1112
+3/30/2020,Camden,New Jersey,34007,200,1,37,34007,Camden New Jersey,513657,2518
+3/30/2020,Cape May,New Jersey,34009,15,0,6,34009,Cape May New Jersey,97265,242
+3/30/2020,Cumberland,New Jersey,34011,12,1,1,34011,Cumberland New Jersey,156898,511
+3/30/2020,Essex,New Jersey,34013,1564,36,337,34013,Essex New Jersey,783969,4007
+3/30/2020,Gloucester,New Jersey,34015,89,1,17,34015,Gloucester New Jersey,288288,609
+3/30/2020,Hudson,New Jersey,34017,1314,11,340,34017,Hudson New Jersey,634266,1878
+3/30/2020,Hunterdon,New Jersey,34019,79,0,13,34019,Hunterdon New Jersey,128349,184
+3/30/2020,Mercer,New Jersey,34021,249,0,47,34021,Mercer New Jersey,366513,1690
+3/30/2020,Middlesex,New Jersey,34023,1123,20,185,34023,Middlesex New Jersey,809858,2657
+3/30/2020,Monmouth,New Jersey,34025,1030,15,160,34025,Monmouth New Jersey,630380,2176
+3/30/2020,Morris,New Jersey,34027,720,13,154,34027,Morris New Jersey,492276,2005
+3/30/2020,Ocean,New Jersey,34029,874,12,115,34029,Ocean New Jersey,576567,1522
+3/30/2020,Passaic,New Jersey,34031,1091,9,260,34031,Passaic New Jersey,501226,1187
+3/30/2020,Salem,New Jersey,34033,3,0,0,34033,Salem New Jersey,66083,222
+3/30/2020,Somerset,New Jersey,34035,349,14,54,34035,Somerset New Jersey,323444,759
+3/30/2020,Sussex,New Jersey,34037,113,3,20,34037,Sussex New Jersey,149265,146
+3/30/2020,Union,New Jersey,34039,1213,15,317,34039,Union New Jersey,536499,1521
+3/30/2020,Warren,New Jersey,34041,68,2,12,34041,Warren New Jersey,108692,309
+3/30/2020,Bernalillo,New Mexico,35001,117,3,16,35001,Bernalillo New Mexico,662564,2020
+3/30/2020,Chaves,New Mexico,35005,10,0,2,35005,Chaves New Mexico,65645,229
+3/30/2020,Cibola,New Mexico,35006,2,0,0,35006,Cibola New Mexico,27213,50
+3/30/2020,Curry,New Mexico,35009,3,0,0,35009,Curry New Mexico,48376,106
+3/30/2020,Doña Ana,New Mexico,35013,18,0,1,35013,Doña Ana New Mexico,209233,603
+3/30/2020,Eddy,New Mexico,35015,4,1,0,35015,Eddy New Mexico,53829,161
+3/30/2020,Lea,New Mexico,35025,2,0,0,35025,Lea New Mexico,64727,211
+3/30/2020,McKinley,New Mexico,35031,12,0,3,35031,McKinley New Mexico,71492,228
+3/30/2020,Rio Arriba,New Mexico,35039,3,0,1,35039,Rio Arriba New Mexico,40246,80
+3/30/2020,Roosevelt,New Mexico,35041,1,0,0,35041,Roosevelt New Mexico,19846,30
+3/30/2020,San Juan,New Mexico,35045,27,0,5,35045,San Juan New Mexico,130044,267
+3/30/2020,San Miguel,New Mexico,35047,1,0,0,35047,San Miguel New Mexico,29393,175
+3/30/2020,Sandoval,New Mexico,35043,23,0,5,35043,Sandoval New Mexico,131561,271
+3/30/2020,Santa Fe,New Mexico,35049,38,0,4,35049,Santa Fe New Mexico,144170,258
+3/30/2020,Socorro,New Mexico,35053,3,0,1,35053,Socorro New Mexico,17866,24
+3/30/2020,Taos,New Mexico,35055,10,0,1,35055,Taos New Mexico,32937,29
+3/30/2020,Torrance,New Mexico,35057,3,0,3,35057,Torrance New Mexico,16383,0
+3/30/2020,Valencia,New Mexico,35061,5,0,3,35061,Valencia New Mexico,76569,0
+3/30/2020,Albany,New York,36001,217,1,12,36001,Albany New York,304204,1381
+3/30/2020,Allegany,New York,36003,7,0,1,36003,Allegany New York,48946,76
+3/30/2020,Broome,New York,36007,35,3,6,36007,Broome New York,200600,742
+3/30/2020,Cattaraugus,New York,36009,6,0,2,36009,Cattaraugus New York,80317,186
+3/30/2020,Cayuga,New York,36011,3,0,1,36011,Cayuga New York,80026,99
+3/30/2020,Chautauqua,New York,36013,5,0,0,36013,Chautauqua New York,134905,399
+3/30/2020,Chemung,New York,36015,15,0,0,36015,Chemung New York,88830,391
+3/30/2020,Chenango,New York,36017,17,0,2,36017,Chenango New York,50477,58
+3/30/2020,Clinton,New York,36019,17,0,4,36019,Clinton New York,82128,300
+3/30/2020,Columbia,New York,36021,26,1,3,36021,Columbia New York,63096,192
+3/30/2020,Cortland,New York,36023,8,0,2,36023,Cortland New York,49336,162
+3/30/2020,Delaware,New York,36025,11,0,3,36025,Delaware New York,47980,67
+3/30/2020,Dutchess,New York,36027,392,3,72,36027,Dutchess New York,297488,676
+3/30/2020,Erie,New York,36029,443,8,63,36029,Erie New York,919040,2788
+3/30/2020,Essex,New York,36031,5,0,1,36031,Essex New York,39370,40
+3/30/2020,Franklin,New York,36033,6,0,0,36033,Franklin New York,51599,173
+3/30/2020,Fulton,New York,36035,1,0,0,36035,Fulton New York,55531,74
+3/30/2020,Genesee,New York,36037,9,0,0,36037,Genesee New York,60079,131
+3/30/2020,Greene,New York,36039,10,0,3,36039,Greene New York,49221,0
+3/30/2020,Hamilton,New York,36041,2,0,0,36041,Hamilton New York,4836,0
+3/30/2020,Herkimer,New York,36043,12,2,2,36043,Herkimer New York,64519,25
+3/30/2020,Jefferson,New York,36045,11,0,4,36045,Jefferson New York,116229,344
+3/30/2020,Lewis,New York,36049,2,0,0,36049,Lewis New York,27087,31
+3/30/2020,Livingston,New York,36051,12,0,2,36051,Livingston New York,65393,67
+3/30/2020,Madison,New York,36053,34,0,10,36053,Madison New York,73442,126
+3/30/2020,Monroe,New York,36055,242,6,23,36055,Monroe New York,744344,2009
+3/30/2020,Montgomery,New York,36057,6,0,0,36057,Montgomery New York,50219,130
+3/30/2020,Nassau,New York,36059,7344,48,899,36059,Nassau New York,1339532,4181
+3/30/2020,New York City,New York,,38087,914,4319,360000,New York City New York,8175133,24245
+3/30/2020,Niagara,New York,36063,41,0,3,36063,Niagara New York,216469,623
+3/30/2020,Oneida,New York,36065,34,0,8,36065,Oneida New York,234878,725
+3/30/2020,Onondaga,New York,36067,180,0,28,36067,Onondaga New York,467026,1672
+3/30/2020,Ontario,New York,36069,20,0,2,36069,Ontario New York,107931,399
+3/30/2020,Orange,New York,36071,1435,3,188,36071,Orange New York,372813,902
+3/30/2020,Orleans,New York,36073,4,0,1,36073,Orleans New York,42883,39
+3/30/2020,Oswego,New York,36075,14,0,6,36075,Oswego New York,122109,158
+3/30/2020,Otsego,New York,36077,17,0,7,36077,Otsego New York,62259,240
+3/30/2020,Putnam,New York,36079,167,0,23,36079,Putnam New York,99710,164
+3/30/2020,Rensselaer,New York,36083,40,0,1,36083,Rensselaer New York,159429,423
+3/30/2020,Rockland,New York,36087,2511,8,302,36087,Rockland New York,311687,791
+3/30/2020,Saratoga,New York,36091,105,1,3,36091,Saratoga New York,219607,259
+3/30/2020,Schenectady,New York,36093,80,0,4,36093,Schenectady New York,154727,538
+3/30/2020,Schoharie,New York,36095,6,0,1,36095,Schoharie New York,32749,40
+3/30/2020,Schuyler,New York,36097,2,0,1,36097,Schuyler New York,18343,25
+3/30/2020,St. Lawrence,New York,36089,13,0,1,36089,St. Lawrence New York,111944,319
+3/30/2020,Steuben,New York,36101,19,0,2,36101,Steuben New York,98990,115
+3/30/2020,Suffolk,New York,36103,5791,44,768,36103,Suffolk New York,1493350,3583
+3/30/2020,Sullivan,New York,36105,101,0,13,36105,Sullivan New York,77547,169
+3/30/2020,Tioga,New York,36107,4,0,0,36107,Tioga New York,51125,0
+3/30/2020,Tompkins,New York,36109,66,0,14,36109,Tompkins New York,101564,212
+3/30/2020,Ulster,New York,36111,207,1,28,36111,Ulster New York,182493,325
+3/30/2020,Warren,New York,36113,18,0,0,36113,Warren New York,65707,410
+3/30/2020,Washington,New York,36115,7,0,0,36115,Washington New York,63216,0
+3/30/2020,Wayne,New York,36117,15,0,3,36117,Wayne New York,93772,120
+3/30/2020,Westchester,New York,36119,9326,19,807,36119,Westchester New York,949113,3235
+3/30/2020,Wyoming,New York,36121,8,0,0,36121,Wyoming New York,42155,62
+3/30/2020,Alamance,North Carolina,37001,7,0,1,37001,Alamance North Carolina,151131,238
+3/30/2020,Alexander,North Carolina,37003,1,0,1,37003,Alexander North Carolina,37198,0
+3/30/2020,Alleghany,North Carolina,37005,2,0,1,37005,Alleghany North Carolina,11155,41
+3/30/2020,Beaufort,North Carolina,37013,3,0,0,37013,Beaufort North Carolina,47759,142
+3/30/2020,Bertie,North Carolina,37015,5,0,2,37015,Bertie North Carolina,21282,6
+3/30/2020,Brunswick,North Carolina,37019,13,0,1,37019,Brunswick North Carolina,107431,212
+3/30/2020,Buncombe,North Carolina,37021,20,1,1,37021,Buncombe North Carolina,238318,877
+3/30/2020,Burke,North Carolina,37023,5,0,1,37023,Burke North Carolina,90912,315
+3/30/2020,Cabarrus,North Carolina,37025,38,1,9,37025,Cabarrus North Carolina,178011,497
+3/30/2020,Caldwell,North Carolina,37027,3,0,0,37027,Caldwell North Carolina,83029,110
+3/30/2020,Carteret,North Carolina,37031,10,0,2,37031,Carteret North Carolina,66469,135
+3/30/2020,Caswell,North Carolina,37033,1,0,0,37033,Caswell North Carolina,23719,0
+3/30/2020,Catawba,North Carolina,37035,14,0,0,37035,Catawba North Carolina,154358,638
+3/30/2020,Chatham,North Carolina,37037,14,0,1,37037,Chatham North Carolina,63505,25
+3/30/2020,Cherokee,North Carolina,37039,7,0,1,37039,Cherokee North Carolina,27444,191
+3/30/2020,Cleveland,North Carolina,37045,5,0,0,37045,Cleveland North Carolina,98078,371
+3/30/2020,Columbus,North Carolina,37047,2,0,1,37047,Columbus North Carolina,58098,154
+3/30/2020,Craven,North Carolina,37049,5,0,0,37049,Craven North Carolina,103505,350
+3/30/2020,Cumberland,North Carolina,37051,15,0,2,37051,Cumberland North Carolina,319431,666
+3/30/2020,Currituck,North Carolina,37053,1,0,0,37053,Currituck North Carolina,23547,0
+3/30/2020,Davidson,North Carolina,37057,19,0,3,37057,Davidson North Carolina,162878,243
+3/30/2020,Davie,North Carolina,37059,12,0,6,37059,Davie North Carolina,41240,50
+3/30/2020,Duplin,North Carolina,37061,1,0,0,37061,Duplin North Carolina,58505,101
+3/30/2020,Durham,North Carolina,37063,106,0,1,37063,Durham North Carolina,267587,1360
+3/30/2020,Edgecombe,North Carolina,37065,1,0,0,37065,Edgecombe North Carolina,56552,117
+3/30/2020,Forsyth,North Carolina,37067,39,0,4,37067,Forsyth North Carolina,350670,1855
+3/30/2020,Franklin,North Carolina,37069,6,0,1,37069,Franklin North Carolina,60619,0
+3/30/2020,Gaston,North Carolina,37071,22,0,1,37071,Gaston North Carolina,206086,475
+3/30/2020,Granville,North Carolina,37077,7,0,1,37077,Granville North Carolina,59916,142
+3/30/2020,Greene,North Carolina,37079,3,0,0,37079,Greene North Carolina,21362,0
+3/30/2020,Guilford,North Carolina,37081,44,0,5,37081,Guilford North Carolina,488406,1833
+3/30/2020,Halifax,North Carolina,37083,2,0,0,37083,Halifax North Carolina,54691,306
+3/30/2020,Harnett,North Carolina,37085,15,1,1,37085,Harnett North Carolina,114678,167
+3/30/2020,Henderson,North Carolina,37089,16,0,3,37089,Henderson North Carolina,106740,325
+3/30/2020,Hertford,North Carolina,37091,2,0,0,37091,Hertford North Carolina,24669,114
+3/30/2020,Hoke,North Carolina,37093,3,0,0,37093,Hoke North Carolina,46952,49
+3/30/2020,Iredell,North Carolina,37097,25,0,4,37097,Iredell North Carolina,159437,501
+3/30/2020,Jackson,North Carolina,37099,1,0,0,37099,Jackson North Carolina,40271,86
+3/30/2020,Johnston,North Carolina,37101,11,1,1,37101,Johnston North Carolina,168878,199
+3/30/2020,Lee,North Carolina,37105,2,0,0,37105,Lee North Carolina,57866,127
+3/30/2020,Lenoir,North Carolina,37107,3,0,0,37107,Lenoir North Carolina,59495,261
+3/30/2020,Lincoln,North Carolina,37109,3,0,0,37109,Lincoln North Carolina,78265,101
+3/30/2020,McDowell,North Carolina,37111,4,0,0,37111,McDowell North Carolina,44996,65
+3/30/2020,Mecklenburg,North Carolina,37119,382,1,46,37119,Mecklenburg North Carolina,919628,2949
+3/30/2020,Montgomery,North Carolina,37123,3,0,0,37123,Montgomery North Carolina,27798,37
+3/30/2020,Moore,North Carolina,37125,6,0,0,37125,Moore North Carolina,88247,372
+3/30/2020,Nash,North Carolina,37127,4,0,1,37127,Nash North Carolina,95840,403
+3/30/2020,New Hanover,North Carolina,37129,26,0,4,37129,New Hanover North Carolina,202667,769
+3/30/2020,Northampton,North Carolina,37131,26,0,1,37131,Northampton North Carolina,22099,0
+3/30/2020,Onslow,North Carolina,37133,6,0,2,37133,Onslow North Carolina,177772,162
+3/30/2020,Orange,North Carolina,37135,30,0,1,37135,Orange North Carolina,133801,896
+3/30/2020,Pamlico,North Carolina,37137,1,0,0,37137,Pamlico North Carolina,13144,0
+3/30/2020,Pasquotank,North Carolina,37139,2,0,0,37139,Pasquotank North Carolina,40661,182
+3/30/2020,Perquimans,North Carolina,37143,1,0,0,37143,Perquimans North Carolina,13453,0
+3/30/2020,Person,North Carolina,37145,1,0,0,37145,Person North Carolina,39464,110
+3/30/2020,Pitt,North Carolina,37147,16,0,1,37147,Pitt North Carolina,168148,909
+3/30/2020,Polk,North Carolina,37149,2,0,0,37149,Polk North Carolina,20510,35
+3/30/2020,Randolph,North Carolina,37151,16,0,1,37151,Randolph North Carolina,141752,145
+3/30/2020,Richmond,North Carolina,37153,1,0,0,37153,Richmond North Carolina,46639,163
+3/30/2020,Robeson,North Carolina,37155,2,0,0,37155,Robeson North Carolina,134168,452
+3/30/2020,Rowan,North Carolina,37159,18,1,1,37159,Rowan North Carolina,138428,268
+3/30/2020,Rutherford,North Carolina,37161,1,0,1,37161,Rutherford North Carolina,67810,143
+3/30/2020,Sampson,North Carolina,37163,1,0,0,37163,Sampson North Carolina,63431,146
+3/30/2020,Scotland,North Carolina,37165,2,0,0,37165,Scotland North Carolina,36157,104
+3/30/2020,Stanly,North Carolina,37167,5,0,0,37167,Stanly North Carolina,60585,109
+3/30/2020,Surry,North Carolina,37171,2,0,0,37171,Surry North Carolina,73673,226
+3/30/2020,Transylvania,North Carolina,37175,3,0,0,37175,Transylvania North Carolina,33090,94
+3/30/2020,Union,North Carolina,37179,38,0,0,37179,Union North Carolina,201292,227
+3/30/2020,Vance,North Carolina,37181,3,0,0,37181,Vance North Carolina,45422,102
+3/30/2020,Wake,North Carolina,37183,166,0,20,37183,Wake North Carolina,900993,1781
+3/30/2020,Washington,North Carolina,37187,1,0,0,37187,Washington North Carolina,13228,49
+3/30/2020,Watauga,North Carolina,37189,5,0,0,37189,Watauga North Carolina,51079,217
+3/30/2020,Wayne,North Carolina,37191,4,0,1,37191,Wayne North Carolina,122623,316
+3/30/2020,Wilson,North Carolina,37195,11,0,1,37195,Wilson North Carolina,81234,317
+3/30/2020,Yadkin,North Carolina,37197,2,0,1,37197,Yadkin North Carolina,38406,22
+3/30/2020,Barnes,North Dakota,38003,2,0,0,38003,Barnes North Dakota,11066,25
+3/30/2020,Burleigh,North Dakota,38015,29,0,1,38015,Burleigh North Dakota,81308,510
+3/30/2020,Cass,North Dakota,38017,23,1,3,38017,Cass North Dakota,149778,1262
+3/30/2020,Divide,North Dakota,38023,1,0,0,38023,Divide North Dakota,2071,15
+3/30/2020,Dunn,North Dakota,38025,1,0,0,38025,Dunn North Dakota,3536,0
+3/30/2020,Foster,North Dakota,38031,1,0,0,38031,Foster North Dakota,3343,25
+3/30/2020,Grand Forks,North Dakota,38035,2,0,2,38035,Grand Forks North Dakota,66861,641
+3/30/2020,McHenry,North Dakota,38049,1,1,0,38049,McHenry North Dakota,5395,0
+3/30/2020,McIntosh,North Dakota,38051,1,0,0,38051,McIntosh North Dakota,2809,44
+3/30/2020,McLean,North Dakota,38055,2,0,0,38055,McLean North Dakota,8962,47
+3/30/2020,Mercer,North Dakota,38057,1,0,0,38057,Mercer North Dakota,8424,13
+3/30/2020,Morton,North Dakota,38059,14,1,0,38059,Morton North Dakota,27471,41
+3/30/2020,Mountrail,North Dakota,38061,4,0,2,38061,Mountrail North Dakota,7673,11
+3/30/2020,Oliver,North Dakota,38065,1,0,1,38065,Oliver North Dakota,1846,0
+3/30/2020,Pierce,North Dakota,38069,2,0,0,38069,Pierce North Dakota,4357,25
+3/30/2020,Ramsey,North Dakota,38071,3,0,0,38071,Ramsey North Dakota,11451,25
+3/30/2020,Sioux,North Dakota,38085,1,0,0,38085,Sioux North Dakota,4153,0
+3/30/2020,Stark,North Dakota,38089,11,0,1,38089,Stark North Dakota,24199,25
+3/30/2020,Walsh,North Dakota,38099,1,0,0,38099,Walsh North Dakota,11119,28
+3/30/2020,Ward,North Dakota,38101,9,0,2,38101,Ward North Dakota,61675,527
+3/30/2020,Allen,Ohio,39003,4,0,0,39003,Allen Ohio,106331,830
+3/30/2020,Ashland,Ohio,39005,2,0,0,39005,Ashland Ohio,53139,123
+3/30/2020,Ashtabula,Ohio,39007,6,0,0,39007,Ashtabula Ohio,101497,429
+3/30/2020,Athens,Ohio,39009,3,1,0,39009,Athens Ohio,64757,220
+3/30/2020,Auglaize,Ohio,39011,2,0,0,39011,Auglaize Ohio,45949,140
+3/30/2020,Belmont,Ohio,39013,8,0,0,39013,Belmont Ohio,70400,300
+3/30/2020,Brown,Ohio,39015,1,0,1,39015,Brown Ohio,44846,0
+3/30/2020,Butler,Ohio,39017,30,0,3,39017,Butler Ohio,368130,879
+3/30/2020,Carroll,Ohio,39019,5,0,1,39019,Carroll Ohio,28836,0
+3/30/2020,Champaign,Ohio,39021,3,0,1,39021,Champaign Ohio,40097,8
+3/30/2020,Clark,Ohio,39023,6,0,-1,39023,Clark Ohio,138333,40
+3/30/2020,Clermont,Ohio,39025,9,0,1,39025,Clermont Ohio,197363,148
+3/30/2020,Clinton,Ohio,39027,3,0,0,39027,Clinton Ohio,42040,165
+3/30/2020,Columbiana,Ohio,39029,11,2,0,39029,Columbiana Ohio,107841,351
+3/30/2020,Coshocton,Ohio,39031,5,0,1,39031,Coshocton Ohio,36901,56
+3/30/2020,Crawford,Ohio,39033,5,0,3,39033,Crawford Ohio,43784,75
+3/30/2020,Cuyahoga,Ohio,39035,493,4,44,39035,Cuyahoga Ohio,1280122,8105
+3/30/2020,Darke,Ohio,39037,12,0,9,39037,Darke Ohio,52959,104
+3/30/2020,Defiance,Ohio,39039,5,0,0,39039,Defiance Ohio,39037,104
+3/30/2020,Delaware,Ohio,39041,38,1,7,39041,Delaware Ohio,174214,212
+3/30/2020,Erie,Ohio,39043,5,1,0,39043,Erie Ohio,77079,424
+3/30/2020,Fairfield,Ohio,39045,13,0,-1,39045,Fairfield Ohio,146156,255
+3/30/2020,Fayette,Ohio,39047,1,0,0,39047,Fayette Ohio,29030,25
+3/30/2020,Franklin,Ohio,39049,281,2,34,39049,Franklin Ohio,1163414,6376
+3/30/2020,Fulton,Ohio,39051,2,0,0,39051,Fulton Ohio,42698,117
+3/30/2020,Gallia,Ohio,39053,1,1,0,39053,Gallia Ohio,30934,287
+3/30/2020,Geauga,Ohio,39055,22,0,5,39055,Geauga Ohio,93389,281
+3/30/2020,Greene,Ohio,39057,3,0,0,39057,Greene Ohio,161573,176
+3/30/2020,Hamilton,Ohio,39061,101,0,16,39061,Hamilton Ohio,802374,4961
+3/30/2020,Hancock,Ohio,39063,3,0,0,39063,Hancock Ohio,74782,201
+3/30/2020,Highland,Ohio,39071,1,0,0,39071,Highland Ohio,43589,70
+3/30/2020,Holmes,Ohio,39075,1,0,1,39075,Holmes Ohio,42366,69
+3/30/2020,Huron,Ohio,39077,3,1,0,39077,Huron Ohio,59626,139
+3/30/2020,Jefferson,Ohio,39081,7,0,2,39081,Jefferson Ohio,69709,536
+3/30/2020,Knox,Ohio,39083,3,0,0,39083,Knox Ohio,60921,111
+3/30/2020,Lake,Ohio,39085,43,1,8,39085,Lake Ohio,230041,561
+3/30/2020,Lawrence,Ohio,39087,1,0,0,39087,Lawrence Ohio,62450,8
+3/30/2020,Licking,Ohio,39089,21,0,4,39089,Licking Ohio,166492,262
+3/30/2020,Logan,Ohio,39091,3,0,0,39091,Logan Ohio,45858,115
+3/30/2020,Lorain,Ohio,39093,78,2,4,39093,Lorain Ohio,301356,840
+3/30/2020,Lucas,Ohio,39095,114,3,20,39095,Lucas Ohio,441815,3357
+3/30/2020,Madison,Ohio,39097,5,0,1,39097,Madison Ohio,43435,94
+3/30/2020,Mahoning,Ohio,39099,117,4,33,39099,Mahoning Ohio,238823,1051
+3/30/2020,Marion,Ohio,39101,7,0,1,39101,Marion Ohio,66501,270
+3/30/2020,Medina,Ohio,39103,48,1,3,39103,Medina Ohio,172332,191
+3/30/2020,Mercer,Ohio,39107,2,0,0,39107,Mercer Ohio,40814,88
+3/30/2020,Miami,Ohio,39109,46,5,3,39109,Miami Ohio,102506,193
+3/30/2020,Montgomery,Ohio,39113,31,1,6,39113,Montgomery Ohio,535153,3458
+3/30/2020,Muskingum,Ohio,39119,2,0,0,39119,Muskingum Ohio,86074,321
+3/30/2020,Ottawa,Ohio,39123,2,0,1,39123,Ottawa Ohio,41428,25
+3/30/2020,Pickaway,Ohio,39129,5,0,1,39129,Pickaway Ohio,55698,82
+3/30/2020,Pike,Ohio,39131,1,0,0,39131,Pike Ohio,28709,25
+3/30/2020,Portage,Ohio,39133,32,1,5,39133,Portage Ohio,161419,302
+3/30/2020,Preble,Ohio,39135,1,0,1,39135,Preble Ohio,42270,0
+3/30/2020,Richland,Ohio,39139,5,0,0,39139,Richland Ohio,124475,398
+3/30/2020,Ross,Ohio,39141,1,0,1,39141,Ross Ohio,78064,261
+3/30/2020,Sandusky,Ohio,39143,3,0,0,39143,Sandusky Ohio,60944,335
+3/30/2020,Seneca,Ohio,39147,3,0,1,39147,Seneca Ohio,56745,120
+3/30/2020,Shelby,Ohio,39149,4,0,1,39149,Shelby Ohio,49423,90
+3/30/2020,Stark,Ohio,39151,44,2,15,39151,Stark Ohio,375586,1740
+3/30/2020,Summit,Ohio,39153,118,5,19,39153,Summit Ohio,541781,2819
+3/30/2020,Trumbull,Ohio,39155,42,2,6,39155,Trumbull Ohio,210312,1137
+3/30/2020,Tuscarawas,Ohio,39157,7,0,2,39157,Tuscarawas Ohio,92582,198
+3/30/2020,Union,Ohio,39159,4,0,1,39159,Union Ohio,52300,97
+3/30/2020,Van Wert,Ohio,39161,1,0,0,39161,Van Wert Ohio,28744,195
+3/30/2020,Warren,Ohio,39165,20,0,0,39165,Warren Ohio,212693,378
+3/30/2020,Washington,Ohio,39167,3,0,0,39167,Washington Ohio,61778,240
+3/30/2020,Wayne,Ohio,39169,7,0,3,39169,Wayne Ohio,114520,184
+3/30/2020,Wood,Ohio,39173,13,0,1,39173,Wood Ohio,125488,196
+3/30/2020,Wyandot,Ohio,39175,1,0,0,39175,Wyandot Ohio,22615,31
+3/30/2020,Adair,Oklahoma,40001,4,0,0,40001,Adair Oklahoma,22683,67
+3/30/2020,Beckham,Oklahoma,40009,1,0,1,40009,Beckham Oklahoma,22119,93
+3/30/2020,Bryan,Oklahoma,40013,1,0,0,40013,Bryan Oklahoma,42416,148
+3/30/2020,Caddo,Oklahoma,40015,1,0,0,40015,Caddo Oklahoma,29600,42
+3/30/2020,Canadian,Oklahoma,40017,15,0,3,40017,Canadian Oklahoma,115541,123
+3/30/2020,Carter,Oklahoma,40019,1,0,0,40019,Carter Oklahoma,47557,212
+3/30/2020,Cherokee,Oklahoma,40021,1,0,0,40021,Cherokee Oklahoma,46987,100
+3/30/2020,Choctaw,Oklahoma,40023,1,0,0,40023,Choctaw Oklahoma,15205,64
+3/30/2020,Cleveland,Oklahoma,40027,60,6,9,40027,Cleveland Oklahoma,255755,807
+3/30/2020,Comanche,Oklahoma,40031,12,0,1,40031,Comanche Oklahoma,124098,538
+3/30/2020,Cotton,Oklahoma,40033,1,0,1,40033,Cotton Oklahoma,6193,0
+3/30/2020,Craig,Oklahoma,40035,1,0,0,40035,Craig Oklahoma,15029,51
+3/30/2020,Creek,Oklahoma,40037,18,1,2,40037,Creek Oklahoma,69967,95
+3/30/2020,Custer,Oklahoma,40039,4,0,0,40039,Custer Oklahoma,27469,81
+3/30/2020,Delaware,Oklahoma,40041,7,0,3,40041,Delaware Oklahoma,41487,58
+3/30/2020,Garfield,Oklahoma,40047,2,0,0,40047,Garfield Oklahoma,60580,436
+3/30/2020,Garvin,Oklahoma,40049,6,0,2,40049,Garvin Oklahoma,27576,90
+3/30/2020,Grady,Oklahoma,40051,3,0,1,40051,Grady Oklahoma,52431,99
+3/30/2020,Jackson,Oklahoma,40065,1,0,0,40065,Jackson Oklahoma,26446,49
+3/30/2020,Kay,Oklahoma,40071,20,0,0,40071,Kay Oklahoma,46562,193
+3/30/2020,Latimer,Oklahoma,40077,1,0,0,40077,Latimer Oklahoma,11154,33
+3/30/2020,Le Flore,Oklahoma,40079,1,0,0,40079,Le Flore Oklahoma,50384,43
+3/30/2020,Lincoln,Oklahoma,40081,4,0,1,40081,Lincoln Oklahoma,34273,50
+3/30/2020,Logan,Oklahoma,40083,4,0,1,40083,Logan Oklahoma,41848,25
+3/30/2020,Love,Oklahoma,40085,1,0,1,40085,Love Oklahoma,9423,25
+3/30/2020,Mayes,Oklahoma,40097,4,0,1,40097,Mayes Oklahoma,41259,52
+3/30/2020,McClain,Oklahoma,40087,2,0,0,40087,McClain Oklahoma,34506,39
+3/30/2020,Muskogee,Oklahoma,40101,7,0,0,40101,Muskogee Oklahoma,70990,429
+3/30/2020,Noble,Oklahoma,40103,3,0,0,40103,Noble Oklahoma,11561,26
+3/30/2020,Nowata,Oklahoma,40105,4,0,1,40105,Nowata Oklahoma,10536,25
+3/30/2020,Oklahoma,Oklahoma,40109,134,4,14,40109,Oklahoma Oklahoma,718633,4624
+3/30/2020,Okmulgee,Oklahoma,40111,3,0,0,40111,Okmulgee Oklahoma,40069,137
+3/30/2020,Osage,Oklahoma,40113,11,0,1,40113,Osage Oklahoma,47472,40
+3/30/2020,Ottawa,Oklahoma,40115,6,0,2,40115,Ottawa Oklahoma,31848,167
+3/30/2020,Pawnee,Oklahoma,40117,15,1,0,40117,Pawnee Oklahoma,16577,14
+3/30/2020,Payne,Oklahoma,40119,14,0,1,40119,Payne Oklahoma,77350,216
+3/30/2020,Pittsburg,Oklahoma,40121,2,0,0,40121,Pittsburg Oklahoma,45837,185
+3/30/2020,Pontotoc,Oklahoma,40123,3,0,0,40123,Pontotoc Oklahoma,37492,216
+3/30/2020,Pottawatomie,Oklahoma,40125,2,0,0,40125,Pottawatomie Oklahoma,69442,136
+3/30/2020,Rogers,Oklahoma,40131,1,0,0,40131,Rogers Oklahoma,86905,81
+3/30/2020,Seminole,Oklahoma,40133,1,0,0,40133,Seminole Oklahoma,25482,32
+3/30/2020,Sequoyah,Oklahoma,40135,2,1,0,40135,Sequoyah Oklahoma,42391,26
+3/30/2020,Stephens,Oklahoma,40137,2,0,0,40137,Stephens Oklahoma,45048,138
+3/30/2020,Texas,Oklahoma,40139,1,0,0,40139,Texas Oklahoma,20640,47
+3/30/2020,Tulsa,Oklahoma,40143,65,3,4,40143,Tulsa Oklahoma,603403,3732
+3/30/2020,Wagoner,Oklahoma,40145,8,1,0,40145,Wagoner Oklahoma,73085,100
+3/30/2020,Washington,Oklahoma,40147,20,0,2,40147,Washington Oklahoma,50976,140
+3/30/2020,Benton,Oregon,41003,10,0,1,41003,Benton Oregon,85579,164
+3/30/2020,Clackamas,Oregon,41005,40,3,1,41005,Clackamas Oregon,375992,551
+3/30/2020,Clatsop,Oregon,41007,3,0,0,41007,Clatsop Oregon,37039,289
+3/30/2020,Columbia,Oregon,41009,1,0,0,41009,Columbia Oregon,49351,0
+3/30/2020,Deschutes,Oregon,41017,25,0,2,41017,Deschutes Oregon,157733,308
+3/30/2020,Douglas,Oregon,41019,8,0,4,41019,Douglas Oregon,107667,141
+3/30/2020,Grant,Oregon,41023,1,0,0,41023,Grant Oregon,7445,25
+3/30/2020,Hood River,Oregon,41027,2,0,0,41027,Hood River Oregon,22346,25
+3/30/2020,Jackson,Oregon,41029,20,0,1,41029,Jackson Oregon,203206,545
+3/30/2020,Josephine,Oregon,41033,10,0,4,41033,Josephine Oregon,82713,125
+3/30/2020,Klamath,Oregon,41035,4,0,0,41035,Klamath Oregon,66380,98
+3/30/2020,Lane,Oregon,41039,12,1,2,41039,Lane Oregon,351715,531
+3/30/2020,Lincoln,Oregon,41041,1,0,0,41041,Lincoln Oregon,46034,50
+3/30/2020,Linn,Oregon,41043,36,2,0,41043,Linn Oregon,116672,98
+3/30/2020,Marion,Oregon,41047,123,3,14,41047,Marion Oregon,315335,496
+3/30/2020,Morrow,Oregon,41049,1,0,0,41049,Morrow Oregon,11173,21
+3/30/2020,Multnomah,Oregon,41051,100,2,9,41051,Multnomah Oregon,735334,1978
+3/30/2020,Polk,Oregon,41053,15,0,2,41053,Polk Oregon,75403,15
+3/30/2020,Tillamook,Oregon,41057,3,0,1,41057,Tillamook Oregon,25250,25
+3/30/2020,Umatilla,Oregon,41059,4,0,0,41059,Umatilla Oregon,75889,455
+3/30/2020,Union,Oregon,41061,1,0,0,41061,Union Oregon,25748,25
+3/30/2020,Wasco,Oregon,41065,5,0,2,41065,Wasco Oregon,25213,49
+3/30/2020,Washington,Oregon,41067,168,3,14,41067,Washington Oregon,529710,869
+3/30/2020,Yamhill,Oregon,41071,14,2,1,41071,Yamhill Oregon,99193,128
+3/30/2020,Adams,Pennsylvania,42001,8,0,0,42001,Adams Pennsylvania,101407,76
+3/30/2020,Allegheny,Pennsylvania,42003,290,2,25,42003,Allegheny Pennsylvania,1223348,7616
+3/30/2020,Armstrong,Pennsylvania,42005,3,0,0,42005,Armstrong Pennsylvania,68941,155
+3/30/2020,Beaver,Pennsylvania,42007,44,0,16,42007,Beaver Pennsylvania,170539,396
+3/30/2020,Berks,Pennsylvania,42011,82,0,14,42011,Berks Pennsylvania,411442,1247
+3/30/2020,Blair,Pennsylvania,42013,6,0,3,42013,Blair Pennsylvania,127089,598
+3/30/2020,Bradford,Pennsylvania,42015,3,0,0,42015,Bradford Pennsylvania,62622,340
+3/30/2020,Bucks,Pennsylvania,42017,249,3,0,42017,Bucks Pennsylvania,625249,1299
+3/30/2020,Butler,Pennsylvania,42019,49,2,2,42019,Butler Pennsylvania,183862,296
+3/30/2020,Cambria,Pennsylvania,42021,2,0,1,42021,Cambria Pennsylvania,143679,594
+3/30/2020,Cameron,Pennsylvania,42023,1,0,0,42023,Cameron Pennsylvania,5085,0
+3/30/2020,Carbon,Pennsylvania,42025,13,0,4,42025,Carbon Pennsylvania,65249,155
+3/30/2020,Centre,Pennsylvania,42027,24,0,2,42027,Centre Pennsylvania,153990,438
+3/30/2020,Chester,Pennsylvania,42029,146,0,9,42029,Chester Pennsylvania,498886,1286
+3/30/2020,Clarion,Pennsylvania,42031,1,0,0,42031,Clarion Pennsylvania,39988,156
+3/30/2020,Clearfield,Pennsylvania,42033,4,0,2,42033,Clearfield Pennsylvania,81642,310
+3/30/2020,Columbia,Pennsylvania,42037,6,0,0,42037,Columbia Pennsylvania,67295,173
+3/30/2020,Crawford,Pennsylvania,42039,4,0,1,42039,Crawford Pennsylvania,88765,289
+3/30/2020,Cumberland,Pennsylvania,42041,24,1,2,42041,Cumberland Pennsylvania,235406,590
+3/30/2020,Dauphin,Pennsylvania,42043,36,0,1,42043,Dauphin Pennsylvania,268100,1189
+3/30/2020,Delaware,Pennsylvania,42045,303,4,27,42045,Delaware Pennsylvania,558979,1123
+3/30/2020,Erie,Pennsylvania,42049,13,0,6,42049,Erie Pennsylvania,280566,1188
+3/30/2020,Fayette,Pennsylvania,42051,11,0,1,42051,Fayette Pennsylvania,136606,283
+3/30/2020,Franklin,Pennsylvania,42055,12,0,1,42055,Franklin Pennsylvania,149618,416
+3/30/2020,Greene,Pennsylvania,42059,7,0,1,42059,Greene Pennsylvania,38686,77
+3/30/2020,Huntingdon,Pennsylvania,42061,1,0,0,42061,Huntingdon Pennsylvania,45913,100
+3/30/2020,Indiana,Pennsylvania,42063,2,0,0,42063,Indiana Pennsylvania,88880,164
+3/30/2020,Juniata,Pennsylvania,42067,3,0,2,42067,Juniata Pennsylvania,24636,0
+3/30/2020,Lackawanna,Pennsylvania,42069,62,2,6,42069,Lackawanna Pennsylvania,214437,1079
+3/30/2020,Lancaster,Pennsylvania,42071,97,2,30,42071,Lancaster Pennsylvania,519445,1191
+3/30/2020,Lawrence,Pennsylvania,42073,10,1,2,42073,Lawrence Pennsylvania,91108,316
+3/30/2020,Lebanon,Pennsylvania,42075,27,0,8,42075,Lebanon Pennsylvania,133568,484
+3/30/2020,Lehigh,Pennsylvania,42077,231,3,80,42077,Lehigh Pennsylvania,349497,1912
+3/30/2020,Luzerne,Pennsylvania,42079,150,3,56,42079,Luzerne Pennsylvania,320918,1180
+3/30/2020,Lycoming,Pennsylvania,42081,4,0,1,42081,Lycoming Pennsylvania,116111,302
+3/30/2020,McKean,Pennsylvania,42083,1,0,0,42083,McKean Pennsylvania,43450,138
+3/30/2020,Mercer,Pennsylvania,42085,7,0,0,42085,Mercer Pennsylvania,116638,521
+3/30/2020,Mifflin,Pennsylvania,42087,2,0,0,42087,Mifflin Pennsylvania,46682,123
+3/30/2020,Monroe,Pennsylvania,42089,182,7,47,42089,Monroe Pennsylvania,169842,235
+3/30/2020,Montgomery,Pennsylvania,42091,540,5,52,42091,Montgomery Pennsylvania,799874,3403
+3/30/2020,Montour,Pennsylvania,42093,10,0,5,42093,Montour Pennsylvania,18267,656
+3/30/2020,Northampton,Pennsylvania,42095,184,5,58,42095,Northampton Pennsylvania,297735,362
+3/30/2020,Northumberland,Pennsylvania,42097,1,0,0,42097,Northumberland Pennsylvania,94528,173
+3/30/2020,Perry,Pennsylvania,42099,1,0,0,42099,Perry Pennsylvania,45969,0
+3/30/2020,Philadelphia,Pennsylvania,42101,1072,7,207,42101,Philadelphia Pennsylvania,1526006,8160
+3/30/2020,Pike,Pennsylvania,42103,39,1,6,42103,Pike Pennsylvania,57369,0
+3/30/2020,Potter,Pennsylvania,42105,2,0,0,42105,Potter Pennsylvania,17457,59
+3/30/2020,Schuylkill,Pennsylvania,42107,30,0,9,42107,Schuylkill Pennsylvania,148289,361
+3/30/2020,Snyder,Pennsylvania,42109,2,0,0,42109,Snyder Pennsylvania,39702,0
+3/30/2020,Somerset,Pennsylvania,42111,2,0,0,42111,Somerset Pennsylvania,77742,224
+3/30/2020,Susquehanna,Pennsylvania,42115,1,0,0,42115,Susquehanna Pennsylvania,43356,83
+3/30/2020,Tioga,Pennsylvania,42117,1,0,0,42117,Tioga Pennsylvania,41981,83
+3/30/2020,Union,Pennsylvania,42119,4,0,4,42119,Union Pennsylvania,44947,127
+3/30/2020,Venango,Pennsylvania,42121,1,0,0,42121,Venango Pennsylvania,54984,164
+3/30/2020,Warren,Pennsylvania,42123,1,0,0,42123,Warren Pennsylvania,41815,279
+3/30/2020,Washington,Pennsylvania,42125,26,0,2,42125,Washington Pennsylvania,207820,602
+3/30/2020,Wayne,Pennsylvania,42127,10,0,3,42127,Wayne Pennsylvania,52822,112
+3/30/2020,Westmoreland,Pennsylvania,42129,55,0,8,42129,Westmoreland Pennsylvania,365169,654
+3/30/2020,York,Pennsylvania,42133,54,0,11,42133,York Pennsylvania,434972,921
+3/30/2020,Bristol,Rhode Island,44001,14,0,3,44001,Bristol Rhode Island,49875,0
+3/30/2020,Kent,Rhode Island,44003,32,0,4,44003,Kent Rhode Island,166158,359
+3/30/2020,Newport,Rhode Island,44005,21,0,4,44005,Newport Rhode Island,82888,129
+3/30/2020,Providence,Rhode Island,44007,214,0,66,44007,Providence Rhode Island,626667,3272
+3/30/2020,Washington,Rhode Island,44009,28,0,7,44009,Washington Rhode Island,126979,225
+3/30/2020,Abbeville,South Carolina,45001,3,0,-1,45001,Abbeville South Carolina,25417,25
+3/30/2020,Aiken,South Carolina,45003,9,0,0,45003,Aiken South Carolina,160099,245
+3/30/2020,Anderson,South Carolina,45007,31,1,2,45007,Anderson South Carolina,187126,755
+3/30/2020,Barnwell,South Carolina,45011,1,0,1,45011,Barnwell South Carolina,22621,0
+3/30/2020,Beaufort,South Carolina,45013,74,1,24,45013,Beaufort South Carolina,162233,290
+3/30/2020,Berkeley,South Carolina,45015,14,0,1,45015,Berkeley South Carolina,177843,0
+3/30/2020,Calhoun,South Carolina,45017,2,0,0,45017,Calhoun South Carolina,15175,0
+3/30/2020,Charleston,South Carolina,45019,123,1,7,45019,Charleston South Carolina,350209,2166
+3/30/2020,Chester,South Carolina,45023,2,0,0,45023,Chester South Carolina,33140,82
+3/30/2020,Chesterfield,South Carolina,45025,6,0,2,45025,Chesterfield South Carolina,46734,59
+3/30/2020,Clarendon,South Carolina,45027,18,1,2,45027,Clarendon South Carolina,34971,89
+3/30/2020,Colleton,South Carolina,45029,5,0,1,45029,Colleton South Carolina,38892,131
+3/30/2020,Darlington,South Carolina,45031,11,0,1,45031,Darlington South Carolina,68681,188
+3/30/2020,Dillon,South Carolina,45033,1,0,0,45033,Dillon South Carolina,32062,79
+3/30/2020,Dorchester,South Carolina,45035,12,0,2,45035,Dorchester South Carolina,136555,104
+3/30/2020,Edgefield,South Carolina,45037,2,0,0,45037,Edgefield South Carolina,26985,25
+3/30/2020,Fairfield,South Carolina,45039,5,0,1,45039,Fairfield South Carolina,23956,25
+3/30/2020,Florence,South Carolina,45041,15,3,2,45041,Florence South Carolina,136885,1025
+3/30/2020,Georgetown,South Carolina,45043,11,0,1,45043,Georgetown South Carolina,60158,298
+3/30/2020,Greenville,South Carolina,45045,88,1,17,45045,Greenville South Carolina,451225,1681
+3/30/2020,Greenwood,South Carolina,45047,3,0,0,45047,Greenwood South Carolina,69661,400
+3/30/2020,Horry,South Carolina,45051,32,3,1,45051,Horry South Carolina,269291,753
+3/30/2020,Jasper,South Carolina,45053,3,0,0,45053,Jasper South Carolina,24777,41
+3/30/2020,Kershaw,South Carolina,45055,99,2,16,45055,Kershaw South Carolina,61697,121
+3/30/2020,Lancaster,South Carolina,45057,14,0,1,45057,Lancaster South Carolina,76652,253
+3/30/2020,Laurens,South Carolina,45059,3,0,0,45059,Laurens South Carolina,66537,76
+3/30/2020,Lee,South Carolina,45061,5,0,0,45061,Lee South Carolina,19220,20
+3/30/2020,Lexington,South Carolina,45063,41,1,6,45063,Lexington South Carolina,262391,556
+3/30/2020,Marion,South Carolina,45067,2,0,1,45067,Marion South Carolina,33062,124
+3/30/2020,Marlboro,South Carolina,45069,2,0,0,45069,Marlboro South Carolina,28933,0
+3/30/2020,Newberry,South Carolina,45071,2,0,0,45071,Newberry South Carolina,37508,90
+3/30/2020,Oconee,South Carolina,45073,4,0,0,45073,Oconee South Carolina,74273,169
+3/30/2020,Orangeburg,South Carolina,45075,21,0,5,45075,Orangeburg South Carolina,92501,301
+3/30/2020,Pickens,South Carolina,45077,13,0,2,45077,Pickens South Carolina,119224,164
+3/30/2020,Richland,South Carolina,45079,135,2,37,45079,Richland South Carolina,384504,2585
+3/30/2020,Saluda,South Carolina,45081,1,0,0,45081,Saluda South Carolina,19875,0
+3/30/2020,Spartanburg,South Carolina,45083,30,0,5,45083,Spartanburg South Carolina,284307,943
+3/30/2020,Sumter,South Carolina,45085,34,2,4,45085,Sumter South Carolina,107456,283
+3/30/2020,Union,South Carolina,45087,3,0,2,45087,Union South Carolina,28961,143
+3/30/2020,Williamsburg,South Carolina,45089,2,0,0,45089,Williamsburg South Carolina,34423,25
+3/30/2020,York,South Carolina,45091,43,0,7,45091,York South Carolina,226073,334
+3/30/2020,Aurora,South Dakota,46003,1,0,0,46003,Aurora South Dakota,2710,0
+3/30/2020,Beadle,South Dakota,46005,20,0,0,46005,Beadle South Dakota,17398,25
+3/30/2020,Bon Homme,South Dakota,46009,1,0,0,46009,Bon Homme South Dakota,7070,50
+3/30/2020,Brookings,South Dakota,46011,1,0,0,46011,Brookings South Dakota,31965,49
+3/30/2020,Brown,South Dakota,46013,3,0,1,46013,Brown South Dakota,36531,157
+3/30/2020,Butte,South Dakota,46019,1,0,1,46019,Butte South Dakota,10110,0
+3/30/2020,Charles Mix,South Dakota,46023,1,0,0,46023,Charles Mix South Dakota,9129,37
+3/30/2020,Clark,South Dakota,46025,1,0,0,46025,Clark South Dakota,3691,0
+3/30/2020,Clay,South Dakota,46027,3,0,1,46027,Clay South Dakota,13864,25
+3/30/2020,Codington,South Dakota,46029,5,0,1,46029,Codington South Dakota,27227,81
+3/30/2020,Davison,South Dakota,46035,2,1,0,46035,Davison South Dakota,19504,67
+3/30/2020,Deuel,South Dakota,46039,1,0,0,46039,Deuel South Dakota,4364,10
+3/30/2020,Fall River,South Dakota,46047,1,0,0,46047,Fall River South Dakota,7094,25
+3/30/2020,Faulk,South Dakota,46049,1,0,0,46049,Faulk South Dakota,2364,12
+3/30/2020,Hamlin,South Dakota,46057,1,0,0,46057,Hamlin South Dakota,5903,0
+3/30/2020,Hughes,South Dakota,46065,1,0,0,46065,Hughes South Dakota,17022,50
+3/30/2020,Hutchinson,South Dakota,46067,2,0,0,46067,Hutchinson South Dakota,7343,50
+3/30/2020,Lawrence,South Dakota,46081,5,0,2,46081,Lawrence South Dakota,24097,66
+3/30/2020,Lincoln,South Dakota,46083,4,0,0,46083,Lincoln South Dakota,44828,118
+3/30/2020,Lyman,South Dakota,46085,1,0,0,46085,Lyman South Dakota,3755,0
+3/30/2020,Marshall,South Dakota,46091,1,0,1,46091,Marshall South Dakota,4656,20
+3/30/2020,McCook,South Dakota,46087,2,0,0,46087,McCook South Dakota,5618,0
+3/30/2020,Meade,South Dakota,46093,1,0,0,46093,Meade South Dakota,25434,25
+3/30/2020,Minnehaha,South Dakota,46099,28,0,3,46099,Minnehaha South Dakota,169468,1150
+3/30/2020,Pennington,South Dakota,46103,5,0,1,46103,Pennington South Dakota,100948,509
+3/30/2020,Roberts,South Dakota,46109,1,0,0,46109,Roberts South Dakota,10149,25
+3/30/2020,Todd,South Dakota,46121,1,0,0,46121,Todd South Dakota,9612,35
+3/30/2020,Turner,South Dakota,46125,1,0,0,46125,Turner South Dakota,8347,12
+3/30/2020,Union,South Dakota,46127,1,0,0,46127,Union South Dakota,14399,38
+3/30/2020,Yankton,South Dakota,46135,4,0,0,46135,Yankton South Dakota,22438,242
+3/30/2020,Anderson,Tennessee,47001,9,0,3,47001,Anderson Tennessee,75129,301
+3/30/2020,Bedford,Tennessee,47003,1,0,0,47003,Bedford Tennessee,45058,60
+3/30/2020,Benton,Tennessee,47005,3,0,0,47005,Benton Tennessee,16489,25
+3/30/2020,Bledsoe,Tennessee,47007,2,0,0,47007,Bledsoe Tennessee,12876,25
+3/30/2020,Blount,Tennessee,47009,10,0,1,47009,Blount Tennessee,123010,471
+3/30/2020,Bradley,Tennessee,47011,9,0,1,47011,Bradley Tennessee,98963,348
+3/30/2020,Campbell,Tennessee,47013,4,0,0,47013,Campbell Tennessee,40716,120
+3/30/2020,Cannon,Tennessee,47015,2,0,0,47015,Cannon Tennessee,13801,60
+3/30/2020,Carroll,Tennessee,47017,5,0,0,47017,Carroll Tennessee,28522,115
+3/30/2020,Carter,Tennessee,47019,1,0,0,47019,Carter Tennessee,57424,121
+3/30/2020,Cheatham,Tennessee,47021,8,0,0,47021,Cheatham Tennessee,39105,12
+3/30/2020,Chester,Tennessee,47023,3,0,1,47023,Chester Tennessee,17131,0
+3/30/2020,Claiborne,Tennessee,47025,2,0,0,47025,Claiborne Tennessee,32213,85
+3/30/2020,Cocke,Tennessee,47029,1,0,0,47029,Cocke Tennessee,35662,74
+3/30/2020,Coffee,Tennessee,47031,1,0,0,47031,Coffee Tennessee,52796,184
+3/30/2020,Cumberland,Tennessee,47035,11,0,2,47035,Cumberland Tennessee,56053,189
+3/30/2020,Davidson,Tennessee,47037,443,3,49,47037,Davidson Tennessee,626681,4489
+3/30/2020,DeKalb,Tennessee,47041,4,0,1,47041,DeKalb Tennessee,18723,71
+3/30/2020,Dickson,Tennessee,47043,12,0,1,47043,Dickson Tennessee,49666,157
+3/30/2020,Dyer,Tennessee,47045,3,0,0,47045,Dyer Tennessee,38335,225
+3/30/2020,Fayette,Tennessee,47047,10,0,0,47047,Fayette Tennessee,38413,0
+3/30/2020,Fentress,Tennessee,47049,1,0,1,47049,Fentress Tennessee,17959,85
+3/30/2020,Franklin,Tennessee,47051,5,0,-1,47051,Franklin Tennessee,41052,174
+3/30/2020,Gibson,Tennessee,47053,5,0,2,47053,Gibson Tennessee,49683,70
+3/30/2020,Giles,Tennessee,47055,1,0,1,47055,Giles Tennessee,29485,95
+3/30/2020,Greene,Tennessee,47059,12,0,3,47059,Greene Tennessee,68831,240
+3/30/2020,Grundy,Tennessee,47061,2,0,0,47061,Grundy Tennessee,13703,0
+3/30/2020,Hamblen,Tennessee,47063,2,0,0,47063,Hamblen Tennessee,62544,278
+3/30/2020,Hamilton,Tennessee,47065,40,0,5,47065,Hamilton Tennessee,336463,1825
+3/30/2020,Hardeman,Tennessee,47069,1,0,0,47069,Hardeman Tennessee,27253,51
+3/30/2020,Hardin,Tennessee,47071,1,0,0,47071,Hardin Tennessee,26026,58
+3/30/2020,Hawkins,Tennessee,47073,4,0,2,47073,Hawkins Tennessee,56833,50
+3/30/2020,Haywood,Tennessee,47075,2,0,0,47075,Haywood Tennessee,18787,0
+3/30/2020,Henry,Tennessee,47079,1,0,0,47079,Henry Tennessee,32330,142
+3/30/2020,Houston,Tennessee,47083,1,0,-1,47083,Houston Tennessee,8426,25
+3/30/2020,Jefferson,Tennessee,47089,5,0,0,47089,Jefferson Tennessee,51407,54
+3/30/2020,Johnson,Tennessee,47091,2,0,0,47091,Johnson Tennessee,18244,0
+3/30/2020,Knox,Tennessee,47093,52,0,14,47093,Knox Tennessee,432226,2122
+3/30/2020,Lawrence,Tennessee,47099,2,0,2,47099,Lawrence Tennessee,41869,90
+3/30/2020,Lewis,Tennessee,47101,2,0,0,47101,Lewis Tennessee,12161,0
+3/30/2020,Lincoln,Tennessee,47103,1,0,0,47103,Lincoln Tennessee,33361,59
+3/30/2020,Loudon,Tennessee,47105,8,0,0,47105,Loudon Tennessee,48556,50
+3/30/2020,Macon,Tennessee,47111,3,0,0,47111,Macon Tennessee,22248,25
+3/30/2020,Madison,Tennessee,47113,5,0,2,47113,Madison Tennessee,98294,835
+3/30/2020,Marion,Tennessee,47115,6,0,1,47115,Marion Tennessee,28237,68
+3/30/2020,Marshall,Tennessee,47117,1,0,1,47117,Marshall Tennessee,30617,25
+3/30/2020,Maury,Tennessee,47119,11,0,3,47119,Maury Tennessee,80956,255
+3/30/2020,McMinn,Tennessee,47107,3,0,0,47107,McMinn Tennessee,52266,262
+3/30/2020,McNairy,Tennessee,47109,1,0,0,47109,McNairy Tennessee,26075,0
+3/30/2020,Meigs,Tennessee,47121,1,0,0,47121,Meigs Tennessee,11753,0
+3/30/2020,Monroe,Tennessee,47123,3,0,0,47123,Monroe Tennessee,44519,59
+3/30/2020,Montgomery,Tennessee,47125,13,0,0,47125,Montgomery Tennessee,172331,270
+3/30/2020,Morgan,Tennessee,47129,1,0,0,47129,Morgan Tennessee,21987,0
+3/30/2020,Obion,Tennessee,47131,1,0,0,47131,Obion Tennessee,31807,137
+3/30/2020,Overton,Tennessee,47133,2,0,0,47133,Overton Tennessee,22083,82
+3/30/2020,Perry,Tennessee,47135,2,0,0,47135,Perry Tennessee,7915,53
+3/30/2020,Putnam,Tennessee,47141,24,0,7,47141,Putnam Tennessee,72321,247
+3/30/2020,Roane,Tennessee,47145,2,0,0,47145,Roane Tennessee,54181,54
+3/30/2020,Robertson,Tennessee,47147,27,0,2,47147,Robertson Tennessee,66283,109
+3/30/2020,Rutherford,Tennessee,47149,57,0,9,47149,Rutherford Tennessee,262604,488
+3/30/2020,Scott,Tennessee,47151,2,0,0,47151,Scott Tennessee,22228,25
+3/30/2020,Sevier,Tennessee,47155,7,0,1,47155,Sevier Tennessee,89889,79
+3/30/2020,Shelby,Tennessee,47157,396,1,34,47157,Shelby Tennessee,927644,4876
+3/30/2020,Smith,Tennessee,47159,1,0,0,47159,Smith Tennessee,19166,35
+3/30/2020,Sullivan,Tennessee,47163,11,0,3,47163,Sullivan Tennessee,156823,1175
+3/30/2020,Sumner,Tennessee,47165,164,0,71,47165,Sumner Tennessee,160645,441
+3/30/2020,Tipton,Tennessee,47167,16,0,1,47167,Tipton Tennessee,61081,100
+3/30/2020,Trousdale,Tennessee,47169,3,0,2,47169,Trousdale Tennessee,7870,25
+3/30/2020,Unicoi,Tennessee,47171,1,0,0,47171,Unicoi Tennessee,18313,83
+3/30/2020,Union,Tennessee,47173,1,0,0,47173,Union Tennessee,19109,0
+3/30/2020,Warren,Tennessee,47177,1,0,1,47177,Warren Tennessee,39839,125
+3/30/2020,Washington,Tennessee,47179,14,0,0,47179,Washington Tennessee,122979,714
+3/30/2020,Wayne,Tennessee,47181,1,0,1,47181,Wayne Tennessee,17021,78
+3/30/2020,Weakley,Tennessee,47183,1,0,0,47183,Weakley Tennessee,35021,140
+3/30/2020,White,Tennessee,47185,1,0,0,47185,White Tennessee,25841,60
+3/30/2020,Williamson,Tennessee,47187,111,0,10,47187,Williamson Tennessee,183182,225
+3/30/2020,Wilson,Tennessee,47189,32,0,5,47189,Wilson Tennessee,113993,245
+3/30/2020,Andrews,Texas,48003,1,0,0,48003,Andrews Texas,14786,34
+3/30/2020,Angelina,Texas,48005,3,0,0,48005,Angelina Texas,86771,470
+3/30/2020,Aransas,Texas,48007,2,0,2,48007,Aransas Texas,23158,0
+3/30/2020,Atascosa,Texas,48013,2,0,0,48013,Atascosa Texas,44911,67
+3/30/2020,Austin,Texas,48015,2,0,0,48015,Austin Texas,28417,32
+3/30/2020,Bastrop,Texas,48021,6,0,1,48021,Bastrop Texas,74171,8
+3/30/2020,Bell,Texas,48027,28,1,0,48027,Bell Texas,310235,1091
+3/30/2020,Bexar,Texas,48029,157,5,17,48029,Bexar Texas,1714773,8084
+3/30/2020,Blanco,Texas,48031,1,0,0,48031,Blanco Texas,10497,0
+3/30/2020,Bowie,Texas,48037,4,0,1,48037,Bowie Texas,92565,841
+3/30/2020,Brazoria,Texas,48039,61,0,0,48039,Brazoria Texas,313166,357
+3/30/2020,Brazos,Texas,48041,44,2,0,48041,Brazos Texas,194851,658
+3/30/2020,Brown,Texas,48049,3,0,0,48049,Brown Texas,38106,194
+3/30/2020,Burleson,Texas,48051,1,0,0,48051,Burleson Texas,17187,25
+3/30/2020,Burnet,Texas,48053,2,0,1,48053,Burnet Texas,42750,71
+3/30/2020,Caldwell,Texas,48055,1,0,0,48055,Caldwell Texas,38066,59
+3/30/2020,Calhoun,Texas,48057,3,0,0,48057,Calhoun Texas,21381,25
+3/30/2020,Cameron,Texas,48061,20,0,0,48061,Cameron Texas,406220,1463
+3/30/2020,Cass,Texas,48067,2,0,0,48067,Cass Texas,30464,43
+3/30/2020,Castro,Texas,48069,8,0,0,48069,Castro Texas,8062,17
+3/30/2020,Chambers,Texas,48071,5,0,2,48071,Chambers Texas,35096,39
+3/30/2020,Cherokee,Texas,48073,2,0,0,48073,Cherokee Texas,50845,429
+3/30/2020,Collin,Texas,48085,134,1,6,48085,Collin Texas,782341,2649
+3/30/2020,Comal,Texas,48091,9,2,0,48091,Comal Texas,108472,340
+3/30/2020,Cooke,Texas,48097,1,0,0,48097,Cooke Texas,38437,78
+3/30/2020,Coryell,Texas,48099,1,0,0,48099,Coryell Texas,75388,25
+3/30/2020,Crane,Texas,48103,1,0,0,48103,Crane Texas,4375,25
+3/30/2020,Dallas,Texas,48113,549,11,106,48113,Dallas Texas,2368139,8721
+3/30/2020,Dawson,Texas,48115,1,0,0,48115,Dawson Texas,13833,22
+3/30/2020,DeWitt,Texas,48123,3,0,0,48123,DeWitt Texas,20097,49
+3/30/2020,Deaf Smith,Texas,48117,2,0,0,48117,Deaf Smith Texas,19372,42
+3/30/2020,Denton,Texas,48121,191,3,26,48121,Denton Texas,662614,1516
+3/30/2020,Eastland,Texas,48133,3,0,0,48133,Eastland Texas,18583,52
+3/30/2020,Ector,Texas,48135,3,0,0,48135,Ector Texas,137130,669
+3/30/2020,El Paso,Texas,48141,47,0,7,48141,El Paso Texas,800647,2813
+3/30/2020,Ellis,Texas,48139,16,1,1,48139,Ellis Texas,149610,164
+3/30/2020,Erath,Texas,48143,1,0,0,48143,Erath Texas,37890,98
+3/30/2020,Falls,Texas,48145,1,0,0,48145,Falls Texas,17866,36
+3/30/2020,Fannin,Texas,48147,1,0,0,48147,Fannin Texas,33915,25
+3/30/2020,Fayette,Texas,48149,2,0,1,48149,Fayette Texas,24554,65
+3/30/2020,Fort Bend,Texas,48157,119,1,0,48157,Fort Bend Texas,585375,1105
+3/30/2020,Franklin,Texas,48159,1,0,0,48159,Franklin Texas,10605,0
+3/30/2020,Gaines,Texas,48165,1,0,0,48165,Gaines Texas,17526,25
+3/30/2020,Galveston,Texas,48167,92,0,22,48167,Galveston Texas,291309,711
+3/30/2020,Grayson,Texas,48181,6,0,3,48181,Grayson Texas,120877,602
+3/30/2020,Gregg,Texas,48183,5,0,1,48183,Gregg Texas,121730,846
+3/30/2020,Grimes,Texas,48185,2,0,0,48185,Grimes Texas,26604,25
+3/30/2020,Guadalupe,Texas,48187,13,0,3,48187,Guadalupe Texas,131533,133
+3/30/2020,Hale,Texas,48189,1,0,0,48189,Hale Texas,36273,88
+3/30/2020,Hall,Texas,48191,1,0,1,48191,Hall Texas,3353,0
+3/30/2020,Hardin,Texas,48199,9,1,0,48199,Hardin Texas,54635,0
+3/30/2020,Harris,Texas,48201,563,7,37,48201,Harris Texas,4092459,15865
+3/30/2020,Harrison,Texas,48203,1,0,0,48203,Harrison Texas,65631,149
+3/30/2020,Hays,Texas,48209,16,0,3,48209,Hays Texas,157107,354
+3/30/2020,Henderson,Texas,48213,1,0,0,48213,Henderson Texas,78532,117
+3/30/2020,Hidalgo,Texas,48215,28,0,1,48215,Hidalgo Texas,774769,2292
+3/30/2020,Hill,Texas,48217,1,0,1,48217,Hill Texas,35089,116
+3/30/2020,Hockley,Texas,48219,7,0,0,48219,Hockley Texas,22935,48
+3/30/2020,Hood,Texas,48221,3,0,1,48221,Hood Texas,51182,83
+3/30/2020,Hopkins,Texas,48223,2,0,1,48223,Hopkins Texas,35161,96
+3/30/2020,Hunt,Texas,48231,3,0,2,48231,Hunt Texas,86129,246
+3/30/2020,Jackson,Texas,48239,1,0,0,48239,Jackson Texas,14075,25
+3/30/2020,Jefferson,Texas,48245,18,0,2,48245,Jefferson Texas,252273,1593
+3/30/2020,Jim Wells,Texas,48249,1,0,1,48249,Jim Wells Texas,40838,159
+3/30/2020,Johnson,Texas,48251,8,1,0,48251,Johnson Texas,150934,137
+3/30/2020,Karnes,Texas,48255,2,0,0,48255,Karnes Texas,14824,25
+3/30/2020,Kaufman,Texas,48257,3,0,1,48257,Kaufman Texas,103350,407
+3/30/2020,Kendall,Texas,48259,7,0,0,48259,Kendall Texas,33410,0
+3/30/2020,Kleberg,Texas,48273,1,0,0,48273,Kleberg Texas,32061,100
+3/30/2020,Lamar,Texas,48277,3,0,0,48277,Lamar Texas,49793,393
+3/30/2020,Lamb,Texas,48279,1,0,0,48279,Lamb Texas,13977,75
+3/30/2020,Lavaca,Texas,48285,1,0,0,48285,Lavaca Texas,19263,50
+3/30/2020,Leon,Texas,48289,1,0,1,48289,Leon Texas,16801,0
+3/30/2020,Liberty,Texas,48291,2,0,0,48291,Liberty Texas,75643,29
+3/30/2020,Limestone,Texas,48293,2,0,1,48293,Limestone Texas,23384,79
+3/30/2020,Llano,Texas,48299,3,0,1,48299,Llano Texas,19301,30
+3/30/2020,Lubbock,Texas,48303,51,1,10,48303,Lubbock Texas,278831,1563
+3/30/2020,Lynn,Texas,48305,2,0,1,48305,Lynn Texas,5915,24
+3/30/2020,Martin,Texas,48317,1,0,0,48317,Martin Texas,4799,18
+3/30/2020,Matagorda,Texas,48321,13,1,1,48321,Matagorda Texas,36702,75
+3/30/2020,Maverick,Texas,48323,1,0,0,48323,Maverick Texas,54258,101
+3/30/2020,McLennan,Texas,48309,39,0,3,48309,McLennan Texas,234906,285
+3/30/2020,Medina,Texas,48325,3,0,0,48325,Medina Texas,46006,25
+3/30/2020,Midland,Texas,48329,13,1,2,48329,Midland Texas,136872,621
+3/30/2020,Milam,Texas,48331,2,0,0,48331,Milam Texas,24757,35
+3/30/2020,Montague,Texas,48337,1,0,0,48337,Montague Texas,19719,87
+3/30/2020,Montgomery,Texas,48339,66,0,2,48339,Montgomery Texas,455746,1908
+3/30/2020,Moore,Texas,48341,1,0,1,48341,Moore Texas,21904,25
+3/30/2020,Morris,Texas,48343,1,0,0,48343,Morris Texas,12934,0
+3/30/2020,Nacogdoches,Texas,48347,2,0,0,48347,Nacogdoches Texas,64524,390
+3/30/2020,Navarro,Texas,48349,3,0,2,48349,Navarro Texas,47735,162
+3/30/2020,Nueces,Texas,48355,22,0,1,48355,Nueces Texas,340223,2035
+3/30/2020,Oldham,Texas,48359,2,1,0,48359,Oldham Texas,2052,0
+3/30/2020,Orange,Texas,48361,5,0,4,48361,Orange Texas,81837,0
+3/30/2020,Parker,Texas,48367,4,0,0,48367,Parker Texas,116927,125
+3/30/2020,Polk,Texas,48373,1,0,0,48373,Polk Texas,45413,66
+3/30/2020,Potter,Texas,48375,5,0,1,48375,Potter Texas,121073,1146
+3/30/2020,Randall,Texas,48381,6,0,3,48381,Randall Texas,120725,4
+3/30/2020,Robertson,Texas,48395,2,0,0,48395,Robertson Texas,16622,0
+3/30/2020,Rockwall,Texas,48397,4,0,0,48397,Rockwall Texas,78337,170
+3/30/2020,Rusk,Texas,48401,3,0,0,48401,Rusk Texas,53330,96
+3/30/2020,San Jacinto,Texas,48407,1,0,0,48407,San Jacinto Texas,26384,0
+3/30/2020,San Patricio,Texas,48409,1,0,0,48409,San Patricio Texas,64804,75
+3/30/2020,Shelby,Texas,48419,2,0,1,48419,Shelby Texas,25448,0
+3/30/2020,Smith,Texas,48423,32,1,1,48423,Smith Texas,209714,1337
+3/30/2020,Starr,Texas,48427,2,0,0,48427,Starr Texas,60968,48
+3/30/2020,Swisher,Texas,48437,1,0,0,48437,Swisher Texas,7854,20
+3/30/2020,Tarrant,Texas,48439,139,1,0,48439,Tarrant Texas,1809034,6810
+3/30/2020,Taylor,Texas,48441,7,0,0,48441,Taylor Texas,131506,921
+3/30/2020,Terry,Texas,48445,3,0,0,48445,Terry Texas,12651,45
+3/30/2020,Tom Green,Texas,48451,5,0,2,48451,Tom Green Texas,110224,614
+3/30/2020,Travis,Texas,48453,206,2,27,48453,Travis Texas,1024266,3821
+3/30/2020,Upshur,Texas,48459,2,0,1,48459,Upshur Texas,39309,0
+3/30/2020,Uvalde,Texas,48463,2,0,0,48463,Uvalde Texas,26405,25
+3/30/2020,Val Verde,Texas,48465,5,0,0,48465,Val Verde Texas,48879,93
+3/30/2020,Van Zandt,Texas,48467,2,1,1,48467,Van Zandt Texas,52579,52
+3/30/2020,Victoria,Texas,48469,6,0,3,48469,Victoria Texas,86793,723
+3/30/2020,Walker,Texas,48471,3,0,0,48471,Walker Texas,67861,123
+3/30/2020,Waller,Texas,48473,3,0,0,48473,Waller Texas,43205,0
+3/30/2020,Washington,Texas,48477,8,0,3,48477,Washington Texas,33718,60
+3/30/2020,Webb,Texas,48479,32,1,2,48479,Webb Texas,250304,578
+3/30/2020,Wharton,Texas,48481,6,0,0,48481,Wharton Texas,41280,49
+3/30/2020,Wichita,Texas,48485,28,0,0,48485,Wichita Texas,131500,559
+3/30/2020,Willacy,Texas,48489,2,0,0,48489,Willacy Texas,22134,0
+3/30/2020,Williamson,Texas,48491,37,1,0,48491,Williamson Texas,422679,1009
+3/30/2020,Wilson,Texas,48493,2,0,0,48493,Wilson Texas,42918,44
+3/30/2020,Wise,Texas,48497,1,0,1,48497,Wise Texas,59127,148
+3/30/2020,Yoakum,Texas,48501,1,0,0,48501,Yoakum Texas,7879,24
+3/30/2020,Young,Texas,48503,1,0,0,48503,Young Texas,18550,67
+3/30/2020,Box Elder,Utah,49003,7,0,3,49003,Box Elder Utah,49975,53
+3/30/2020,Cache,Utah,49005,6,0,1,49005,Cache Utah,112656,150
+3/30/2020,Davis,Utah,49011,77,1,8,49011,Davis Utah,306479,579
+3/30/2020,Garfield,Utah,49017,1,0,0,49017,Garfield Utah,5172,41
+3/30/2020,Iron,Utah,49021,4,0,0,49021,Iron Utah,46163,48
+3/30/2020,Morgan,Utah,49029,3,0,1,49029,Morgan Utah,9469,0
+3/30/2020,Salt Lake,Utah,49035,363,0,39,49035,Salt Lake Utah,1029655,2932
+3/30/2020,San Juan,Utah,49037,4,0,0,49037,San Juan Utah,14746,25
+3/30/2020,Summit,Utah,49043,176,0,17,49043,Summit Utah,36324,26
+3/30/2020,Tooele,Utah,49045,9,0,0,49045,Tooele Utah,58218,31
+3/30/2020,Uintah,Utah,49047,1,0,0,49047,Uintah Utah,32588,39
+3/30/2020,Utah,Utah,49049,58,0,7,49049,Utah Utah,516564,1033
+3/30/2020,Wasatch,Utah,49051,45,0,5,49051,Wasatch Utah,23530,19
+3/30/2020,Washington,Utah,49053,8,0,0,49053,Washington Utah,138115,261
+3/30/2020,Weber,Utah,49057,36,0,-1,49057,Weber Utah,231236,477
+3/30/2020,Addison,Vermont,50001,21,0,4,50001,Addison Vermont,36821,25
+3/30/2020,Bennington,Vermont,50003,17,0,1,50003,Bennington Vermont,37125,99
+3/30/2020,Caledonia,Vermont,50005,2,0,0,50005,Caledonia Vermont,31227,25
+3/30/2020,Chittenden,Vermont,50007,133,6,16,50007,Chittenden Vermont,156545,562
+3/30/2020,Franklin,Vermont,50011,11,0,2,50011,Franklin Vermont,47746,70
+3/30/2020,Lamoille,Vermont,50015,13,0,1,50015,Lamoille Vermont,24475,25
+3/30/2020,Orange,Vermont,50017,4,0,1,50017,Orange Vermont,28936,25
+3/30/2020,Orleans,Vermont,50019,5,0,0,50019,Orleans Vermont,27231,25
+3/30/2020,Rutland,Vermont,50021,6,0,0,50021,Rutland Vermont,61642,123
+3/30/2020,Washington,Vermont,50023,13,0,1,50023,Washington Vermont,59534,147
+3/30/2020,Windham,Vermont,50025,11,0,0,50025,Windham Vermont,44513,229
+3/30/2020,Windsor,Vermont,50027,18,1,0,50027,Windsor Vermont,56670,60
+3/30/2020,Accomack,Virginia,51001,6,0,3,51001,Accomack Virginia,33164,0
+3/30/2020,Albemarle,Virginia,51003,19,0,2,51003,Albemarle Virginia,98970,266
+3/30/2020,Alexandria city,Virginia,51510,26,0,1,51510,Alexandria city Virginia,139966,318
+3/30/2020,Alleghany,Virginia,51005,1,0,0,51005,Alleghany Virginia,16250,205
+3/30/2020,Amelia,Virginia,51007,1,0,0,51007,Amelia Virginia,12690,0
+3/30/2020,Amherst,Virginia,51009,3,0,1,51009,Amherst Virginia,32353,0
+3/30/2020,Arlington,Virginia,51013,86,2,2,51013,Arlington Virginia,207627,334
+3/30/2020,Bedford,Virginia,51019,2,0,0,51019,Bedford Virginia,68676,50
+3/30/2020,Botetourt,Virginia,51023,5,0,3,51023,Botetourt Virginia,33148,0
+3/30/2020,Bristol city,Virginia,51520,1,0,0,51520,Bristol city Virginia,17835,53
+3/30/2020,Charles City,Virginia,51036,1,0,0,51036,Charles City Virginia,7256,0
+3/30/2020,Charlottesville city,Virginia,51540,13,0,1,51540,Charlottesville city Virginia,43475,614
+3/30/2020,Chesapeake city,Virginia,51550,18,0,3,51550,Chesapeake city Virginia,222209,310
+3/30/2020,Chesterfield,Virginia,51041,21,0,8,51041,Chesterfield Virginia,316236,466
+3/30/2020,Culpeper,Virginia,51047,3,0,1,51047,Culpeper Virginia,46689,70
+3/30/2020,Danville city,Virginia,51590,4,0,0,51590,Danville city Virginia,43055,250
+3/30/2020,Fairfax,Virginia,51059,225,2,38,51059,Fairfax Virginia,1081726,1662
+3/30/2020,Fairfax city,Virginia,51600,1,0,0,51600,Fairfax city Virginia,22565,0
+3/30/2020,Fauquier,Virginia,51061,6,0,0,51061,Fauquier Virginia,65203,97
+3/30/2020,Fluvanna,Virginia,51065,3,0,0,51065,Fluvanna Virginia,25691,0
+3/30/2020,Franklin,Virginia,51067,5,0,0,51067,Franklin Virginia,56159,37
+3/30/2020,Frederick,Virginia,51069,10,0,2,51069,Frederick Virginia,78305,0
+3/30/2020,Fredericksburg city,Virginia,51630,1,0,0,51630,Fredericksburg city Virginia,24286,472
+3/30/2020,Galax city,Virginia,51640,1,0,0,51640,Galax city Virginia,7042,141
+3/30/2020,Gloucester,Virginia,51073,7,0,1,51073,Gloucester Virginia,36858,67
+3/30/2020,Goochland,Virginia,51075,6,0,0,51075,Goochland Virginia,21717,0
+3/30/2020,Greene,Virginia,51079,1,0,0,51079,Greene Virginia,18403,0
+3/30/2020,Greensville,Virginia,51081,3,0,2,51081,Greensville Virginia,12243,0
+3/30/2020,Halifax,Virginia,51083,1,0,0,51083,Halifax Virginia,36241,192
+3/30/2020,Hampton city,Virginia,51650,9,0,2,51650,Hampton city Virginia,137436,685
+3/30/2020,Hanover,Virginia,51085,5,0,1,51085,Hanover Virginia,99863,265
+3/30/2020,Harrisonburg city,Virginia,51660,6,0,1,51660,Harrisonburg city Virginia,48914,0
+3/30/2020,Henrico,Virginia,51087,44,3,4,51087,Henrico Virginia,306935,1031
+3/30/2020,Henry,Virginia,51089,1,0,1,51089,Henry Virginia,54151,0
+3/30/2020,Hopewell city,Virginia,51670,3,0,2,51670,Hopewell city Virginia,22591,147
+3/30/2020,Isle of Wight,Virginia,51093,3,0,0,51093,Isle of Wight Virginia,35270,0
+3/30/2020,James City,Virginia,51095,73,3,3,51095,James City Virginia,67009,357
+3/30/2020,King George,Virginia,51099,3,0,1,51099,King George Virginia,23584,0
+3/30/2020,King William,Virginia,51101,1,0,1,51101,King William Virginia,15935,0
+3/30/2020,Lancaster,Virginia,51103,1,0,0,51103,Lancaster Virginia,11391,76
+3/30/2020,Lee,Virginia,51105,2,0,0,51105,Lee Virginia,25587,0
+3/30/2020,Loudoun,Virginia,51107,61,0,0,51107,Loudoun Virginia,312311,462
+3/30/2020,Louisa,Virginia,51109,8,0,1,51109,Louisa Virginia,33153,0
+3/30/2020,Lynchburg city,Virginia,51680,4,0,1,51680,Lynchburg city Virginia,75568,738
+3/30/2020,Madison,Virginia,51113,3,0,0,51113,Madison Virginia,13308,0
+3/30/2020,Manassas Park city,Virginia,51685,1,0,0,51685,Manassas Park city Virginia,14273,0
+3/30/2020,Manassas city,Virginia,51683,7,0,2,51683,Manassas city Virginia,37821,130
+3/30/2020,Mathews,Virginia,51115,2,0,0,51115,Mathews Virginia,8978,0
+3/30/2020,Mecklenburg,Virginia,51117,4,0,0,51117,Mecklenburg Virginia,32727,99
+3/30/2020,Montgomery,Virginia,51121,1,0,0,51121,Montgomery Virginia,94392,280
+3/30/2020,Nelson,Virginia,51125,2,0,0,51125,Nelson Virginia,15020,0
+3/30/2020,New Kent,Virginia,51127,1,0,0,51127,New Kent Virginia,18429,110
+3/30/2020,Newport News city,Virginia,51700,18,1,1,51700,Newport News city Virginia,180719,792
+3/30/2020,Norfolk city,Virginia,51710,17,0,3,51710,Norfolk city Virginia,242803,1400
+3/30/2020,Northampton,Virginia,51131,1,0,0,51131,Northampton Virginia,12389,143
+3/30/2020,Northumberland,Virginia,51133,2,0,0,51133,Northumberland Virginia,12330,0
+3/30/2020,Nottoway,Virginia,51135,1,0,0,51135,Nottoway Virginia,15853,123
+3/30/2020,Orange,Virginia,51137,1,0,0,51137,Orange Virginia,33481,0
+3/30/2020,Petersburg city,Virginia,51730,2,0,2,51730,Petersburg city Virginia,32420,572
+3/30/2020,Pittsylvania,Virginia,51143,1,0,0,51143,Pittsylvania Virginia,63506,0
+3/30/2020,Poquoson city,Virginia,51735,2,0,0,51735,Poquoson city Virginia,12150,0
+3/30/2020,Portsmouth city,Virginia,51740,4,0,0,51740,Portsmouth city Virginia,95535,346
+3/30/2020,Powhatan,Virginia,51145,3,0,2,51145,Powhatan Virginia,28046,0
+3/30/2020,Prince Edward,Virginia,51147,2,0,0,51147,Prince Edward Virginia,23368,116
+3/30/2020,Prince George,Virginia,51149,5,0,1,51149,Prince George Virginia,35725,0
+3/30/2020,Prince William,Virginia,51153,79,0,7,51153,Prince William Virginia,402002,243
+3/30/2020,Radford city,Virginia,51750,1,0,0,51750,Radford city Virginia,16408,0
+3/30/2020,Richmond city,Virginia,51760,25,0,0,51760,Richmond city Virginia,204214,1576
+3/30/2020,Roanoke,Virginia,51161,2,0,0,51161,Roanoke Virginia,92376,110
+3/30/2020,Roanoke city,Virginia,51770,6,0,5,51770,Roanoke city Virginia,97032,934
+3/30/2020,Rockbridge,Virginia,51163,2,0,0,51163,Rockbridge Virginia,22307,0
+3/30/2020,Rockingham,Virginia,51165,5,0,1,51165,Rockingham Virginia,76314,238
+3/30/2020,Shenandoah,Virginia,51171,6,0,2,51171,Shenandoah Virginia,41993,25
+3/30/2020,Smyth,Virginia,51173,1,0,1,51173,Smyth Virginia,32208,223
+3/30/2020,Southampton,Virginia,51175,1,0,0,51175,Southampton Virginia,18570,0
+3/30/2020,Spotsylvania,Virginia,51177,6,0,1,51177,Spotsylvania Virginia,122397,100
+3/30/2020,Stafford,Virginia,51179,20,0,7,51179,Stafford Virginia,128961,100
+3/30/2020,Suffolk city,Virginia,51800,3,0,2,51800,Suffolk city Virginia,84585,150
+3/30/2020,Tazewell,Virginia,51185,2,0,1,51185,Tazewell Virginia,45078,231
+3/30/2020,Virginia Beach city,Virginia,51810,52,0,3,51810,Virginia Beach city Virginia,437994,542
+3/30/2020,Warren,Virginia,51187,2,0,0,51187,Warren Virginia,37575,60
+3/30/2020,Washington,Virginia,51191,2,0,0,51191,Washington Virginia,54876,116
+3/30/2020,Williamsburg city,Virginia,51830,7,1,0,51830,Williamsburg city Virginia,14068,40
+3/30/2020,Winchester city,Virginia,51840,3,0,2,51840,Winchester city Virginia,26203,411
+3/30/2020,Wythe,Virginia,51197,1,0,0,51197,Wythe Virginia,29235,108
+3/30/2020,York,Virginia,51199,11,0,2,51199,York Virginia,65464,145
+3/30/2020,Adams,Washington,53001,7,0,0,53001,Adams Washington,18728,57
+3/30/2020,Benton,Washington,53005,101,5,0,53005,Benton Washington,175177,447
+3/30/2020,Chelan,Washington,53007,15,2,0,53007,Chelan Washington,72453,251
+3/30/2020,Clallam,Washington,53009,6,0,0,53009,Clallam Washington,71404,163
+3/30/2020,Clark,Washington,53011,110,6,20,53011,Clark Washington,425363,580
+3/30/2020,Columbia,Washington,53013,1,0,0,53013,Columbia Washington,4078,25
+3/30/2020,Cowlitz,Washington,53015,13,0,0,53015,Cowlitz Washington,102410,202
+3/30/2020,Douglas,Washington,53017,5,0,0,53017,Douglas Washington,38431,0
+3/30/2020,Ferry,Washington,53019,1,0,0,53019,Ferry Washington,7551,25
+3/30/2020,Franklin,Washington,53021,32,0,0,53021,Franklin Washington,78163,106
+3/30/2020,Grant,Washington,53025,58,0,0,53025,Grant Washington,89120,186
+3/30/2020,Grays Harbor,Washington,53027,1,0,0,53027,Grays Harbor Washington,72797,130
+3/30/2020,Island,Washington,53029,95,1,0,53029,Island Washington,78506,76
+3/30/2020,Jefferson,Washington,53031,14,0,0,53031,Jefferson Washington,29872,25
+3/30/2020,King,Washington,53033,2332,152,169,53033,King Washington,1931249,5433
+3/30/2020,Kitsap,Washington,53035,63,1,7,53035,Kitsap Washington,251133,381
+3/30/2020,Kittitas,Washington,53037,8,0,0,53037,Kittitas Washington,40915,25
+3/30/2020,Klickitat,Washington,53039,7,1,0,53039,Klickitat Washington,20318,42
+3/30/2020,Lewis,Washington,53041,10,0,0,53041,Lewis Washington,75455,125
+3/30/2020,Lincoln,Washington,53043,1,0,0,53043,Lincoln Washington,10570,85
+3/30/2020,Mason,Washington,53045,2,0,0,53045,Mason Washington,60699,25
+3/30/2020,Okanogan,Washington,53047,3,0,0,53047,Okanogan Washington,41120,91
+3/30/2020,Pierce,Washington,53053,352,6,35,53053,Pierce Washington,795225,2408
+3/30/2020,San Juan,Washington,53055,4,0,0,53055,San Juan Washington,15769,25
+3/30/2020,Skagit,Washington,53057,101,3,0,53057,Skagit Washington,116901,205
+3/30/2020,Skamania,Washington,53059,1,0,0,53059,Skamania Washington,11066,0
+3/30/2020,Snohomish,Washington,53061,1126,30,59,53061,Snohomish Washington,713335,786
+3/30/2020,Spokane,Washington,53063,140,4,0,53063,Spokane Washington,471221,1847
+3/30/2020,Stevens,Washington,53065,4,0,1,53065,Stevens Washington,43531,90
+3/30/2020,Thurston,Washington,53067,43,0,7,53067,Thurston Washington,252264,474
+3/30/2020,Walla Walla,Washington,53071,7,0,0,53071,Walla Walla Washington,58781,316
+3/30/2020,Whatcom,Washington,53073,116,7,0,53073,Whatcom Washington,201140,253
+3/30/2020,Whitman,Washington,53075,6,0,0,53075,Whitman Washington,44776,50
+3/30/2020,Yakima,Washington,53077,147,3,0,53077,Yakima Washington,243231,528
+3/30/2020,Berkeley,West Virginia,54003,14,0,4,54003,Berkeley West Virginia,104169,241
+3/30/2020,Cabell,West Virginia,54011,1,0,0,54011,Cabell West Virginia,96319,1051
+3/30/2020,Greenbrier,West Virginia,54025,3,0,1,54025,Greenbrier West Virginia,35480,122
+3/30/2020,Hancock,West Virginia,54029,3,0,0,54029,Hancock West Virginia,30676,0
+3/30/2020,Harrison,West Virginia,54033,10,0,3,54033,Harrison West Virginia,69099,292
+3/30/2020,Jackson,West Virginia,54035,8,0,0,54035,Jackson West Virginia,29211,46
+3/30/2020,Jefferson,West Virginia,54037,6,0,1,54037,Jefferson West Virginia,53498,25
+3/30/2020,Kanawha,West Virginia,54039,23,0,4,54039,Kanawha West Virginia,193063,763
+3/30/2020,Logan,West Virginia,54045,2,0,1,54045,Logan West Virginia,36743,140
+3/30/2020,Marion,West Virginia,54049,5,1,0,54049,Marion West Virginia,56418,207
+3/30/2020,Marshall,West Virginia,54051,4,0,0,54051,Marshall West Virginia,33107,127
+3/30/2020,Mason,West Virginia,54053,3,0,0,54053,Mason West Virginia,27324,201
+3/30/2020,Mercer,West Virginia,54055,2,0,0,54055,Mercer West Virginia,62264,419
+3/30/2020,Monongalia,West Virginia,54061,31,0,1,54061,Monongalia West Virginia,96189,940
+3/30/2020,Morgan,West Virginia,54065,1,0,0,54065,Morgan West Virginia,17541,41
+3/30/2020,Ohio,West Virginia,54069,9,0,2,54069,Ohio West Virginia,44443,650
+3/30/2020,Pleasants,West Virginia,54073,1,0,0,54073,Pleasants West Virginia,7605,0
+3/30/2020,Preston,West Virginia,54077,2,0,1,54077,Preston West Virginia,33520,25
+3/30/2020,Putnam,West Virginia,54079,4,0,1,54079,Putnam West Virginia,55486,70
+3/30/2020,Raleigh,West Virginia,54081,3,0,-1,54081,Raleigh West Virginia,78859,473
+3/30/2020,Randolph,West Virginia,54083,1,0,1,54083,Randolph West Virginia,29405,90
+3/30/2020,Roane,West Virginia,54087,2,0,2,54087,Roane West Virginia,14926,60
+3/30/2020,Tucker,West Virginia,54093,2,0,0,54093,Tucker West Virginia,7141,0
+3/30/2020,Upshur,West Virginia,54097,1,0,0,54097,Upshur West Virginia,24254,51
+3/30/2020,Wetzel,West Virginia,54103,1,0,0,54103,Wetzel West Virginia,16583,58
+3/30/2020,Wirt,West Virginia,54105,1,0,0,54105,Wirt West Virginia,5717,0
+3/30/2020,Wood,West Virginia,54107,2,0,0,54107,Wood West Virginia,86956,313
+3/30/2020,Bayfield,Wisconsin,55007,2,0,0,55007,Bayfield Wisconsin,15014,0
+3/30/2020,Brown,Wisconsin,55009,7,0,1,55009,Brown Wisconsin,248007,1278
+3/30/2020,Calumet,Wisconsin,55015,1,0,0,55015,Calumet Wisconsin,48971,25
+3/30/2020,Chippewa,Wisconsin,55017,7,0,3,55017,Chippewa Wisconsin,62415,218
+3/30/2020,Clark,Wisconsin,55019,3,0,0,55019,Clark Wisconsin,34690,49
+3/30/2020,Columbia,Wisconsin,55021,9,0,0,55021,Columbia Wisconsin,56833,98
+3/30/2020,Dane,Wisconsin,55025,183,2,4,55025,Dane Wisconsin,488073,2073
+3/30/2020,Dodge,Wisconsin,55027,8,0,0,55027,Dodge Wisconsin,88759,245
+3/30/2020,Door,Wisconsin,55029,1,0,1,55029,Door Wisconsin,27785,25
+3/30/2020,Douglas,Wisconsin,55031,6,0,0,55031,Douglas Wisconsin,44159,25
+3/30/2020,Dunn,Wisconsin,55033,3,0,0,55033,Dunn Wisconsin,43857,25
+3/30/2020,Eau Claire,Wisconsin,55035,10,0,0,55035,Eau Claire Wisconsin,98736,661
+3/30/2020,Fond du Lac,Wisconsin,55039,22,2,2,55039,Fond du Lac Wisconsin,101633,189
+3/30/2020,Grant,Wisconsin,55043,1,0,0,55043,Grant Wisconsin,51208,85
+3/30/2020,Green,Wisconsin,55045,5,0,1,55045,Green Wisconsin,36842,95
+3/30/2020,Iowa,Wisconsin,55049,3,0,0,55049,Iowa Wisconsin,23687,25
+3/30/2020,Iron,Wisconsin,55051,1,1,0,55051,Iron Wisconsin,5916,0
+3/30/2020,Jackson,Wisconsin,55053,2,0,2,55053,Jackson Wisconsin,20449,25
+3/30/2020,Jefferson,Wisconsin,55055,10,0,2,55055,Jefferson Wisconsin,83686,82
+3/30/2020,Juneau,Wisconsin,55057,3,0,0,55057,Juneau Wisconsin,26664,40
+3/30/2020,Kenosha,Wisconsin,55059,30,0,0,55059,Kenosha Wisconsin,166426,517
+3/30/2020,La Crosse,Wisconsin,55063,16,0,1,55063,La Crosse Wisconsin,114638,656
+3/30/2020,Marathon,Wisconsin,55073,2,0,1,55073,Marathon Wisconsin,134063,440
+3/30/2020,Marinette,Wisconsin,55075,1,0,0,55075,Marinette Wisconsin,41749,99
+3/30/2020,Marquette,Wisconsin,55077,2,0,2,55077,Marquette Wisconsin,15404,0
+3/30/2020,Milwaukee,Wisconsin,55079,663,10,98,55079,Milwaukee Wisconsin,947735,4743
+3/30/2020,Monroe,Wisconsin,55081,1,0,0,55081,Monroe Wisconsin,44673,50
+3/30/2020,Oneida,Wisconsin,55085,3,0,2,55085,Oneida Wisconsin,35998,172
+3/30/2020,Outagamie,Wisconsin,55087,9,0,3,55087,Outagamie Wisconsin,176695,517
+3/30/2020,Ozaukee,Wisconsin,55089,36,3,2,55089,Ozaukee Wisconsin,86395,326
+3/30/2020,Pierce,Wisconsin,55093,6,0,2,55093,Pierce Wisconsin,41019,0
+3/30/2020,Portage,Wisconsin,55097,1,0,0,55097,Portage Wisconsin,70019,94
+3/30/2020,Racine,Wisconsin,55101,21,0,4,55101,Racine Wisconsin,195408,715
+3/30/2020,Richland,Wisconsin,55103,2,0,0,55103,Richland Wisconsin,18021,25
+3/30/2020,Rock,Wisconsin,55105,15,0,1,55105,Rock Wisconsin,160331,564
+3/30/2020,Sauk,Wisconsin,55111,13,1,1,55111,Sauk Wisconsin,61976,161
+3/30/2020,Sheboygan,Wisconsin,55117,8,0,0,55117,Sheboygan Wisconsin,115507,370
+3/30/2020,St. Croix,Wisconsin,55109,4,0,0,55109,St. Croix Wisconsin,84345,125
+3/30/2020,Vilas,Wisconsin,55125,3,0,1,55125,Vilas Wisconsin,21430,25
+3/30/2020,Walworth,Wisconsin,55127,6,0,0,55127,Walworth Wisconsin,102228,134
+3/30/2020,Washington,Wisconsin,55131,34,0,3,55131,Washington Wisconsin,131887,141
+3/30/2020,Waukesha,Wisconsin,55133,93,0,10,55133,Waukesha Wisconsin,389891,1305
+3/30/2020,Waupaca,Wisconsin,55135,1,1,0,55135,Waupaca Wisconsin,52410,25
+3/30/2020,Winnebago,Wisconsin,55139,10,0,2,55139,Winnebago Wisconsin,166994,795
+3/30/2020,Wood,Wisconsin,55141,2,0,0,55141,Wood Wisconsin,74749,619
+3/30/2020,Albany,Wyoming,56001,1,0,0,56001,Albany Wyoming,36299,99
+3/30/2020,Campbell,Wyoming,56005,1,0,0,56005,Campbell Wyoming,46133,90
+3/30/2020,Carbon,Wyoming,56007,3,0,0,56007,Carbon Wyoming,15885,25
+3/30/2020,Converse,Wyoming,56009,1,0,0,56009,Converse Wyoming,13833,25
+3/30/2020,Fremont,Wyoming,56013,24,0,1,56013,Fremont Wyoming,40123,248
+3/30/2020,Goshen,Wyoming,56015,1,0,0,56015,Goshen Wyoming,13249,25
+3/30/2020,Hot Springs,Wyoming,56017,1,0,0,56017,Hot Springs Wyoming,4812,25
+3/30/2020,Johnson,Wyoming,56019,5,0,0,56019,Johnson Wyoming,8569,25
+3/30/2020,Laramie,Wyoming,56021,20,0,1,56021,Laramie Wyoming,91738,206
+3/30/2020,Natrona,Wyoming,56025,9,0,0,56025,Natrona Wyoming,75450,377
+3/30/2020,Park,Wyoming,56029,1,0,0,56029,Park Wyoming,28205,50
+3/30/2020,Sheridan,Wyoming,56033,8,0,2,56033,Sheridan Wyoming,29116,88
+3/30/2020,Sublette,Wyoming,56035,1,0,0,56035,Sublette Wyoming,10247,0
+3/30/2020,Sweetwater,Wyoming,56037,2,0,1,56037,Sweetwater Wyoming,43806,115
+3/30/2020,Teton,Wyoming,56039,17,0,3,56039,Teton Wyoming,21294,48
+3/30/2020,Washakie,Wyoming,56043,1,0,0,56043,Washakie Wyoming,8533,18
