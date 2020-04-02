@@ -20,7 +20,7 @@ csv and geojson data files can be found in the folders.
 
 COVID-19: 
 
-https://coronavirus.1point3acres.com
+https://github.com/nytimes/covid-19-data
 
 Hospitals:
 
