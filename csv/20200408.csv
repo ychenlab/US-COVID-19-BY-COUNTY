@@ -1,0 +1,2615 @@
+LOCATION,STATE,FILTER,fips,COMFIRMED_COMFIRMED,DEATH,ADDED,RECOVERED,geoid,CONCA,Pop,HospitalBeds
+Abbeville,South Carolina,,45001,5,0,0,0,45001,Abbeville South Carolina,25417,25
+Acadia,Louisiana,,22001,86,2,4,0,22001,Acadia Louisiana,61773,41
+Accomack,Virginia,,51001,11,0,0,0,51001,Accomack Virginia,33164,0
+Ada,Idaho,,16001,438,3,19,0,16001,Ada Idaho,392365,1354
+Adair,Iowa,,19001,1,0,0,0,19001,Adair Iowa,7682,25
+Adair,Kentucky,,21001,3,0,0,0,21001,Adair Kentucky,18656,77
+Adair,Missouri,,29001,11,0,0,0,29001,Adair Missouri,25607,93
+Adair,Oklahoma,,40001,25,2,0,0,40001,Adair Oklahoma,22683,67
+Adams,Colorado,,8001,417,14,29,0,8001,Adams Colorado,441603,800
+Adams,Idaho,,16003,1,0,0,0,16003,Adams Idaho,3976,0
+Adams,Illinois,,17001,1,0,-7,0,17001,Adams Illinois,67103,335
+Adams,Indiana,,18001,2,0,0,0,18001,Adams Indiana,34387,35
+Adams,Mississippi,,28001,25,0,1,0,28001,Adams Mississippi,32297,179
+Adams,Nebraska,,31001,27,0,12,0,31001,Adams Nebraska,31364,161
+Adams,Ohio,,39001,2,0,0,0,39001,Adams Ohio,28550,25
+Adams,Pennsylvania,,42001,33,0,5,0,42001,Adams Pennsylvania,101407,76
+Adams,Washington,,53001,29,0,2,0,53001,Adams Washington,18728,57
+Adams,Wisconsin,,55001,2,0,0,0,55001,Adams Wisconsin,20875,25
+Addison,Vermont,,50001,47,0,0,0,50001,Addison Vermont,36821,25
+Aiken,South Carolina,,45003,28,1,0,0,45003,Aiken South Carolina,160099,245
+Alachua,Florida,,12001,144,0,5,0,12001,Alachua Florida,247336,1765
+Alamance,North Carolina,,37001,30,0,6,0,37001,Alamance North Carolina,151131,238
+Alameda,California,,6001,674,16,40,0,6001,Alameda California,1510271,3833
+Alamosa,Colorado,,8003,5,0,1,0,8003,Alamosa Colorado,15445,44
+Albany,New York,,36001,342,9,9,0,36001,Albany New York,304204,1381
+Albany,Wyoming,,56001,4,0,0,0,56001,Albany Wyoming,36299,99
+Albemarle,Virginia,,51003,41,0,3,0,51003,Albemarle Virginia,98970,266
+Alcorn,Mississippi,,28003,6,0,0,0,28003,Alcorn Mississippi,37057,200
+Alexander,North Carolina,,37003,2,0,0,0,37003,Alexander North Carolina,37198,0
+Alexandria,Virginia,,51510,143,1,17,0,51510,Alexandria Virginia,139966,318
+Allamakee,Iowa,,19005,19,1,2,0,19005,Allamakee Iowa,14330,25
+Allegan,Michigan,,26005,18,0,0,0,26005,Allegan Michigan,111408,68
+Allegany,Maryland,,24001,6,0,-1,0,24001,Allegany Maryland,75087,451
+Allegany,New York,,36003,21,1,4,0,36003,Allegany New York,48946,76
+Alleghany,North Carolina,,37005,2,0,0,0,37005,Alleghany North Carolina,11155,41
+Alleghany,Virginia,,51005,2,0,0,0,51005,Alleghany Virginia,16250,205
+Allegheny,Pennsylvania,,42003,720,10,31,0,42003,Allegheny Pennsylvania,1223348,7616
+Allen,Indiana,,18003,95,7,5,0,18003,Allen Indiana,355329,1502
+Allen,Kentucky,,21003,2,0,0,0,21003,Allen Kentucky,19956,25
+Allen,Louisiana,,22003,65,5,7,0,22003,Allen Louisiana,25764,76
+Allen,Ohio,,39003,23,1,1,0,39003,Allen Ohio,106331,830
+Allendale,South Carolina,,45005,2,0,0,0,45005,Allendale South Carolina,10419,25
+Alpine,California,,6003,1,0,0,0,6003,Alpine California,1175,0
+Amador,California,,6005,3,0,0,0,6005,Amador California,38091,52
+Amelia,Virginia,,51007,8,0,1,0,51007,Amelia Virginia,12690,0
+Amherst,Virginia,,51009,8,0,0,0,51009,Amherst Virginia,32353,0
+Amite,Mississippi,,28005,7,1,0,0,28005,Amite Mississippi,13131,25
+Anchorage,Alaska,,2020,103,4,5,0,2020,Anchorage Alaska,291826,988
+Anderson,Kansas,,20003,0,0,0,0,20003,Anderson Kansas,8102,41
+Anderson,Kentucky,,21005,3,1,0,0,21005,Anderson Kentucky,21421,0
+Anderson,South Carolina,,45007,75,4,0,0,45007,Anderson South Carolina,187126,755
+Anderson,Tennessee,,47001,11,1,0,0,47001,Anderson Tennessee,75129,301
+Anderson,Texas,,48001,2,0,0,0,48001,Anderson Texas,58458,156
+Andrews,Texas,,48003,10,0,0,0,48003,Andrews Texas,14786,34
+Androscoggin,Maine,,23001,23,0,0,0,23001,Androscoggin Maine,107702,483
+Angelina,Texas,,48005,14,0,0,0,48005,Angelina Texas,86771,470
+Anne Arundel,Maryland,,24003,466,12,96,0,24003,Anne Arundel Maryland,537656,673
+Anoka,Minnesota,,27003,46,0,4,0,27003,Anoka Minnesota,330844,546
+Anson,North Carolina,,37007,6,0,1,0,37007,Anson North Carolina,26948,15
+Antelope,Nebraska,,31003,1,0,0,0,31003,Antelope Nebraska,6685,25
+Antrim,Michigan,,26009,6,0,0,0,26009,Antrim Michigan,23580,0
+Apache,Arizona,,4001,78,0,13,0,4001,Apache Arizona,71518,45
+Appanoose,Iowa,,19007,1,1,0,0,19007,Appanoose Iowa,12887,45
+Appling,Georgia,,13001,6,0,0,0,13001,Appling Georgia,18236,49
+Appomattox,Virginia,,51011,3,0,0,0,51011,Appomattox Virginia,14973,0
+Aransas,Texas,,48007,2,0,0,0,48007,Aransas Texas,23158,0
+Arapahoe,Colorado,,8005,764,19,46,0,8005,Arapahoe Colorado,572003,1010
+Archuleta,Colorado,,8007,6,0,0,0,8007,Archuleta Colorado,12084,11
+Arenac,Michigan,,26011,4,0,1,0,26011,Arenac Michigan,15899,25
+Arkansas,Arkansas,,5001,1,0,0,0,5001,Arkansas Arkansas,19019,25
+Arlington,Virginia,,51013,254,2,17,0,51013,Arlington Virginia,207627,334
+Armstrong,Pennsylvania,,42005,19,0,1,0,42005,Armstrong Pennsylvania,68941,155
+Aroostook,Maine,,23003,2,0,0,0,23003,Aroostook Maine,71870,240
+Ascension,Louisiana,,22005,366,15,8,0,22005,Ascension Louisiana,107215,83
+Ashe,North Carolina,,37009,2,0,0,0,37009,Ashe North Carolina,27281,76
+Ashland,Ohio,,39005,3,0,0,0,39005,Ashland Ohio,53139,123
+Ashland,Wisconsin,,55003,1,0,0,0,55003,Ashland Wisconsin,16157,35
+Ashley,Arkansas,,5003,5,0,0,0,5003,Ashley Arkansas,21853,33
+Ashtabula,Ohio,,39007,20,0,2,0,39007,Ashtabula Ohio,101497,429
+Asotin,Washington,,53003,4,0,0,0,53003,Asotin Washington,21623,25
+Assumption,Louisiana,,22007,89,0,5,0,22007,Assumption Louisiana,23421,6
+Atascosa,Texas,,48013,5,0,1,0,48013,Atascosa Texas,44911,67
+Atchison,Kansas,,20005,2,0,0,0,20005,Atchison Kansas,16924,25
+Atchison,Missouri,,29005,1,0,0,0,29005,Atchison Missouri,5685,18
+Athens,Ohio,,39009,3,1,0,0,39009,Athens Ohio,64757,220
+Atkinson,Georgia,,13003,4,0,0,0,13003,Atkinson Georgia,8375,0
+Atlantic,New Jersey,,34001,168,4,24,0,34001,Atlantic New Jersey,274549,1414
+Atoka,Oklahoma,,40005,1,0,0,0,40005,Atoka Oklahoma,14182,25
+Attala,Mississippi,,28007,15,0,0,0,28007,Attala Mississippi,19564,25
+Audubon,Iowa,,19009,1,0,0,0,19009,Audubon Iowa,6119,25
+Auglaize,Ohio,,39011,8,0,0,0,39011,Auglaize Ohio,45949,140
+Augusta,Virginia,,51015,13,0,3,0,51015,Augusta Virginia,73750,255
+Aurora,South Dakota,,46003,1,0,0,0,46003,Aurora South Dakota,2710,0
+Austin,Texas,,48015,7,0,1,0,48015,Austin Texas,28417,32
+Autauga,Alabama,,1001,12,1,0,0,1001,Autauga Alabama,54571,85
+Avoyelles,Louisiana,,22009,48,1,3,0,22009,Avoyelles Louisiana,42073,55
+Baca,Colorado,,8009,9,0,0,0,8009,Baca Colorado,3788,79
+Bacon,Georgia,,13005,13,0,3,0,13005,Bacon Georgia,11096,47
+Baker,Florida,,12003,15,1,0,0,12003,Baker Florida,27115,1163
+Baker,Georgia,,13007,9,2,0,0,13007,Baker Georgia,3451,0
+Baldwin,Alabama,,1003,44,1,2,0,1003,Baldwin Alabama,182265,398
+Baldwin,Georgia,,13009,27,1,1,0,13009,Baldwin Georgia,45720,340
+Baltimore,Maryland,,24005,866,13,214,0,24005,Baltimore Maryland,805029,1899
+Baltimore City,Maryland,,24510,571,10,112,0,24510,Baltimore City Maryland,620961,4589
+Bamberg,South Carolina,,45009,6,0,0,0,45009,Bamberg South Carolina,15987,0
+Bandera,Texas,,48019,1,0,1,0,48019,Bandera Texas,20485,0
+Banks,Georgia,,13011,4,0,1,0,13011,Banks Georgia,18395,0
+Bannock,Idaho,,16005,5,0,0,0,16005,Bannock Idaho,82839,219
+Barber,Kansas,,20007,1,0,0,0,20007,Barber Kansas,4861,35
+Barbour,Alabama,,1005,3,0,0,0,1005,Barbour Alabama,27457,74
+Barbour,West Virginia,,54001,4,0,1,0,54001,Barbour West Virginia,16589,72
+Barnes,North Dakota,,38003,2,0,0,0,38003,Barnes North Dakota,11066,25
+Barnstable,Massachusetts,,25001,423,11,18,0,25001,Barnstable Massachusetts,215888,407
+Barnwell,South Carolina,,45011,3,0,0,0,45011,Barnwell South Carolina,22621,0
+Barren,Kentucky,,21009,1,0,0,0,21009,Barren Kentucky,42173,180
+Barron,Wisconsin,,55005,4,0,0,0,55005,Barron Wisconsin,45870,90
+Barrow,Georgia,,13013,42,3,2,0,13013,Barrow Georgia,69367,56
+Barry,Michigan,,26015,7,0,0,0,26015,Barry Michigan,59173,49
+Barry,Missouri,,29009,1,0,0,0,29009,Barry Missouri,35597,43
+Bartholomew,Indiana,,18005,66,4,11,0,18005,Bartholomew Indiana,76794,198
+Barton,Kansas,,20009,4,0,1,0,20009,Barton Kansas,27674,81
+Bartow,Georgia,,13015,192,12,5,0,13015,Bartow Georgia,100157,80
+Bastrop,Texas,,48021,17,1,2,0,48021,Bastrop Texas,74171,8
+Bates,Missouri,,29013,3,0,0,0,29013,Bates Missouri,17049,60
+Bath,Kentucky,,21011,1,0,0,0,21011,Bath Kentucky,11591,0
+Bath,Virginia,,51017,0,0,0,0,51017,Bath Virginia,4731,25
+Baxter,Arkansas,,5005,1,0,0,0,5005,Baxter Arkansas,41513,268
+Bay,Florida,,12005,28,1,3,0,12005,Bay Florida,168852,752
+Bay,Michigan,,26017,39,0,8,0,26017,Bay Michigan,107771,389
+Bayfield,Wisconsin,,55007,3,0,0,0,55007,Bayfield Wisconsin,15014,0
+Beadle,South Dakota,,46005,21,2,0,0,46005,Beadle South Dakota,17398,25
+Beaufort,North Carolina,,37013,10,0,0,0,37013,Beaufort North Carolina,47759,142
+Beaufort,South Carolina,,45013,169,4,0,0,45013,Beaufort South Carolina,162233,290
+Beauregard,Louisiana,,22011,23,1,0,0,22011,Beauregard Louisiana,35654,80
+Beaver,Oklahoma,,40007,1,0,0,0,40007,Beaver Oklahoma,5636,24
+Beaver,Pennsylvania,,42007,128,13,12,0,42007,Beaver Pennsylvania,170539,396
+Beaverhead,Montana,,30001,1,0,0,0,30001,Beaverhead Montana,9246,25
+Beckham,Oklahoma,,40009,1,0,0,0,40009,Beckham Oklahoma,22119,93
+Bedford,Pennsylvania,,42009,4,0,0,0,42009,Bedford Pennsylvania,49762,49
+Bedford,Tennessee,,47003,12,0,2,0,47003,Bedford Tennessee,45058,60
+Bedford,Virginia,,51019,12,0,4,0,51019,Bedford Virginia,68676,50
+Belknap,New Hampshire,,33001,21,0,3,0,33001,Belknap New Hampshire,60088,137
+Bell,Texas,,48027,74,2,3,0,48027,Bell Texas,310235,1091
+Belmont,Ohio,,39013,30,1,5,0,39013,Belmont Ohio,70400,300
+Beltrami,Minnesota,,27007,6,0,0,0,27007,Beltrami Minnesota,44442,118
+Ben Hill,Georgia,,13017,6,0,0,0,13017,Ben Hill Georgia,17634,75
+Bennington,Vermont,,50003,27,0,0,0,50003,Bennington Vermont,37125,99
+Benton,Arkansas,,5007,45,0,3,0,5007,Benton Arkansas,221339,170
+Benton,Indiana,,18007,0,0,0,0,18007,Benton Indiana,8854,0
+Benton,Iowa,,19011,12,1,1,0,19011,Benton Iowa,26076,25
+Benton,Minnesota,,27009,1,0,0,0,27009,Benton Minnesota,38451,0
+Benton,Mississippi,,28009,5,0,0,0,28009,Benton Mississippi,8729,0
+Benton,Missouri,,29015,3,0,0,0,29015,Benton Missouri,19056,0
+Benton,Oregon,,41003,21,1,0,0,41003,Benton Oregon,85579,164
+Benton,Tennessee,,47005,4,0,0,0,47005,Benton Tennessee,16489,25
+Benton,Washington,,53005,179,19,3,0,53005,Benton Washington,175177,447
+Benzie,Michigan,,26019,0,0,0,0,26019,Benzie Michigan,17525,8
+Bergen,New Jersey,,34003,7874,314,341,0,34003,Bergen New Jersey,905116,3019
+Berkeley,South Carolina,,45015,55,0,0,0,45015,Berkeley South Carolina,177843,0
+Berkeley,West Virginia,,54003,66,0,9,0,54003,Berkeley West Virginia,104169,241
+Berks,Pennsylvania,,42011,416,12,47,0,42011,Berks Pennsylvania,411442,1247
+Berkshire,Massachusetts,,25003,281,18,3,0,25003,Berkshire Massachusetts,131219,323
+Bernalillo,New Mexico,,35001,307,8,0,0,35001,Bernalillo New Mexico,662564,2020
+Berrien,Georgia,,13019,4,0,0,0,13019,Berrien Georgia,19286,63
+Berrien,Michigan,,26021,72,2,8,0,26021,Berrien Michigan,156813,512
+Bertie,North Carolina,,37015,10,1,1,0,37015,Bertie North Carolina,21282,6
+Bethel,Alaska,,2050,1,0,0,0,2050,Bethel Alaska,17013,37
+Bexar,Texas,,48029,503,18,47,0,48029,Bexar Texas,1714773,8084
+Bibb,Alabama,,1007,9,0,1,0,1007,Bibb Alabama,22915,35
+Bibb,Georgia,,13021,50,1,8,0,13021,Bibb Georgia,155547,1182
+Bienville,Louisiana,,22013,17,1,0,0,22013,Bienville Louisiana,14353,21
+Big Stone,Minnesota,,27011,1,0,0,0,27011,Big Stone Minnesota,5269,40
+Bingham,Idaho,,16011,2,0,0,0,16011,Bingham Idaho,45607,153
+Black Hawk,Iowa,,19013,19,0,4,0,19013,Black Hawk Iowa,131090,459
+Blackford,Indiana,,18009,4,0,0,0,18009,Blackford Indiana,12766,15
+Bladen,North Carolina,,37017,1,0,0,0,37017,Bladen North Carolina,35190,58
+Blaine,Idaho,,16013,428,4,5,0,16013,Blaine Idaho,21376,25
+Blair,Pennsylvania,,42013,6,0,0,0,42013,Blair Pennsylvania,127089,598
+Blanco,Texas,,48031,4,0,0,0,48031,Blanco Texas,10497,0
+Bland,Virginia,,51021,0,0,0,0,51021,Bland Virginia,6824,0
+Bleckley,Georgia,,13023,1,0,0,0,13023,Bleckley Georgia,13063,25
+Bledsoe,Tennessee,,47007,3,0,0,0,47007,Bledsoe Tennessee,12876,25
+Blount,Alabama,,1009,10,0,0,0,1009,Blount Alabama,57322,40
+Blount,Tennessee,,47009,42,2,1,0,47009,Blount Tennessee,123010,471
+Blue Earth,Minnesota,,27013,21,0,-1,0,27013,Blue Earth Minnesota,64013,272
+Bolivar,Mississippi,,28011,54,2,0,0,28011,Bolivar Mississippi,34145,165
+Bollinger,Missouri,,29017,2,0,0,0,29017,Bollinger Missouri,12363,0
+Bon Homme,South Dakota,,46009,3,0,1,0,46009,Bon Homme South Dakota,7070,50
+Bond,Illinois,,17005,3,0,0,0,17005,Bond Illinois,17768,150
+Bonner,Idaho,,16017,3,0,0,0,16017,Bonner Idaho,40877,25
+Bonneville,Idaho,,16019,7,0,1,0,16019,Bonneville Idaho,104234,332
+Boone,Arkansas,,5009,1,0,0,0,5009,Boone Arkansas,36903,174
+Boone,Illinois,,17007,7,1,3,0,17007,Boone Illinois,54165,0
+Boone,Indiana,,18011,76,2,2,0,18011,Boone Indiana,56640,52
+Boone,Iowa,,19015,3,0,0,0,19015,Boone Iowa,26306,42
+Boone,Kentucky,,21015,21,1,0,0,21015,Boone Kentucky,118811,201
+Boone,Missouri,,29019,77,1,0,0,29019,Boone Missouri,162642,620
+Boone,West Virginia,,54005,1,0,1,0,54005,Boone West Virginia,24629,25
+Bossier,Louisiana,,22015,159,6,13,0,22015,Bossier Louisiana,116979,404
+Botetourt,Virginia,,51023,18,0,0,0,51023,Botetourt Virginia,33148,0
+Boulder,Colorado,,8013,207,3,1,0,8013,Boulder Colorado,294567,522
+Bourbon,Kansas,,20011,7,1,0,0,20011,Bourbon Kansas,15173,61
+Bourbon,Kentucky,,21017,4,1,0,0,21017,Bourbon Kentucky,19985,58
+Bowie,Texas,,48037,20,1,3,0,48037,Bowie Texas,92565,841
+Bowman,North Dakota,,38011,1,0,0,0,38011,Bowman North Dakota,3151,23
+Box Elder,Utah,,49003,13,0,0,0,49003,Box Elder Utah,49975,53
+Boyd,Kentucky,,21019,15,2,0,0,21019,Boyd Kentucky,49542,455
+Boyle,Kentucky,,21021,7,0,0,0,21021,Boyle Kentucky,28432,222
+Bracken,Kentucky,,21023,1,0,0,0,21023,Bracken Kentucky,8488,0
+Bradford,Florida,,12007,15,0,4,0,12007,Bradford Florida,28520,25
+Bradford,Pennsylvania,,42015,15,0,1,0,42015,Bradford Pennsylvania,62622,340
+Bradley,Arkansas,,5011,5,0,0,0,5011,Bradley Arkansas,11508,35
+Bradley,Tennessee,,47011,28,0,3,0,47011,Bradley Tennessee,98963,348
+Branch,Michigan,,26023,18,1,2,0,26023,Branch Michigan,45248,96
+Brantley,Georgia,,13025,5,1,2,0,13025,Brantley Georgia,18411,0
+Braxton,West Virginia,,54007,1,0,1,0,54007,Braxton West Virginia,14523,25
+Brazoria,Texas,,48039,173,1,0,0,48039,Brazoria Texas,313166,357
+Brazos,Texas,,48041,108,8,11,0,48041,Brazos Texas,194851,658
+Breathitt,Kentucky,,21025,1,0,0,0,21025,Breathitt Kentucky,13878,55
+Breckinridge,Kentucky,,21027,2,0,0,0,21027,Breckinridge Kentucky,20059,25
+Bremer,Iowa,,19017,2,0,0,0,19017,Bremer Iowa,24276,50
+Brevard,Florida,,12009,102,2,4,0,12009,Brevard Florida,543376,1768
+Bristol,Massachusetts,,25005,835,23,67,0,25005,Bristol Massachusetts,548285,1399
+Bristol,Rhode Island,,44001,31,0,4,0,44001,Bristol Rhode Island,49875,0
+Bristol,Virginia,,51520,1,0,0,0,51520,Bristol Virginia,17835,53
+Broadwater,Montana,,30007,4,0,0,0,30007,Broadwater Montana,5612,44
+Brooke,West Virginia,,54009,1,0,0,0,54009,Brooke West Virginia,24069,251
+Brookings,South Dakota,,46011,6,0,0,0,46011,Brookings South Dakota,31965,49
+Brooks,Georgia,,13027,16,1,10,0,13027,Brooks Georgia,16243,25
+Broome,New York,,36007,93,6,7,0,36007,Broome New York,200600,742
+Broomfield,Colorado,,8014,52,2,2,0,8014,Broomfield Colorado,55889,0
+Broward,Florida,,12011,2358,58,128,0,12011,Broward Florida,1748066,6715
+Brown,Indiana,,18013,9,1,1,0,18013,Brown Indiana,15242,0
+Brown,Minnesota,,27015,7,0,0,0,27015,Brown Minnesota,25893,102
+Brown,Ohio,,39015,4,1,0,0,39015,Brown Ohio,44846,0
+Brown,South Dakota,,46013,13,0,0,0,46013,Brown South Dakota,36531,157
+Brown,Texas,,48049,6,0,0,0,48049,Brown Texas,38106,194
+Brown,Wisconsin,,55009,41,0,0,0,55009,Brown Wisconsin,248007,1278
+Brunswick,North Carolina,,37019,26,1,0,0,37019,Brunswick North Carolina,107431,212
+Brunswick,Virginia,,51025,1,0,0,0,51025,Brunswick Virginia,17434,0
+Bryan,Georgia,,13029,26,2,0,0,13029,Bryan Georgia,30233,0
+Bryan,Oklahoma,,40013,3,0,0,0,40013,Bryan Oklahoma,42416,148
+Buchanan,Iowa,,19019,5,0,0,0,19019,Buchanan Iowa,20958,120
+Buchanan,Missouri,,29021,14,0,0,0,29021,Buchanan Missouri,89201,393
+Buchanan,Virginia,,51027,1,0,0,0,51027,Buchanan Virginia,24098,134
+Buckingham,Virginia,,51029,9,0,3,0,51029,Buckingham Virginia,17146,0
+Bucks,Pennsylvania,,42017,816,24,103,0,42017,Bucks Pennsylvania,625249,1299
+Buena Vista,Iowa,,19021,1,0,1,0,19021,Buena Vista Iowa,20260,35
+Buena Vista,Virginia,,51530,4,0,0,0,51530,Buena Vista Virginia,6650,0
+Buffalo,Nebraska,,31019,28,1,5,0,31019,Buffalo Nebraska,46102,322
+Buffalo,Wisconsin,,55011,2,2,0,0,55011,Buffalo Wisconsin,13587,0
+Bullitt,Kentucky,,21029,11,2,0,0,21029,Bullitt Kentucky,74319,0
+Bulloch,Georgia,,13031,12,0,2,0,13031,Bulloch Georgia,70217,190
+Bullock,Alabama,,1011,3,0,1,0,1011,Bullock Alabama,10914,61
+Buncombe,North Carolina,,37021,37,1,4,0,37021,Buncombe North Carolina,238318,877
+Bureau,Illinois,,17011,4,0,1,0,17011,Bureau Illinois,34978,25
+Burke,Georgia,,13033,17,0,3,0,13033,Burke Georgia,23316,40
+Burke,North Carolina,,37023,34,2,-5,0,37023,Burke North Carolina,90912,315
+Burke,North Dakota,,38013,2,0,0,0,38013,Burke North Dakota,1968,0
+Burleigh,North Dakota,,38015,42,0,3,0,38015,Burleigh North Dakota,81308,510
+Burleson,Texas,,48051,5,0,0,0,48051,Burleson Texas,17187,25
+Burlington,New Jersey,,34005,801,17,68,0,34005,Burlington New Jersey,448734,1112
+Burnet,Texas,,48053,5,0,0,0,48053,Burnet Texas,42750,71
+Butler,Alabama,,1013,2,0,0,0,1013,Butler Alabama,20947,94
+Butler,Iowa,,19023,1,0,0,0,19023,Butler Iowa,14867,0
+Butler,Kansas,,20015,8,0,0,0,20015,Butler Kansas,65880,126
+Butler,Kentucky,,21031,1,0,0,0,21031,Butler Kentucky,12690,0
+Butler,Missouri,,29023,5,0,0,0,29023,Butler Missouri,42794,142
+Butler,Ohio,,39017,102,2,10,0,39017,Butler Ohio,368130,879
+Butler,Pennsylvania,,42019,113,2,6,0,42019,Butler Pennsylvania,183862,296
+Butte,California,,6007,13,0,1,0,6007,Butte California,220000,592
+Butte,South Dakota,,46019,0,0,0,0,46019,Butte South Dakota,10110,0
+Butts,Georgia,,13035,20,0,3,0,13035,Butts Georgia,23655,25
+Cabarrus,North Carolina,,37025,88,1,7,0,37025,Cabarrus North Carolina,178011,497
+Cabell,West Virginia,,54011,12,0,1,0,54011,Cabell West Virginia,96319,1051
+Cache,Utah,,49005,28,0,4,0,49005,Cache Utah,112656,150
+Caddo,Louisiana,,22017,803,25,47,0,22017,Caddo Louisiana,254969,2026
+Caddo,Oklahoma,,40015,6,0,0,0,40015,Caddo Oklahoma,29600,42
+Calaveras,California,,6009,5,0,0,0,6009,Calaveras California,45578,48
+Calcasieu,Louisiana,,22019,191,4,5,0,22019,Calcasieu Louisiana,192768,690
+Caldwell,Kentucky,,21033,2,0,0,0,21033,Caldwell Kentucky,12984,25
+Caldwell,Louisiana,,22021,14,0,1,0,22021,Caldwell Louisiana,10132,65
+Caldwell,Missouri,,29025,1,0,0,0,29025,Caldwell Missouri,9424,0
+Caldwell,North Carolina,,37027,11,0,0,0,37027,Caldwell North Carolina,83029,110
+Caldwell,Texas,,48055,5,0,0,0,48055,Caldwell Texas,38066,59
+Caledonia,Vermont,,50005,8,0,0,0,50005,Caledonia Vermont,31227,25
+Calhoun,Alabama,,1015,49,0,8,0,1015,Calhoun Alabama,118572,590
+Calhoun,Florida,,12013,4,0,1,0,12013,Calhoun Florida,14625,25
+Calhoun,Georgia,,13037,30,1,2,0,13037,Calhoun Georgia,6694,0
+Calhoun,Illinois,,17013,1,0,0,0,17013,Calhoun Illinois,5089,0
+Calhoun,Michigan,,26025,51,1,8,0,26025,Calhoun Michigan,136146,291
+Calhoun,Mississippi,,28013,13,0,3,0,28013,Calhoun Mississippi,14962,25
+Calhoun,South Carolina,,45017,5,1,0,0,45017,Calhoun South Carolina,15175,0
+Calhoun,Texas,,48057,12,0,0,0,48057,Calhoun Texas,21381,25
+Callahan,Texas,,48059,1,0,0,0,48059,Callahan Texas,13544,0
+Callaway,Missouri,,29027,19,1,0,0,29027,Callaway Missouri,44332,37
+Calloway,Kentucky,,21035,5,0,0,0,21035,Calloway Kentucky,37191,152
+Calumet,Wisconsin,,55015,4,0,0,0,55015,Calumet Wisconsin,48971,25
+Calvert,Maryland,,24009,56,1,15,0,24009,Calvert Maryland,88737,76
+Camas,Idaho,,16025,1,0,0,0,16025,Camas Idaho,1117,0
+Cambria,Pennsylvania,,42021,9,1,2,0,42021,Cambria Pennsylvania,143679,594
+Camden,Georgia,,13039,17,0,1,0,13039,Camden Georgia,50513,40
+Camden,Missouri,,29029,24,1,0,0,29029,Camden Missouri,44002,130
+Camden,New Jersey,,34007,838,22,102,0,34007,Camden New Jersey,513657,2518
+Cameron,Louisiana,,22023,1,0,0,0,22023,Cameron Louisiana,6839,49
+Cameron,Pennsylvania,,42023,1,0,0,0,42023,Cameron Pennsylvania,5085,0
+Cameron,Texas,,48061,108,1,7,0,48061,Cameron Texas,406220,1463
+Camp,Texas,,48063,2,0,0,0,48063,Camp Texas,12401,25
+Campbell,Kentucky,,21037,13,3,0,0,21037,Campbell Kentucky,90336,284
+Campbell,Tennessee,,47013,6,0,0,0,47013,Campbell Tennessee,40716,120
+Campbell,Virginia,,51031,4,0,1,0,51031,Campbell Virginia,54842,0
+Campbell,Wyoming,,56005,9,0,0,0,56005,Campbell Wyoming,46133,90
+Canadian,Oklahoma,,40017,40,1,0,0,40017,Canadian Oklahoma,115541,123
+Candler,Georgia,,13043,4,0,0,0,13043,Candler Georgia,10998,25
+Cannon,Tennessee,,47015,7,0,0,0,47015,Cannon Tennessee,13801,60
+Canyon,Idaho,,16027,114,3,10,0,16027,Canyon Idaho,188923,302
+Cape Girardeau,Missouri,,29031,20,1,0,0,29031,Cape Girardeau Missouri,75674,601
+Cape May,New Jersey,,34009,100,3,6,0,34009,Cape May New Jersey,97265,242
+Carbon,Montana,,30009,3,0,1,0,30009,Carbon Montana,10078,10
+Carbon,Pennsylvania,,42025,76,1,9,0,42025,Carbon Pennsylvania,65249,155
+Carbon,Utah,,49007,2,0,1,0,49007,Carbon Utah,21403,49
+Carbon,Wyoming,,56007,4,0,0,0,56007,Carbon Wyoming,15885,25
+Caribou,Idaho,,16029,1,0,0,0,16029,Caribou Idaho,6963,25
+Carlton,Minnesota,,27017,14,0,1,0,27017,Carlton Minnesota,35386,61
+Caroline,Maryland,,24011,11,0,0,0,24011,Caroline Maryland,33066,0
+Caroline,Virginia,,51033,4,0,0,0,51033,Caroline Virginia,28545,0
+Carroll,Arkansas,,5015,1,0,0,0,5015,Carroll Arkansas,27446,47
+Carroll,Georgia,,13045,183,4,6,0,13045,Carroll Georgia,110527,303
+Carroll,Illinois,,17015,5,1,1,0,17015,Carroll Illinois,15387,0
+Carroll,Indiana,,18015,3,0,0,0,18015,Carroll Indiana,20155,0
+Carroll,Iowa,,19027,1,0,0,0,19027,Carroll Iowa,20816,116
+Carroll,Kentucky,,21041,2,0,0,0,21041,Carroll Kentucky,10811,25
+Carroll,Maryland,,24013,186,18,27,0,24013,Carroll Maryland,167134,409
+Carroll,Mississippi,,28015,7,0,0,0,28015,Carroll Mississippi,10597,0
+Carroll,New Hampshire,,33003,19,0,0,0,33003,Carroll New Hampshire,47818,50
+Carroll,Ohio,,39019,9,0,0,0,39019,Carroll Ohio,28836,0
+Carroll,Tennessee,,47017,8,0,0,0,47017,Carroll Tennessee,28522,115
+Carroll,Virginia,,51035,2,0,0,0,51035,Carroll Virginia,30042,0
+Carson City,Nevada,,32510,13,0,2,0,32510,Carson City Nevada,55274,229
+Carter,Kentucky,,21043,1,0,0,0,21043,Carter Kentucky,27720,0
+Carter,Missouri,,29035,3,1,0,0,29035,Carter Missouri,6265,0
+Carter,Oklahoma,,40019,1,0,0,0,40019,Carter Oklahoma,47557,212
+Carter,Tennessee,,47019,3,0,0,0,47019,Carter Tennessee,57424,121
+Carteret,North Carolina,,37031,19,1,-6,0,37031,Carteret North Carolina,66469,135
+Carver,Minnesota,,27019,10,0,0,0,27019,Carver Minnesota,91042,109
+Cascade,Montana,,30013,11,0,0,0,30013,Cascade Montana,81327,436
+Cass,Indiana,,18017,15,0,3,0,18017,Cass Indiana,38966,98
+Cass,Michigan,,26027,9,1,0,0,26027,Cass Michigan,52293,25
+Cass,Minnesota,,27021,3,0,0,0,27021,Cass Minnesota,28567,0
+Cass,Missouri,,29037,25,1,0,0,29037,Cass Missouri,99478,106
+Cass,Nebraska,,31025,3,0,1,0,31025,Cass Nebraska,25241,0
+Cass,North Dakota,,38017,77,1,7,0,38017,Cass North Dakota,149778,1262
+Cass,Texas,,48067,4,0,0,0,48067,Cass Texas,30464,43
+Cassia,Idaho,,16031,5,1,0,0,16031,Cassia Idaho,22952,25
+Castro,Texas,,48069,11,1,0,0,48069,Castro Texas,8062,17
+Caswell,North Carolina,,37033,2,0,0,0,37033,Caswell North Carolina,23719,0
+Catahoula,Louisiana,,22025,14,1,1,0,22025,Catahoula Louisiana,10407,0
+Catawba,North Carolina,,37035,28,1,1,0,37035,Catawba North Carolina,154358,638
+Catoosa,Georgia,,13047,7,0,0,0,13047,Catoosa Georgia,63942,185
+Catron,New Mexico,,35003,1,0,0,0,35003,Catron New Mexico,3725,0
+Cattaraugus,New York,,36009,15,0,2,0,36009,Cattaraugus New York,80317,186
+Cayuga,New York,,36011,14,0,0,0,36011,Cayuga New York,80026,99
+Cecil,Maryland,,24015,49,1,8,0,24015,Cecil Maryland,101108,122
+Cedar,Iowa,,19031,18,0,5,0,19031,Cedar Iowa,18499,0
+Cedar,Missouri,,29039,7,0,0,0,29039,Cedar Missouri,13982,25
+Centre,Pennsylvania,,42027,57,0,2,0,42027,Centre Pennsylvania,153990,438
+Cerro Gordo,Iowa,,19033,12,0,0,0,19033,Cerro Gordo Iowa,44151,586
+Chaffee,Colorado,,8015,23,2,1,0,8015,Chaffee Colorado,17809,25
+Chambers,Alabama,,1017,109,8,8,0,1017,Chambers Alabama,34215,115
+Chambers,Texas,,48071,19,0,2,0,48071,Chambers Texas,35096,39
+Champaign,Illinois,,17019,69,1,2,0,17019,Champaign Illinois,201081,549
+Champaign,Ohio,,39021,5,0,0,0,39021,Champaign Ohio,40097,8
+Chariton,Missouri,,29041,4,0,0,0,29041,Chariton Missouri,7831,0
+Charles,Maryland,,24017,164,2,28,0,24017,Charles Maryland,146551,89
+Charles City,Virginia,,51036,5,0,1,0,51036,Charles City Virginia,7256,0
+Charles Mix,South Dakota,,46023,2,0,0,0,46023,Charles Mix South Dakota,9129,37
+Charleston,South Carolina,,45019,305,1,0,0,45019,Charleston South Carolina,350209,2166
+Charlevoix,Michigan,,26029,8,0,0,0,26029,Charlevoix Michigan,25949,25
+Charlotte,Florida,,12015,76,1,9,0,12015,Charlotte Florida,159978,823
+Charlotte,Virginia,,51037,1,0,0,0,51037,Charlotte Virginia,12586,0
+Charlottesville,Virginia,,51540,23,1,0,0,51540,Charlottesville Virginia,43475,614
+Charlton,Georgia,,13049,3,0,0,0,13049,Charlton Georgia,12171,0
+Chatham,Georgia,,13051,125,4,8,0,13051,Chatham Georgia,265128,1717
+Chatham,North Carolina,,37037,24,0,3,0,37037,Chatham North Carolina,63505,25
+Chattahoochee,Georgia,,13053,2,0,0,0,13053,Chattahoochee Georgia,11267,57
+Chattooga,Georgia,,13055,4,1,0,0,13055,Chattooga Georgia,26015,0
+Chautauqua,Kansas,,20019,3,0,0,0,20019,Chautauqua Kansas,3669,25
+Chautauqua,New York,,36013,18,2,0,0,36013,Chautauqua New York,134905,399
+Chaves,New Mexico,,35005,15,0,0,0,35005,Chaves New Mexico,65645,229
+Cheatham,Tennessee,,47021,13,0,0,0,47021,Cheatham Tennessee,39105,12
+Cheboygan,Michigan,,26031,10,1,0,0,26031,Cheboygan Michigan,26152,0
+Chelan,Washington,,53007,34,3,0,0,53007,Chelan Washington,72453,251
+Chemung,New York,,36015,55,1,6,0,36015,Chemung New York,88830,391
+Chenango,New York,,36017,53,0,2,0,36017,Chenango New York,50477,58
+Cherokee,Alabama,,1019,7,0,1,0,1019,Cherokee Alabama,25989,60
+Cherokee,Georgia,,13057,151,6,7,0,13057,Cherokee Georgia,214346,79
+Cherokee,Kansas,,20021,5,0,0,0,20021,Cherokee Kansas,21603,54
+Cherokee,North Carolina,,37039,12,1,0,0,37039,Cherokee North Carolina,27444,191
+Cherokee,Oklahoma,,40021,16,1,0,0,40021,Cherokee Oklahoma,46987,100
+Cherokee,South Carolina,,45021,4,0,0,0,45021,Cherokee South Carolina,55342,125
+Cherokee,Texas,,48073,6,0,0,0,48073,Cherokee Texas,50845,429
+Cherry,Nebraska,,31031,1,0,0,0,31031,Cherry Nebraska,5713,25
+Chesapeake,Virginia,,51550,99,0,19,0,51550,Chesapeake Virginia,222209,310
+Cheshire,New Hampshire,,33005,13,0,0,0,33005,Cheshire New Hampshire,77117,169
+Chester,Pennsylvania,,42029,373,6,38,0,42029,Chester Pennsylvania,498886,1286
+Chester,South Carolina,,45023,15,0,0,0,45023,Chester South Carolina,33140,82
+Chester,Tennessee,,47023,6,0,-1,0,47023,Chester Tennessee,17131,0
+Chesterfield,South Carolina,,45025,16,0,0,0,45025,Chesterfield South Carolina,46734,59
+Chesterfield,Virginia,,51041,145,0,17,0,51041,Chesterfield Virginia,316236,466
+Cheyenne,Nebraska,,31033,1,0,0,0,31033,Cheyenne Nebraska,9998,25
+Chickasaw,Iowa,,19037,1,0,0,0,19037,Chickasaw Iowa,12439,18
+Chickasaw,Mississippi,,28017,17,2,2,0,28017,Chickasaw Mississippi,17392,84
+Chicot,Arkansas,,5017,2,0,0,0,5017,Chicot Arkansas,11800,40
+Chilton,Alabama,,1021,20,0,0,0,1021,Chilton Alabama,43643,26
+Chippewa,Michigan,,26033,1,0,0,0,26033,Chippewa Michigan,38520,82
+Chippewa,Wisconsin,,55017,16,0,0,0,55017,Chippewa Wisconsin,62415,218
+Chisago,Minnesota,,27025,5,1,0,0,27025,Chisago Minnesota,53887,61
+Chittenden,Vermont,,50007,308,4,0,0,50007,Chittenden Vermont,156545,562
+Choctaw,Alabama,,1023,6,0,0,0,1023,Choctaw Alabama,13859,25
+Choctaw,Mississippi,,28019,9,1,0,0,28019,Choctaw Mississippi,8547,25
+Choctaw,Oklahoma,,40023,2,0,0,0,40023,Choctaw Oklahoma,15205,64
+Chowan,North Carolina,,37041,1,0,0,0,37041,Chowan North Carolina,14793,89
+Christian,Illinois,,17021,23,3,1,0,17021,Christian Illinois,34800,67
+Christian,Kentucky,,21047,32,0,0,0,21047,Christian Kentucky,73955,786
+Christian,Missouri,,29043,17,0,0,0,29043,Christian Missouri,77422,0
+Cibola,New Mexico,,35006,23,0,0,0,35006,Cibola New Mexico,27213,50
+Citrus,Florida,,12017,54,2,3,0,12017,Citrus Florida,141236,332
+Clackamas,Oregon,,41005,97,3,7,0,41005,Clackamas Oregon,375992,551
+Claiborne,Louisiana,,22027,33,2,3,0,22027,Claiborne Louisiana,17195,0
+Claiborne,Mississippi,,28021,3,0,0,0,28021,Claiborne Mississippi,9604,32
+Claiborne,Tennessee,,47025,2,0,0,0,47025,Claiborne Tennessee,32213,85
+Clallam,Washington,,53009,9,0,1,0,53009,Clallam Washington,71404,163
+Clare,Michigan,,26035,2,0,0,0,26035,Clare Michigan,30926,49
+Clarendon,South Carolina,,45027,68,2,0,0,45027,Clarendon South Carolina,34971,89
+Clarion,Pennsylvania,,42031,8,0,-1,0,42031,Clarion Pennsylvania,39988,156
+Clark,Arkansas,,5019,27,0,0,0,5019,Clark Arkansas,22995,25
+Clark,Illinois,,17023,3,0,1,0,17023,Clark Illinois,16335,0
+Clark,Indiana,,18019,86,7,4,0,18019,Clark Indiana,110232,378
+Clark,Kentucky,,21049,11,0,0,0,21049,Clark Kentucky,35613,54
+Clark,Missouri,,29045,1,0,0,0,29045,Clark Missouri,7139,0
+Clark,Nevada,,32003,1878,65,144,0,32003,Clark Nevada,1951269,5467
+Clark,Ohio,,39023,13,0,2,0,39023,Clark Ohio,138333,40
+Clark,South Dakota,,46025,1,0,0,0,46025,Clark South Dakota,3691,0
+Clark,Washington,,53011,190,13,5,0,53011,Clark Washington,425363,580
+Clark,Wisconsin,,55019,7,0,0,0,55019,Clark Wisconsin,34690,49
+Clarke,Alabama,,1025,10,0,0,0,1025,Clarke Alabama,25833,85
+Clarke,Georgia,,13059,81,9,4,0,13059,Clarke Georgia,116714,574
+Clarke,Iowa,,19039,1,0,0,0,19039,Clarke Iowa,9286,25
+Clarke,Mississippi,,28023,10,1,0,0,28023,Clarke Mississippi,16732,25
+Clarke,Virginia,,51043,3,0,1,0,51043,Clarke Virginia,14034,0
+Clatsop,Oregon,,41007,5,0,1,0,41007,Clatsop Oregon,37039,289
+Clay,Alabama,,1027,10,0,1,0,1027,Clay Alabama,13932,45
+Clay,Arkansas,,5021,1,0,0,0,5021,Clay Arkansas,16083,25
+Clay,Florida,,12019,97,7,9,0,12019,Clay Florida,190865,416
+Clay,Georgia,,13061,13,1,3,0,13061,Clay Georgia,3183,0
+Clay,Indiana,,18021,11,0,4,0,18021,Clay Indiana,26890,25
+Clay,Iowa,,19041,2,0,0,0,19041,Clay Iowa,16667,99
+Clay,Kansas,,20027,1,2,0,0,20027,Clay Kansas,8535,25
+Clay,Minnesota,,27027,20,0,1,0,27027,Clay Minnesota,58999,0
+Clay,Mississippi,,28025,11,0,1,0,28025,Clay Mississippi,20634,60
+Clay,Missouri,,29047,37,1,0,0,29047,Clay Missouri,221939,905
+Clay,North Carolina,,37043,3,0,0,0,37043,Clay North Carolina,10587,0
+Clay,South Dakota,,46027,6,0,0,0,46027,Clay South Dakota,13864,25
+Clay,Tennessee,,47027,2,0,1,0,47027,Clay Tennessee,7861,34
+Clay,Texas,,48077,1,0,0,0,48077,Clay Texas,10752,25
+Clayton,Georgia,,13063,293,11,27,0,13063,Clayton Georgia,259424,558
+Clayton,Iowa,,19043,5,0,0,0,19043,Clayton Iowa,18129,50
+Clear Creek,Colorado,,8019,7,0,0,0,8019,Clear Creek Colorado,9088,0
+Clearfield,Pennsylvania,,42033,7,0,0,0,42033,Clearfield Pennsylvania,81642,310
+Clearwater,Minnesota,,27029,2,0,0,0,27029,Clearwater Minnesota,8695,25
+Cleburne,Alabama,,1029,12,0,3,0,1029,Cleburne Alabama,14972,0
+Cleburne,Arkansas,,5023,67,2,1,0,5023,Cleburne Arkansas,25970,25
+Clermont,Ohio,,39025,27,1,5,0,39025,Clermont Ohio,197363,148
+Cleveland,Arkansas,,5025,7,0,0,0,5025,Cleveland Arkansas,8689,0
+Cleveland,North Carolina,,37045,26,0,3,0,37045,Cleveland North Carolina,98078,371
+Cleveland,Oklahoma,,40027,212,14,9,0,40027,Cleveland Oklahoma,255755,807
+Clinch,Georgia,,13065,3,0,0,0,13065,Clinch Georgia,6798,25
+Clinton,Illinois,,17027,13,0,2,0,17027,Clinton Illinois,37762,0
+Clinton,Indiana,,18023,8,0,3,0,18023,Clinton Indiana,33224,25
+Clinton,Iowa,,19045,19,0,2,0,19045,Clinton Iowa,49116,265
+Clinton,Kentucky,,21053,1,0,0,0,21053,Clinton Kentucky,10272,42
+Clinton,Michigan,,26037,82,1,9,0,26037,Clinton Michigan,75382,25
+Clinton,Missouri,,29049,8,0,0,0,29049,Clinton Missouri,20743,58
+Clinton,New York,,36019,39,0,2,0,36019,Clinton New York,82128,300
+Clinton,Ohio,,39027,11,1,2,0,39027,Clinton Ohio,42040,165
+Clinton,Pennsylvania,,42035,3,0,0,0,42035,Clinton Pennsylvania,39238,111
+Cloud,Kansas,,20029,3,0,1,0,20029,Cloud Kansas,9533,25
+Coahoma,Mississippi,,28027,32,1,2,0,28027,Coahoma Mississippi,26151,181
+Cobb,Georgia,,13067,588,29,38,0,13067,Cobb Georgia,688078,1099
+Cochise,Arizona,,4003,9,0,0,0,4003,Cochise Arizona,131346,184
+Cocke,Tennessee,,47029,2,0,0,0,47029,Cocke Tennessee,35662,74
+Coconino,Arizona,,4005,288,14,7,0,4005,Coconino Arizona,134421,308
+Codington,South Dakota,,46029,12,0,0,0,46029,Codington South Dakota,27227,81
+Coffee,Alabama,,1031,8,0,0,0,1031,Coffee Alabama,49948,131
+Coffee,Georgia,,13069,44,2,6,0,13069,Coffee Georgia,42356,88
+Coffee,Tennessee,,47031,7,0,0,0,47031,Coffee Tennessee,52796,184
+Coffey,Kansas,,20031,35,1,3,0,20031,Coffey Kansas,8601,78
+Colbert,Alabama,,1033,7,1,0,0,1033,Colbert Alabama,54428,363
+Cole,Missouri,,29051,32,1,0,0,29051,Cole Missouri,75990,268
+Coles,Illinois,,17029,2,0,2,0,17029,Coles Illinois,53873,118
+Colfax,Nebraska,,31037,3,0,0,0,31037,Colfax Nebraska,10515,25
+Colleton,South Carolina,,45029,10,0,0,0,45029,Colleton South Carolina,38892,131
+Collier,Florida,,12021,277,3,6,0,12021,Collier Florida,321520,1051
+Collin,Texas,,48085,343,5,37,0,48085,Collin Texas,782341,2649
+Colonial Heights,Virginia,,51570,1,0,1,0,51570,Colonial Heights Virginia,17411,0
+Colorado,Texas,,48089,6,0,3,0,48089,Colorado Texas,20874,103
+Colquitt,Georgia,,13071,68,5,-1,0,13071,Colquitt Georgia,45498,158
+Columbia,Arkansas,,5027,1,0,0,0,5027,Columbia Arkansas,24552,70
+Columbia,Florida,,12023,17,0,1,0,12023,Columbia Florida,67531,346
+Columbia,Georgia,,13073,48,1,2,0,13073,Columbia Georgia,124053,0
+Columbia,New York,,36021,76,4,4,0,36021,Columbia New York,63096,192
+Columbia,Oregon,,41009,8,0,0,0,41009,Columbia Oregon,49351,0
+Columbia,Pennsylvania,,42037,54,1,12,0,42037,Columbia Pennsylvania,67295,173
+Columbia,Washington,,53013,1,0,0,0,53013,Columbia Washington,4078,25
+Columbia,Wisconsin,,55021,23,1,0,0,55021,Columbia Wisconsin,56833,98
+Columbiana,Ohio,,39029,71,6,12,0,39029,Columbiana Ohio,107841,351
+Columbus,North Carolina,,37047,14,1,1,0,37047,Columbus North Carolina,58098,154
+Colusa,California,,6011,3,0,1,0,6011,Colusa California,21419,48
+Comal,Texas,,48091,29,3,2,0,48091,Comal Texas,108472,340
+Comanche,Oklahoma,,40031,44,0,2,0,40031,Comanche Oklahoma,124098,538
+Comanche,Texas,,48093,3,0,0,0,48093,Comanche Texas,13974,25
+Concordia,Louisiana,,22029,12,1,1,0,22029,Concordia Louisiana,20822,65
+Conecuh,Alabama,,1035,4,0,2,0,1035,Conecuh Alabama,13228,58
+Contra Costa,California,,6013,462,7,20,0,6013,Contra Costa California,1049025,1804
+Converse,Wyoming,,56009,4,0,0,0,56009,Converse Wyoming,13833,25
+Conway,Arkansas,,5029,1,1,0,0,5029,Conway Arkansas,21273,35
+Cook,Georgia,,13075,4,0,1,0,13075,Cook Georgia,17212,60
+Cook,Illinois,,17031,10520,310,1792,0,17031,Cook Illinois,5194675,17992
+Cooper,Missouri,,29053,2,0,0,0,29053,Cooper Missouri,17601,70
+Coos,New Hampshire,,33007,1,0,0,0,33007,Coos New Hampshire,33055,66
+Coosa,Alabama,,1037,9,0,0,0,1037,Coosa Alabama,11539,0
+Copiah,Mississippi,,28029,19,0,2,0,28029,Copiah Mississippi,29449,25
+Cortland,New York,,36023,16,0,0,0,36023,Cortland New York,49336,162
+Coryell,Texas,,48099,12,0,1,0,48099,Coryell Texas,75388,25
+Coshocton,Ohio,,39031,10,0,0,0,39031,Coshocton Ohio,36901,56
+Costilla,Colorado,,8023,3,0,0,0,8023,Costilla Colorado,3524,0
+Cotton,Oklahoma,,40033,4,0,0,0,40033,Cotton Oklahoma,6193,0
+Cottonwood,Minnesota,,27033,5,0,0,0,27033,Cottonwood Minnesota,11687,26
+Covington,Alabama,,1039,9,0,4,0,1039,Covington Alabama,37765,187
+Covington,Mississippi,,28031,7,0,0,0,28031,Covington Mississippi,19568,35
+Covington,Virginia,,51580,1,0,0,0,51580,Covington Virginia,5961,0
+Coweta,Georgia,,13077,79,2,0,0,13077,Coweta Georgia,127317,211
+Cowley,Kansas,,20035,1,0,0,0,20035,Cowley Kansas,36311,62
+Cowlitz,Washington,,53015,21,0,0,0,53015,Cowlitz Washington,102410,202
+Craig,Oklahoma,,40035,5,0,1,0,40035,Craig Oklahoma,15029,51
+Craig,Virginia,,51045,2,0,0,0,51045,Craig Virginia,5190,0
+Craighead,Arkansas,,5031,23,0,1,0,5031,Craighead Arkansas,96443,619
+Crane,Texas,,48103,2,0,0,0,48103,Crane Texas,4375,25
+Craven,North Carolina,,37049,19,0,1,0,37049,Craven North Carolina,103505,350
+Crawford,Arkansas,,5033,1,0,0,0,5033,Crawford Arkansas,61948,103
+Crawford,Georgia,,13079,3,0,1,0,13079,Crawford Georgia,12630,0
+Crawford,Illinois,,17033,4,0,-1,0,17033,Crawford Illinois,19817,63
+Crawford,Indiana,,18025,11,0,2,0,18025,Crawford Indiana,10713,0
+Crawford,Iowa,,19047,6,0,1,0,19047,Crawford Iowa,17096,25
+Crawford,Kansas,,20037,4,1,-2,0,20037,Crawford Kansas,39134,146
+Crawford,Michigan,,26039,5,1,0,0,26039,Crawford Michigan,14074,71
+Crawford,Missouri,,29055,3,0,0,0,29055,Crawford Missouri,24696,35
+Crawford,Ohio,,39033,9,0,0,0,39033,Crawford Ohio,43784,75
+Crawford,Pennsylvania,,42039,8,0,0,0,42039,Crawford Pennsylvania,88765,289
+Crawford,Wisconsin,,55023,2,0,0,0,55023,Crawford Wisconsin,16644,25
+Creek,Oklahoma,,40037,47,2,0,0,40037,Creek Oklahoma,69967,95
+Crenshaw,Alabama,,1041,2,0,0,0,1041,Crenshaw Alabama,13906,93
+Crisp,Georgia,,13081,48,0,2,0,13081,Crisp Georgia,23439,73
+Crittenden,Arkansas,,5035,61,0,3,0,5035,Crittenden Arkansas,50902,54
+Crittenden,Kentucky,,21055,2,0,0,0,21055,Crittenden Kentucky,9315,48
+Crockett,Tennessee,,47033,0,0,0,0,47033,Crockett Tennessee,14586,0
+Crook,Oregon,,41013,1,0,0,0,41013,Crook Oregon,20978,0
+Crook,Wyoming,,56011,1,0,0,0,56011,Crook Wyoming,7083,16
+Crosby,Texas,,48107,1,0,0,0,48107,Crosby Texas,6059,25
+Cross,Arkansas,,5037,5,0,0,0,5037,Cross Arkansas,17870,25
+Crow Wing,Minnesota,,27035,10,0,1,0,27035,Crow Wing Minnesota,62500,212
+Crowley,Colorado,,8025,1,1,0,0,8025,Crowley Colorado,5823,0
+Cullman,Alabama,,1043,22,1,1,0,1043,Cullman Alabama,80406,185
+Culpeper,Virginia,,51047,10,0,1,0,51047,Culpeper Virginia,46689,70
+Cumberland,Illinois,,17035,1,0,0,0,17035,Cumberland Illinois,11048,0
+Cumberland,Kentucky,,21057,1,0,0,0,21057,Cumberland Kentucky,6856,25
+Cumberland,Maine,,23005,262,10,9,0,23005,Cumberland Maine,281674,1184
+Cumberland,New Jersey,,34011,80,2,9,0,34011,Cumberland New Jersey,156898,511
+Cumberland,North Carolina,,37051,66,1,4,0,37051,Cumberland North Carolina,319431,666
+Cumberland,Pennsylvania,,42041,84,2,7,0,42041,Cumberland Pennsylvania,235406,590
+Cumberland,Tennessee,,47035,33,0,1,0,47035,Cumberland Tennessee,56053,189
+Cumberland,Virginia,,51049,6,0,0,0,51049,Cumberland Virginia,10052,0
+Cuming,Nebraska,,31039,2,0,0,0,31039,Cuming Nebraska,9139,25
+Currituck,North Carolina,,37053,3,0,0,0,37053,Currituck North Carolina,23547,0
+Curry,New Mexico,,35009,8,0,0,0,35009,Curry New Mexico,48376,106
+Curry,Oregon,,41015,2,0,0,0,41015,Curry Oregon,22364,24
+Custer,Colorado,,8027,2,0,0,0,8027,Custer Colorado,4255,0
+Custer,Idaho,,16037,2,0,0,0,16037,Custer Idaho,4368,0
+Custer,Nebraska,,31041,3,0,2,0,31041,Custer Nebraska,10939,35
+Custer,Oklahoma,,40039,5,0,0,0,40039,Custer Oklahoma,27469,81
+Cuyahoga,Ohio,,39035,960,23,49,0,39035,Cuyahoga Ohio,1280122,8105
+Dade,Georgia,,13083,2,1,1,0,13083,Dade Georgia,16633,13
+Dakota,Minnesota,,27037,75,3,4,0,27037,Dakota Minnesota,398552,259
+Dale,Alabama,,1045,4,0,0,0,1045,Dale Alabama,50251,89
+Dallam,Texas,,48111,1,0,0,0,48111,Dallam Texas,6703,0
+Dallas,Alabama,,1047,7,0,0,0,1047,Dallas Alabama,43820,175
+Dallas,Arkansas,,5039,1,0,0,0,5039,Dallas Arkansas,8116,25
+Dallas,Iowa,,19049,35,0,0,0,19049,Dallas Iowa,66135,120
+Dallas,Missouri,,29059,1,0,0,0,29059,Dallas Missouri,16777,0
+Dallas,Texas,,48113,1324,20,63,0,48113,Dallas Texas,2368139,8721
+Dane,Wisconsin,,55025,303,11,14,0,55025,Dane Wisconsin,488073,2073
+Danville,Virginia,,51590,15,0,0,0,51590,Danville Virginia,43055,250
+Dare,North Carolina,,37055,10,0,4,0,37055,Dare North Carolina,33920,21
+Darke,Ohio,,39037,38,7,4,0,39037,Darke Ohio,52959,104
+Darlington,South Carolina,,45031,29,0,0,0,45031,Darlington South Carolina,68681,188
+Dauphin,Pennsylvania,,42043,168,2,13,0,42043,Dauphin Pennsylvania,268100,1189
+Davidson,North Carolina,,37057,73,1,3,0,37057,Davidson North Carolina,162878,243
+Davidson,Tennessee,,47037,946,13,58,0,47037,Davidson Tennessee,626681,4489
+Davie,North Carolina,,37059,20,2,0,0,37059,Davie North Carolina,41240,50
+Daviess,Indiana,,18027,5,1,1,0,18027,Daviess Indiana,31648,80
+Daviess,Kentucky,,21059,58,1,0,0,21059,Daviess Kentucky,96656,527
+Davis,Utah,,49011,163,2,5,0,49011,Davis Utah,306479,579
+Davison,South Dakota,,46035,3,0,0,0,46035,Davison South Dakota,19504,67
+Dawson,Georgia,,13085,22,1,2,0,13085,Dawson Georgia,22330,0
+Dawson,Nebraska,,31047,1,0,0,0,31047,Dawson Nebraska,24326,58
+Dawson,Texas,,48115,7,0,0,0,48115,Dawson Texas,13833,22
+De Soto,Louisiana,,22031,91,7,2,0,22031,De Soto Louisiana,26656,0
+De Witt,Illinois,,17039,2,0,-1,0,17039,De Witt Illinois,16561,25
+DeKalb,Alabama,,1049,14,0,0,0,1049,DeKalb Alabama,71109,134
+DeKalb,Georgia,,13089,706,11,61,0,13089,DeKalb Georgia,691893,2436
+DeKalb,Illinois,,17037,32,1,10,0,17037,DeKalb Illinois,105160,191
+DeKalb,Indiana,,18033,4,0,0,0,18033,DeKalb Indiana,42223,72
+DeKalb,Missouri,,29063,1,0,0,0,29063,DeKalb Missouri,12892,0
+DeKalb,Tennessee,,,7,0,0,0,1049,DeKalb Tennessee,71109,134
+DeSoto,Florida,,12027,18,3,2,0,12027,DeSoto Florida,34862,49
+DeSoto,Mississippi,,28033,144,1,4,0,28033,DeSoto Mississippi,161252,514
+DeWitt,Texas,,48123,7,0,0,0,48123,DeWitt Texas,20097,49
+Deaf Smith,Texas,,48117,7,0,0,0,48117,Deaf Smith Texas,19372,42
+Dearborn,Indiana,,18029,47,2,6,0,18029,Dearborn Indiana,50047,104
+Decatur,Georgia,,13087,30,0,13,0,13087,Decatur Georgia,27842,80
+Decatur,Indiana,,18031,99,6,9,0,18031,Decatur Indiana,25740,25
+Decatur,Tennessee,,47039,1,0,1,0,47039,Decatur Tennessee,11757,40
+Deer Lodge,Montana,,30023,3,0,0,0,30023,Deer Lodge Montana,9298,261
+Defiance,Ohio,,39039,10,0,1,0,39039,Defiance Ohio,39037,104
+Del Norte,California,,6015,2,0,0,0,6015,Del Norte California,28610,49
+Delaware,Indiana,,18035,46,1,6,0,18035,Delaware Indiana,117671,411
+Delaware,Iowa,,19055,1,0,0,0,19055,Delaware Iowa,17764,25
+Delaware,New York,,36025,37,1,1,0,36025,Delaware New York,47980,67
+Delaware,Ohio,,39041,79,1,2,0,39041,Delaware Ohio,174214,212
+Delaware,Oklahoma,,40041,13,0,0,0,40041,Delaware Oklahoma,41487,58
+Delaware,Pennsylvania,,42045,1034,23,136,0,42045,Delaware Pennsylvania,558979,1123
+Delta,Colorado,,8029,5,1,0,0,8029,Delta Colorado,30952,49
+Delta,Michigan,,26041,8,0,1,0,26041,Delta Michigan,37069,25
+Denton,Texas,,48121,366,7,0,0,48121,Denton Texas,662614,1516
+Denver,Colorado,,8031,927,33,43,0,8031,Denver Colorado,600158,2361
+Des Moines,Iowa,,19057,3,0,0,0,19057,Des Moines Iowa,40325,213
+Deschutes,Oregon,,41017,44,0,4,0,41017,Deschutes Oregon,157733,308
+Desha,Arkansas,,5041,5,0,0,0,5041,Desha Arkansas,13008,50
+Deuel,South Dakota,,46039,1,0,0,0,46039,Deuel South Dakota,4364,10
+Dewey,Oklahoma,,40043,1,0,0,0,40043,Dewey Oklahoma,4810,18
+Dickens,Texas,,48125,1,0,1,0,48125,Dickens Texas,2444,0
+Dickenson,Virginia,,51051,0,0,0,0,51051,Dickenson Virginia,15903,25
+Dickinson,Iowa,,19059,1,0,0,0,19059,Dickinson Iowa,16667,49
+Dickinson,Michigan,,26043,2,1,0,0,26043,Dickinson Michigan,26168,96
+Dickson,Tennessee,,47043,26,0,-1,0,47043,Dickson Tennessee,49666,157
+Dillon,South Carolina,,45033,1,0,0,0,45033,Dillon South Carolina,32062,79
+Dinwiddie,Virginia,,51053,2,0,1,0,51053,Dinwiddie Virginia,28001,0
+District of Columbia,District of Columbia,,11001,1440,27,229,0,11001,District of Columbia District of Columbia,601723,4304
+Divide,North Dakota,,38023,1,0,0,0,38023,Divide North Dakota,2071,15
+Dixie,Florida,,12029,2,0,1,0,12029,Dixie Florida,16422,0
+Dodge,Georgia,,13091,9,0,1,0,13091,Dodge Georgia,21796,94
+Dodge,Minnesota,,27039,13,0,2,0,27039,Dodge Minnesota,20087,0
+Dodge,Nebraska,,31053,7,0,0,0,31053,Dodge Nebraska,36691,81
+Dodge,Wisconsin,,55027,15,0,0,0,55027,Dodge Wisconsin,88759,245
+Dona Ana,New Mexico,,35013,35,0,0,0,35013,Dona Ana New Mexico,209233,603
+Doniphan,Kansas,,20043,1,0,0,0,20043,Doniphan Kansas,7945,0
+Donley,Texas,,48129,13,0,6,0,48129,Donley Texas,3677,0
+Dooly,Georgia,,13093,27,1,-1,0,13093,Dooly Georgia,14918,0
+Door,Wisconsin,,55029,7,0,0,0,55029,Door Wisconsin,27785,25
+Dorchester,Maryland,,24019,4,0,1,0,24019,Dorchester Maryland,32618,409
+Dorchester,South Carolina,,45035,51,0,0,0,45035,Dorchester South Carolina,136555,104
+Dougherty,Georgia,,13095,986,61,47,0,13095,Dougherty Georgia,94565,939
+Douglas,Colorado,,8035,244,8,12,0,8035,Douglas Colorado,285465,286
+Douglas,Georgia,,13097,122,5,11,0,13097,Douglas Georgia,132403,192
+Douglas,Illinois,,17041,10,0,0,0,17041,Douglas Illinois,19980,0
+Douglas,Kansas,,20045,38,0,0,0,20045,Douglas Kansas,110826,152
+Douglas,Minnesota,,27041,1,0,0,0,27041,Douglas Minnesota,36009,127
+Douglas,Nebraska,,31055,181,5,22,0,31055,Douglas Nebraska,517110,3068
+Douglas,Nevada,,32005,8,0,1,0,32005,Douglas Nevada,46997,23
+Douglas,Oregon,,41019,12,0,0,0,41019,Douglas Oregon,107667,141
+Douglas,Washington,,53017,10,0,0,0,53017,Douglas Washington,38431,0
+Douglas,Wisconsin,,55031,7,0,0,0,55031,Douglas Wisconsin,44159,25
+Drew,Arkansas,,5043,5,0,0,0,5043,Drew Arkansas,18509,49
+DuPage,Illinois,,17043,875,30,160,0,17043,DuPage Illinois,916924,1880
+Dubois,Indiana,,18037,9,0,2,0,18037,Dubois Indiana,41889,123
+Dubuque,Iowa,,19061,28,1,0,0,19061,Dubuque Iowa,93653,470
+Duchesne,Utah,,49013,2,0,1,0,49013,Duchesne Utah,18607,124
+Dukes and Nantucket,Massachusetts,,,17,1,10,0,25019,Dukes and Nantucket Massachusetts,10172,19
+Dunklin,Missouri,,29069,9,0,1,0,29069,Dunklin Missouri,31953,116
+Dunn,North Dakota,,38025,1,0,0,0,38025,Dunn North Dakota,3536,0
+Dunn,Wisconsin,,55033,5,0,0,0,55033,Dunn Wisconsin,43857,25
+Duplin,North Carolina,,37061,8,0,1,0,37061,Duplin North Carolina,58505,101
+Durham,North Carolina,,37063,236,1,17,0,37063,Durham North Carolina,267587,1360
+Dutchess,New York,,36027,1395,10,146,0,36027,Dutchess New York,297488,676
+Duval,Florida,,12031,549,10,28,0,12031,Duval Florida,864263,4071
+Dyer,Tennessee,,47045,11,0,1,0,47045,Dyer Tennessee,38335,225
+Eagle,Colorado,,8037,374,5,2,0,8037,Eagle Colorado,52197,58
+Early,Georgia,,13099,98,5,6,0,13099,Early Georgia,11008,25
+East Baton Rouge,Louisiana,,22033,935,33,43,0,22033,East Baton Rouge Louisiana,440171,2055
+East Carroll,Louisiana,,22035,1,0,0,0,22035,East Carroll Louisiana,7759,11
+East Feliciana,Louisiana,,22037,39,1,0,0,22037,East Feliciana Louisiana,20267,506
+Eastland,Texas,,48133,3,0,0,0,48133,Eastland Texas,18583,52
+Eaton,Michigan,,26045,67,3,6,0,26045,Eaton Michigan,107759,45
+Eau Claire,Wisconsin,,55035,21,0,0,0,55035,Eau Claire Wisconsin,98736,661
+Echols,Georgia,,13101,1,0,0,0,13101,Echols Georgia,4034,0
+Ector,Texas,,48135,30,1,0,0,48135,Ector Texas,137130,669
+Eddy,New Mexico,,35015,4,1,0,0,35015,Eddy New Mexico,53829,161
+Eddy,North Dakota,,38027,1,0,0,0,38027,Eddy North Dakota,2385,0
+Edgecombe,North Carolina,,37065,12,0,1,0,37065,Edgecombe North Carolina,56552,117
+Edgefield,South Carolina,,45037,6,0,0,0,45037,Edgefield South Carolina,26985,25
+Edmonson,Kentucky,,21061,5,0,0,0,21061,Edmonson Kentucky,12161,0
+Effingham,Georgia,,13103,18,1,1,0,13103,Effingham Georgia,52250,25
+Effingham,Illinois,,17049,2,0,1,0,17049,Effingham Illinois,34242,146
+El Dorado,California,,6017,28,0,6,0,6017,El Dorado California,181058,240
+El Paso,Colorado,,8041,472,30,15,0,8041,El Paso Colorado,622263,836
+El Paso,Texas,,48141,153,0,21,0,48141,El Paso Texas,800647,2813
+Elbert,Colorado,,8039,10,1,1,0,8039,Elbert Colorado,23086,0
+Elbert,Georgia,,13105,3,0,1,0,13105,Elbert Georgia,20166,52
+Elk,Pennsylvania,,42047,2,0,0,0,42047,Elk Pennsylvania,31946,80
+Elkhart,Indiana,,18039,46,3,3,0,18039,Elkhart Indiana,197559,406
+Elko,Nevada,,32007,8,1,0,0,32007,Elko Nevada,48818,50
+Ellis,Texas,,48139,41,2,6,0,48139,Ellis Texas,149610,164
+Elmore,Alabama,,1051,22,0,0,0,1051,Elmore Alabama,79303,138
+Elmore,Idaho,,16039,14,0,2,0,16039,Elmore Idaho,27038,25
+Emanuel,Georgia,,13107,5,0,2,0,13107,Emanuel Georgia,22598,72
+Emery,Utah,,49015,2,0,0,0,49015,Emery Utah,10976,0
+Emmet,Michigan,,26047,15,2,1,0,26047,Emmet Michigan,32694,178
+Emmons,North Dakota,,38029,1,1,0,0,38029,Emmons North Dakota,3550,14
+Emporia,Virginia,,51595,4,0,2,0,51595,Emporia Virginia,5927,80
+Erath,Texas,,48143,11,1,0,0,48143,Erath Texas,37890,98
+Erie,New York,,36029,1335,45,101,0,36029,Erie New York,919040,2788
+Erie,Ohio,,39043,10,1,0,0,39043,Erie Ohio,77079,424
+Erie,Pennsylvania,,42049,29,0,0,0,42049,Erie Pennsylvania,280566,1188
+Escambia,Alabama,,1053,3,0,0,0,1053,Escambia Alabama,38319,142
+Escambia,Florida,,12033,180,2,12,0,12033,Escambia Florida,297619,1276
+Essex,Massachusetts,,25009,2103,50,262,0,25009,Essex Massachusetts,743159,1443
+Essex,New Jersey,,34013,5598,276,520,0,34013,Essex New Jersey,783969,4007
+Essex,New York,,36031,9,0,0,0,36031,Essex New York,39370,40
+Essex,Virginia,,51057,0,0,0,0,51057,Essex Virginia,11151,67
+Etowah,Alabama,,1055,43,4,0,0,1055,Etowah Alabama,104430,739
+Evangeline,Louisiana,,22039,25,0,2,0,22039,Evangeline Louisiana,33984,250
+Fairbanks North Star,Alaska,,2090,71,1,6,0,2090,Fairbanks North Star Alaska,97581,217
+Fairfax,Virginia,,51059,570,9,38,0,51059,Fairfax Virginia,1081726,1662
+Fairfax City,Virginia,,51600,0,0,0,0,51600,Fairfax City Virginia,22565,0
+Fairfield,Connecticut,,9001,4136,132,0,0,9001,Fairfield Connecticut,916829,2066
+Fairfield,Ohio,,39045,65,0,6,0,39045,Fairfield Ohio,146156,255
+Fairfield,South Carolina,,45039,17,0,0,0,45039,Fairfield South Carolina,23956,25
+Fall River,South Dakota,,46047,1,0,0,0,46047,Fall River South Dakota,7094,25
+Falls,Texas,,48145,1,0,0,0,48145,Falls Texas,17866,36
+Falls Church,Virginia,,51610,0,0,0,0,51610,Falls Church Virginia,12332,0
+Fannin,Georgia,,13111,9,0,-1,0,13111,Fannin Georgia,23682,50
+Fannin,Texas,,48147,4,0,2,0,48147,Fannin Texas,33915,25
+Faribault,Minnesota,,27043,3,0,0,0,27043,Faribault Minnesota,14553,43
+Faulk,South Dakota,,46049,1,0,0,0,46049,Faulk South Dakota,2364,12
+Faulkner,Arkansas,,5045,55,1,3,0,5045,Faulkner Arkansas,113237,172
+Fauquier,Virginia,,51061,17,0,-1,0,51061,Fauquier Virginia,65203,97
+Fayette,Alabama,,1057,1,0,0,0,1057,Fayette Alabama,17241,61
+Fayette,Georgia,,13113,85,4,6,0,13113,Fayette Georgia,106567,157
+Fayette,Illinois,,17051,4,0,1,0,17051,Fayette Illinois,22140,110
+Fayette,Indiana,,18041,18,3,0,0,18041,Fayette Indiana,24277,99
+Fayette,Iowa,,19065,3,0,0,0,19065,Fayette Iowa,20880,50
+Fayette,Kentucky,,21067,123,8,0,0,21067,Fayette Kentucky,295803,2379
+Fayette,Ohio,,39047,4,0,2,0,39047,Fayette Ohio,29030,25
+Fayette,Pennsylvania,,42051,35,1,3,0,42051,Fayette Pennsylvania,136606,283
+Fayette,Tennessee,,47047,22,0,1,0,47047,Fayette Tennessee,38413,0
+Fayette,Texas,,48149,9,0,0,0,48149,Fayette Texas,24554,65
+Fayette,West Virginia,,54019,1,0,0,0,54019,Fayette West Virginia,46039,94
+Fentress,Tennessee,,47049,2,0,0,0,47049,Fentress Tennessee,17959,85
+Ferry,Washington,,53019,1,0,0,0,53019,Ferry Washington,7551,25
+Fillmore,Minnesota,,,10,0,3,0,27045,Fillmore Minnesota,20866,0
+Finney,Kansas,,20055,11,0,0,0,20055,Finney Kansas,36776,132
+Flagler,Florida,,12035,35,1,0,0,12035,Flagler Florida,95696,99
+Flathead,Montana,,30029,31,0,0,0,30029,Flathead Montana,90928,231
+Florence,South Carolina,,45041,45,5,0,0,45041,Florence South Carolina,136885,1025
+Florence,Wisconsin,,55037,2,0,0,0,55037,Florence Wisconsin,4423,0
+Floyd,Georgia,,13115,93,3,4,0,13115,Floyd Georgia,96317,559
+Floyd,Indiana,,18043,77,3,3,0,18043,Floyd Indiana,74578,297
+Floyd,Texas,,48153,1,0,0,0,48153,Floyd Texas,6446,25
+Floyd,Virginia,,51063,0,0,0,0,51063,Floyd Virginia,15279,0
+Fluvanna,Virginia,,51065,12,0,3,0,51065,Fluvanna Virginia,25691,0
+Fond du Lac,Wisconsin,,55039,44,2,0,0,55039,Fond du Lac Wisconsin,101633,189
+Ford,Illinois,,17053,3,1,2,0,17053,Ford Illinois,14081,67
+Ford,Kansas,,20057,2,0,1,0,20057,Ford Kansas,33848,99
+Forest,Pennsylvania,,42053,5,0,0,0,42053,Forest Pennsylvania,7716,0
+Forrest,Mississippi,,28035,59,1,0,0,28035,Forrest Mississippi,74934,545
+Forsyth,Georgia,,13117,99,2,5,0,13117,Forsyth Georgia,175511,187
+Forsyth,North Carolina,,37067,108,2,2,0,37067,Forsyth North Carolina,350670,1855
+Fort Bend,Texas,,48157,417,6,99,0,48157,Fort Bend Texas,585375,1105
+Foster,North Dakota,,38031,1,0,0,0,38031,Foster North Dakota,3343,25
+Fountain,Indiana,,18045,2,1,0,0,18045,Fountain Indiana,17240,0
+Franklin,Alabama,,1059,7,0,0,0,1059,Franklin Alabama,31704,125
+Franklin,Arkansas,,5047,1,0,0,0,5047,Franklin Arkansas,18125,0
+Franklin,Florida,,12037,2,0,0,0,12037,Franklin Florida,11549,25
+Franklin,Georgia,,13119,3,0,0,0,13119,Franklin Georgia,22084,56
+Franklin,Illinois,,17055,2,0,0,0,17055,Franklin Illinois,39561,25
+Franklin,Indiana,,18047,61,7,1,0,18047,Franklin Indiana,23087,0
+Franklin,Iowa,,19069,1,0,0,0,19069,Franklin Iowa,10680,25
+Franklin,Kansas,,20059,10,0,0,0,20059,Franklin Kansas,25992,44
+Franklin,Kentucky,,21073,7,0,0,0,21073,Franklin Kentucky,49285,173
+Franklin,Louisiana,,22041,30,0,2,0,22041,Franklin Louisiana,20767,43
+Franklin,Maine,,23007,5,0,0,0,23007,Franklin Maine,30768,65
+Franklin,Massachusetts,,25011,117,21,-1,0,25011,Franklin Massachusetts,71372,89
+Franklin,Mississippi,,28037,5,0,0,0,28037,Franklin Mississippi,8118,25
+Franklin,Missouri,,29071,35,3,0,0,29071,Franklin Missouri,101492,148
+Franklin,New York,,36033,10,0,0,0,36033,Franklin New York,51599,173
+Franklin,North Carolina,,37069,23,1,6,0,37069,Franklin North Carolina,60619,0
+Franklin,Ohio,,39049,761,12,58,0,39049,Franklin Ohio,1163414,6376
+Franklin,Pennsylvania,,42055,43,0,4,0,42055,Franklin Pennsylvania,149618,416
+Franklin,Tennessee,,47051,17,1,3,0,47051,Franklin Tennessee,41052,174
+Franklin,Texas,,48159,1,0,0,0,48159,Franklin Texas,10605,0
+Franklin,Vermont,,50011,33,0,0,0,50011,Franklin Vermont,47746,70
+Franklin,Virginia,,51067,12,0,1,0,51067,Franklin Virginia,56159,37
+Franklin,Washington,,53021,75,2,5,0,53021,Franklin Washington,78163,106
+Franklin City,Virginia,,51620,5,0,1,0,51620,Franklin City Virginia,8582,90
+Frederick,Maryland,,24021,199,4,48,0,24021,Frederick Maryland,233385,308
+Frederick,Virginia,,51069,46,0,3,0,51069,Frederick Virginia,78305,0
+Fredericksburg,Virginia,,51630,8,0,0,0,51630,Fredericksburg Virginia,24286,472
+Freeborn,Minnesota,,27047,17,0,3,0,27047,Freeborn Minnesota,31255,159
+Fremont,Colorado,,8043,4,0,0,0,8043,Fremont Colorado,46824,25
+Fremont,Idaho,,16043,2,0,0,0,16043,Fremont Idaho,13242,0
+Fremont,Wyoming,,56013,38,0,0,0,56013,Fremont Wyoming,40123,248
+Fresno,California,,6019,146,3,22,0,6019,Fresno California,930450,3551
+Frio,Texas,,48163,1,0,1,0,48163,Frio Texas,17217,22
+Fulton,Georgia,,13121,1240,41,116,0,13121,Fulton Georgia,920581,4353
+Fulton,Indiana,,18049,3,0,0,0,18049,Fulton Indiana,20836,25
+Fulton,New York,,36035,14,0,1,0,36035,Fulton New York,55531,74
+Fulton,Ohio,,39051,5,0,0,0,39051,Fulton Ohio,42698,117
+Fulton,Pennsylvania,,42057,1,0,0,0,42057,Fulton Pennsylvania,14845,21
+Gadsden,Florida,,12039,8,0,2,0,12039,Gadsden Florida,46389,1253
+Gage,Nebraska,,31067,23,1,0,0,31067,Gage Nebraska,22311,25
+Gaines,Texas,,48165,1,0,0,0,48165,Gaines Texas,17526,25
+Galax,Virginia,,51640,1,0,0,0,51640,Galax Virginia,7042,141
+Gallatin,Illinois,,17059,1,0,0,0,17059,Gallatin Illinois,5589,0
+Gallatin,Montana,,30031,120,0,2,0,30031,Gallatin Montana,89513,90
+Gallia,Ohio,,39053,4,1,0,0,39053,Gallia Ohio,30934,287
+Galveston,Texas,,48167,272,5,16,0,48167,Galveston Texas,291309,711
+Garfield,Colorado,,8045,49,1,1,0,8045,Garfield Colorado,56389,119
+Garfield,Oklahoma,,40047,5,0,0,0,40047,Garfield Oklahoma,60580,436
+Garfield,Utah,,49017,1,0,0,0,49017,Garfield Utah,5172,41
+Garland,Arkansas,,5051,51,0,5,0,5051,Garland Arkansas,96024,611
+Garrett,Maryland,,24023,5,0,2,0,24023,Garrett Maryland,30097,55
+Garvin,Oklahoma,,40049,11,0,-1,0,40049,Garvin Oklahoma,27576,90
+Gasconade,Missouri,,29073,2,0,0,0,29073,Gasconade Missouri,15222,24
+Gaston,North Carolina,,37071,62,3,4,0,37071,Gaston North Carolina,206086,475
+Gates,North Carolina,,37073,3,0,1,0,37073,Gates North Carolina,12197,0
+Geary,Kansas,,20061,4,0,0,0,20061,Geary Kansas,34362,92
+Geauga,Ohio,,39055,44,1,3,0,39055,Geauga Ohio,93389,281
+Gem,Idaho,,16045,8,0,0,0,16045,Gem Idaho,16719,16
+Genesee,Michigan,,26049,713,39,75,0,26049,Genesee Michigan,425790,1169
+Genesee,New York,,36037,47,1,14,0,36037,Genesee New York,60079,131
+Geneva,Alabama,,1061,1,0,1,0,1061,Geneva Alabama,26790,83
+Gentry,Missouri,,29075,1,0,0,0,29075,Gentry Missouri,6738,35
+George,Mississippi,,28039,5,0,0,0,28039,George Mississippi,22578,48
+Georgetown,South Carolina,,45043,22,1,0,0,45043,Georgetown South Carolina,60158,298
+Gibson,Indiana,,18051,4,0,0,0,18051,Gibson Indiana,33503,25
+Gibson,Tennessee,,47053,13,0,0,0,47053,Gibson Tennessee,49683,70
+Gila,Arizona,,4007,3,0,0,0,4007,Gila Arizona,53597,69
+Gilchrist,Florida,,12041,1,0,0,0,12041,Gilchrist Florida,16939,0
+Giles,Tennessee,,47055,3,0,0,0,47055,Giles Tennessee,29485,95
+Giles,Virginia,,51071,2,0,0,0,51071,Giles Virginia,17286,25
+Gillespie,Texas,,48171,1,0,0,0,48171,Gillespie Texas,24837,86
+Gilmer,Georgia,,13123,4,0,1,0,13123,Gilmer Georgia,28292,0
+Glacier,Montana,,30035,2,0,1,0,30035,Glacier Montana,13399,13
+Glades,Florida,,12043,4,1,0,0,12043,Glades Florida,12884,0
+Gladwin,Michigan,,26051,4,0,0,0,26051,Gladwin Michigan,25692,25
+Glenn,California,,6021,2,0,0,0,6021,Glenn California,28122,47
+Gloucester,New Jersey,,34015,340,7,29,0,34015,Gloucester New Jersey,288288,609
+Gloucester,Virginia,,51073,16,0,1,0,51073,Gloucester Virginia,36858,67
+Glynn,Georgia,,13127,30,0,1,0,13127,Glynn Georgia,79626,401
+Gogebic,Michigan,,26053,3,1,0,0,26053,Gogebic Michigan,16427,25
+Goliad,Texas,,48175,3,0,0,0,48175,Goliad Texas,7210,0
+Gonzales,Texas,,48177,1,0,0,0,48177,Gonzales Texas,19807,34
+Goochland,Virginia,,51075,24,0,2,0,51075,Goochland Virginia,21717,0
+Goodhue,Minnesota,,27049,13,0,1,0,27049,Goodhue Minnesota,46183,83
+Gooding,Idaho,,16047,3,0,0,0,16047,Gooding Idaho,15464,18
+Gordon,Georgia,,13129,26,3,1,0,13129,Gordon Georgia,55186,80
+Goshen,Wyoming,,56015,3,0,0,0,56015,Goshen Wyoming,13249,25
+Gosper,Nebraska,,31073,1,0,0,0,31073,Gosper Nebraska,2044,0
+Gove,Kansas,,20063,1,0,0,0,20063,Gove Kansas,2695,70
+Grady,Georgia,,13131,6,0,1,0,13131,Grady Georgia,25011,60
+Grady,Oklahoma,,40051,9,0,0,0,40051,Grady Oklahoma,52431,99
+Grafton,New Hampshire,,33009,41,0,0,0,33009,Grafton New Hampshire,89118,496
+Graham,Arizona,,4009,2,0,0,0,4009,Graham Arizona,37220,49
+Grainger,Tennessee,,47057,3,0,0,0,47057,Grainger Tennessee,22657,0
+Grand,Colorado,,8049,4,0,0,0,8049,Grand Colorado,14843,44
+Grand,Utah,,49019,1,0,0,0,49019,Grand Utah,9225,19
+Grand Forks,North Dakota,,38035,11,0,0,0,38035,Grand Forks North Dakota,66861,641
+Grand Isle,Vermont,,50013,1,0,0,0,50013,Grand Isle Vermont,6970,0
+Grand Traverse,Michigan,,26055,15,3,0,0,26055,Grand Traverse Michigan,86986,377
+Grant,Arkansas,,5053,5,0,2,0,5053,Grant Arkansas,17853,0
+Grant,Indiana,,18053,22,2,2,0,18053,Grant Indiana,70061,113
+Grant,Kentucky,,21081,2,1,0,0,21081,Grant Kentucky,24662,25
+Grant,Louisiana,,22043,10,0,0,0,22043,Grant Louisiana,22309,0
+Grant,New Mexico,,35017,4,0,0,0,35017,Grant New Mexico,29514,71
+Grant,North Dakota,,38037,1,0,0,0,38037,Grant North Dakota,2394,30
+Grant,Oklahoma,,40053,1,0,0,0,40053,Grant Oklahoma,4527,0
+Grant,Oregon,,41023,1,0,0,0,41023,Grant Oregon,7445,25
+Grant,Washington,,53025,94,2,6,0,53025,Grant Washington,89120,186
+Grant,Wisconsin,,55043,3,0,0,0,55043,Grant Wisconsin,51208,85
+Granville,North Carolina,,37077,83,0,7,0,37077,Granville North Carolina,59916,142
+Gratiot,Michigan,,26057,5,0,-1,0,26057,Gratiot Michigan,42476,67
+Graves,Kentucky,,21083,2,0,0,0,21083,Graves Kentucky,37121,107
+Gray,Texas,,48179,11,0,2,0,48179,Gray Texas,22535,115
+Grays Harbor,Washington,,53027,7,0,1,0,53027,Grays Harbor Washington,72797,130
+Grayson,Kentucky,,21085,2,0,0,0,21085,Grayson Kentucky,25746,75
+Grayson,Texas,,48181,15,0,1,0,48181,Grayson Texas,120877,602
+Grayson,Virginia,,51077,0,0,0,0,51077,Grayson Virginia,15533,0
+Green,Wisconsin,,55045,9,0,0,0,55045,Green Wisconsin,36842,95
+Greenbrier,West Virginia,,54025,3,0,0,0,54025,Greenbrier West Virginia,35480,122
+Greene,Alabama,,1063,10,0,0,0,1063,Greene Alabama,9045,20
+Greene,Arkansas,,5055,6,0,5,0,5055,Greene Arkansas,42090,129
+Greene,Georgia,,13133,22,1,1,0,13133,Greene Georgia,15994,49
+Greene,Indiana,,18055,12,0,1,0,18055,Greene Indiana,33165,25
+Greene,Iowa,,19073,1,0,1,0,19073,Greene Iowa,9336,25
+Greene,Mississippi,,28041,1,0,0,0,28041,Greene Mississippi,14400,7
+Greene,Missouri,,29077,72,7,0,0,29077,Greene Missouri,275174,1402
+Greene,New York,,36039,25,0,1,0,36039,Greene New York,49221,0
+Greene,North Carolina,,37079,10,0,0,0,37079,Greene North Carolina,21362,0
+Greene,Ohio,,39057,21,1,1,0,39057,Greene Ohio,161573,176
+Greene,Pennsylvania,,42059,17,0,2,0,42059,Greene Pennsylvania,38686,77
+Greene,Tennessee,,47059,20,1,2,0,47059,Greene Tennessee,68831,240
+Greene,Virginia,,51079,4,0,0,0,51079,Greene Virginia,18403,0
+Greenlee,Arizona,,4011,1,0,0,0,4011,Greenlee Arizona,8437,0
+Greensville,Virginia,,51081,5,0,0,0,51081,Greensville Virginia,12243,0
+Greenup,Kentucky,,21089,2,0,0,0,21089,Greenup Kentucky,36910,190
+Greenville,South Carolina,,45045,214,3,0,0,45045,Greenville South Carolina,451225,1681
+Greenwood,Kansas,,20073,1,0,0,0,20073,Greenwood Kansas,6689,25
+Greenwood,South Carolina,,45047,12,0,0,0,45047,Greenwood South Carolina,69661,400
+Greer,Oklahoma,,40055,32,4,1,0,40055,Greer Oklahoma,6239,25
+Gregg,Texas,,48183,32,0,9,0,48183,Gregg Texas,121730,846
+Grenada,Mississippi,,28043,8,0,0,0,28043,Grenada Mississippi,21906,156
+Grimes,Texas,,48185,6,0,2,0,48185,Grimes Texas,26604,25
+Grundy,Illinois,,17063,12,0,3,0,17063,Grundy Illinois,50063,89
+Grundy,Iowa,,19075,1,0,0,0,19075,Grundy Iowa,12453,80
+Grundy,Tennessee,,47061,16,0,0,0,47061,Grundy Tennessee,13703,0
+Guadalupe,Texas,,48187,45,0,6,0,48187,Guadalupe Texas,131533,133
+Guernsey,Ohio,,39059,2,0,1,0,39059,Guernsey Ohio,40087,255
+Guilford,North Carolina,,37081,122,8,3,0,37081,Guilford North Carolina,488406,1833
+Gulf,Florida,,12045,1,0,0,0,12045,Gulf Florida,15863,19
+Gunnison,Colorado,,8051,98,1,3,0,8051,Gunnison Colorado,15324,24
+Guthrie,Iowa,,19077,1,0,0,0,19077,Guthrie Iowa,10954,25
+Gwinnett,Georgia,,13135,565,15,40,0,13135,Gwinnett Georgia,805321,847
+Habersham,Georgia,,13137,8,0,2,0,13137,Habersham Georgia,43041,53
+Hale,Alabama,,1065,7,0,0,0,1065,Hale Alabama,15760,39
+Hale,Texas,,48189,7,0,0,0,48189,Hale Texas,36273,88
+Halifax,North Carolina,,37083,14,0,1,0,37083,Halifax North Carolina,54691,306
+Halifax,Virginia,,51083,2,0,0,0,51083,Halifax Virginia,36241,192
+Hall,Georgia,,13139,228,0,32,0,13139,Hall Georgia,179684,557
+Hall,Nebraska,,31079,69,2,11,0,31079,Hall Nebraska,58607,159
+Hamblen,Tennessee,,47063,4,0,0,0,47063,Hamblen Tennessee,62544,278
+Hamilton,Florida,,12047,1,0,0,0,12047,Hamilton Florida,14799,0
+Hamilton,Indiana,,18057,392,15,29,0,18057,Hamilton Indiana,274569,577
+Hamilton,Iowa,,19079,2,0,0,0,19079,Hamilton Iowa,15673,25
+Hamilton,Nebraska,,31081,7,0,0,0,31081,Hamilton Nebraska,9124,14
+Hamilton,New York,,36041,2,0,0,0,36041,Hamilton New York,4836,0
+Hamilton,Ohio,,39061,437,13,26,0,39061,Hamilton Ohio,802374,4961
+Hamilton,Tennessee,,47065,95,9,0,0,47065,Hamilton Tennessee,336463,1825
+Hamilton,Texas,,48193,2,0,1,0,48193,Hamilton Texas,8517,42
+Hamlin,South Dakota,,46057,1,0,0,0,46057,Hamlin South Dakota,5903,0
+Hampden,Massachusetts,,25013,1081,62,84,0,25013,Hampden Massachusetts,463490,1773
+Hampshire,Massachusetts,,25015,164,3,6,0,25015,Hampshire Massachusetts,158080,165
+Hampshire,West Virginia,,54027,1,0,1,0,54027,Hampshire West Virginia,23964,44
+Hampton,South Carolina,,45049,4,0,0,0,45049,Hampton South Carolina,21090,32
+Hampton,Virginia,,51650,53,1,10,0,51650,Hampton Virginia,137436,685
+Hancock,Georgia,,13141,1,0,0,0,13141,Hancock Georgia,9429,0
+Hancock,Illinois,,17067,1,0,1,0,17067,Hancock Illinois,19104,18
+Hancock,Indiana,,18059,99,2,10,0,18059,Hancock Indiana,70002,68
+Hancock,Iowa,,19081,3,0,0,0,19081,Hancock Iowa,11341,25
+Hancock,Kentucky,,21091,1,0,0,0,21091,Hancock Kentucky,8565,0
+Hancock,Maine,,23009,3,0,1,0,23009,Hancock Maine,54418,114
+Hancock,Mississippi,,28045,32,2,1,0,28045,Hancock Mississippi,43929,102
+Hancock,Ohio,,39063,17,0,2,0,39063,Hancock Ohio,74782,201
+Hancock,Tennessee,,47067,0,0,0,0,47067,Hancock Tennessee,6819,10
+Hancock,West Virginia,,54029,7,0,0,0,54029,Hancock West Virginia,30676,0
+Hanover,Virginia,,51085,22,0,3,0,51085,Hanover Virginia,99863,265
+Hansford,Texas,,48195,1,0,0,0,48195,Hansford Texas,5613,25
+Haralson,Georgia,,13143,17,0,2,0,13143,Haralson Georgia,28780,25
+Hardee,Florida,,12049,2,0,0,0,12049,Hardee Florida,27731,25
+Hardeman,Tennessee,,47069,6,0,0,0,47069,Hardeman Tennessee,27253,51
+Hardin,Iowa,,19083,1,0,0,0,19083,Hardin Iowa,17534,35
+Hardin,Kentucky,,21093,9,0,0,0,21093,Hardin Kentucky,105543,465
+Hardin,Ohio,,39065,2,0,0,0,39065,Hardin Ohio,32058,25
+Hardin,Tennessee,,47071,2,0,0,0,47071,Hardin Tennessee,26026,58
+Hardin,Texas,,48199,41,1,13,0,48199,Hardin Texas,54635,0
+Hardy,West Virginia,,54031,2,0,0,0,54031,Hardy West Virginia,14025,0
+Harford,Maryland,,24025,86,0,27,0,24025,Harford Maryland,244826,255
+Harnett,North Carolina,,37085,34,2,2,0,37085,Harnett North Carolina,114678,167
+Harris,Georgia,,13145,15,0,3,0,13145,Harris Georgia,32024,0
+Harris,Texas,,48201,2341,31,195,0,48201,Harris Texas,4092459,15865
+Harrison,Indiana,,18061,48,1,0,0,18061,Harrison Indiana,39364,25
+Harrison,Iowa,,19085,11,0,1,0,19085,Harrison Iowa,14928,25
+Harrison,Kentucky,,21097,12,0,0,0,21097,Harrison Kentucky,18846,61
+Harrison,Mississippi,,28047,88,3,-1,0,28047,Harrison Mississippi,187105,867
+Harrison,Missouri,,29081,4,0,0,0,29081,Harrison Missouri,8957,19
+Harrison,Texas,,48203,11,1,0,0,48203,Harrison Texas,65631,149
+Harrison,West Virginia,,54033,29,1,4,0,54033,Harrison West Virginia,69099,292
+Harrisonburg,Virginia,,51660,36,0,9,0,51660,Harrisonburg Virginia,48914,0
+Hart,Georgia,,13147,3,0,0,0,13147,Hart Georgia,25213,0
+Hartford,Connecticut,,9003,1045,48,0,0,9003,Hartford Connecticut,894014,2980
+Harvey,Kansas,,20079,4,0,0,0,20079,Harvey Kansas,34684,141
+Hawaii,Hawaii,,15001,23,0,0,0,15001,Hawaii Hawaii,185079,504
+Hawkins,Tennessee,,47073,18,1,2,0,47073,Hawkins Tennessee,56833,50
+Hays,Texas,,48209,75,0,14,0,48209,Hays Texas,157107,354
+Haywood,North Carolina,,37087,3,0,0,0,37087,Haywood North Carolina,59036,190
+Haywood,Tennessee,,47075,7,0,1,0,47075,Haywood Tennessee,18787,0
+Heard,Georgia,,13149,3,1,0,0,13149,Heard Georgia,11834,0
+Hemphill,Texas,,48211,1,0,0,0,48211,Hemphill Texas,3807,26
+Hempstead,Arkansas,,5057,1,0,0,0,5057,Hempstead Arkansas,22609,79
+Henderson,Kentucky,,21101,6,0,0,0,21101,Henderson Kentucky,46250,192
+Henderson,North Carolina,,37089,51,3,0,0,37089,Henderson North Carolina,106740,325
+Henderson,Tennessee,,47077,2,0,0,0,47077,Henderson Tennessee,27769,45
+Henderson,Texas,,48213,4,0,-2,0,48213,Henderson Texas,78532,117
+Hendricks,Indiana,,18063,243,6,18,0,18063,Hendricks Indiana,145448,287
+Hendry,Florida,,12051,10,0,1,0,12051,Hendry Florida,39140,25
+Hennepin,Minnesota,,27053,344,18,34,0,27053,Hennepin Minnesota,1152425,4668
+Henrico,Virginia,,51087,291,2,24,0,51087,Henrico Virginia,306935,1031
+Henry,Alabama,,1067,5,0,1,0,1067,Henry Alabama,17302,0
+Henry,Georgia,,13151,215,3,21,0,13151,Henry Georgia,203922,265
+Henry,Illinois,,17073,16,0,6,0,17073,Henry Illinois,50486,86
+Henry,Indiana,,18065,19,0,3,0,18065,Henry Indiana,49462,90
+Henry,Iowa,,19087,15,1,2,0,19087,Henry Iowa,20145,152
+Henry,Kentucky,,21103,2,0,0,0,21103,Henry Kentucky,15416,0
+Henry,Missouri,,29083,2,1,0,0,29083,Henry Missouri,22272,97
+Henry,Ohio,,39069,1,0,1,0,39069,Henry Ohio,28215,31
+Henry,Tennessee,,47079,6,0,0,0,47079,Henry Tennessee,32330,142
+Henry,Virginia,,51089,4,0,0,0,51089,Henry Virginia,54151,0
+Herkimer,New York,,36043,29,3,2,0,36043,Herkimer New York,64519,25
+Hernando,Florida,,12053,56,1,5,0,12053,Hernando Florida,172778,620
+Hertford,North Carolina,,37091,5,1,0,0,37091,Hertford North Carolina,24669,114
+Hickman,Tennessee,,47081,2,0,0,0,47081,Hickman Tennessee,24690,25
+Hidalgo,Texas,,48215,128,1,15,0,48215,Hidalgo Texas,774769,2292
+Highland,Ohio,,39071,6,0,0,0,39071,Highland Ohio,43589,70
+Highland,Virginia,,51091,0,0,0,0,51091,Highland Virginia,2321,0
+Highlands,Florida,,12055,41,3,4,0,12055,Highlands Florida,98786,323
+Hill,Montana,,30041,1,0,0,0,30041,Hill Montana,16096,49
+Hill,Texas,,48217,6,0,1,0,48217,Hill Texas,35089,116
+Hillsborough,Florida,,12057,626,7,18,0,12057,Hillsborough Florida,1229226,4857
+Hillsborough,New Hampshire,,33011,288,2,16,0,33011,Hillsborough New Hampshire,400721,1144
+Hillsdale,Michigan,,26059,62,4,7,0,26059,Hillsdale Michigan,46688,65
+Hinds,Mississippi,,28049,178,1,9,0,28049,Hinds Mississippi,245285,2427
+Hinsdale,Colorado,,8053,1,0,0,0,8053,Hinsdale Colorado,843,0
+Hockley,Texas,,48219,10,1,0,0,48219,Hockley Texas,22935,48
+Hoke,North Carolina,,37093,13,0,1,0,37093,Hoke North Carolina,46952,49
+Holmes,Florida,,12059,3,0,1,0,12059,Holmes Florida,19927,20
+Holmes,Mississippi,,28051,27,3,2,0,28051,Holmes Mississippi,19198,25
+Holmes,Ohio,,39075,3,0,1,0,39075,Holmes Ohio,42366,69
+Honolulu,Hawaii,,15003,312,4,0,0,15003,Honolulu Hawaii,953207,2219
+Hood,Texas,,48221,10,1,0,0,48221,Hood Texas,51182,83
+Hood River,Oregon,,41027,2,0,0,0,41027,Hood River Oregon,22346,25
+Hopewell,Virginia,,51670,13,0,0,0,51670,Hopewell Virginia,22591,147
+Hopkins,Kentucky,,21107,36,4,0,0,21107,Hopkins Kentucky,46920,390
+Hopkins,Texas,,48223,4,0,0,0,48223,Hopkins Texas,35161,96
+Horry,South Carolina,,45051,91,6,0,0,45051,Horry South Carolina,269291,753
+Hot Spring,Arkansas,,5059,7,0,0,0,5059,Hot Spring Arkansas,32923,100
+Houghton,Michigan,,26061,1,0,0,0,26061,Houghton Michigan,36628,61
+Houston,Alabama,,1069,25,1,0,0,1069,Houston Alabama,101547,782
+Houston,Georgia,,13153,92,7,13,0,13153,Houston Georgia,139900,276
+Houston,Minnesota,,27055,1,0,0,0,27055,Houston Minnesota,19027,0
+Houston,Tennessee,,47083,2,0,0,0,47083,Houston Tennessee,8426,25
+Howard,Arkansas,,5061,5,0,0,0,5061,Howard Arkansas,13789,0
+Howard,Indiana,,18067,44,4,7,0,18067,Howard Indiana,82752,254
+Howard,Iowa,,19089,1,0,0,0,19089,Howard Iowa,9566,19
+Howard,Maryland,,24027,274,3,38,0,24027,Howard Maryland,287085,581
+Howard,Missouri,,29089,1,0,0,0,29089,Howard Missouri,10144,0
+Howell,Missouri,,29091,4,0,0,0,29091,Howell Missouri,40400,139
+Hudson,New Jersey,,34017,5437,122,488,0,34017,Hudson New Jersey,634266,1878
+Huerfano,Colorado,,8055,1,0,0,0,8055,Huerfano Colorado,6711,20
+Hughes,South Dakota,,46065,3,0,0,0,46065,Hughes South Dakota,17022,50
+Humboldt,California,,6023,50,0,1,0,6023,Humboldt California,134623,299
+Humboldt,Nevada,,32013,14,0,3,0,32013,Humboldt Nevada,16528,52
+Humphreys,Mississippi,,28053,6,1,1,0,28053,Humphreys Mississippi,9375,0
+Humphreys,Tennessee,,47085,4,0,0,0,47085,Humphreys Tennessee,18538,25
+Hunt,Texas,,48231,14,0,13,0,48231,Hunt Texas,86129,246
+Hunterdon,New Jersey,,34019,255,2,21,0,34019,Hunterdon New Jersey,128349,184
+Huntingdon,Pennsylvania,,42061,6,0,1,0,42061,Huntingdon Pennsylvania,45913,100
+Huntington,Indiana,,18069,6,1,0,0,18069,Huntington Indiana,37124,36
+Huron,Michigan,,26063,4,0,0,0,26063,Huron Michigan,33118,88
+Huron,Ohio,,39077,9,1,-1,0,39077,Huron Ohio,59626,139
+Hutchinson,South Dakota,,46067,2,0,0,0,46067,Hutchinson South Dakota,7343,50
+Hutchinson,Texas,,48233,2,0,0,0,48233,Hutchinson Texas,22150,25
+Iberia,Louisiana,,22045,97,4,8,0,22045,Iberia Louisiana,73240,211
+Iberville,Louisiana,,22047,171,9,11,0,22047,Iberville Louisiana,33387,0
+Idaho,Idaho,,16049,3,0,0,0,16049,Idaho Idaho,16267,41
+Imperial,California,,6025,73,3,5,0,6025,Imperial California,174528,268
+Independence,Arkansas,,5063,5,0,0,0,5063,Independence Arkansas,36647,199
+Indian River,Florida,,12061,63,0,1,0,12061,Indian River Florida,138028,612
+Indiana,Pennsylvania,,42063,21,0,0,0,42063,Indiana Pennsylvania,88880,164
+Ingham,Michigan,,26065,205,2,16,0,26065,Ingham Michigan,280895,1093
+Inyo,California,,6027,11,0,0,0,6027,Inyo California,18546,62
+Ionia,Michigan,,26067,11,1,2,0,26067,Ionia Michigan,63905,22
+Iosco,Michigan,,26069,4,1,0,0,26069,Iosco Michigan,25887,49
+Iowa,Iowa,,19095,6,0,0,0,19095,Iowa Iowa,16355,25
+Iowa,Wisconsin,,55049,4,0,0,0,55049,Iowa Wisconsin,23687,25
+Iredell,North Carolina,,37097,57,1,3,0,37097,Iredell North Carolina,159437,501
+Iron,Utah,,49021,13,0,0,0,49021,Iron Utah,46163,48
+Iron,Wisconsin,,55051,1,1,0,0,55051,Iron Wisconsin,5916,0
+Iroquois,Illinois,,17075,7,0,1,0,17075,Iroquois Illinois,29718,84
+Irwin,Georgia,,13155,9,0,0,0,13155,Irwin Georgia,9538,34
+Isabella,Michigan,,26073,22,2,0,0,26073,Isabella Michigan,70311,118
+Isanti,Minnesota,,27059,4,0,0,0,27059,Isanti Minnesota,37816,86
+Island,Washington,,53029,145,6,3,0,53029,Island Washington,78506,76
+Isle of Wight,Virginia,,51093,23,0,0,0,51093,Isle of Wight Virginia,35270,0
+Itasca,Minnesota,,27061,2,0,0,0,27061,Itasca Minnesota,45058,106
+Itawamba,Mississippi,,28057,5,0,0,0,28057,Itawamba Mississippi,23401,0
+Izard,Arkansas,,5065,1,0,0,0,5065,Izard Arkansas,13696,25
+Jackson,Alabama,,1071,19,1,1,0,1071,Jackson Alabama,53227,170
+Jackson,Florida,,12063,4,0,0,0,12063,Jackson Florida,49746,87
+Jackson,Georgia,,13157,23,0,2,0,13157,Jackson Georgia,60485,257
+Jackson,Illinois,,17077,22,1,8,0,17077,Jackson Illinois,60218,184
+Jackson,Indiana,,18071,46,0,6,0,18071,Jackson Indiana,42376,93
+Jackson,Iowa,,19097,4,0,0,0,19097,Jackson Iowa,19848,25
+Jackson,Kansas,,20085,1,0,0,0,20085,Jackson Kansas,13462,12
+Jackson,Louisiana,,22049,5,0,0,0,22049,Jackson Louisiana,16274,25
+Jackson,Michigan,,26075,126,4,12,0,26075,Jackson Michigan,160248,389
+Jackson,Minnesota,,27063,1,0,0,0,27063,Jackson Minnesota,10266,20
+Jackson,Mississippi,,28059,111,5,3,0,28059,Jackson Mississippi,139668,571
+Jackson,Missouri,3,29095,396,11,461,0,29095,Jackson Missouri,674158,3934
+Jackson,North Carolina,,37099,2,0,0,0,37099,Jackson North Carolina,40271,86
+Jackson,Ohio,,39079,2,0,2,0,39079,Jackson Ohio,33225,24
+Jackson,Oklahoma,,40065,6,0,0,0,40065,Jackson Oklahoma,26446,49
+Jackson,Oregon,,41029,39,0,0,0,41029,Jackson Oregon,203206,545
+Jackson,Tennessee,,47087,4,0,1,0,47087,Jackson Tennessee,11638,0
+Jackson,Texas,,48239,4,0,0,0,48239,Jackson Texas,14075,25
+Jackson,West Virginia,,54035,19,1,0,0,54035,Jackson West Virginia,29211,46
+Jackson,Wisconsin,,55053,4,0,0,0,55053,Jackson Wisconsin,20449,25
+James City,Virginia,,51095,122,2,3,0,51095,James City Virginia,67009,357
+Jasper,Georgia,,13159,5,0,-1,0,13159,Jasper Georgia,13900,17
+Jasper,Illinois,,17079,3,0,-1,0,17079,Jasper Illinois,9698,0
+Jasper,Indiana,,18073,14,1,0,0,18073,Jasper Indiana,33478,46
+Jasper,Iowa,,19099,8,0,0,0,19099,Jasper Iowa,36842,68
+Jasper,Mississippi,,28061,4,0,0,0,28061,Jasper Mississippi,17062,16
+Jasper,Missouri,,29097,15,0,0,0,29097,Jasper Missouri,117404,25
+Jasper,South Carolina,,45053,12,0,0,0,45053,Jasper South Carolina,24777,41
+Jasper,Texas,,48241,3,1,0,0,48241,Jasper Texas,35710,59
+Jay,Indiana,,18075,3,0,0,0,18075,Jay Indiana,21253,35
+Jeff Davis,Georgia,,13161,1,0,0,0,13161,Jeff Davis Georgia,15068,25
+Jefferson,Alabama,,1073,479,13,22,0,1073,Jefferson Alabama,658466,4392
+Jefferson,Arkansas,,5069,78,0,9,0,5069,Jefferson Arkansas,77435,498
+Jefferson,Colorado,,8059,610,23,31,0,8059,Jefferson Colorado,534543,780
+Jefferson,Florida,,12065,8,0,4,0,12065,Jefferson Florida,14761,0
+Jefferson,Georgia,,13163,4,0,0,0,13163,Jefferson Georgia,16930,37
+Jefferson,Idaho,,16051,4,0,0,0,16051,Jefferson Idaho,26140,0
+Jefferson,Illinois,,17081,3,0,0,0,17081,Jefferson Illinois,38827,41
+Jefferson,Indiana,,18077,7,0,1,0,18077,Jefferson Indiana,32428,222
+Jefferson,Iowa,,19101,3,0,0,0,19101,Jefferson Iowa,16843,25
+Jefferson,Kansas,,20087,5,0,2,0,20087,Jefferson Kansas,19126,74
+Jefferson,Kentucky,,21111,319,22,0,0,21111,Jefferson Kentucky,741096,4795
+Jefferson,Louisiana,,22051,4092,149,170,0,22051,Jefferson Louisiana,432552,1628
+Jefferson,Mississippi,,28063,4,0,1,0,28063,Jefferson Mississippi,7726,30
+Jefferson,Missouri,,29099,93,2,1,0,29099,Jefferson Missouri,218733,251
+Jefferson,Montana,,30043,2,0,0,0,30043,Jefferson Montana,11406,0
+Jefferson,New York,,36045,40,0,1,0,36045,Jefferson New York,116229,344
+Jefferson,Ohio,,39081,18,0,3,0,39081,Jefferson Ohio,69709,536
+Jefferson,Oklahoma,,40067,1,0,0,0,40067,Jefferson Oklahoma,6472,25
+Jefferson,Pennsylvania,,42065,1,0,0,0,42065,Jefferson Pennsylvania,45200,84
+Jefferson,Tennessee,,47089,12,0,2,0,47089,Jefferson Tennessee,51407,54
+Jefferson,Texas,,48245,78,2,0,0,48245,Jefferson Texas,252273,1593
+Jefferson,Washington,,53031,27,0,0,0,53031,Jefferson Washington,29872,25
+Jefferson,West Virginia,,54037,38,0,7,0,54037,Jefferson West Virginia,53498,25
+Jefferson,Wisconsin,,55055,15,0,0,0,55055,Jefferson Wisconsin,83686,82
+Jefferson Davis,Louisiana,,22053,28,1,3,0,22053,Jefferson Davis Louisiana,31594,96
+Jenkins,Georgia,,13165,7,1,0,0,13165,Jenkins Georgia,8340,25
+Jennings,Indiana,,18079,42,0,1,0,18079,Jennings Indiana,28525,17
+Jerome,Idaho,,16053,18,0,0,0,16053,Jerome Idaho,22374,25
+Jersey,Illinois,,17083,5,0,2,0,17083,Jersey Illinois,22985,49
+Jessamine,Kentucky,,21113,16,0,0,0,21113,Jessamine Kentucky,48586,0
+Jewell,Kansas,,20089,2,0,1,0,20089,Jewell Kansas,3077,25
+Jim Wells,Texas,,48249,2,0,0,0,48249,Jim Wells Texas,40838,159
+Jo Daviess,Illinois,,17085,8,0,2,0,17085,Jo Daviess Illinois,22678,25
+Johnson,Arkansas,,5071,11,0,0,0,5071,Johnson Arkansas,25540,80
+Johnson,Georgia,,13167,13,0,7,0,13167,Johnson Georgia,9980,0
+Johnson,Indiana,,18081,230,8,18,0,18081,Johnson Indiana,139654,275
+Johnson,Iowa,,19103,147,1,13,0,19103,Johnson Iowa,130882,1383
+Johnson,Kansas,,20091,244,11,25,0,20091,Johnson Kansas,544179,1563
+Johnson,Kentucky,,21115,1,0,0,0,21115,Johnson Kentucky,23356,72
+Johnson,Missouri,,29101,33,0,0,0,29101,Johnson Missouri,52595,75
+Johnson,Nebraska,,31097,1,0,1,0,31097,Johnson Nebraska,5217,18
+Johnson,Tennessee,,47091,2,0,0,0,47091,Johnson Tennessee,18244,0
+Johnson,Texas,,48251,25,1,1,0,48251,Johnson Texas,150934,137
+Johnson,Wyoming,,56019,8,0,0,0,56019,Johnson Wyoming,8569,25
+Johnston,North Carolina,,37101,51,4,4,0,37101,Johnston North Carolina,168878,199
+Jones,Georgia,,13169,7,0,0,0,13169,Jones Georgia,28669,0
+Jones,Iowa,,19105,6,0,0,0,19105,Jones Iowa,20638,22
+Jones,Mississippi,,28067,15,0,1,0,28067,Jones Mississippi,67761,285
+Jones,North Carolina,,37103,3,0,1,0,37103,Jones North Carolina,10153,0
+Jones,Texas,,48253,1,0,1,0,48253,Jones Texas,20202,95
+Josephine,Oregon,,41033,16,0,0,0,41033,Josephine Oregon,82713,125
+Juneau,Alaska,,2110,14,0,0,0,2110,Juneau Alaska,31275,0
+Juneau,Wisconsin,,55057,5,0,0,0,55057,Juneau Wisconsin,26664,40
+Juniata,Pennsylvania,,42067,18,0,4,0,42067,Juniata Pennsylvania,24636,0
+Kalamazoo,Michigan,,26077,67,6,3,0,26077,Kalamazoo Michigan,250331,821
+Kalkaska,Michigan,,26079,10,2,0,0,26079,Kalkaska Michigan,17153,8
+Kanawha,West Virginia,,54039,69,0,8,0,54039,Kanawha West Virginia,193063,763
+Kandiyohi,Minnesota,,27067,2,0,0,0,27067,Kandiyohi Minnesota,42239,136
+Kane,Illinois,,17089,296,19,62,0,17089,Kane Illinois,515269,1101
+Kane,Utah,,49025,2,0,0,0,49025,Kane Utah,7125,0
+Kankakee,Illinois,,17091,145,5,60,0,17091,Kankakee Illinois,113449,468
+Kansas City,Missouri,3 combined with Jackson,,234,7,227,0,,Kansas City Missouri,#N/A,#N/A
+Karnes,Texas,,48255,2,0,0,0,48255,Karnes Texas,14824,25
+Kauai,Hawaii,,15007,18,0,0,0,15007,Kauai Hawaii,67091,144
+Kaufman,Texas,,48257,16,0,2,0,48257,Kaufman Texas,103350,407
+Kay,Oklahoma,,40071,33,3,0,0,40071,Kay Oklahoma,46562,193
+Kearney,Nebraska,,31099,3,0,1,0,31099,Kearney Nebraska,6489,10
+Kemper,Mississippi,,28069,11,0,1,0,28069,Kemper Mississippi,10456,25
+Kenai Peninsula,Alaska,,2122,13,0,0,0,2122,Kenai Peninsula Alaska,55400,204
+Kendall,Illinois,,17093,79,2,24,0,17093,Kendall Illinois,114736,0
+Kendall,Texas,,48259,9,0,0,0,48259,Kendall Texas,33410,0
+Kennebec,Maine,,23011,26,1,0,0,23011,Kennebec Maine,122151,425
+Kenosha,Wisconsin,,55059,127,1,15,0,55059,Kenosha Wisconsin,166426,517
+Kent,Delaware,,10001,201,4,54,0,10001,Kent Delaware,162310,288
+Kent,Maryland,,24029,9,0,1,0,24029,Kent Maryland,20197,26
+Kent,Michigan,,26081,207,8,20,0,26081,Kent Michigan,602622,1840
+Kent,Rhode Island,,44003,137,0,32,0,44003,Kent Rhode Island,166158,359
+Kenton,Kentucky,,21117,36,8,0,0,21117,Kenton Kentucky,159720,728
+Keokuk,Iowa,,19107,2,0,0,0,19107,Keokuk Iowa,10511,25
+Kern,California,,6029,271,2,19,0,6029,Kern California,839631,1833
+Kerr,Texas,,48265,2,0,0,0,48265,Kerr Texas,49625,326
+Kershaw,South Carolina,,45055,159,2,0,0,45055,Kershaw South Carolina,61697,121
+Ketchikan Gateway,Alaska,,2130,14,0,0,0,2130,Ketchikan Gateway Alaska,13477,54
+Kewaunee,Wisconsin,,55061,1,0,0,0,55061,Kewaunee Wisconsin,20574,0
+Kimball,Nebraska,,31105,9,0,0,0,31105,Kimball Nebraska,3821,12
+King,Washington,,53033,3688,244,202,0,53033,King Washington,1931249,5433
+King George,Virginia,,51099,11,0,1,0,51099,King George Virginia,23584,0
+King William,Virginia,,51101,2,0,0,0,51101,King William Virginia,15935,0
+King and Queen,Virginia,,51097,1,0,0,0,51097,King and Queen Virginia,6945,0
+Kingfisher,Oklahoma,,40073,3,0,0,0,40073,Kingfisher Oklahoma,15034,25
+Kings,California,,6031,5,0,0,0,6031,Kings California,152982,142
+Kingsbury,South Dakota,,46077,0,0,0,0,46077,Kingsbury South Dakota,5148,6
+Kiowa,Oklahoma,,40075,1,0,0,0,40075,Kiowa Oklahoma,9446,38
+Kit Carson,Colorado,,8063,5,0,0,0,8063,Kit Carson Colorado,8270,19
+Kitsap,Washington,,53035,119,1,0,0,53035,Kitsap Washington,251133,381
+Kittitas,Washington,,53037,13,0,0,0,53037,Kittitas Washington,40915,25
+Klamath,Oregon,,41035,19,0,1,0,41035,Klamath Oregon,66380,98
+Kleberg,Texas,,48273,2,0,0,0,48273,Kleberg Texas,32061,100
+Klickitat,Washington,,53039,11,1,0,0,53039,Klickitat Washington,20318,42
+Knox,Illinois,,17095,1,0,0,0,17095,Knox Illinois,52919,209
+Knox,Indiana,,18083,10,0,1,0,18083,Knox Indiana,38440,175
+Knox,Maine,,23013,9,0,0,0,23013,Knox Maine,39736,109
+Knox,Nebraska,,31107,2,0,0,0,31107,Knox Nebraska,8701,23
+Knox,Ohio,,39083,7,1,0,0,39083,Knox Ohio,60921,111
+Knox,Tennessee,,47093,148,4,5,0,47093,Knox Tennessee,432226,2122
+Knox,Texas,,48275,1,0,0,0,48275,Knox Texas,3719,28
+Koochiching,Minnesota,,27071,1,0,0,0,27071,Koochiching Minnesota,13311,49
+Kootenai,Idaho,,16055,42,0,-1,0,16055,Kootenai Idaho,138494,396
+Kosciusko,Indiana,,18085,16,0,2,0,18085,Kosciusko Indiana,77358,88
+Kossuth,Iowa,,19109,1,0,0,0,19109,Kossuth Iowa,15543,25
+La Crosse,Wisconsin,,55063,22,0,0,0,55063,La Crosse Wisconsin,114638,656
+La Paz,Arizona,,4012,3,0,0,0,4012,La Paz Arizona,20489,25
+La Plata,Colorado,,8067,34,0,0,0,8067,La Plata Colorado,51334,94
+LaGrange,Indiana,,18087,6,1,0,0,18087,LaGrange Indiana,37128,25
+LaPorte,Indiana,,18091,28,3,3,0,18091,LaPorte Indiana,111467,377
+LaSalle,Illinois,,,17,1,10,0,17099,LaSalle Illinois,113924,244
+LaSalle,Louisiana,,,8,0,1,0,22059,LaSalle Louisiana,14890,84
+Labette,Kansas,,20099,9,0,1,0,20099,Labette Kansas,21607,67
+Lac qui Parle,Minnesota,,,1,0,-6,0,27073,Lac qui Parle Minnesota,7259,32
+Lackawanna,Pennsylvania,,42069,266,12,31,0,42069,Lackawanna Pennsylvania,214437,1079
+Lafayette,Arkansas,,5073,1,0,0,0,5073,Lafayette Arkansas,7645,0
+Lafayette,Louisiana,,22055,285,10,13,0,22055,Lafayette Louisiana,221578,1110
+Lafayette,Mississippi,,28071,26,1,1,0,28071,Lafayette Mississippi,47351,217
+Lafayette,Missouri,,29107,28,1,0,0,29107,Lafayette Missouri,33381,32
+Lafayette,Wisconsin,,55065,1,0,0,0,55065,Lafayette Wisconsin,16836,25
+Lafourche,Louisiana,,22057,355,11,33,0,22057,Lafourche Louisiana,96318,203
+Lake,California,,6033,2,0,1,0,6033,Lake California,64665,62
+Lake,Colorado,,8065,3,0,0,0,8065,Lake Colorado,7310,25
+Lake,Florida,,12069,136,2,20,0,12069,Lake Florida,297052,897
+Lake,Illinois,,17097,1041,23,226,0,17097,Lake Illinois,703462,968
+Lake,Indiana,,18089,461,12,43,0,18089,Lake Indiana,496005,2597
+Lake,Montana,,30047,5,0,0,0,30047,Lake Montana,28746,105
+Lake,Ohio,,39085,99,4,7,0,39085,Lake Ohio,230041,561
+Lake,South Dakota,,46079,2,0,1,0,46079,Lake South Dakota,11200,22
+Lake,Tennessee,,47095,0,0,0,0,47095,Lake Tennessee,7832,0
+Lamar,Alabama,,1075,5,0,0,0,1075,Lamar Alabama,14564,0
+Lamar,Georgia,,13171,14,0,-1,0,13171,Lamar Georgia,18317,0
+Lamar,Mississippi,,28073,19,1,1,0,28073,Lamar Mississippi,55658,261
+Lamar,Texas,,48277,6,0,0,0,48277,Lamar Texas,49793,393
+Lamb,Texas,,48279,1,0,0,0,48279,Lamb Texas,13977,75
+Lamoille,Vermont,,50015,19,0,0,0,50015,Lamoille Vermont,24475,25
+Lampasas,Texas,,48281,2,0,0,0,48281,Lampasas Texas,19677,25
+Lancaster,Nebraska,,31109,39,0,5,0,31109,Lancaster Nebraska,285407,1354
+Lancaster,Pennsylvania,,42071,561,14,71,0,42071,Lancaster Pennsylvania,519445,1191
+Lancaster,South Carolina,,45057,46,0,0,0,45057,Lancaster South Carolina,76652,253
+Lancaster,Virginia,,51103,1,0,0,0,51103,Lancaster Virginia,11391,76
+Lane,Oregon,,41039,30,1,1,0,41039,Lane Oregon,351715,531
+Lanier,Georgia,,13173,5,0,0,0,13173,Lanier Georgia,10078,0
+Lapeer,Michigan,,26087,64,5,8,0,26087,Lapeer Michigan,88319,183
+Laramie,Wyoming,,56021,48,0,1,0,56021,Laramie Wyoming,91738,206
+Larimer,Colorado,,8069,167,8,6,0,8069,Larimer Colorado,299630,725
+Larue,Kentucky,,21123,3,0,0,0,21123,Larue Kentucky,14193,0
+Las Animas,Colorado,,8071,1,0,0,0,8071,Las Animas Colorado,15507,25
+Latah,Idaho,,16057,2,0,0,0,16057,Latah Idaho,37244,25
+Latimer,Oklahoma,,40077,4,1,0,0,40077,Latimer Oklahoma,11154,33
+Lauderdale,Alabama,,1077,18,2,0,0,1077,Lauderdale Alabama,92709,358
+Lauderdale,Mississippi,,28075,84,5,6,0,28075,Lauderdale Mississippi,80261,988
+Lauderdale,Tennessee,,47097,6,0,1,0,47097,Lauderdale Tennessee,27815,25
+Laurel,Kentucky,,21125,2,0,0,0,21125,Laurel Kentucky,58849,150
+Laurens,Georgia,,13175,25,0,3,0,13175,Laurens Georgia,48434,368
+Laurens,South Carolina,,45059,6,0,0,0,45059,Laurens South Carolina,66537,76
+Lavaca,Texas,,48285,3,0,1,0,48285,Lavaca Texas,19263,50
+Lawrence,Alabama,,1079,8,0,0,0,1079,Lawrence Alabama,34339,98
+Lawrence,Arkansas,,5075,1,0,0,0,5075,Lawrence Arkansas,17415,25
+Lawrence,Illinois,,17101,2,0,0,0,17101,Lawrence Illinois,16833,25
+Lawrence,Indiana,,18093,55,7,11,0,18093,Lawrence Indiana,46134,50
+Lawrence,Kentucky,,21127,1,0,0,0,21127,Lawrence Kentucky,15860,90
+Lawrence,Mississippi,,28077,6,0,1,0,28077,Lawrence Mississippi,12929,25
+Lawrence,Ohio,,39087,13,0,4,0,39087,Lawrence Ohio,62450,8
+Lawrence,Pennsylvania,,42073,32,2,3,0,42073,Lawrence Pennsylvania,91108,316
+Lawrence,South Dakota,,46081,9,0,0,0,46081,Lawrence South Dakota,24097,66
+Lawrence,Tennessee,,47099,10,0,4,0,47099,Lawrence Tennessee,41869,90
+Le Flore,Oklahoma,,40079,1,0,0,0,40079,Le Flore Oklahoma,50384,43
+Le Sueur,Minnesota,,27079,20,0,0,0,27079,Le Sueur Minnesota,27703,15
+Lea,New Mexico,,35025,2,0,0,0,35025,Lea New Mexico,64727,211
+Leake,Mississippi,,28079,15,0,0,0,28079,Leake Mississippi,23805,25
+Leavenworth,Kansas,,20103,59,1,16,0,20103,Leavenworth Kansas,76227,130
+Lebanon,Pennsylvania,,42075,169,0,24,0,42075,Lebanon Pennsylvania,133568,484
+Lee,Alabama,,1081,148,5,20,0,1081,Lee Alabama,140247,314
+Lee,Arkansas,,5077,1,0,0,0,5077,Lee Arkansas,10424,0
+Lee,Florida,,12071,462,14,28,0,12071,Lee Florida,618754,2240
+Lee,Georgia,,13177,208,15,13,0,13177,Lee Georgia,28298,0
+Lee,Illinois,,17103,6,0,4,0,17103,Lee Illinois,36031,80
+Lee,Iowa,,19111,1,0,0,0,19111,Lee Iowa,35862,121
+Lee,Mississippi,,28081,40,2,2,0,28081,Lee Mississippi,82910,700
+Lee,North Carolina,,37105,5,0,1,0,37105,Lee North Carolina,57866,127
+Lee,South Carolina,,45061,19,2,0,0,45061,Lee South Carolina,19220,20
+Lee,Texas,,48287,2,0,0,0,48287,Lee Texas,16612,0
+Lee,Virginia,,51105,3,0,1,0,51105,Lee Virginia,25587,0
+Leelanau,Michigan,,26089,4,0,1,0,26089,Leelanau Michigan,21708,0
+Leflore,Mississippi,,28083,28,4,2,0,28083,Leflore Mississippi,32317,208
+Lehigh,Pennsylvania,,42077,1319,12,173,0,42077,Lehigh Pennsylvania,349497,1912
+Lenawee,Michigan,,26091,36,0,4,0,26091,Lenawee Michigan,99892,113
+Lenoir,North Carolina,,37107,11,0,1,0,37107,Lenoir North Carolina,59495,261
+Leon,Florida,,12073,71,0,3,0,12073,Leon Florida,275487,1208
+Leon,Texas,,48289,2,0,0,0,48289,Leon Texas,16801,0
+Leslie,Kentucky,,21131,1,0,0,0,21131,Leslie Kentucky,11310,25
+Levy,Florida,,12075,5,0,0,0,12075,Levy Florida,40801,40
+Lewis,Idaho,,16061,0,0,0,0,16061,Lewis Idaho,3821,0
+Lewis,Kentucky,,21135,2,0,0,0,21135,Lewis Kentucky,13870,0
+Lewis,New York,,36049,6,0,0,0,36049,Lewis New York,27087,31
+Lewis,Tennessee,,47101,2,0,0,0,47101,Lewis Tennessee,12161,0
+Lewis,Washington,,53041,16,1,0,0,53041,Lewis Washington,75455,125
+Lewis,West Virginia,,54041,1,0,0,0,54041,Lewis West Virginia,16372,220
+Lewis and Clark,Montana,,30049,16,0,1,0,30049,Lewis and Clark Montana,63395,143
+Lexington,South Carolina,,45063,130,5,0,0,45063,Lexington South Carolina,262391,556
+Lexington,Virginia,,51678,3,0,0,0,51678,Lexington Virginia,7042,25
+Liberty,Georgia,,13179,14,0,2,0,13179,Liberty Georgia,63453,25
+Liberty,Montana,,30051,1,0,0,0,30051,Liberty Montana,2339,25
+Liberty,Texas,,48291,15,0,3,0,48291,Liberty Texas,75643,29
+Licking,Ohio,,39089,64,3,3,0,39089,Licking Ohio,166492,262
+Limestone,Alabama,,1083,32,0,0,0,1083,Limestone Alabama,82782,102
+Limestone,Texas,,48293,6,1,0,0,48293,Limestone Texas,23384,79
+Lincoln,Arkansas,,5079,11,0,1,0,5079,Lincoln Arkansas,14134,0
+Lincoln,Colorado,,8073,1,0,0,0,8073,Lincoln Colorado,5467,50
+Lincoln,Georgia,,13181,6,0,1,0,13181,Lincoln Georgia,7996,0
+Lincoln,Idaho,,16063,12,0,0,0,16063,Lincoln Idaho,5208,0
+Lincoln,Louisiana,,22061,24,0,2,0,22061,Lincoln Louisiana,46735,146
+Lincoln,Maine,,23015,9,0,0,0,23015,Lincoln Maine,34457,32
+Lincoln,Minnesota,,27081,2,0,0,0,27081,Lincoln Minnesota,5896,44
+Lincoln,Mississippi,,28085,26,1,5,0,28085,Lincoln Mississippi,34869,99
+Lincoln,Missouri,,29113,24,1,0,0,29113,Lincoln Missouri,52566,25
+Lincoln,Montana,,30053,7,1,0,0,30053,Lincoln Montana,19687,25
+Lincoln,Nebraska,,31111,17,1,1,0,31111,Lincoln Nebraska,36288,116
+Lincoln,New Mexico,,35027,1,0,0,0,35027,Lincoln New Mexico,20497,25
+Lincoln,North Carolina,,37109,11,0,0,0,37109,Lincoln North Carolina,78265,101
+Lincoln,Oklahoma,,40081,10,0,0,0,40081,Lincoln Oklahoma,34273,50
+Lincoln,Oregon,,41041,4,0,0,0,41041,Lincoln Oregon,46034,50
+Lincoln,South Dakota,,46083,31,0,4,0,46083,Lincoln South Dakota,44828,118
+Lincoln,Tennessee,,47103,7,0,1,0,47103,Lincoln Tennessee,33361,59
+Lincoln,Washington,,53043,1,0,0,0,53043,Lincoln Washington,10570,85
+Lincoln,Wyoming,,56023,4,0,0,0,56023,Lincoln Wyoming,18106,38
+Linn,Iowa,,19113,197,8,11,0,19113,Linn Iowa,211226,1018
+Linn,Kansas,,20107,5,0,0,0,20107,Linn Kansas,9656,0
+Linn,Missouri,,29115,3,0,0,0,29115,Linn Missouri,12761,54
+Linn,Oregon,,41043,45,2,1,0,41043,Linn Oregon,116672,98
+Litchfield,Connecticut,,9005,255,9,0,0,9005,Litchfield Connecticut,189927,272
+Live Oak,Texas,,48297,3,0,0,0,48297,Live Oak Texas,11531,0
+Livingston,Illinois,,17105,10,0,1,0,17105,Livingston Illinois,38950,42
+Livingston,Louisiana,,22063,99,1,5,0,22063,Livingston Louisiana,128026,59
+Livingston,Michigan,,26093,174,2,19,0,26093,Livingston Michigan,180967,177
+Livingston,Missouri,,29117,1,0,0,0,29117,Livingston Missouri,15195,25
+Livingston,New York,,36051,29,2,5,0,36051,Livingston New York,65393,67
+Llano,Texas,,48299,3,0,0,0,48299,Llano Texas,19301,30
+Logan,Arkansas,,5083,1,0,0,0,5083,Logan Arkansas,22353,41
+Logan,Colorado,,8075,13,0,0,0,8075,Logan Colorado,22709,25
+Logan,Illinois,,17107,3,0,2,0,17107,Logan Illinois,30305,25
+Logan,Kentucky,,21141,4,0,0,0,21141,Logan Kentucky,26835,75
+Logan,Nebraska,,31113,0,0,-1,0,31113,Logan Nebraska,763,0
+Logan,Ohio,,39091,5,0,0,0,39091,Logan Ohio,45858,115
+Logan,Oklahoma,,40083,6,0,0,0,40083,Logan Oklahoma,41848,25
+Logan,West Virginia,,54045,8,0,1,0,54045,Logan West Virginia,36743,140
+Long,Georgia,,13183,1,0,0,0,13183,Long Georgia,14464,0
+Lonoke,Arkansas,,5085,23,0,0,0,5085,Lonoke Arkansas,68356,0
+Lorain,Ohio,,39093,136,4,20,0,39093,Lorain Ohio,301356,840
+Los Alamos,New Mexico,,35028,2,0,0,0,35028,Los Alamos New Mexico,17950,47
+Los Angeles,California,,6037,7559,198,623,0,6037,Los Angeles California,9818605,28383
+Loudon,Tennessee,,47105,15,0,0,0,47105,Loudon Tennessee,48556,50
+Loudoun,Virginia,,51107,238,1,29,0,51107,Loudoun Virginia,312311,462
+Louisa,Iowa,,19115,30,0,10,0,19115,Louisa Iowa,11387,0
+Louisa,Virginia,,51109,16,0,2,0,51109,Louisa Virginia,33153,0
+Love,Oklahoma,,40085,2,0,0,0,40085,Love Oklahoma,9423,25
+Lowndes,Alabama,,1085,10,0,2,0,1085,Lowndes Alabama,11299,0
+Lowndes,Georgia,,13185,49,1,5,0,13185,Lowndes Georgia,109233,430
+Lowndes,Mississippi,,28087,17,0,1,0,28087,Lowndes Mississippi,59779,315
+Lubbock,Texas,,48303,191,6,11,0,48303,Lubbock Texas,278831,1563
+Lucas,Ohio,,39095,371,16,24,0,39095,Lucas Ohio,441815,3357
+Luce,Michigan,,26095,1,0,0,0,26095,Luce Michigan,6631,25
+Lumpkin,Georgia,,13187,9,0,0,0,13187,Lumpkin Georgia,29966,49
+Lunenburg,Virginia,,51111,2,0,0,0,51111,Lunenburg Virginia,12914,0
+Luzerne,Pennsylvania,,42079,1134,11,152,0,42079,Luzerne Pennsylvania,320918,1180
+Lycoming,Pennsylvania,,42081,15,0,3,0,42081,Lycoming Pennsylvania,116111,302
+Lyman,South Dakota,,46085,2,0,0,0,46085,Lyman South Dakota,3755,0
+Lynchburg,Virginia,,51680,20,0,0,0,51680,Lynchburg Virginia,75568,738
+Lynn,Texas,,48305,4,0,0,0,48305,Lynn Texas,5915,24
+Lyon,Iowa,,19119,2,0,0,0,19119,Lyon Iowa,11581,25
+Lyon,Kansas,,20111,26,0,1,0,20111,Lyon Kansas,33690,59
+Lyon,Kentucky,,21143,4,0,0,0,21143,Lyon Kentucky,8314,0
+Lyon,Minnesota,,27083,4,0,0,0,27083,Lyon Minnesota,25857,74
+Lyon,Nevada,,32019,4,0,1,0,32019,Lyon Nevada,51980,63
+Mackinac,Michigan,,26097,3,0,0,0,26097,Mackinac Michigan,11113,15
+Macomb,Michigan,,26099,2626,141,212,0,26099,Macomb Michigan,840978,1119
+Macon,Alabama,,1087,6,1,0,0,1087,Macon Alabama,21452,0
+Macon,Georgia,,13193,11,0,3,0,13193,Macon Georgia,14740,49
+Macon,Illinois,,17115,13,1,4,0,17115,Macon Illinois,110768,188
+Macon,Missouri,,29121,2,0,0,0,29121,Macon Missouri,15566,25
+Macon,North Carolina,,37113,1,1,0,0,37113,Macon North Carolina,33922,83
+Macon,Tennessee,,47111,16,1,4,0,47111,Macon Tennessee,22248,25
+Macoupin,Illinois,,17117,10,0,3,0,17117,Macoupin Illinois,47765,50
+Madera,California,,6039,28,2,0,0,6039,Madera California,150865,462
+Madison,Alabama,,1089,153,2,3,0,1089,Madison Alabama,334811,1178
+Madison,Florida,,12079,12,0,1,0,12079,Madison Florida,19224,25
+Madison,Georgia,,13195,9,1,0,0,13195,Madison Georgia,28120,0
+Madison,Idaho,,16065,4,0,0,0,16065,Madison Idaho,37536,69
+Madison,Illinois,,17119,82,2,30,0,17119,Madison Illinois,269282,943
+Madison,Indiana,,18095,143,11,6,0,18095,Madison Indiana,131636,379
+Madison,Iowa,,19121,1,0,0,0,19121,Madison Iowa,15679,25
+Madison,Kentucky,,21151,12,1,0,0,21151,Madison Kentucky,82916,130
+Madison,Louisiana,,22065,2,0,0,0,22065,Madison Louisiana,12093,25
+Madison,Mississippi,,28089,83,2,1,0,28089,Madison Mississippi,95203,67
+Madison,Missouri,,29123,1,0,0,0,29123,Madison Missouri,12226,144
+Madison,Montana,,30057,8,1,-1,0,30057,Madison Montana,7691,20
+Madison,Nebraska,,31119,5,1,0,0,31119,Madison Nebraska,34876,281
+Madison,New York,,36053,92,3,0,0,36053,Madison New York,73442,126
+Madison,Ohio,,39097,20,2,2,0,39097,Madison Ohio,43435,94
+Madison,Tennessee,,47113,43,0,0,0,47113,Madison Tennessee,98294,835
+Madison,Virginia,,51113,5,0,1,0,51113,Madison Virginia,13308,0
+Mahaska,Iowa,,19123,4,0,0,0,19123,Mahaska Iowa,22381,33
+Mahnomen,Minnesota,,27087,1,0,0,0,27087,Mahnomen Minnesota,5413,18
+Mahoning,Ohio,,39099,305,28,5,0,39099,Mahoning Ohio,238823,1051
+Major,Oklahoma,,40093,1,0,0,0,40093,Major Oklahoma,7527,25
+Malheur,Oregon,,41045,2,0,0,0,41045,Malheur Oregon,31313,49
+Manassas,Virginia,,,20,0,13,0,51683,Manassas Virginia,37821,130
+Manassas Park,Virginia,,51685,5,0,1,0,51685,Manassas Park Virginia,14273,0
+Manatee,Florida,,12081,171,7,9,0,12081,Manatee Florida,322833,806
+Manistee,Michigan,,26101,9,0,0,0,26101,Manistee Michigan,24733,45
+Manitowoc,Wisconsin,,55071,3,0,0,0,55071,Manitowoc Wisconsin,81442,236
+Marathon,Wisconsin,,55073,12,0,0,0,55073,Marathon Wisconsin,134063,440
+Marengo,Alabama,,1091,14,1,0,0,1091,Marengo Alabama,21027,99
+Maricopa,Arizona,,4013,1559,37,64,0,4013,Maricopa Arizona,3817117,9705
+Maries,Missouri,,29125,2,0,0,0,29125,Maries Missouri,9176,0
+Marin,California,,6041,148,10,5,0,6041,Marin California,252409,458
+Marinette,Wisconsin,,55075,3,0,0,0,55075,Marinette Wisconsin,41749,99
+Marion,Alabama,,1093,23,3,2,0,1093,Marion Alabama,30776,120
+Marion,Florida,,12083,65,2,2,0,12083,Marion Florida,331298,919
+Marion,Georgia,,13197,5,0,2,0,13197,Marion Georgia,8742,0
+Marion,Illinois,,17121,4,0,1,0,17121,Marion Illinois,39437,135
+Marion,Indiana,,18097,2290,58,149,0,18097,Marion Indiana,903393,3595
+Marion,Iowa,,19125,2,0,0,0,19125,Marion Iowa,33309,50
+Marion,Kansas,,20115,3,0,0,0,20115,Marion Kansas,12660,52
+Marion,Kentucky,,21155,3,0,0,0,21155,Marion Kentucky,19820,75
+Marion,Mississippi,,28091,14,0,1,0,28091,Marion Mississippi,27088,49
+Marion,Ohio,,39101,32,0,4,0,39101,Marion Ohio,66501,270
+Marion,Oregon,,41047,215,9,6,0,41047,Marion Oregon,315335,496
+Marion,South Carolina,,45067,5,1,0,0,45067,Marion South Carolina,33062,124
+Marion,Tennessee,,47115,21,1,0,0,47115,Marion Tennessee,28237,68
+Marion,West Virginia,,54049,30,1,5,0,54049,Marion West Virginia,56418,207
+Marlboro,South Carolina,,45069,8,0,0,0,45069,Marlboro South Carolina,28933,0
+Marquette,Michigan,,26103,18,2,-1,0,26103,Marquette Michigan,67077,289
+Marquette,Wisconsin,,55077,2,0,0,0,55077,Marquette Wisconsin,15404,0
+Marshall,Alabama,,1095,42,1,3,0,1095,Marshall Alabama,93019,240
+Marshall,Illinois,,17123,1,0,0,0,17123,Marshall Illinois,12640,0
+Marshall,Indiana,,18099,11,0,1,0,18099,Marshall Indiana,47051,160
+Marshall,Iowa,,19127,15,0,1,0,19127,Marshall Iowa,40648,125
+Marshall,Kentucky,,21157,5,0,0,0,21157,Marshall Kentucky,31448,25
+Marshall,Mississippi,,28093,24,1,0,0,28093,Marshall Mississippi,37144,40
+Marshall,Oklahoma,,40095,1,0,0,0,40095,Marshall Oklahoma,15840,25
+Marshall,South Dakota,,46091,1,0,0,0,46091,Marshall South Dakota,4656,20
+Marshall,Tennessee,,47117,9,0,0,0,47117,Marshall Tennessee,30617,25
+Marshall,West Virginia,,54051,5,0,0,0,54051,Marshall West Virginia,33107,127
+Martin,Florida,,12085,101,0,3,0,12085,Martin Florida,146318,558
+Martin,Indiana,,18101,1,0,0,0,18101,Martin Indiana,10334,0
+Martin,Kentucky,,21159,1,0,0,0,21159,Martin Kentucky,12929,0
+Martin,Minnesota,,27091,34,4,0,0,27091,Martin Minnesota,20840,57
+Martin,North Carolina,,37117,4,0,0,0,37117,Martin North Carolina,24505,49
+Martin,Texas,,48317,2,0,0,0,48317,Martin Texas,4799,18
+Martinsville,Virginia,,51690,0,0,0,0,51690,Martinsville Virginia,13821,223
+Mason,Illinois,,17125,3,0,2,0,17125,Mason Illinois,14666,20
+Mason,Kentucky,,21161,2,0,0,0,21161,Mason Kentucky,17490,100
+Mason,Michigan,,26105,1,0,0,0,26105,Mason Michigan,28705,49
+Mason,Texas,,48319,1,0,0,0,48319,Mason Texas,4012,0
+Mason,Washington,,53045,17,0,1,0,53045,Mason Washington,60699,25
+Mason,West Virginia,,54053,6,0,0,0,54053,Mason West Virginia,27324,201
+Massac,Illinois,,17127,2,0,0,0,17127,Massac Illinois,15429,25
+Matagorda,Texas,,48321,42,3,0,0,48321,Matagorda Texas,36702,75
+Matanuska-Susitna,Alaska,,2170,5,0,1,0,2170,Matanuska-Susitna Alaska,88995,74
+Mathews,Virginia,,51115,2,0,0,0,51115,Mathews Virginia,8978,0
+Maui,Hawaii,,15009,48,1,0,0,15009,Maui Hawaii,154834,258
+Maury,Tennessee,,47119,29,0,3,0,47119,Maury Tennessee,80956,255
+Maverick,Texas,,48323,7,0,2,0,48323,Maverick Texas,54258,101
+Mayes,Oklahoma,,40097,12,2,0,0,40097,Mayes Oklahoma,41259,52
+McClain,Oklahoma,,40087,15,0,-1,0,40087,McClain Oklahoma,34506,39
+McCook,South Dakota,,46087,2,1,0,0,46087,McCook South Dakota,5618,0
+McCormick,South Carolina,,45065,2,0,0,0,45065,McCormick South Carolina,10233,0
+McCracken,Kentucky,,21145,13,1,0,0,21145,McCracken Kentucky,65565,708
+McCreary,Kentucky,,21147,1,0,0,0,21147,McCreary Kentucky,18306,0
+McCulloch,Texas,,48307,0,0,-1,0,48307,McCulloch Texas,8283,25
+McCurtain,Oklahoma,,40089,2,0,0,0,40089,McCurtain Oklahoma,33151,91
+McDonald,Missouri,,29119,3,0,0,0,29119,McDonald Missouri,23083,0
+McDowell,North Carolina,,37111,13,0,3,0,37111,McDowell North Carolina,44996,65
+McDowell,West Virginia,,54047,3,0,1,0,54047,McDowell West Virginia,22113,124
+McDuffie,Georgia,,,16,1,9,0,13189,McDuffie Georgia,21875,47
+McHenry,Illinois,,17111,180,5,36,0,17111,McHenry Illinois,308760,343
+McHenry,North Dakota,,38049,1,1,0,0,38049,McHenry North Dakota,5395,0
+McIntosh,Georgia,,,3,0,-4,0,13191,McIntosh Georgia,14333,0
+McIntosh,North Dakota,,38051,1,0,0,0,38051,McIntosh North Dakota,2809,44
+McIntosh,Oklahoma,,40091,1,0,-1,0,40091,McIntosh Oklahoma,20252,0
+McKean,Pennsylvania,,42083,1,0,1,0,42083,McKean Pennsylvania,43450,138
+McKenzie,North Dakota,,38053,5,0,0,0,38053,McKenzie North Dakota,6360,24
+McKinley,New Mexico,,35031,87,2,9,0,35031,McKinley New Mexico,71492,228
+McLean,Illinois,,17113,65,2,19,0,17113,McLean Illinois,169572,200
+McLean,Kentucky,,21149,1,1,0,0,21149,McLean Kentucky,9531,0
+McLean,North Dakota,,38055,2,0,0,0,38055,McLean North Dakota,8962,47
+McLennan,Texas,,48309,62,1,6,0,48309,McLennan Texas,234906,285
+McLeod,Minnesota,,27085,1,0,0,0,27085,McLeod Minnesota,36651,115
+McMinn,Tennessee,,47107,3,0,0,0,47107,McMinn Tennessee,52266,262
+McNairy,Tennessee,,47109,7,0,2,0,47109,McNairy Tennessee,26075,0
+McPherson,Kansas,,20113,11,0,1,0,20113,McPherson Kansas,29180,87
+Meade,Kentucky,,21163,2,0,0,0,21163,Meade Kentucky,28602,0
+Meade,South Dakota,,46093,1,0,0,0,46093,Meade South Dakota,25434,25
+Meagher,Montana,,30059,1,0,0,0,30059,Meagher Montana,1891,25
+Mecklenburg,North Carolina,,37119,848,10,38,0,37119,Mecklenburg North Carolina,919628,2949
+Mecklenburg,Virginia,,51117,16,0,4,0,51117,Mecklenburg Virginia,32727,99
+Mecosta,Michigan,,26107,8,1,0,0,26107,Mecosta Michigan,42798,69
+Medina,Ohio,,39103,94,4,6,0,39103,Medina Ohio,172332,191
+Medina,Texas,,48325,7,0,1,0,48325,Medina Texas,46006,25
+Meeker,Minnesota,,27093,1,0,0,0,27093,Meeker Minnesota,23300,35
+Meigs,Ohio,,39105,1,0,0,0,39105,Meigs Ohio,23770,0
+Meigs,Tennessee,,47121,3,0,1,0,47121,Meigs Tennessee,11753,0
+Menard,Illinois,,17129,2,0,0,0,17129,Menard Illinois,12705,0
+Mendocino,California,,6045,4,0,0,0,6045,Mendocino California,87841,141
+Menifee,Kentucky,,21165,3,0,0,0,21165,Menifee Kentucky,6306,0
+Menominee,Wisconsin,,55078,1,0,0,0,55078,Menominee Wisconsin,4232,0
+Merced,California,,6047,34,3,5,0,6047,Merced California,255793,246
+Mercer,Illinois,,17131,2,0,0,0,17131,Mercer Illinois,16434,22
+Mercer,Kentucky,,21167,4,0,0,0,21167,Mercer Kentucky,21331,25
+Mercer,New Jersey,,34021,992,28,155,0,34021,Mercer New Jersey,366513,1690
+Mercer,North Dakota,,38057,0,0,0,0,38057,Mercer North Dakota,8424,13
+Mercer,Ohio,,39107,11,1,3,0,39107,Mercer Ohio,40814,88
+Mercer,Pennsylvania,,42085,27,0,1,0,42085,Mercer Pennsylvania,116638,521
+Mercer,West Virginia,,54055,6,0,1,0,54055,Mercer West Virginia,62264,419
+Meriwether,Georgia,,13199,18,0,1,0,13199,Meriwether Georgia,21992,188
+Merrick,Nebraska,,31121,2,0,0,0,31121,Merrick Nebraska,7845,20
+Merrimack,New Hampshire,,33013,56,0,4,0,33013,Merrimack New Hampshire,146445,395
+Mesa,Colorado,,8077,32,0,5,0,8077,Mesa Colorado,146723,460
+Miami,Indiana,,18103,12,0,3,0,18103,Miami Indiana,36903,25
+Miami,Kansas,,20121,2,0,0,0,20121,Miami Kansas,32787,194
+Miami,Ohio,,39109,107,14,6,0,39109,Miami Ohio,102506,193
+Miami-Dade,Florida,,12086,5354,49,357,0,12086,Miami-Dade Florida,2496435,9965
+Middlesex,Connecticut,,9007,150,7,0,0,9007,Middlesex Connecticut,165676,215
+Middlesex,Massachusetts,,25017,3545,80,358,0,25017,Middlesex Massachusetts,1503085,4150
+Middlesex,New Jersey,,34023,4156,139,439,0,34023,Middlesex New Jersey,809858,2657
+Middlesex,Virginia,,51119,0,0,0,0,51119,Middlesex Virginia,10959,0
+Midland,Michigan,,26111,24,1,2,0,26111,Midland Michigan,83629,308
+Midland,Texas,,48329,30,1,3,0,48329,Midland Texas,136872,621
+Mifflin,Pennsylvania,,42087,10,0,4,0,42087,Mifflin Pennsylvania,46682,123
+Milam,Texas,,48331,7,0,4,0,48331,Milam Texas,24757,35
+Miller,Arkansas,,5091,16,0,3,0,5091,Miller Arkansas,43462,62
+Miller,Georgia,,13201,12,0,-3,0,13201,Miller Georgia,6125,25
+Mills,Iowa,,19129,1,0,0,0,19129,Mills Iowa,15059,851
+Milwaukee,Wisconsin,,55079,1416,56,93,0,55079,Milwaukee Wisconsin,947735,4743
+Mineral,Colorado,,8079,2,0,0,0,8079,Mineral Colorado,712,0
+Mineral,West Virginia,,54057,3,0,0,0,54057,Mineral West Virginia,28212,25
+Minidoka,Idaho,,16067,3,0,0,0,16067,Minidoka Idaho,20069,25
+Minnehaha,South Dakota,,46099,228,2,63,0,46099,Minnehaha South Dakota,169468,1150
+Missaukee,Michigan,,26113,1,1,0,0,26113,Missaukee Michigan,14849,0
+Mississippi,Arkansas,,5093,1,0,0,0,5093,Mississippi Arkansas,46480,193
+Missoula,Montana,,30063,25,1,1,0,30063,Missoula Montana,109299,404
+Mitchell,Georgia,,13205,108,11,18,0,13205,Mitchell Georgia,23498,23
+Mitchell,Iowa,,19131,2,0,0,0,19131,Mitchell Iowa,10776,25
+Mitchell,Kansas,,20123,2,0,0,0,20123,Mitchell Kansas,6373,75
+Mitchell,North Carolina,,37121,3,0,0,0,37121,Mitchell North Carolina,15579,46
+Mitchell,Texas,,48335,1,0,0,0,48335,Mitchell Texas,9403,25
+Mobile,Alabama,,1097,249,8,48,0,1097,Mobile Alabama,412992,1929
+Moffat,Colorado,,8081,3,0,0,0,8081,Moffat Colorado,13795,0
+Mohave,Arizona,,4015,23,0,0,0,4015,Mohave Arizona,200186,588
+Moniteau,Missouri,,29135,4,0,0,0,29135,Moniteau Missouri,15607,0
+Monmouth,New Jersey,,34025,3038,86,268,0,34025,Monmouth New Jersey,630380,2176
+Mono,California,,6051,19,1,0,0,6051,Mono California,14202,17
+Monona,Iowa,,19133,6,0,0,0,19133,Monona Iowa,9243,25
+Monongalia,West Virginia,,54061,68,1,8,0,54061,Monongalia West Virginia,96189,940
+Monroe,Alabama,,1099,5,1,0,0,1099,Monroe Alabama,23068,94
+Monroe,Arkansas,,5095,1,0,0,0,5095,Monroe Arkansas,8149,0
+Monroe,Florida,,12087,51,3,2,0,12087,Monroe Florida,73090,148
+Monroe,Georgia,,13207,12,1,-1,0,13207,Monroe Georgia,26424,25
+Monroe,Illinois,,17133,20,1,9,0,17133,Monroe Illinois,32957,0
+Monroe,Indiana,,18105,60,0,6,0,18105,Monroe Indiana,137974,368
+Monroe,Michigan,,26115,152,0,23,0,26115,Monroe Michigan,152021,217
+Monroe,Mississippi,,28095,19,1,1,0,28095,Monroe Mississippi,36989,130
+Monroe,New York,,36055,651,34,55,0,36055,Monroe New York,744344,2009
+Monroe,Ohio,,39111,2,0,0,0,39111,Monroe Ohio,14642,0
+Monroe,Pennsylvania,,42089,671,17,61,0,42089,Monroe Pennsylvania,169842,235
+Monroe,Tennessee,,47123,6,0,0,0,47123,Monroe Tennessee,44519,59
+Monroe,Wisconsin,,55081,5,0,0,0,55081,Monroe Wisconsin,44673,50
+Montague,Texas,,48337,1,0,0,0,48337,Montague Texas,19719,87
+Montcalm,Michigan,,26117,18,1,2,0,26117,Montcalm Michigan,63342,148
+Monterey,California,,6053,64,2,2,0,6053,Monterey California,415057,793
+Montezuma,Colorado,,8083,8,1,0,0,8083,Montezuma Colorado,25535,25
+Montgomery,Alabama,,1101,77,2,3,0,1101,Montgomery Alabama,229363,1143
+Montgomery,Illinois,,17135,4,1,1,0,17135,Montgomery Illinois,30104,50
+Montgomery,Indiana,,18107,17,0,1,0,18107,Montgomery Indiana,38124,103
+Montgomery,Iowa,,19137,1,0,0,0,19137,Montgomery Iowa,10740,25
+Montgomery,Kansas,,20125,11,0,2,0,20125,Montgomery Kansas,35471,88
+Montgomery,Kentucky,,21173,6,0,0,0,21173,Montgomery Kentucky,26499,42
+Montgomery,Maryland,,24031,1088,26,217,0,24031,Montgomery Maryland,971777,1492
+Montgomery,Mississippi,,28097,12,1,0,0,28097,Montgomery Mississippi,10925,25
+Montgomery,Missouri,,29139,5,0,0,0,29139,Montgomery Missouri,12236,0
+Montgomery,New York,,36057,18,1,0,0,36057,Montgomery New York,50219,130
+Montgomery,North Carolina,,37123,13,1,2,0,37123,Montgomery North Carolina,27798,37
+Montgomery,Ohio,,39113,147,2,15,0,39113,Montgomery Ohio,535153,3458
+Montgomery,Pennsylvania,,42091,1521,37,162,0,42091,Montgomery Pennsylvania,799874,3403
+Montgomery,Tennessee,,47125,72,2,7,0,47125,Montgomery Tennessee,172331,270
+Montgomery,Texas,,48339,210,4,13,0,48339,Montgomery Texas,455746,1908
+Montgomery,Virginia,,51121,16,0,0,0,51121,Montgomery Virginia,94392,280
+Montour,Pennsylvania,,42093,37,0,0,0,42093,Montour Pennsylvania,18267,656
+Montrose,Colorado,,8085,35,3,0,0,8085,Montrose Colorado,41276,69
+Moore,North Carolina,,37125,37,2,17,0,37125,Moore North Carolina,88247,372
+Moore,Tennessee,,47127,0,0,0,0,47127,Moore Tennessee,6362,0
+Moore,Texas,,48341,9,0,1,0,48341,Moore Texas,21904,25
+Morehouse,Louisiana,,22067,23,0,3,0,22067,Morehouse Louisiana,27979,82
+Morgan,Alabama,,1103,31,0,1,0,1103,Morgan Alabama,119490,402
+Morgan,Colorado,,8087,23,0,0,0,8087,Morgan Colorado,28159,69
+Morgan,Georgia,,13211,12,0,4,0,13211,Morgan Georgia,17868,41
+Morgan,Illinois,,17137,8,1,1,0,17137,Morgan Illinois,35547,108
+Morgan,Indiana,,18109,82,1,3,0,18109,Morgan Indiana,68894,207
+Morgan,Missouri,,29141,1,0,0,0,29141,Morgan Missouri,20565,0
+Morgan,Ohio,,39115,2,0,1,0,39115,Morgan Ohio,15054,0
+Morgan,Tennessee,,47129,5,0,0,0,47129,Morgan Tennessee,21987,0
+Morgan,West Virginia,,54065,4,0,0,0,54065,Morgan West Virginia,17541,41
+Morris,Kansas,,20127,2,0,0,0,20127,Morris Kansas,5923,25
+Morris,New Jersey,,34027,2468,102,229,0,34027,Morris New Jersey,492276,2005
+Morris,Texas,,48343,1,0,0,0,48343,Morris Texas,12934,0
+Morrow,Ohio,,39117,6,0,0,0,39117,Morrow Ohio,34827,22
+Morrow,Oregon,,41049,2,0,0,0,41049,Morrow Oregon,11173,21
+Morton,Kansas,,20129,1,0,0,0,20129,Morton Kansas,3233,120
+Morton,North Dakota,,38059,18,1,0,0,38059,Morton North Dakota,27471,41
+Moultrie,Illinois,,17139,2,0,1,0,17139,Moultrie Illinois,14846,0
+Mountrail,North Dakota,,38061,20,0,0,0,38061,Mountrail North Dakota,7673,11
+Mower,Minnesota,,27099,18,0,0,0,27099,Mower Minnesota,39163,82
+Muhlenberg,Kentucky,,21177,27,0,0,0,21177,Muhlenberg Kentucky,31499,90
+Multnomah,Oregon,,41051,258,7,15,0,41051,Multnomah Oregon,735334,1978
+Murray,Georgia,,13213,11,0,0,0,13213,Murray Georgia,39628,42
+Murray,Minnesota,,27101,1,0,0,0,27101,Murray Minnesota,8725,25
+Muscatine,Iowa,,19139,61,1,10,0,19139,Muscatine Iowa,42745,48
+Muscogee,Georgia,,13215,57,1,4,0,13215,Muscogee Georgia,189885,1374
+Muskegon,Michigan,,26121,42,4,1,0,26121,Muskegon Michigan,172188,413
+Muskingum,Ohio,,39119,6,0,0,0,39119,Muskingum Ohio,86074,321
+Muskogee,Oklahoma,,40101,21,2,0,0,40101,Muskogee Oklahoma,70990,429
+Musselshell,Montana,,30065,1,0,0,0,30065,Musselshell Montana,4538,25
+Nacogdoches,Texas,,48347,25,2,4,0,48347,Nacogdoches Texas,64524,390
+Napa,California,,6055,25,2,3,0,6055,Napa California,136484,1780
+Nash,North Carolina,,37127,25,1,1,0,37127,Nash North Carolina,95840,403
+Nassau,Florida,,12089,29,0,3,0,12089,Nassau Florida,73314,54
+Nassau,New York,,36059,18548,500,1938,0,36059,Nassau New York,1339532,4181
+Natchitoches,Louisiana,,22069,25,0,1,0,22069,Natchitoches Louisiana,39566,208
+Natrona,Wyoming,,56025,26,0,0,0,56025,Natrona Wyoming,75450,377
+Navajo,Arizona,,4017,404,1,26,0,4017,Navajo Arizona,107449,130
+Navarro,Texas,,48349,4,1,0,0,48349,Navarro Texas,47735,162
+Nelson,Kentucky,,21179,4,0,0,0,21179,Nelson Kentucky,43437,40
+Nelson,Virginia,,51125,3,0,1,0,51125,Nelson Virginia,15020,0
+Nemaha,Nebraska,,31127,1,0,0,0,31127,Nemaha Nebraska,7248,16
+Neosho,Kansas,,20133,1,0,0,0,20133,Neosho Kansas,16512,25
+Neshoba,Mississippi,,28099,13,0,1,0,28099,Neshoba Mississippi,29676,48
+Nevada,Arkansas,,5099,1,0,0,0,5099,Nevada Arkansas,8997,0
+Nevada,California,,6057,34,1,2,0,6057,Nevada California,98764,176
+New Castle,Delaware,,10003,636,9,65,0,10003,New Castle Delaware,538479,2016
+New Hanover,North Carolina,,37129,53,0,2,0,37129,New Hanover North Carolina,202667,769
+New Haven,Connecticut,,9009,1664,60,0,0,9009,New Haven Connecticut,862477,3045
+New Kent,Virginia,,51127,11,0,-1,0,51127,New Kent Virginia,18429,110
+New London,Connecticut,,9011,85,4,0,0,9011,New London Connecticut,274055,465
+New Madrid,Missouri,,29143,5,0,0,0,29143,New Madrid Missouri,18956,0
+New York City,New York,,36061,81803,4571,4927,0,360000,New York City New York,8175133,24245
+Newaygo,Michigan,,26123,3,0,0,0,26123,Newaygo Michigan,48460,25
+Newberry,South Carolina,,45071,7,0,0,0,45071,Newberry South Carolina,37508,90
+Newport,Rhode Island,,44005,56,0,4,0,44005,Newport Rhode Island,82888,129
+Newport News,Virginia,,51700,60,1,3,0,51700,Newport News Virginia,180719,792
+Newton,Arkansas,,5101,1,0,0,0,5101,Newton Arkansas,8330,0
+Newton,Georgia,,13217,67,3,2,0,13217,Newton Georgia,99958,97
+Newton,Indiana,,18111,6,1,0,0,18111,Newton Indiana,14244,0
+Newton,Mississippi,,28101,7,0,0,0,28101,Newton Mississippi,21720,25
+Newton,Missouri,,29145,6,0,0,0,29145,Newton Missouri,58114,463
+Newton,Texas,,48351,1,0,0,0,48351,Newton Texas,14445,0
+Nez Perce,Idaho,,16069,17,2,2,0,16069,Nez Perce Idaho,39265,145
+Niagara,New York,,36063,155,1,29,0,36063,Niagara New York,216469,623
+Nicholas,Kentucky,,21181,1,0,0,0,21181,Nicholas Kentucky,7135,0
+Nicholas,West Virginia,,54067,2,0,0,0,54067,Nicholas West Virginia,26233,105
+Nicollet,Minnesota,,27103,5,0,1,0,27103,Nicollet Minnesota,32727,17
+Noble,Indiana,,18113,11,1,0,0,18113,Noble Indiana,47536,31
+Noble,Oklahoma,,40103,6,0,0,0,40103,Noble Oklahoma,11561,26
+Nodaway,Missouri,,29147,2,0,0,0,29147,Nodaway Missouri,23370,81
+Norfolk,Massachusetts,,25021,1778,41,186,0,25021,Norfolk Massachusetts,670850,1670
+Norfolk,Virginia,,51710,77,0,5,0,51710,Norfolk Virginia,242803,1400
+Northampton,North Carolina,,37131,54,1,1,0,37131,Northampton North Carolina,22099,0
+Northampton,Pennsylvania,,42095,857,17,83,0,42095,Northampton Pennsylvania,297735,362
+Northampton,Virginia,,51131,2,0,0,0,51131,Northampton Virginia,12389,143
+Northumberland,Pennsylvania,,42097,22,0,0,0,42097,Northumberland Pennsylvania,94528,173
+Northumberland,Virginia,,51133,3,0,0,0,51133,Northumberland Virginia,12330,0
+Norton,Virginia,,51720,0,0,0,0,51720,Norton Virginia,3958,262
+Nottoway,Virginia,,51135,3,0,0,0,51135,Nottoway Virginia,15853,123
+Nowata,Oklahoma,,40105,10,0,0,0,40105,Nowata Oklahoma,10536,25
+Noxubee,Mississippi,,28103,5,0,0,0,28103,Noxubee Mississippi,11545,25
+Nueces,Texas,,48355,65,0,0,0,48355,Nueces Texas,340223,2035
+Nye,Nevada,,32023,7,0,0,0,32023,Nye Nevada,43946,25
+O'Brien,Iowa,,19141,3,0,0,0,19141,O'Brien Iowa,14398,50
+Oakland,Michigan,,26125,4007,234,271,0,26125,Oakland Michigan,1202362,4435
+Obion,Tennessee,,47131,4,1,1,0,47131,Obion Tennessee,31807,137
+Ocean,New Jersey,,34029,2856,101,215,0,34029,Ocean New Jersey,576567,1522
+Oceana,Michigan,,26127,3,1,0,0,26127,Oceana Michigan,26570,24
+Oconee,Georgia,,13219,33,1,1,0,13219,Oconee Georgia,32808,0
+Oconee,South Carolina,,45073,9,0,0,0,45073,Oconee South Carolina,74273,169
+Oconto,Wisconsin,,55083,1,0,0,0,55083,Oconto Wisconsin,37660,35
+Ogemaw,Michigan,,26129,3,0,0,0,26129,Ogemaw Michigan,21699,88
+Oglala Lakota,South Dakota,,46102,1,0,1,0,46102,Oglala Lakota South Dakota,13586,45
+Ogle,Illinois,,17141,12,0,5,0,17141,Ogle Illinois,53497,16
+Oglethorpe,Georgia,,13221,2,1,0,0,13221,Oglethorpe Georgia,14899,0
+Ohio,Indiana,,18115,1,0,0,0,18115,Ohio Indiana,6128,0
+Ohio,Kentucky,,21183,1,0,0,0,21183,Ohio Kentucky,23842,25
+Ohio,West Virginia,,54069,18,0,-1,0,54069,Ohio West Virginia,44443,650
+Okaloosa,Florida,,12091,78,1,9,0,12091,Okaloosa Florida,180822,673
+Okanogan,Washington,,53047,10,0,1,0,53047,Okanogan Washington,41120,91
+Okeechobee,Florida,,12093,4,0,0,0,12093,Okeechobee Florida,39996,100
+Oklahoma,Oklahoma,,40109,317,15,14,0,40109,Oklahoma Oklahoma,718633,4624
+Okmulgee,Oklahoma,,40111,11,0,0,0,40111,Okmulgee Oklahoma,40069,137
+Oktibbeha,Mississippi,,28105,30,1,1,0,28105,Oktibbeha Mississippi,47671,96
+Oldham,Kentucky,,21185,8,0,0,0,21185,Oldham Kentucky,60316,187
+Oldham,Texas,,48359,3,1,0,0,48359,Oldham Texas,2052,0
+Oliver,North Dakota,,38065,1,0,0,0,38065,Oliver North Dakota,1846,0
+Olmsted,Minnesota,,27109,108,2,5,0,27109,Olmsted Minnesota,144248,2120
+Oneida,New York,,36065,125,2,7,0,36065,Oneida New York,234878,725
+Oneida,Wisconsin,,55085,5,0,0,0,55085,Oneida Wisconsin,35998,172
+Onondaga,New York,,36067,422,6,25,0,36067,Onondaga New York,467026,1672
+Onslow,North Carolina,,37133,24,1,1,0,37133,Onslow North Carolina,177772,162
+Ontario,New York,,36069,39,0,6,0,36069,Ontario New York,107931,399
+Ontonagon,Michigan,,26131,0,0,0,0,26131,Ontonagon Michigan,6780,25
+Orange,California,,6059,1016,17,85,0,6059,Orange California,3010232,7902
+Orange,Florida,,12095,803,10,40,0,12095,Orange Florida,1145956,4751
+Orange,Indiana,,18117,11,2,-3,0,18117,Orange Indiana,19840,24
+Orange,New York,,36071,4075,107,246,0,36071,Orange New York,372813,902
+Orange,North Carolina,,37135,81,0,8,0,37135,Orange North Carolina,133801,896
+Orange,Texas,,48361,29,0,3,0,48361,Orange Texas,81837,0
+Orange,Vermont,,50017,4,0,0,0,50017,Orange Vermont,28936,25
+Orange,Virginia,,51137,7,0,0,0,51137,Orange Virginia,33481,0
+Orangeburg,South Carolina,,45075,30,0,0,0,45075,Orangeburg South Carolina,92501,301
+Oregon,Missouri,,29149,1,0,0,0,29149,Oregon Missouri,10881,0
+Orleans,Louisiana,,22071,5070,208,128,0,22071,Orleans Louisiana,343829,1647
+Orleans,New York,,36073,16,0,1,0,36073,Orleans New York,42883,39
+Orleans,Vermont,,50019,8,0,0,0,50019,Orleans Vermont,27231,25
+Osage,Kansas,,20139,3,0,0,0,20139,Osage Kansas,16295,0
+Osage,Missouri,,29151,4,0,0,0,29151,Osage Missouri,13878,0
+Osage,Oklahoma,,40113,33,5,-1,0,40113,Osage Oklahoma,47472,40
+Osborne,Kansas,,20141,2,0,0,0,20141,Osborne Kansas,3858,25
+Osceola,Florida,,12097,272,4,18,0,12097,Osceola Florida,268685,997
+Osceola,Michigan,,26133,3,0,0,0,26133,Osceola Michigan,23528,25
+Oscoda,Michigan,,26135,2,0,0,0,26135,Oscoda Michigan,8640,0
+Oswego,New York,,36075,34,2,0,0,36075,Oswego New York,122109,158
+Otero,Colorado,,8089,4,0,0,0,8089,Otero Colorado,18831,78
+Otero,New Mexico,,35035,3,0,0,0,35035,Otero New Mexico,63797,112
+Otoe,Nebraska,,31131,1,0,0,0,31131,Otoe Nebraska,15740,36
+Otsego,Michigan,,26137,29,2,1,0,26137,Otsego Michigan,24164,46
+Otsego,New York,,36077,38,1,4,0,36077,Otsego New York,62259,240
+Ottawa,Kansas,,20143,3,0,0,0,20143,Ottawa Kansas,6091,42
+Ottawa,Michigan,,26139,55,0,3,0,26139,Ottawa Michigan,263801,311
+Ottawa,Ohio,,39123,6,0,1,0,39123,Ottawa Ohio,41428,25
+Ottawa,Oklahoma,,40115,15,0,1,0,40115,Ottawa Oklahoma,31848,167
+Otter Tail,Minnesota,,27111,2,0,0,0,27111,Otter Tail Minnesota,57303,133
+Ouachita,Arkansas,,5103,1,0,0,0,5103,Ouachita Arkansas,26120,100
+Ouachita,Louisiana,,22073,275,3,11,0,22073,Ouachita Louisiana,153720,679
+Ouray,Colorado,,8091,3,0,0,0,8091,Ouray Colorado,4436,0
+Out of CO,Colorado,,80008,0,1,0,0,80008,Out of CO Colorado,#N/A,#N/A
+Out of HI,Hawaii,,80015,2,0,0,0,80015,Out of HI Hawaii,#N/A,#N/A
+Out of MI,Michigan,1,,126,1,119,0,,Out of MI Michigan,#N/A,#N/A
+Out of OK,Oklahoma,,80040,2,0,0,0,80040,Out of OK Oklahoma,#N/A,#N/A
+Out of TN,Tennessee,1,,282,0,275,0,,Out of TN Tennessee,#N/A,#N/A
+Outagamie,Wisconsin,,55087,25,1,0,0,55087,Outagamie Wisconsin,176695,517
+Overton,Tennessee,,47133,5,0,1,0,47133,Overton Tennessee,22083,82
+Owen,Indiana,,18119,17,0,0,0,18119,Owen Indiana,21575,0
+Owyhee,Idaho,,16073,2,0,0,0,16073,Owyhee Idaho,11526,0
+Oxford,Maine,,23017,12,0,0,0,23017,Oxford Maine,57833,75
+Ozaukee,Wisconsin,,55089,70,7,4,0,55089,Ozaukee Wisconsin,86395,326
+Page,Iowa,,19145,3,0,0,0,19145,Page Iowa,15932,50
+Page,Virginia,,51139,3,0,0,0,51139,Page Virginia,24042,25
+Palm Beach,Florida,,12099,1206,69,70,0,12099,Palm Beach Florida,1320134,4993
+Palo Pinto,Texas,,48363,3,0,1,0,48363,Palo Pinto Texas,28111,74
+Pamlico,North Carolina,,37137,3,0,0,0,37137,Pamlico North Carolina,13144,0
+Panola,Mississippi,,28107,19,1,0,0,28107,Panola Mississippi,34707,112
+Panola,Texas,,48365,4,1,0,0,48365,Panola Texas,23796,49
+Park,Colorado,,8093,5,0,0,0,8093,Park Colorado,16206,0
+Park,Montana,,30067,7,0,1,0,30067,Park Montana,15636,25
+Park,Wyoming,,56029,1,0,0,0,56029,Park Wyoming,28205,50
+Parke,Indiana,,18121,5,0,-1,0,18121,Parke Indiana,17339,0
+Parker,Texas,,48367,6,0,0,0,48367,Parker Texas,116927,125
+Pasco,Florida,,12101,125,2,5,0,12101,Pasco Florida,464697,1440
+Pasquotank,North Carolina,,37139,10,0,1,0,37139,Pasquotank North Carolina,40661,182
+Passaic,New Jersey,,34031,4372,71,268,0,34031,Passaic New Jersey,501226,1187
+Patrick,Virginia,,51141,0,0,0,0,51141,Patrick Virginia,18490,0
+Paulding,Georgia,,13223,66,1,6,0,13223,Paulding Georgia,142324,83
+Paulding,Ohio,,39125,2,0,1,0,39125,Paulding Ohio,19614,25
+Pawnee,Oklahoma,,40117,23,1,0,0,40117,Pawnee Oklahoma,16577,14
+Payette,Idaho,,16075,6,1,0,0,16075,Payette Idaho,22623,0
+Payne,Oklahoma,,40119,24,0,0,0,40119,Payne Oklahoma,77350,216
+Peach,Georgia,,13225,19,2,3,0,13225,Peach Georgia,27695,25
+Pearl River,Mississippi,,28109,60,3,4,0,28109,Pearl River Mississippi,55834,84
+Pecos,Texas,,48371,1,0,0,0,48371,Pecos Texas,15507,41
+Pemiscot,Missouri,,29155,3,0,0,0,29155,Pemiscot Missouri,18296,167
+Pend Oreille,Washington,,53051,1,0,0,0,53051,Pend Oreille Washington,13001,74
+Pender,North Carolina,,37141,2,0,0,0,37141,Pender North Carolina,52217,86
+Pendleton,Kentucky,,21191,2,0,0,0,21191,Pendleton Kentucky,14877,0
+Pendleton,West Virginia,,54071,1,0,0,0,54071,Pendleton West Virginia,7695,0
+Pennington,South Dakota,,46103,6,1,0,0,46103,Pennington South Dakota,100948,509
+Penobscot,Maine,,23019,31,0,0,0,23019,Penobscot Maine,153923,773
+Peoria,Illinois,,17143,16,1,4,0,17143,Peoria Illinois,186494,1122
+Pepin,Wisconsin,,55091,0,0,0,0,55091,Pepin Wisconsin,7469,25
+Perquimans,North Carolina,,37143,2,0,0,0,37143,Perquimans North Carolina,13453,0
+Perry,Alabama,,1105,0,0,-1,0,1105,Perry Alabama,10591,0
+Perry,Arkansas,,5105,1,0,0,0,5105,Perry Arkansas,10445,0
+Perry,Kentucky,,21193,3,0,0,0,21193,Perry Kentucky,28712,358
+Perry,Mississippi,,28111,14,1,0,0,28111,Perry Mississippi,12250,22
+Perry,Missouri,,29157,31,0,3,0,29157,Perry Missouri,18971,25
+Perry,Ohio,,39127,6,0,2,0,39127,Perry Ohio,36058,0
+Perry,Pennsylvania,,42099,13,1,4,0,42099,Perry Pennsylvania,45969,0
+Perry,Tennessee,,47135,3,0,0,0,47135,Perry Tennessee,7915,53
+Person,North Carolina,,37145,7,0,0,0,37145,Person North Carolina,39464,110
+Petersburg,Alaska,,2195,2,0,0,0,2195,Petersburg Alaska,3815,27
+Petersburg,Virginia,,51730,9,0,-1,0,51730,Petersburg Virginia,32420,572
+Pettis,Missouri,,29159,3,0,0,0,29159,Pettis Missouri,42201,145
+Phelps,Missouri,,29161,1,0,0,0,29161,Phelps Missouri,45156,242
+Phelps,Nebraska,,31137,1,0,0,0,31137,Phelps Nebraska,9188,25
+Philadelphia,Pennsylvania,,42101,4777,87,505,0,42101,Philadelphia Pennsylvania,1526006,8160
+Phillips,Arkansas,,5107,1,0,0,0,5107,Phillips Arkansas,21757,155
+Phillips,Colorado,,8095,4,0,1,0,8095,Phillips Colorado,4442,40
+Piatt,Illinois,,17147,4,0,1,0,17147,Piatt Illinois,16729,16
+Pickaway,Ohio,,39129,35,0,4,0,39129,Pickaway Ohio,55698,82
+Pickens,Alabama,,1107,15,0,1,0,1107,Pickens Alabama,19746,56
+Pickens,Georgia,,13227,10,2,0,0,13227,Pickens Georgia,29431,48
+Pickens,South Carolina,,45077,21,0,0,0,45077,Pickens South Carolina,119224,164
+Pierce,Georgia,,13229,36,1,8,0,13229,Pierce Georgia,18758,0
+Pierce,North Dakota,,38069,2,0,0,0,38069,Pierce North Dakota,4357,25
+Pierce,Washington,,53053,795,16,35,0,53053,Pierce Washington,795225,2408
+Pierce,Wisconsin,,55093,7,0,0,0,55093,Pierce Wisconsin,41019,0
+Pike,Alabama,,1109,16,0,2,0,1109,Pike Alabama,32899,97
+Pike,Arkansas,,5109,1,0,0,0,5109,Pike Arkansas,11291,0
+Pike,Georgia,,13231,10,0,0,0,13231,Pike Georgia,17869,0
+Pike,Illinois,,17149,1,0,0,0,17149,Pike Illinois,16430,21
+Pike,Kentucky,,21195,1,0,0,0,21195,Pike Kentucky,65024,374
+Pike,Mississippi,,28113,33,1,2,0,28113,Pike Mississippi,40404,197
+Pike,Missouri,,29163,4,0,0,0,29163,Pike Missouri,18516,25
+Pike,Ohio,,39131,1,0,0,0,39131,Pike Ohio,28709,25
+Pike,Pennsylvania,,42103,148,6,12,0,42103,Pike Pennsylvania,57369,0
+Pima,Arizona,,4019,464,16,49,0,4019,Pima Arizona,980263,3018
+Pinal,Arizona,,4021,124,0,4,0,4021,Pinal Arizona,375770,388
+Pinellas,Florida,,12103,394,9,14,0,12103,Pinellas Florida,916542,4119
+Pipestone,Minnesota,,27117,1,0,0,0,27117,Pipestone Minnesota,9596,44
+Pitkin,Colorado,,8097,39,2,0,0,8097,Pitkin Colorado,17148,25
+Pitt,North Carolina,,37147,51,1,7,0,37147,Pitt North Carolina,168148,909
+Pittsburg,Oklahoma,,40121,7,0,0,0,40121,Pittsburg Oklahoma,45837,185
+Pittsylvania,Virginia,,51143,3,0,0,0,51143,Pittsylvania Virginia,63506,0
+Placer,California,,6061,117,4,11,0,6061,Placer California,348432,748
+Plaquemines,Louisiana,,22075,123,7,8,0,22075,Plaquemines Louisiana,23042,0
+Platte,Missouri,,29165,18,0,1,0,29165,Platte Missouri,89322,97
+Platte,Nebraska,,31141,5,0,0,0,31141,Platte Nebraska,32237,51
+Platte,Wyoming,,56031,0,0,-1,0,56031,Platte Wyoming,8667,25
+Pleasants,West Virginia,,54073,1,0,0,0,54073,Pleasants West Virginia,7605,0
+Plumas,California,,6063,3,0,0,0,6063,Plumas California,20007,87
+Plymouth,Iowa,,19149,4,0,0,0,19149,Plymouth Iowa,24986,25
+Plymouth,Massachusetts,,25023,1327,33,133,0,25023,Plymouth Massachusetts,494919,872
+Poinsett,Arkansas,,5111,6,0,0,0,5111,Poinsett Arkansas,24583,0
+Pointe Coupee,Louisiana,,22077,27,0,1,0,22077,Pointe Coupee Louisiana,22802,25
+Polk,Arkansas,,5113,6,0,1,0,5113,Polk Arkansas,20662,65
+Polk,Florida,,12105,206,5,9,0,12105,Polk Florida,602095,1793
+Polk,Georgia,,13233,22,0,2,0,13233,Polk Georgia,41475,53
+Polk,Iowa,,19153,134,4,7,0,19153,Polk Iowa,430640,1725
+Polk,Minnesota,,27119,1,0,0,0,27119,Polk Minnesota,31600,92
+Polk,Missouri,,29167,1,0,0,0,29167,Polk Missouri,31137,86
+Polk,North Carolina,,37149,8,0,0,0,37149,Polk North Carolina,20510,35
+Polk,Oregon,,41053,28,1,2,0,41053,Polk Oregon,75403,15
+Polk,Tennessee,,47139,3,0,0,0,47139,Polk Tennessee,16825,0
+Polk,Texas,,48373,8,0,0,0,48373,Polk Texas,45413,66
+Pontotoc,Mississippi,,28115,13,1,1,0,28115,Pontotoc Mississippi,29957,25
+Pontotoc,Oklahoma,,40123,9,0,0,0,40123,Pontotoc Oklahoma,37492,216
+Pope,Arkansas,,5115,20,0,3,0,5115,Pope Arkansas,61754,170
+Poquoson,Virginia,,51735,4,0,0,0,51735,Poquoson Virginia,12150,0
+Portage,Ohio,,39133,108,8,7,0,39133,Portage Ohio,161419,302
+Portage,Wisconsin,,55097,4,0,0,0,55097,Portage Wisconsin,70019,94
+Porter,Indiana,,18127,85,0,1,0,18127,Porter Indiana,164343,317
+Portsmouth,Virginia,,51740,41,0,5,0,51740,Portsmouth Virginia,95535,346
+Posey,Indiana,,18129,5,0,0,0,18129,Posey Indiana,25910,0
+Pottawatomie,Kansas,,20149,5,0,2,0,20149,Pottawatomie Kansas,21604,177
+Pottawatomie,Oklahoma,,40125,20,1,1,0,40125,Pottawatomie Oklahoma,69442,136
+Pottawattamie,Iowa,,19155,11,0,2,0,19155,Pottawattamie Iowa,93158,514
+Potter,Pennsylvania,,42105,3,0,0,0,42105,Potter Pennsylvania,17457,59
+Potter,Texas,,48375,47,1,6,0,48375,Potter Texas,121073,1146
+Powell,Kentucky,,21197,1,0,0,0,21197,Powell Kentucky,12613,0
+Power,Idaho,,16077,2,0,2,0,16077,Power Idaho,7817,10
+Poweshiek,Iowa,,19157,6,1,0,0,19157,Poweshiek Iowa,18914,49
+Powhatan,Virginia,,51145,4,0,0,0,51145,Powhatan Virginia,28046,0
+Prairie,Arkansas,,5117,1,0,0,0,5117,Prairie Arkansas,8715,0
+Pratt,Kansas,,20151,1,0,0,0,20151,Pratt Kansas,9656,85
+Preble,Ohio,,39135,8,0,1,0,39135,Preble Ohio,42270,0
+Prentiss,Mississippi,,28117,10,0,0,0,28117,Prentiss Mississippi,25276,114
+Presque Isle,Michigan,,26141,1,0,0,0,26141,Presque Isle Michigan,13376,0
+Preston,West Virginia,,54077,6,0,0,0,54077,Preston West Virginia,33520,25
+Prince Edward,Virginia,,51147,3,0,0,0,51147,Prince Edward Virginia,23368,116
+Prince George,Virginia,,51149,24,0,3,0,51149,Prince George Virginia,35725,0
+Prince George's,Maryland,,24033,1310,32,290,0,24033,Prince George's Maryland,863420,836
+Prince William,Virginia,,51153,263,1,27,0,51153,Prince William Virginia,402002,243
+Providence,Rhode Island,,44007,832,3,210,0,44007,Providence Rhode Island,626667,3272
+Pueblo,Colorado,,8101,45,2,1,0,8101,Pueblo Colorado,159063,1292
+Pulaski,Arkansas,,5119,179,2,4,0,5119,Pulaski Arkansas,382748,3071
+Pulaski,Georgia,,13235,8,0,0,0,13235,Pulaski Georgia,12010,49
+Pulaski,Indiana,,18131,1,0,0,0,18131,Pulaski Indiana,13402,25
+Pulaski,Kentucky,,21199,13,1,0,0,21199,Pulaski Kentucky,63063,295
+Pulaski,Missouri,,29169,12,1,0,0,29169,Pulaski Missouri,52274,0
+Pulaski,Virginia,,51155,2,0,0,0,51155,Pulaski Virginia,34872,135
+Putnam,Florida,,12107,21,1,2,0,12107,Putnam Florida,74364,99
+Putnam,Georgia,,13237,5,0,0,0,13237,Putnam Georgia,21218,25
+Putnam,Indiana,,18133,27,1,2,0,18133,Putnam Indiana,37963,25
+Putnam,New York,,36079,427,7,25,0,36079,Putnam New York,99710,164
+Putnam,Ohio,,39137,0,0,0,0,39137,Putnam Ohio,34499,0
+Putnam,Tennessee,,47141,81,0,24,0,47141,Putnam Tennessee,72321,247
+Putnam,West Virginia,,54079,10,0,0,0,54079,Putnam West Virginia,55486,70
+Queen Anne's,Maryland,,24035,16,0,1,0,24035,Queen Anne's Maryland,47798,0
+Quitman,Georgia,,13239,4,0,1,0,13239,Quitman Georgia,2513,0
+Quitman,Mississippi,,28119,12,0,3,0,28119,Quitman Mississippi,8223,0
+Rabun,Georgia,,13241,5,0,0,0,13241,Rabun Georgia,16276,25
+Racine,Wisconsin,,55101,66,2,0,0,55101,Racine Wisconsin,195408,715
+Radford,Virginia,,51750,1,0,0,0,51750,Radford Virginia,16408,0
+Raleigh,West Virginia,,54081,4,0,0,0,54081,Raleigh West Virginia,78859,473
+Ralls,Missouri,,29173,1,0,0,0,29173,Ralls Missouri,10167,0
+Ramsey,Minnesota,,27123,112,3,11,0,27123,Ramsey Minnesota,508640,1907
+Ramsey,North Dakota,,38071,3,0,0,0,38071,Ramsey North Dakota,11451,25
+Randall,Texas,,48381,40,1,4,0,48381,Randall Texas,120725,4
+Randolph,Alabama,,1111,15,2,2,0,1111,Randolph Alabama,22913,34
+Randolph,Arkansas,,5121,6,0,5,0,5121,Randolph Arkansas,17969,50
+Randolph,Georgia,,13243,82,3,1,0,13243,Randolph Georgia,7719,25
+Randolph,Illinois,,17157,31,0,4,0,17157,Randolph Illinois,33476,165
+Randolph,Indiana,,18135,7,1,0,0,18135,Randolph Indiana,26171,25
+Randolph,Missouri,,29175,7,0,0,0,29175,Randolph Missouri,25414,100
+Randolph,North Carolina,,37151,37,2,2,0,37151,Randolph North Carolina,141752,145
+Randolph,West Virginia,,54083,3,0,0,0,54083,Randolph West Virginia,29405,90
+Rankin,Mississippi,,28121,79,2,1,0,28121,Rankin Mississippi,141617,2081
+Rapides,Louisiana,,22079,135,4,6,0,22079,Rapides Louisiana,131613,906
+Rappahannock,Virginia,,51157,1,0,0,0,51157,Rappahannock Virginia,7373,0
+Ravalli,Montana,,30081,3,0,1,0,30081,Ravalli Montana,40212,37
+Ray,Missouri,,29177,7,0,0,0,29177,Ray Missouri,23494,34
+Red River,Louisiana,,22081,3,1,1,0,22081,Red River Louisiana,9091,37
+Redwood,Minnesota,,27127,1,0,0,0,27127,Redwood Minnesota,16059,25
+Reeves,Texas,,48389,1,0,0,0,48389,Reeves Texas,13783,25
+Reno,Kansas,,20155,10,0,-1,0,20155,Reno Kansas,64511,223
+Rensselaer,New York,,36083,88,3,0,0,36083,Rensselaer New York,159429,423
+Renville,Minnesota,,27129,2,0,0,0,27129,Renville Minnesota,15730,16
+Republic,Kansas,,20157,3,0,1,0,20157,Republic Kansas,4980,63
+Reynolds,Missouri,,29179,2,0,0,0,29179,Reynolds Missouri,6696,0
+Rhea,Tennessee,,47143,0,0,0,0,47143,Rhea Tennessee,31809,25
+Rice,Minnesota,,27131,4,0,0,0,27131,Rice Minnesota,64142,49
+Richland,Illinois,,17159,1,0,1,0,17159,Richland Illinois,16233,90
+Richland,Louisiana,,22083,13,0,0,0,22083,Richland Louisiana,20725,56
+Richland,Montana,,30083,2,0,2,0,30083,Richland Montana,9746,118
+Richland,Ohio,,39139,25,0,5,0,39139,Richland Ohio,124475,398
+Richland,South Carolina,,45079,340,7,0,0,45079,Richland South Carolina,384504,2585
+Richland,Wisconsin,,55103,3,0,0,0,55103,Richland Wisconsin,18021,25
+Richmond,Georgia,,13245,76,3,2,0,13245,Richmond Georgia,200549,2470
+Richmond,North Carolina,,37153,2,0,1,0,37153,Richmond North Carolina,46639,163
+Richmond,Virginia,,51159,2,0,0,0,51159,Richmond Virginia,9254,0
+Richmond City,Virginia,,51760,119,0,9,0,51760,Richmond City Virginia,204214,1576
+Riley,Kansas,,20161,19,0,2,0,20161,Riley Kansas,71115,109
+Rio Arriba,New Mexico,,35039,6,0,0,0,35039,Rio Arriba New Mexico,40246,80
+Rio Blanco,Colorado,,8103,1,0,0,0,8103,Rio Blanco Colorado,6666,46
+Rio Grande,Colorado,,8105,5,0,0,0,8105,Rio Grande Colorado,11982,17
+Ripley,Indiana,,18137,76,3,0,0,18137,Ripley Indiana,28818,25
+Ripley,Missouri,,29181,2,0,0,0,29181,Ripley Missouri,14100,21
+Riverside,California,,6065,1179,32,163,0,6065,Riverside California,2189641,3945
+Roane,Tennessee,,47145,5,0,0,0,47145,Roane Tennessee,54181,54
+Roane,West Virginia,,54087,2,0,0,0,54087,Roane West Virginia,14926,60
+Roanoke,Virginia,,51161,9,0,1,0,51161,Roanoke Virginia,92376,110
+Roanoke City,Virginia,,51770,14,0,2,0,51770,Roanoke City Virginia,97032,934
+Roberts,South Dakota,,46109,4,0,0,0,46109,Roberts South Dakota,10149,25
+Robertson,Tennessee,,47147,67,0,2,0,47147,Robertson Tennessee,66283,109
+Robertson,Texas,,48395,2,0,0,0,48395,Robertson Texas,16622,0
+Robeson,North Carolina,,37155,7,0,1,0,37155,Robeson North Carolina,134168,452
+Rock,Wisconsin,,55105,37,2,0,0,55105,Rock Wisconsin,160331,564
+Rock Island,Illinois,,17161,67,0,20,0,17161,Rock Island Illinois,147546,444
+Rockbridge,Virginia,,51163,3,0,0,0,51163,Rockbridge Virginia,22307,0
+Rockcastle,Kentucky,,21203,4,0,0,0,21203,Rockcastle Kentucky,17056,26
+Rockdale,Georgia,,13247,86,2,1,0,13247,Rockdale Georgia,85215,146
+Rockingham,New Hampshire,,33015,255,1,9,0,33015,Rockingham New Hampshire,295223,606
+Rockingham,North Carolina,,37157,8,1,0,0,37157,Rockingham North Carolina,93643,352
+Rockingham,Virginia,,51165,20,0,4,0,51165,Rockingham Virginia,76314,238
+Rockland,New York,,36087,6413,154,423,0,36087,Rockland New York,311687,791
+Rockwall,Texas,,48397,14,0,3,0,48397,Rockwall Texas,78337,170
+Rogers,Oklahoma,,40131,19,0,2,0,40131,Rogers Oklahoma,86905,81
+Rolette,North Dakota,,38079,0,0,0,0,38079,Rolette North Dakota,13937,25
+Rooks,Kansas,,20163,2,0,2,0,20163,Rooks Kansas,5181,20
+Roosevelt,Montana,,30085,2,0,1,0,30085,Roosevelt Montana,10425,45
+Roosevelt,New Mexico,,35041,1,0,0,0,35041,Roosevelt New Mexico,19846,30
+Roscommon,Michigan,,26143,6,0,0,0,26143,Roscommon Michigan,24449,0
+Roseau,Minnesota,,27135,1,0,1,0,27135,Roseau Minnesota,15629,25
+Ross,Ohio,,39141,10,0,1,0,39141,Ross Ohio,78064,261
+Routt,Colorado,,8107,32,0,0,0,8107,Routt Colorado,23509,98
+Rowan,North Carolina,,37159,64,2,2,0,37159,Rowan North Carolina,138428,268
+Rush,Indiana,,18139,14,1,0,0,18139,Rush Indiana,17392,25
+Rusk,Texas,,48401,14,0,1,0,48401,Rusk Texas,53330,96
+Rusk,Wisconsin,,55107,3,0,0,0,55107,Rusk Wisconsin,14755,25
+Russell,Alabama,,1113,14,0,2,0,1113,Russell Alabama,52947,118
+Russell,Kentucky,,21207,1,0,0,0,21207,Russell Kentucky,17565,25
+Russell,Virginia,,51167,1,0,0,0,51167,Russell Virginia,28897,78
+Rutherford,North Carolina,,37161,25,0,4,0,37161,Rutherford North Carolina,67810,143
+Rutherford,Tennessee,,47149,193,3,15,0,47149,Rutherford Tennessee,262604,488
+Rutland,Vermont,,50021,31,0,0,0,50021,Rutland Vermont,61642,123
+Sabine,Louisiana,,22085,7,0,0,0,22085,Sabine Louisiana,24233,44
+Sacramento,California,,6067,580,22,55,0,6067,Sacramento California,1418788,3500
+Sagadahoc,Maine,,23023,13,0,0,0,23023,Sagadahoc Maine,35293,0
+Saginaw,Michigan,,26145,186,6,33,0,26145,Saginaw Michigan,200169,968
+Saguache,Colorado,,8109,3,0,0,0,8109,Saguache Colorado,6108,0
+Salem,New Jersey,,34033,36,3,5,0,34033,Salem New Jersey,66083,222
+Salem,Virginia,,51775,1,0,0,0,51775,Salem Virginia,24802,794
+Saline,Arkansas,,5125,33,0,0,0,5125,Saline Arkansas,107118,244
+Saline,Illinois,,17165,2,0,1,0,17165,Saline Illinois,24913,98
+Saline,Kansas,,20169,7,1,0,0,20169,Saline Kansas,55606,214
+Saline,Missouri,,29195,5,0,0,0,29195,Saline Missouri,23370,75
+Salt Lake,Utah,,49035,858,7,51,0,49035,Salt Lake Utah,1029655,2932
+Saluda,South Carolina,,45081,5,0,0,0,45081,Saluda South Carolina,19875,0
+Sampson,North Carolina,,37163,5,0,0,0,37163,Sampson North Carolina,63431,146
+San Augustine,Texas,,48405,4,1,0,0,48405,San Augustine Texas,8865,18
+San Benito,California,,6069,33,2,10,0,6069,San Benito California,55269,181
+San Bernardino,California,,6071,547,17,17,0,6071,San Bernardino California,2035210,5906
+San Diego,California,,6073,1454,31,50,0,6073,San Diego California,3095313,7623
+San Francisco,California,,6075,676,10,54,0,6075,San Francisco California,805235,4733
+San Jacinto,Texas,,48407,3,0,2,0,48407,San Jacinto Texas,26384,0
+San Joaquin,California,,6077,223,13,6,0,6077,San Joaquin California,685306,1256
+San Juan,New Mexico,,35045,173,0,17,0,35045,San Juan New Mexico,130044,267
+San Juan,Utah,,49037,13,0,1,0,49037,San Juan Utah,14746,25
+San Juan,Washington,,53055,12,0,2,0,53055,San Juan Washington,15769,25
+San Luis Obispo,California,,6079,99,1,4,0,6079,San Luis Obispo California,269637,1747
+San Mateo,California,,6081,617,21,28,0,6081,San Mateo California,718451,1781
+San Miguel,Colorado,,8113,10,0,0,0,8113,San Miguel Colorado,7359,0
+San Miguel,New Mexico,,35047,1,0,0,0,35047,San Miguel New Mexico,29393,175
+San Patricio,Texas,,48409,7,0,5,0,48409,San Patricio Texas,64804,75
+Sandoval,New Mexico,,35043,128,2,0,0,35043,Sandoval New Mexico,131561,271
+Sandusky,Ohio,,39143,5,1,0,0,39143,Sandusky Ohio,60944,335
+Sangamon,Illinois,,17167,33,2,2,0,17167,Sangamon Illinois,197465,1045
+Sanilac,Michigan,,26151,22,2,5,0,26151,Sanilac Michigan,43114,65
+Santa Barbara,California,,6083,218,2,26,0,6083,Santa Barbara California,423895,1054
+Santa Clara,California,,6085,1380,46,95,0,6085,Santa Clara California,1781642,3831
+Santa Cruz,Arizona,,4023,6,0,1,0,4023,Santa Cruz Arizona,47420,56
+Santa Cruz,California,,6087,76,1,0,0,6087,Santa Cruz California,262382,375
+Santa Fe,New Mexico,,35049,66,0,0,0,35049,Santa Fe New Mexico,144170,258
+Santa Rosa,Florida,,12113,69,2,4,0,12113,Santa Rosa Florida,151372,385
+Sarasota,Florida,,12115,180,7,8,0,12115,Sarasota Florida,379448,1618
+Saratoga,New York,,36091,162,4,7,0,36091,Saratoga New York,219607,259
+Sarpy,Nebraska,,31153,37,0,8,0,31153,Sarpy Nebraska,158840,176
+Sauk,Wisconsin,,55111,20,2,0,0,55111,Sauk Wisconsin,61976,161
+Saunders,Nebraska,,31155,4,0,0,0,31155,Saunders Nebraska,20780,16
+Schenectady,New York,,36093,149,7,4,0,36093,Schenectady New York,154727,538
+Schley,Georgia,,13249,10,1,0,0,13249,Schley Georgia,5010,0
+Schoharie,New York,,36095,12,0,0,0,36095,Schoharie New York,32749,40
+Schoolcraft,Michigan,,26153,1,0,1,0,26153,Schoolcraft Michigan,8485,12
+Schuyler,New York,,36097,4,0,0,0,36097,Schuyler New York,18343,25
+Schuylkill,Pennsylvania,,42107,136,0,17,0,42107,Schuylkill Pennsylvania,148289,361
+Scioto,Ohio,,39145,1,0,0,0,39145,Scioto Ohio,79499,446
+Scotland,Missouri,,29199,1,0,0,0,29199,Scotland Missouri,4843,25
+Scotland,North Carolina,,37165,3,0,0,0,37165,Scotland North Carolina,36157,104
+Scott,Arkansas,,5127,1,0,0,0,5127,Scott Arkansas,11233,0
+Scott,Indiana,,18143,11,2,3,0,18143,Scott Indiana,24181,25
+Scott,Iowa,,19163,77,1,11,0,19163,Scott Iowa,165224,1193
+Scott,Kansas,,20171,1,0,0,0,20171,Scott Kansas,4936,25
+Scott,Kentucky,,21209,14,0,0,0,21209,Scott Kentucky,47173,75
+Scott,Minnesota,,27139,17,1,1,0,27139,Scott Minnesota,129928,142
+Scott,Mississippi,,28123,34,0,2,0,28123,Scott Mississippi,28264,60
+Scott,Missouri,,29201,11,0,1,0,29201,Scott Missouri,39191,144
+Scott,Tennessee,,47151,5,0,1,0,47151,Scott Tennessee,22228,25
+Scott,Virginia,,51169,0,0,0,0,51169,Scott Virginia,23177,0
+Scotts Bluff,Nebraska,,31157,10,0,4,0,31157,Scotts Bluff Nebraska,36970,166
+Screven,Georgia,,13251,4,0,1,0,13251,Screven Georgia,14593,25
+Searcy,Arkansas,,5129,6,0,0,0,5129,Searcy Arkansas,8195,0
+Sebastian,Arkansas,,5131,9,0,1,0,5131,Sebastian Arkansas,125744,1050
+Sedgwick,Kansas,,20173,154,1,20,0,20173,Sedgwick Kansas,498365,1140
+Seminole,Florida,,12117,216,1,14,0,12117,Seminole Florida,422718,965
+Seminole,Georgia,,13253,13,0,1,0,13253,Seminole Georgia,8729,65
+Seminole,Oklahoma,,40133,4,1,1,0,40133,Seminole Oklahoma,25482,32
+Seneca,New York,,36099,12,0,2,0,36099,Seneca New York,35251,0
+Seneca,Ohio,,39147,6,1,0,0,39147,Seneca Ohio,56745,120
+Sequatchie,Tennessee,,47153,1,0,-1,0,47153,Sequatchie Tennessee,14112,0
+Sequoyah,Oklahoma,,40135,10,1,0,0,40135,Sequoyah Oklahoma,42391,26
+Sevier,Arkansas,,5133,6,0,0,0,5133,Sevier Arkansas,17058,35
+Sevier,Tennessee,,47155,19,0,1,0,47155,Sevier Tennessee,89889,79
+Seward,Kansas,,20175,3,0,2,0,20175,Seward Kansas,22952,101
+Seward,Nebraska,,31159,1,0,0,0,31159,Seward Nebraska,16750,24
+Sharkey,Mississippi,,28125,3,0,0,0,28125,Sharkey Mississippi,4916,29
+Sharp,Arkansas,,5135,1,0,0,0,5135,Sharp Arkansas,17264,0
+Shasta,California,,6089,23,3,2,0,6089,Shasta California,177223,748
+Shawano,Wisconsin,,55115,3,0,0,0,55115,Shawano Wisconsin,41949,25
+Shawnee,Kansas,,20177,50,3,3,0,20177,Shawnee Kansas,177934,768
+Sheboygan,Wisconsin,,55117,32,2,2,0,55117,Sheboygan Wisconsin,115507,370
+Shelby,Alabama,,1117,159,5,1,0,1117,Shelby Alabama,195085,349
+Shelby,Illinois,,17173,3,0,3,0,17173,Shelby Illinois,22363,30
+Shelby,Indiana,,18145,56,1,5,0,18145,Shelby Indiana,44436,0
+Shelby,Iowa,,19165,6,0,0,0,19165,Shelby Iowa,12167,25
+Shelby,Kentucky,,21211,8,0,0,0,21211,Shelby Kentucky,42074,70
+Shelby,Missouri,,29205,1,0,0,0,29205,Shelby Missouri,6373,0
+Shelby,Ohio,,39149,19,0,1,0,39149,Shelby Ohio,49423,90
+Shelby,Tennessee,,47157,912,17,77,0,47157,Shelby Tennessee,927644,4876
+Shelby,Texas,,48419,17,0,4,0,48419,Shelby Texas,25448,0
+Shenandoah,Virginia,,51171,13,0,0,0,51171,Shenandoah Virginia,41993,25
+Sherburne,Minnesota,,27141,10,0,0,0,27141,Sherburne Minnesota,88499,54
+Sheridan,Wyoming,,56033,12,0,0,0,56033,Sheridan Wyoming,29116,88
+Sherman,Oregon,,41055,1,0,0,0,41055,Sherman Oregon,1765,0
+Shiawassee,Michigan,,26155,27,0,3,0,26155,Shiawassee Michigan,70648,107
+Sibley,Minnesota,,27143,1,0,0,0,27143,Sibley Minnesota,15226,20
+Silver Bow,Montana,,30093,11,0,0,0,30093,Silver Bow Montana,34200,206
+Simpson,Kentucky,,21213,13,1,0,0,21213,Simpson Kentucky,17327,25
+Simpson,Mississippi,,28127,6,0,-1,0,28127,Simpson Mississippi,27503,99
+Sioux,Iowa,,19167,7,0,0,0,19167,Sioux Iowa,33704,96
+Sioux,North Dakota,,38085,1,0,0,0,38085,Sioux North Dakota,4153,0
+Siskiyou,California,,6093,4,0,0,0,6093,Siskiyou California,44900,61
+Skagit,Washington,,53057,169,5,3,0,53057,Skagit Washington,116901,205
+Skamania,Washington,,53059,2,0,0,0,53059,Skamania Washington,11066,0
+Slope,North Dakota,,38087,3,0,0,0,38087,Slope North Dakota,727,0
+Smith,Mississippi,,28129,15,0,4,0,28129,Smith Mississippi,16491,29
+Smith,Tennessee,,47159,3,0,0,0,47159,Smith Tennessee,19166,35
+Smith,Texas,,48423,79,2,4,0,48423,Smith Texas,209714,1337
+Smyth,Virginia,,51173,5,0,2,0,51173,Smyth Virginia,32208,223
+Snohomish,Washington,,53061,1695,63,36,0,53061,Snohomish Washington,713335,786
+Snyder,Pennsylvania,,42109,9,1,0,0,42109,Snyder Pennsylvania,39702,0
+Socorro,New Mexico,,35053,7,0,0,0,35053,Socorro New Mexico,17866,24
+Solano,California,,6095,99,2,11,0,6095,Solano California,413344,749
+Somerset,Maine,,23025,5,0,1,0,23025,Somerset Maine,52228,50
+Somerset,Maryland,,24039,4,0,0,0,24039,Somerset Maryland,26470,89
+Somerset,New Jersey,,34035,1160,46,127,0,34035,Somerset New Jersey,323444,759
+Somerset,Pennsylvania,,42111,7,0,0,0,42111,Somerset Pennsylvania,77742,224
+Sonoma,California,,6097,120,1,9,0,6097,Sonoma California,483878,1956
+Southampton,Virginia,,51175,5,0,0,0,51175,Southampton Virginia,18570,0
+Southeast Fairbanks,Alaska,,2240,1,0,0,0,2240,Southeast Fairbanks Alaska,7029,0
+Spalding,Georgia,,13255,56,4,6,0,13255,Spalding Georgia,64073,160
+Spartanburg,South Carolina,,45083,120,1,0,0,45083,Spartanburg South Carolina,284307,943
+Spencer,Indiana,,18147,1,0,0,0,18147,Spencer Indiana,20952,0
+Spencer,Kentucky,,21215,2,0,0,0,21215,Spencer Kentucky,17061,0
+Spink,South Dakota,,46115,3,0,0,0,46115,Spink South Dakota,6415,25
+Spokane,Washington,,53063,239,13,17,0,53063,Spokane Washington,471221,1847
+Spotsylvania,Virginia,,51177,31,0,2,0,51177,Spotsylvania Virginia,122397,100
+St. Bernard,Louisiana,,22087,304,10,15,0,22087,St. Bernard Louisiana,35897,0
+St. Charles,Louisiana,,22089,328,19,18,0,22089,St. Charles Louisiana,52780,59
+St. Charles,Missouri,,29183,271,9,34,0,29183,St. Charles Missouri,360485,852
+St. Clair,Alabama,,1115,30,0,0,0,1115,St. Clair Alabama,83593,40
+St. Clair,Illinois,,17163,127,3,35,0,17163,St. Clair Illinois,270056,818
+St. Clair,Michigan,,26147,140,3,11,0,26147,St. Clair Michigan,163040,398
+St. Croix,Wisconsin,,55109,7,0,0,0,55109,St. Croix Wisconsin,84345,125
+St. Francis,Arkansas,,5123,29,0,2,0,5123,St. Francis Arkansas,28258,118
+St. Francois,Missouri,,29187,19,1,0,0,29187,St. Francois Missouri,65359,133
+St. Helena,Louisiana,,22091,10,0,0,0,22091,St. Helena Louisiana,11203,25
+St. James,Louisiana,,22093,181,7,5,0,22093,St. James Louisiana,22102,20
+St. John the Baptist,Louisiana,,22095,432,35,17,0,22095,St. John the Baptist Louisiana,45924,0
+St. Johns,Florida,,12109,154,2,3,0,12109,St. Johns Florida,190039,335
+St. Joseph,Indiana,,18141,142,1,13,0,18141,St. Joseph Indiana,266931,811
+St. Joseph,Michigan,,26149,16,0,2,0,26149,St. Joseph Michigan,61295,144
+St. Landry,Louisiana,,22097,86,4,26,0,22097,St. Landry Louisiana,83384,360
+St. Lawrence,New York,,36089,78,0,17,0,36089,St. Lawrence New York,111944,319
+St. Louis,Minnesota,,27137,28,0,11,0,27137,St. Louis Minnesota,200226,1125
+St. Louis,Missouri,,29189,1203,24,0,0,29189,St. Louis Missouri,998954,4820
+St. Louis City,Missouri,,29510,476,12,36,0,29510,St. Louis City Missouri,319294,3809
+St. Lucie,Florida,,12111,130,6,12,0,12111,St. Lucie Florida,277789,836
+St. Martin,Louisiana,,22099,112,4,11,0,22099,St. Martin Louisiana,52160,25
+St. Mary,Louisiana,,22101,81,0,5,0,22101,St. Mary Louisiana,54650,187
+St. Mary's,Maryland,,24037,62,0,16,0,24037,St. Mary's Maryland,105151,95
+St. Tammany,Louisiana,,22103,733,18,33,0,22103,St. Tammany Louisiana,233740,946
+Stafford,Kansas,,20185,1,0,0,0,20185,Stafford Kansas,4437,25
+Stafford,Virginia,,51179,48,0,-1,0,51179,Stafford Virginia,128961,100
+Stanislaus,California,,6099,90,0,9,0,6099,Stanislaus California,514453,1584
+Stanly,North Carolina,,37167,8,0,0,0,37167,Stanly North Carolina,60585,109
+Stanton,Nebraska,,31167,1,0,0,0,31167,Stanton Nebraska,6129,0
+Stark,Illinois,,17175,1,0,1,0,17175,Stark Illinois,5994,0
+Stark,North Dakota,,38089,28,0,3,0,38089,Stark North Dakota,24199,25
+Stark,Ohio,,39151,114,7,4,0,39151,Stark Ohio,375586,1740
+Starke,Indiana,,18149,6,0,1,0,18149,Starke Indiana,23363,53
+Starr,Texas,,48427,7,0,0,0,48427,Starr Texas,60968,48
+Staunton,Virginia,,51790,1,0,0,0,51790,Staunton Virginia,23746,0
+Ste. Genevieve,Missouri,,29186,6,1,0,0,29186,Ste. Genevieve Missouri,18145,47
+Stearns,Minnesota,,27145,7,0,1,0,27145,Stearns Minnesota,150642,571
+Steele,Minnesota,,27147,8,0,0,0,27147,Steele Minnesota,36576,43
+Stephens,Georgia,,13257,15,0,4,0,13257,Stephens Georgia,26175,96
+Stephens,Oklahoma,,40137,11,1,0,0,40137,Stephens Oklahoma,45048,138
+Stephenson,Illinois,,17177,6,0,1,0,17177,Stephenson Illinois,47711,100
+Steuben,Indiana,,18151,10,1,1,0,18151,Steuben Indiana,34185,25
+Steuben,New York,,36101,87,6,12,0,36101,Steuben New York,98990,115
+Stevens,Kansas,,20189,1,0,0,0,20189,Stevens Kansas,5724,100
+Stevens,Washington,,53065,5,0,0,0,53065,Stevens Washington,43531,90
+Stewart,Georgia,,13259,4,0,1,0,13259,Stewart Georgia,6058,0
+Stewart,Tennessee,,47161,2,0,0,0,47161,Stewart Tennessee,13324,0
+Stoddard,Missouri,,29207,8,0,0,0,29207,Stoddard Missouri,29968,48
+Stokes,North Carolina,,37169,8,0,0,0,37169,Stokes North Carolina,47401,93
+Stone,Arkansas,,5137,5,0,0,0,5137,Stone Arkansas,12394,25
+Stone,Mississippi,,28131,4,0,1,0,28131,Stone Mississippi,17786,25
+Stone,Missouri,,29209,3,0,0,0,29209,Stone Missouri,32202,0
+Story,Iowa,,19169,6,0,0,0,19169,Story Iowa,89542,254
+Strafford,New Hampshire,,33017,46,0,0,0,33017,Strafford New Hampshire,123143,290
+Stutsman,North Dakota,,38093,1,0,1,0,38093,Stutsman North Dakota,21100,165
+Sublette,Wyoming,,56035,1,0,0,0,56035,Sublette Wyoming,10247,0
+Suffolk,Massachusetts,,25025,3600,48,355,0,25025,Suffolk Massachusetts,722023,6162
+Suffolk,New York,,36103,17008,323,1447,0,36103,Suffolk New York,1493350,3583
+Suffolk,Virginia,,51800,31,0,1,0,51800,Suffolk Virginia,84585,150
+Sullivan,Indiana,,18153,4,0,1,0,18153,Sullivan Indiana,21475,25
+Sullivan,New Hampshire,,33019,6,0,0,0,33019,Sullivan New Hampshire,43742,25
+Sullivan,New York,,36105,296,7,26,0,36105,Sullivan New York,77547,169
+Sullivan,Pennsylvania,,42113,1,0,0,0,42113,Sullivan Pennsylvania,6428,0
+Sullivan,Tennessee,,47163,27,1,1,0,47163,Sullivan Tennessee,156823,1175
+Summit,Colorado,,8117,56,0,3,0,8117,Summit Colorado,27994,34
+Summit,Ohio,,39153,211,12,12,0,39153,Summit Ohio,541781,2819
+Summit,Utah,,49043,273,0,8,0,49043,Summit Utah,36324,26
+Sumner,Kansas,,20191,2,0,0,0,20191,Sumner Kansas,24132,76
+Sumner,Tennessee,,47165,376,18,15,0,47165,Sumner Tennessee,160645,441
+Sumter,Alabama,,1119,16,0,1,0,1119,Sumter Alabama,13763,33
+Sumter,Florida,,12119,90,7,6,0,12119,Sumter Florida,93420,339
+Sumter,Georgia,,13261,168,5,21,0,13261,Sumter Georgia,32819,76
+Sumter,South Carolina,,45085,105,3,0,0,45085,Sumter South Carolina,107456,283
+Sunflower,Mississippi,,28133,27,1,2,0,28133,Sunflower Mississippi,29450,140
+Surry,North Carolina,,37171,10,0,0,0,37171,Surry North Carolina,73673,226
+Surry,Virginia,,51181,3,0,0,0,51181,Surry Virginia,7058,0
+Susquehanna,Pennsylvania,,42115,14,0,3,0,42115,Susquehanna Pennsylvania,43356,83
+Sussex,Delaware,,10005,279,3,69,0,10005,Sussex Delaware,197145,476
+Sussex,New Jersey,,34037,357,21,26,0,34037,Sussex New Jersey,149265,146
+Sussex,Virginia,,51183,6,0,1,0,51183,Sussex Virginia,12087,0
+Sutter,California,,6101,19,2,3,0,6101,Sutter California,94737,92
+Suwannee,Florida,,12121,46,0,14,0,12121,Suwannee Florida,41551,15
+Swain,North Carolina,,37173,1,0,0,0,37173,Swain North Carolina,13981,76
+Sweetwater,Wyoming,,56037,6,0,1,0,56037,Sweetwater Wyoming,43806,115
+Swift,Minnesota,,27151,1,0,0,0,27151,Swift Minnesota,9783,46
+Swisher,Texas,,48437,2,0,0,0,48437,Swisher Texas,7854,20
+Switzerland,Indiana,,18155,11,0,0,0,18155,Switzerland Indiana,10613,0
+Talbot,Georgia,,13263,8,1,2,0,13263,Talbot Georgia,6865,0
+Talbot,Maryland,,24041,10,1,2,0,24041,Talbot Maryland,37782,132
+Talladega,Alabama,,1121,22,0,2,0,1121,Talladega Alabama,82291,285
+Tallahatchie,Mississippi,,28135,3,0,0,0,28135,Tallahatchie Mississippi,15378,18
+Tallapoosa,Alabama,,1123,35,1,2,0,1123,Tallapoosa Alabama,41616,127
+Tama,Iowa,,19171,46,2,4,0,19171,Tama Iowa,17767,0
+Taney,Missouri,,29213,7,1,0,0,29213,Taney Missouri,51675,157
+Tangipahoa,Louisiana,,22105,269,4,31,0,22105,Tangipahoa Louisiana,121097,404
+Taos,New Mexico,,35055,14,0,0,0,35055,Taos New Mexico,32937,29
+Tarrant,Texas,,48439,588,19,71,0,48439,Tarrant Texas,1809034,6810
+Tate,Mississippi,,28137,18,0,0,0,28137,Tate Mississippi,28886,76
+Tattnall,Georgia,,13267,3,0,0,0,13267,Tattnall Georgia,25520,25
+Taylor,Florida,,12123,1,0,0,0,12123,Taylor Florida,22570,48
+Taylor,Georgia,,13269,5,2,0,0,13269,Taylor Georgia,8906,0
+Taylor,Iowa,,19173,1,0,0,0,19173,Taylor Iowa,6317,0
+Taylor,Kentucky,,21217,2,0,0,0,21217,Taylor Kentucky,24512,90
+Taylor,Texas,,48441,38,1,0,0,48441,Taylor Texas,131506,921
+Taylor,West Virginia,,54091,3,0,0,0,54091,Taylor West Virginia,16895,101
+Tazewell,Illinois,,17179,17,2,3,0,17179,Tazewell Illinois,135394,150
+Tazewell,Virginia,,51185,4,0,0,0,51185,Tazewell Virginia,45078,231
+Tehama,California,,6103,1,0,0,0,6103,Tehama California,63463,76
+Telfair,Georgia,,13271,4,0,0,0,13271,Telfair Georgia,16500,0
+Teller,Colorado,,8119,12,1,0,0,8119,Teller Colorado,23350,15
+Terrebonne,Louisiana,,22109,209,14,15,0,22109,Terrebonne Louisiana,111860,367
+Terrell,Georgia,,13273,93,9,6,0,13273,Terrell Georgia,9315,0
+Terry,Texas,,48445,6,0,0,0,48445,Terry Texas,12651,45
+Teton,Idaho,,16081,5,0,0,0,16081,Teton Idaho,10170,13
+Teton,Wyoming,,56039,44,0,3,0,56039,Teton Wyoming,21294,48
+Texas,Missouri,,29215,0,0,0,0,29215,Texas Missouri,26008,66
+Texas,Oklahoma,,40139,3,0,0,0,40139,Texas Oklahoma,20640,47
+Thomas,Georgia,,13275,43,2,6,0,13275,Thomas Georgia,44720,264
+Thurston,Washington,,53067,74,1,0,0,53067,Thurston Washington,252264,474
+Tift,Georgia,,13277,47,1,4,0,13277,Tift Georgia,40118,191
+Tillamook,Oregon,,41057,3,0,0,0,41057,Tillamook Oregon,25250,25
+Tillman,Oklahoma,,40141,1,0,0,0,40141,Tillman Oklahoma,7992,0
+Tioga,New York,,36107,15,0,7,0,36107,Tioga New York,51125,0
+Tioga,Pennsylvania,,42117,10,0,0,0,42117,Tioga Pennsylvania,41981,83
+Tippah,Mississippi,,28139,37,4,1,0,28139,Tippah Mississippi,22232,25
+Tippecanoe,Indiana,,18157,38,1,2,0,18157,Tippecanoe Indiana,172780,783
+Tipton,Indiana,,18159,9,0,1,0,18159,Tipton Indiana,15936,25
+Tipton,Tennessee,,47167,38,0,0,0,47167,Tipton Tennessee,61081,100
+Tishomingo,Mississippi,,28141,1,0,0,0,28141,Tishomingo Mississippi,19593,48
+Titus,Texas,,48449,2,0,0,0,48449,Titus Texas,32334,164
+Todd,South Dakota,,46121,1,0,0,0,46121,Todd South Dakota,9612,35
+Tolland,Connecticut,,9013,111,13,0,0,9013,Tolland Connecticut,152691,174
+Tom Green,Texas,,48451,25,0,1,0,48451,Tom Green Texas,110224,614
+Tompkins,New York,,36109,105,0,2,0,36109,Tompkins New York,101564,212
+Tooele,Utah,,49045,23,0,1,0,49045,Tooele Utah,58218,31
+Toole,Montana,,30101,17,3,2,0,30101,Toole Montana,5324,25
+Toombs,Georgia,,13279,8,1,0,0,13279,Toombs Georgia,27223,57
+Torrance,New Mexico,,35057,7,0,0,0,35057,Torrance New Mexico,16383,0
+Towns,Georgia,,13281,2,0,0,0,13281,Towns Georgia,10471,25
+Transylvania,North Carolina,,37175,6,0,0,0,37175,Transylvania North Carolina,33090,94
+Traverse,Minnesota,,27155,2,0,0,0,27155,Traverse Minnesota,3558,25
+Travis,Texas,,48453,554,7,52,0,48453,Travis Texas,1024266,3821
+Trempealeau,Wisconsin,,55121,1,0,0,0,55121,Trempealeau Wisconsin,28816,43
+Treutlen,Georgia,,13283,1,0,0,0,13283,Treutlen Georgia,6885,0
+Trinity,Texas,,48455,2,0,0,0,48455,Trinity Texas,14585,45
+Troup,Georgia,,13285,48,3,2,0,13285,Troup Georgia,67044,276
+Trousdale,Tennessee,,47169,14,1,0,0,47169,Trousdale Tennessee,7870,25
+Trumbull,Ohio,,39155,126,8,16,0,39155,Trumbull Ohio,210312,1137
+Tucker,West Virginia,,54093,3,0,0,0,54093,Tucker West Virginia,7141,0
+Tulare,California,,6107,157,7,0,0,6107,Tulare California,442179,2086
+Tulsa,Oklahoma,,40143,293,16,20,0,40143,Tulsa Oklahoma,603403,3732
+Tunica,Mississippi,,28143,17,1,0,0,28143,Tunica Mississippi,10778,0
+Tuolumne,California,,6109,1,0,-1,0,6109,Tuolumne California,55365,152
+Turner,Georgia,,13287,20,0,4,0,13287,Turner Georgia,8930,0
+Turner,South Dakota,,46125,5,0,1,0,46125,Turner South Dakota,8347,12
+Tuscaloosa,Alabama,,1125,83,0,6,0,1125,Tuscaloosa Alabama,194656,933
+Tuscarawas,Ohio,,39157,26,0,3,0,39157,Tuscarawas Ohio,92582,198
+Tuscola,Michigan,,26157,27,2,1,0,26157,Tuscola Michigan,55729,50
+Twiggs,Georgia,,13289,2,0,0,0,13289,Twiggs Georgia,9023,0
+Twin Falls,Idaho,,16083,53,1,0,0,16083,Twin Falls Idaho,77230,253
+Tyler,Texas,,48457,2,0,0,0,48457,Tyler Texas,21766,49
+Tyler,West Virginia,,54095,1,0,0,0,54095,Tyler West Virginia,9208,12
+Uinta,Wyoming,,56041,3,0,0,0,56041,Uinta Wyoming,21118,225
+Uintah,Utah,,49047,4,0,2,0,49047,Uintah Utah,32588,39
+Ulster,New York,,36111,462,7,64,0,36111,Ulster New York,182493,325
+Umatilla,Oregon,,41059,8,0,0,0,41059,Umatilla Oregon,75889,455
+Unassigned,Alaska,,90002,1,2,1,0,90002,Unassigned Alaska,#N/A,#N/A
+Unassigned,Arizona,,90004,0,12,0,0,90004,Unassigned Arizona,#N/A,#N/A
+Unassigned,Arkansas,,90005,44,12,0,0,90005,Unassigned Arkansas,#N/A,#N/A
+Unassigned,California,,90006,167,2,125,0,90006,Unassigned California,#N/A,#N/A
+Unassigned,Colorado,,90008,238,1,-14,0,90008,Unassigned Colorado,#N/A,#N/A
+Unassigned,Connecticut,,90009,292,52,0,0,90009,Unassigned Connecticut,#N/A,#N/A
+Unassigned,Delaware,,90010,0,3,0,0,90010,Unassigned Delaware,#N/A,#N/A
+Unassigned,Florida,,90012,3,0,1,0,90012,Unassigned Florida,#N/A,#N/A
+Unassigned,Georgia,,90013,857,6,368,0,90013,Unassigned Georgia,#N/A,#N/A
+Unassigned,Hawaii,,90015,7,0,0,0,90015,Unassigned Hawaii,#N/A,#N/A
+Unassigned,Idaho,,90016,0,0,0,0,90016,Unassigned Idaho,#N/A,#N/A
+Unassigned,Illinois,,90017,73,1,1,0,90017,Unassigned Illinois,#N/A,#N/A
+Unassigned,Indiana,,90018,0,0,0,0,90018,Unassigned Indiana,#N/A,#N/A
+Unassigned,Iowa,,90019,0,1,0,0,90019,Unassigned Iowa,#N/A,#N/A
+Unassigned,Kansas,,90020,0,0,0,0,90020,Unassigned Kansas,#N/A,#N/A
+Unassigned,Kentucky,,90021,152,5,0,0,90021,Unassigned Kentucky,#N/A,#N/A
+Unassigned,Louisiana,1,,49,2,42,0,,Unassigned Louisiana,#N/A,#N/A
+Unassigned,Maine,,90023,8,0,-1,0,90023,Unassigned Maine,#N/A,#N/A
+Unassigned,Maryland,,90024,0,0,0,0,90024,Unassigned Maryland,#N/A,#N/A
+Unassigned,Massachusetts,,90025,223,13,-6,0,90025,Unassigned Massachusetts,#N/A,#N/A
+Unassigned,Michigan,,90026,364,3,-45,0,90026,Unassigned Michigan,#N/A,#N/A
+Unassigned,Minnesota,,90027,4,0,-2,0,90027,Unassigned Minnesota,#N/A,#N/A
+Unassigned,Mississippi,,90028,0,0,0,0,90028,Unassigned Mississippi,#N/A,#N/A
+Unassigned,Missouri,,90029,1,3,0,0,90029,Unassigned Missouri,#N/A,#N/A
+Unassigned,Montana,,90030,0,0,0,0,90030,Unassigned Montana,#N/A,#N/A
+Unassigned,Nebraska,,90031,0,1,-1,0,90031,Unassigned Nebraska,#N/A,#N/A
+Unassigned,Nevada,,90032,0,0,-33,0,90032,Unassigned Nevada,#N/A,#N/A
+Unassigned,New Hampshire,,90033,1,10,0,0,90033,Unassigned New Hampshire,#N/A,#N/A
+Unassigned,New Jersey,,90034,1391,4,-816,0,90034,Unassigned New Jersey,#N/A,#N/A
+Unassigned,New Mexico,,90035,0,0,0,0,90035,Unassigned New Mexico,#N/A,#N/A
+Unassigned,New York,,90036,0,152,0,0,90036,Unassigned New York,#N/A,#N/A
+Unassigned,North Dakota,,90038,0,0,0,0,90038,Unassigned North Dakota,#N/A,#N/A
+Unassigned,Northern Mariana Islands,1,,5,1,-2,0,,Unassigned Northern Mariana Islands,#N/A,#N/A
+Unassigned,Ohio,,90039,0,0,0,0,90039,Unassigned Ohio,#N/A,#N/A
+Unassigned,Oklahoma,,90040,0,0,0,0,90040,Unassigned Oklahoma,#N/A,#N/A
+Unassigned,Pennsylvania,,90042,0,0,0,0,90042,Unassigned Pennsylvania,#N/A,#N/A
+Unassigned,Rhode Island,,90044,274,32,-79,0,90044,Unassigned Rhode Island,#N/A,#N/A
+Unassigned,South Dakota,,90046,0,0,0,0,90046,Unassigned South Dakota,#N/A,#N/A
+Unassigned,Tennessee,,90047,31,0,-28,0,90047,Unassigned Tennessee,#N/A,#N/A
+Unassigned,Utah,,90049,0,0,0,0,90049,Unassigned Utah,#N/A,#N/A
+Unassigned,Vermont,,90050,33,18,30,0,90050,Unassigned Vermont,#N/A,#N/A
+Unassigned,Virginia,,90051,0,42,0,0,90051,Unassigned Virginia,#N/A,#N/A
+Unassigned,Washington,,90053,915,0,238,0,90053,Unassigned Washington,#N/A,#N/A
+Unassigned,West Virginia,,90054,21,0,21,0,90054,Unassigned West Virginia,#N/A,#N/A
+Unassigned,Wisconsin,,90055,0,0,0,0,90055,Unassigned Wisconsin,#N/A,#N/A
+Unassigned,Wyoming,1,,0,0,-7,0,,Unassigned Wyoming,#N/A,#N/A
+Unicoi,Tennessee,,47171,1,0,0,0,47171,Unicoi Tennessee,18313,83
+Union,Arkansas,,5139,13,0,0,0,5139,Union Arkansas,41639,166
+Union,Florida,,12125,2,0,0,0,12125,Union Florida,15535,217
+Union,Georgia,,13291,4,0,1,0,13291,Union Georgia,21356,45
+Union,Indiana,,18161,5,0,2,0,18161,Union Indiana,7516,0
+Union,Kentucky,,21225,2,0,0,0,21225,Union Kentucky,15007,25
+Union,Louisiana,,22111,35,3,2,0,22111,Union Louisiana,22721,54
+Union,Mississippi,,28145,6,0,0,0,28145,Union Mississippi,27134,153
+Union,New Jersey,,34039,4831,125,463,0,34039,Union New Jersey,536499,1521
+Union,North Carolina,,37179,87,0,4,0,37179,Union North Carolina,201292,227
+Union,Ohio,,39159,8,0,0,0,39159,Union Ohio,52300,97
+Union,Oregon,,41061,3,0,0,0,41061,Union Oregon,25748,25
+Union,Pennsylvania,,42119,8,0,1,0,42119,Union Pennsylvania,44947,127
+Union,South Carolina,,45087,15,0,0,0,45087,Union South Carolina,28961,143
+Union,South Dakota,,46127,3,0,0,0,46127,Union South Dakota,14399,38
+Union,Tennessee,,47173,2,0,1,0,47173,Union Tennessee,19109,0
+Upshur,Texas,,48459,6,0,1,0,48459,Upshur Texas,39309,0
+Upshur,West Virginia,,54097,1,0,0,0,54097,Upshur West Virginia,24254,51
+Upson,Georgia,,13293,29,0,1,0,13293,Upson Georgia,27153,115
+Utah,Utah,,49049,267,2,31,0,49049,Utah Utah,516564,1033
+Uvalde,Texas,,48463,5,0,0,0,48463,Uvalde Texas,26405,25
+Val Verde,Texas,,48465,7,0,1,0,48465,Val Verde Texas,48879,93
+Valencia,New Mexico,,35061,7,0,0,0,35061,Valencia New Mexico,76569,0
+Valley,Idaho,,16085,2,0,0,0,16085,Valley Idaho,9862,25
+Van Buren,Arkansas,,5141,22,0,1,0,5141,Van Buren Arkansas,17295,25
+Van Buren,Iowa,,19177,6,0,0,0,19177,Van Buren Iowa,7570,25
+Van Buren,Michigan,,26159,18,1,1,0,26159,Van Buren Michigan,76258,84
+Van Buren,Tennessee,,47175,0,0,0,0,47175,Van Buren Tennessee,5548,0
+Van Wert,Ohio,,39161,2,0,0,0,39161,Van Wert Ohio,28744,195
+Van Zandt,Texas,,48467,7,1,0,0,48467,Van Zandt Texas,52579,52
+Vance,North Carolina,,37181,14,0,2,0,37181,Vance North Carolina,45422,102
+Vanderburgh,Indiana,,18163,41,1,0,0,18163,Vanderburgh Indiana,179703,1266
+Venango,Pennsylvania,,42121,5,0,0,0,42121,Venango Pennsylvania,54984,164
+Ventura,California,,6111,263,7,20,0,6111,Ventura California,823318,1660
+Vermilion,Illinois,,17183,5,0,0,0,17183,Vermilion Illinois,81625,447
+Vermilion,Louisiana,,22113,22,1,3,0,22113,Vermilion Louisiana,57999,95
+Vermillion,Indiana,,18165,2,0,0,0,18165,Vermillion Indiana,16212,25
+Vernon,Louisiana,,22115,11,0,0,0,22115,Vernon Louisiana,52334,119
+Victoria,Texas,,48469,59,0,9,0,48469,Victoria Texas,86793,723
+Vigo,Indiana,,18167,32,2,7,0,18167,Vigo Indiana,107848,541
+Vilas,Wisconsin,,55125,4,0,0,0,55125,Vilas Wisconsin,21430,25
+Virginia Beach,Virginia,,51810,207,1,7,0,51810,Virginia Beach Virginia,437994,542
+Volusia,Florida,,12127,163,3,1,0,12127,Volusia Florida,494593,2042
+Wabash,Illinois,,17185,1,0,0,0,17185,Wabash Illinois,11947,25
+Wabash,Indiana,,18169,5,0,0,0,18169,Wabash Indiana,32888,25
+Wabasha,Minnesota,,27157,6,0,0,0,27157,Wabasha Minnesota,21676,25
+Wabaunsee,Kansas,,20197,1,0,0,0,20197,Wabaunsee Kansas,7053,0
+Wagoner,Oklahoma,,40145,57,4,2,0,40145,Wagoner Oklahoma,73085,100
+Wahkiakum,Washington,,53069,2,0,0,0,53069,Wahkiakum Washington,3978,0
+Wake,North Carolina,,37183,365,0,14,0,37183,Wake North Carolina,900993,1781
+Wakulla,Florida,,12129,7,0,1,0,12129,Wakulla Florida,30776,0
+Waldo,Maine,,23027,7,1,2,0,23027,Waldo Maine,38786,25
+Walker,Alabama,,1127,65,0,2,0,1127,Walker Alabama,67023,267
+Walker,Georgia,,13295,3,0,-1,0,13295,Walker Georgia,68756,0
+Walker,Texas,,48471,15,0,0,0,48471,Walker Texas,67861,123
+Walla Walla,Washington,,53071,16,0,3,0,53071,Walla Walla Washington,58781,316
+Waller,Texas,,48473,11,0,0,0,48473,Waller Texas,43205,0
+Wallowa,Oregon,,41063,1,0,0,0,41063,Wallowa Oregon,7008,57
+Walsh,North Dakota,,38099,3,0,0,0,38099,Walsh North Dakota,11119,28
+Walthall,Mississippi,,28147,15,0,1,0,28147,Walthall Mississippi,15443,25
+Walton,Florida,,12131,26,0,0,0,12131,Walton Florida,55043,108
+Walton,Georgia,,13297,25,2,1,0,13297,Walton Georgia,83768,77
+Walworth,Wisconsin,,55127,21,0,0,0,55127,Walworth Wisconsin,102228,134
+Wapello,Iowa,,19179,2,0,0,0,19179,Wapello Iowa,35625,217
+Ward,North Dakota,,38101,16,0,0,0,38101,Ward North Dakota,61675,527
+Ware,Georgia,,13299,42,3,5,0,13299,Ware Georgia,36312,231
+Warren,Georgia,,13301,6,0,0,0,13301,Warren Georgia,5834,0
+Warren,Indiana,,18171,2,1,0,0,18171,Warren Indiana,8508,16
+Warren,Iowa,,19181,13,0,1,0,19181,Warren Iowa,46225,0
+Warren,Kentucky,,21227,21,0,0,0,21227,Warren Kentucky,113792,733
+Warren,Mississippi,,28149,9,0,2,0,28149,Warren Mississippi,48773,396
+Warren,Missouri,,29219,13,0,2,0,29219,Warren Missouri,32513,0
+Warren,New Jersey,,34041,289,9,34,0,34041,Warren New Jersey,108692,309
+Warren,New York,,36113,33,0,2,0,36113,Warren New York,65707,410
+Warren,North Carolina,,37185,3,0,0,0,37185,Warren North Carolina,20972,0
+Warren,Ohio,,39165,46,0,1,0,39165,Warren Ohio,212693,378
+Warren,Pennsylvania,,42123,1,0,0,0,42123,Warren Pennsylvania,41815,279
+Warren,Tennessee,,47177,2,0,0,0,47177,Warren Tennessee,39839,125
+Warren,Virginia,,51187,8,0,2,0,51187,Warren Virginia,37575,60
+Warrick,Indiana,,18173,26,0,3,0,18173,Warrick Indiana,59689,181
+Wasatch,Utah,,49051,82,0,2,0,49051,Wasatch Utah,23530,19
+Wasco,Oregon,,41065,7,0,0,0,41065,Wasco Oregon,25213,49
+Waseca,Minnesota,,27161,3,0,0,0,27161,Waseca Minnesota,19136,35
+Washakie,Wyoming,,56043,5,0,1,0,56043,Washakie Wyoming,8533,18
+Washington,Alabama,,1129,7,1,0,0,1129,Washington Alabama,17581,25
+Washington,Arkansas,,5143,30,0,1,0,5143,Washington Arkansas,203065,851
+Washington,Colorado,,8121,1,0,0,0,8121,Washington Colorado,4814,0
+Washington,Florida,,12133,2,0,0,0,12133,Washington Florida,24896,59
+Washington,Georgia,,13303,17,0,6,0,13303,Washington Georgia,21187,116
+Washington,Idaho,,16087,1,0,0,0,16087,Washington Idaho,10198,25
+Washington,Illinois,,17189,2,0,0,0,17189,Washington Illinois,14716,0
+Washington,Indiana,,18175,21,0,1,0,18175,Washington Indiana,28262,25
+Washington,Iowa,,19183,62,3,5,0,19183,Washington Iowa,21704,25
+Washington,Kentucky,,21229,2,0,0,0,21229,Washington Kentucky,11717,0
+Washington,Louisiana,,22117,106,5,6,0,22117,Washington Louisiana,47168,25
+Washington,Maine,,23029,1,0,0,0,23029,Washington Maine,32856,50
+Washington,Maryland,,24043,57,0,13,0,24043,Washington Maryland,147430,372
+Washington,Minnesota,,27163,70,2,2,0,27163,Washington Minnesota,238136,183
+Washington,Mississippi,,28151,41,2,1,0,28151,Washington Mississippi,51137,363
+Washington,Missouri,,29221,0,0,0,0,29221,Washington Missouri,25195,25
+Washington,Nebraska,,31177,20,0,0,0,31177,Washington Nebraska,20234,25
+Washington,New York,,36115,20,1,1,0,36115,Washington New York,63216,0
+Washington,North Carolina,,37187,8,0,1,0,37187,Washington North Carolina,13228,49
+Washington,Ohio,,39167,30,0,3,0,39167,Washington Ohio,61778,240
+Washington,Oklahoma,,40147,45,2,2,0,40147,Washington Oklahoma,50976,140
+Washington,Oregon,,41067,282,6,11,0,41067,Washington Oregon,529710,869
+Washington,Pennsylvania,,42125,59,0,2,0,42125,Washington Pennsylvania,207820,602
+Washington,Rhode Island,,44009,120,0,50,0,44009,Washington Rhode Island,126979,225
+Washington,Tennessee,,47179,30,0,3,0,47179,Washington Tennessee,122979,714
+Washington,Texas,,48477,24,1,3,0,48477,Washington Texas,33718,60
+Washington,Utah,,49053,31,1,0,0,49053,Washington Utah,138115,261
+Washington,Vermont,,50023,24,0,0,0,50023,Washington Vermont,59534,147
+Washington,Virginia,,51191,12,0,2,0,51191,Washington Virginia,54876,116
+Washington,Wisconsin,,55131,63,3,4,0,55131,Washington Wisconsin,131887,141
+Washoe,Nevada,,32031,326,6,17,0,32031,Washoe Nevada,421407,1690
+Washtenaw,Michigan,,26161,610,13,51,0,26161,Washtenaw Michigan,344791,1719
+Watauga,North Carolina,,37189,8,0,0,0,37189,Watauga North Carolina,51079,217
+Watonwan,Minnesota,,27165,4,0,0,0,27165,Watonwan Minnesota,11211,50
+Waukesha,Wisconsin,,55133,166,5,0,0,55133,Waukesha Wisconsin,389891,1305
+Waupaca,Wisconsin,,55135,2,1,0,0,55135,Waupaca Wisconsin,52410,25
+Waushara,Wisconsin,,55137,1,0,0,0,55137,Waushara Wisconsin,24496,25
+Wayne,Georgia,,13305,4,0,1,0,13305,Wayne Georgia,30099,88
+Wayne,Indiana,,18177,16,1,3,0,18177,Wayne Indiana,68917,251
+Wayne,Kentucky,,21231,4,0,0,0,21231,Wayne Kentucky,20813,25
+Wayne,Michigan,,26163,9626,446,581,0,26163,Wayne Michigan,1820584,6009
+Wayne,Mississippi,,28153,5,0,0,0,28153,Wayne Mississippi,20747,80
+Wayne,New York,,36117,39,0,4,0,36117,Wayne New York,93772,120
+Wayne,North Carolina,,37191,34,0,2,0,37191,Wayne North Carolina,122623,316
+Wayne,Ohio,,39169,30,0,1,0,39169,Wayne Ohio,114520,184
+Wayne,Pennsylvania,,42127,47,1,7,0,42127,Wayne Pennsylvania,52822,112
+Wayne,Tennessee,,47181,2,0,0,0,47181,Wayne Tennessee,17021,78
+Waynesboro,Virginia,,51820,2,0,-1,0,51820,Waynesboro Virginia,21006,0
+Weakley,Tennessee,,47183,5,0,0,0,47183,Weakley Tennessee,35021,140
+Webb,Texas,,48479,135,6,13,0,48479,Webb Texas,250304,578
+Weber,Utah,,,77,1,70,0,49057,Weber Utah,231236,477
+Webster,Georgia,,13307,3,0,-1,0,13307,Webster Georgia,2799,0
+Webster,Iowa,,19187,2,0,1,0,19187,Webster Iowa,38013,200
+Webster,Kentucky,,21233,3,0,0,0,21233,Webster Kentucky,13621,0
+Webster,Louisiana,,22119,51,2,1,0,22119,Webster Louisiana,41207,196
+Webster,Mississippi,,28155,13,1,1,0,28155,Webster Mississippi,10253,38
+Webster,Missouri,,29225,3,0,0,0,29225,Webster Missouri,36202,0
+Weld,Colorado,,8123,573,30,36,0,8123,Weld Colorado,252825,300
+Wells,Indiana,,18179,2,0,0,0,18179,Wells Indiana,27636,79
+West Baton Rouge,Louisiana,,22121,54,9,2,0,22121,West Baton Rouge Louisiana,23788,0
+West Carroll,Louisiana,,22123,1,0,0,0,22123,West Carroll Louisiana,11604,21
+West Feliciana,Louisiana,,22125,32,0,1,0,22125,West Feliciana Louisiana,15625,22
+Westchester,New York,,36119,15887,283,1593,0,36119,Westchester New York,949113,3235
+Westmoreland,Pennsylvania,,42129,183,0,6,0,42129,Westmoreland Pennsylvania,365169,654
+Westmoreland,Virginia,,51193,5,0,2,0,51193,Westmoreland Virginia,17454,0
+Wetzel,West Virginia,,54103,3,0,1,0,54103,Wetzel West Virginia,16583,58
+Wexford,Michigan,,26165,7,0,0,0,26165,Wexford Michigan,32735,49
+Wharton,Texas,,48481,18,0,1,0,48481,Wharton Texas,41280,49
+Whatcom,Washington,,53073,238,19,0,0,53073,Whatcom Washington,201140,253
+Wheeler,Georgia,,13309,1,0,0,0,13309,Wheeler Georgia,7421,25
+White,Arkansas,,5145,27,0,0,0,5145,White Arkansas,77076,506
+White,Georgia,,13311,10,0,1,0,13311,White Georgia,27144,0
+White,Indiana,,18181,3,0,0,0,18181,White Indiana,24643,25
+White,Tennessee,,47185,2,0,0,0,47185,White Tennessee,25841,60
+White Pine,Nevada,,32033,1,0,0,0,32033,White Pine Nevada,10030,12
+Whiteside,Illinois,,17195,21,1,3,0,17195,Whiteside Illinois,58498,135
+Whitfield,Georgia,,13313,21,3,0,0,13313,Whitfield Georgia,102599,282
+Whitley,Indiana,,18183,8,1,0,0,18183,Whitley Indiana,33292,30
+Whitman,Washington,,53075,12,0,0,0,53075,Whitman Washington,44776,50
+Wichita,Texas,,48485,48,0,0,0,48485,Wichita Texas,131500,559
+Wicomico,Maryland,,24045,20,1,3,0,24045,Wicomico Maryland,98733,416
+Wilcox,Alabama,,1131,13,0,0,0,1131,Wilcox Alabama,11670,30
+Wilcox,Georgia,,13315,2,0,0,0,13315,Wilcox Georgia,9255,0
+Wilkes,Georgia,,13317,5,0,0,0,13317,Wilkes Georgia,10593,25
+Wilkes,North Carolina,,37193,4,1,0,0,37193,Wilkes North Carolina,69340,130
+Wilkin,Minnesota,,27167,2,1,0,0,27167,Wilkin Minnesota,6576,25
+Wilkinson,Georgia,,13319,4,0,1,0,13319,Wilkinson Georgia,9563,0
+Wilkinson,Mississippi,,28157,33,3,1,0,28157,Wilkinson Mississippi,9878,0
+Will,Illinois,,17197,914,37,217,0,17197,Will Illinois,677560,917
+Willacy,Texas,,48489,7,1,2,0,48489,Willacy Texas,22134,0
+Williams,North Dakota,,38105,5,0,0,0,38105,Williams North Dakota,22398,50
+Williams,Ohio,,39171,1,0,0,0,39171,Williams Ohio,37642,123
+Williamsburg,South Carolina,,45089,12,0,0,0,45089,Williamsburg South Carolina,34423,25
+Williamsburg,Virginia,,51830,16,1,2,0,51830,Williamsburg Virginia,14068,40
+Williamson,Illinois,,17199,9,0,6,0,17199,Williamson Illinois,66357,431
+Williamson,Tennessee,,47187,287,3,9,0,47187,Williamson Tennessee,183182,225
+Williamson,Texas,,48491,87,4,6,0,48491,Williamson Texas,422679,1009
+Wilson,North Carolina,,37195,38,2,2,0,37195,Wilson North Carolina,81234,317
+Wilson,Tennessee,,47189,117,0,4,0,47189,Wilson Tennessee,113993,245
+Wilson,Texas,,48493,8,0,1,0,48493,Wilson Texas,42918,44
+Winchester,Virginia,,51840,15,0,1,0,51840,Winchester Virginia,26203,411
+Windham,Connecticut,,9015,43,1,0,0,9015,Windham Connecticut,118428,234
+Windham,Vermont,,50025,38,0,0,0,50025,Windham Vermont,44513,229
+Windsor,Vermont,,50027,24,1,0,0,50027,Windsor Vermont,56670,60
+Winn,Louisiana,,22127,5,2,2,0,22127,Winn Louisiana,15313,80
+Winnebago,Illinois,,17201,63,3,14,0,17201,Winnebago Illinois,295266,907
+Winnebago,Iowa,,19189,1,0,0,0,19189,Winnebago Iowa,10866,0
+Winnebago,Wisconsin,,55139,24,1,0,0,55139,Winnebago Wisconsin,166994,795
+Winneshiek,Iowa,,19191,4,0,0,0,19191,Winneshiek Iowa,21056,25
+Winona,Minnesota,,27169,19,4,3,0,27169,Winona Minnesota,51461,99
+Winston,Alabama,,1133,3,0,0,0,1133,Winston Alabama,24484,59
+Winston,Mississippi,,28159,16,0,-1,0,28159,Winston Mississippi,19198,66
+Wirt,West Virginia,,54105,1,0,0,0,54105,Wirt West Virginia,5717,0
+Wise,Texas,,48497,3,0,0,0,48497,Wise Texas,59127,148
+Wise,Virginia,,51195,4,0,1,0,51195,Wise Virginia,41452,60
+Wood,Ohio,,39173,41,2,3,0,39173,Wood Ohio,125488,196
+Wood,Texas,,48499,4,0,0,0,48499,Wood Texas,41964,50
+Wood,West Virginia,,54107,14,0,1,0,54107,Wood West Virginia,86956,313
+Wood,Wisconsin,,55141,2,0,0,0,55141,Wood Wisconsin,74749,619
+Woodbury,Iowa,,19193,11,0,2,0,19193,Woodbury Iowa,102172,830
+Woodford,Illinois,,17203,7,0,1,0,17203,Woodford Illinois,38664,18
+Woodford,Kentucky,,21239,8,1,0,0,21239,Woodford Kentucky,24939,25
+Woodruff,Arkansas,,5147,1,0,0,0,5147,Woodruff Arkansas,7260,0
+Woodson,Kansas,,20207,3,0,0,0,20207,Woodson Kansas,3309,0
+Woodward,Oklahoma,,40153,1,0,0,0,40153,Woodward Oklahoma,20081,115
+Worcester,Maryland,,24047,10,0,0,0,24047,Worcester Maryland,51454,45
+Worcester,Massachusetts,,25027,1296,29,124,0,25027,Worcester Massachusetts,798552,2233
+Worth,Georgia,,13321,64,3,9,0,13321,Worth Georgia,21679,25
+Worth,Iowa,,19195,1,0,1,0,19195,Worth Iowa,7598,0
+Worth,Missouri,,29227,1,0,0,0,29227,Worth Missouri,2171,0
+Wright,Iowa,,19197,1,0,0,0,19197,Wright Iowa,13229,47
+Wright,Minnesota,,27171,12,0,0,0,27171,Wright Minnesota,124700,104
+Wright,Missouri,,29229,7,0,0,0,29229,Wright Missouri,18815,0
+Wyandot,Ohio,,39175,5,0,0,0,39175,Wyandot Ohio,22615,31
+Wyandotte,Kansas,,20209,245,12,50,0,20209,Wyandotte Kansas,157505,1196
+Wyoming,New York,,36121,27,1,4,0,36121,Wyoming New York,42155,62
+Wyoming,Pennsylvania,,42131,5,0,0,0,42131,Wyoming Pennsylvania,28276,48
+Wyoming,West Virginia,,54109,1,0,0,0,54109,Wyoming West Virginia,23796,0
+Wythe,Virginia,,51197,6,0,3,0,51197,Wythe Virginia,29235,108
+Yadkin,North Carolina,,37197,9,0,0,0,37197,Yadkin North Carolina,38406,22
+Yakima,Washington,,53077,400,17,20,0,53077,Yakima Washington,243231,528
+Yalobusha,Mississippi,,28161,11,0,0,0,28161,Yalobusha Mississippi,12678,26
+Yamhill,Oregon,,41071,25,3,0,0,41071,Yamhill Oregon,99193,128
+Yankton,South Dakota,,46135,17,0,2,0,46135,Yankton South Dakota,22438,242
+Yates,New York,,36123,1,0,0,0,36123,Yates New York,25348,25
+Yavapai,Arizona,,4025,58,0,1,0,4025,Yavapai Arizona,211033,332
+Yazoo,Mississippi,,28163,38,1,6,0,28163,Yazoo Mississippi,28065,25
+Yell,Arkansas,,5149,1,0,0,0,5149,Yell Arkansas,22185,76
+Yellow Medicine,Minnesota,,27173,2,0,1,0,27173,Yellow Medicine Minnesota,10438,55
+Yellowstone,Montana,,30111,48,0,1,0,30111,Yellowstone Montana,147972,630
+Yolo,California,,6113,56,2,6,0,6113,Yolo California,200849,156
+York,Maine,,23031,121,2,6,0,23031,York Maine,197131,245
+York,Nebraska,,31185,2,0,1,0,31185,York Nebraska,13665,38
+York,Pennsylvania,,42133,233,2,15,0,42133,York Pennsylvania,434972,921
+York,South Carolina,,45091,108,2,0,0,45091,York South Carolina,226073,334
+York,Virginia,,51199,25,1,0,0,51199,York Virginia,65464,145
+Young,Texas,,48503,3,0,0,0,48503,Young Texas,18550,67
+Yuba,California,,6115,13,0,2,0,6115,Yuba California,72155,173
+Yukon-Koyukuk,Alaska,,2290,1,0,0,0,2290,Yukon-Koyukuk Alaska,5588,0
+Yuma,Arizona,,4027,14,0,1,0,4027,Yuma Arizona,195751,410
+Yuma,Colorado,,8125,2,0,0,0,8125,Yuma Colorado,10043,28
+Zapata,Texas,,48505,1,0,0,0,48505,Zapata Texas,14018,0
