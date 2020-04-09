@@ -209,7 +209,7 @@ info.onAdd = function (map) {
 
 // add information section
 	info.update = function (props) {
-		content='<h4>US COVID-19 BY COUNTY<br/>187,962 confirmed<br/>Dots as Hospitals</h4>'+ 	'<footer><p>Source:<a href="https://github.com/nytimes/covid-19-data">www.nytimes.com</a> <br/>Update: March 31 2020</p></footer>' +  (props ?
+		content='<h4>US COVID-19 BY COUNTY<br/>431,838 confirmed<br/>Dots as Hospitals</h4>'+ 	'<footer><p>Source:<a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins University CSSE</a> <br/>Update: April 8 2020</p></footer>' +  (props ?
 				'<b>' + props.LOCATION + '<br/>Confirmed: ' + numberWithCommas(props.COMFIRMED_COMFIRMED) + '<br/>Newly added: ' + numberWithCommas(props.ADDED)
 				+ '</b><footer><br/>Population: ' + numberWithCommas(props.Pop)
 				+ '<br/>Hospital beds: '+ numberWithCommas(props.HospitalBeds)+'<br/>('+ numberWithCommas(Math.round(props.HospitalBeds/props.COMFIRMED_COMFIRMED)) +' beds per confirmed,'
