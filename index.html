@@ -145,7 +145,7 @@ function titleCase(str) {
 //ncov map
 function style(feature) {
     return {
-        fillColor: getColor(feature.properties.COMFIRMED_COMFIRMED),
+        fillColor: getColor(feature.properties.confirmed),
         weight: 2,
         opacity: 1,
         color: 'white',
@@ -185,9 +185,9 @@ function onEachFeature(feature, layer) {
         mouseout: resetHighlight,
         click: zoomToFeature
     });
-	content='<b>' + feature.properties.LOCATION + '<br/>Confirmed: ' + numberWithCommas(feature.properties.COMFIRMED_COMFIRMED) + '<br/>Newly added: ' + feature.properties.ADDED
-			+ '</b><br/><font color="#555">Population: ' + numberWithCommas(feature.properties.Pop)
-			+ '<br/>Hospital beds: '+ numberWithCommas(feature.properties.HospitalBeds)+'<br/>('+ numberWithCommas(Math.round(feature.properties.HospitalBeds/feature.properties.COMFIRMED_COMFIRMED)) +' beds per confirmed)'+'</font>'
+	content='<b>' + feature.properties.Combined_Key + '<br/>Confirmed: ' + numberWithCommas(feature.properties.confirmed) + '<br/>Newly added: ' + feature.properties.AddedConfirmed
+			+ '</b><br/><font color="#555">Population: ' + numberWithCommas(feature.properties.Population)
+			+ '<br/>Hospital beds: '+ numberWithCommas(feature.properties.HospitalBed)+'<br/>('+ numberWithCommas(Math.round(feature.properties.HospitalBed/feature.properties.confirmed)) +' beds per confirmed)'+'</font>'
 			;
 	layer.bindPopup(content);
 }
@@ -209,10 +209,10 @@ info.onAdd = function (map) {
 
 // add information section
 	info.update = function (props) {
-		content='<h4>US COVID-19 BY COUNTY<br/>431,838 confirmed<br/>Dots as Hospitals</h4>'+ 	'<footer><p>Source:<a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins University CSSE</a> <br/>Update: April 8 2020</p></footer>' +  (props ?
-				'<b>' + props.LOCATION + '<br/>Confirmed: ' + numberWithCommas(props.COMFIRMED_COMFIRMED) + '<br/>Newly added: ' + numberWithCommas(props.ADDED)
-				+ '</b><footer><br/>Population: ' + numberWithCommas(props.Pop)
-				+ '<br/>Hospital beds: '+ numberWithCommas(props.HospitalBeds)+'<br/>('+ numberWithCommas(Math.round(props.HospitalBeds/props.COMFIRMED_COMFIRMED)) +' beds per confirmed,'
+		content='<h4>US COVID-19 BY COUNTY<br/>824,147 confirmed<br/>Dots as Hospitals</h4>'+ 	'<footer><p>Source:<a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins University CSSE</a> <br/>Update: April 21 2020</p></footer>' +  (props ?
+				'<b>' + props.Combined_Key + '<br/>Confirmed: ' + numberWithCommas(props.confirmed) + '<br/>Newly added: ' + numberWithCommas(props.AddedConfirmed)
+				+ '</b><footer><br/>Population: ' + numberWithCommas(props.Population)
+				+ '<br/>Hospital beds: '+ numberWithCommas(props.HospitalBed)+'<br/>('+ numberWithCommas(Math.round(props.HospitalBed/props.confirmed)) +' beds per confirmed,'
 				+'<br/>assuming all beds for COVID-19)</footer>'
 				: 'Hover over a county');
 	    this._div.innerHTML = content;
